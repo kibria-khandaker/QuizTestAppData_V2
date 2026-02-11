@@ -1,0 +1,44 @@
+[
+  {
+    "key": "BasicMathematics",
+    "title": "Basic Mathematics",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "PercentageRatio",
+    "title": "Percentage & Ratio",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "TimeWork",
+    "title": "Time & Work",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "NumberSeries",
+    "title": "Number Series",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "LogicalReasoning",
+    "title": "Logical Reasoning",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "IQ_Questions",
+    "title": "IQ Questions",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Solar System",
+    "title": "Solar System",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "PlanetsMoons",
+    "title": "Planets & Moons",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "SpaceMissions",
+    "title": "Space Missions",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "NASA_ISRO",
+    "title": "NASA & ISRO",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "BlackHolesGalaxies",
+    "title": "Black Holes & Galaxies",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]

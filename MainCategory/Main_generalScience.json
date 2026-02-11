@@ -1,0 +1,44 @@
+[
+  {
+    "key": "Physics",
+    "title": "Physics",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "Chemistry",
+    "title": "Chemistry",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "Biology",
+    "title": "Biology",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "Human Body",
+    "title": "Human Body",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "EnvironmentalScience",
+    "title": "Environmental Science",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "ScientificDiscoveries",
+    "title": "Scientific Discoveries",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]

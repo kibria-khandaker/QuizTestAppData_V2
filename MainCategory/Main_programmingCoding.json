@@ -1,0 +1,44 @@
+[
+  {
+    "key": "ProgrammingLogic",
+    "title": "Programming Logic",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "HTML_CSS",
+    "title": "HTML & CSS",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "JavaScriptBasics",
+    "title": "JavaScript Basics",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "PythonBasics",
+    "title": "Python Basics",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "C_Basics",
+    "title": "C / C++ Basics",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "OutputBasedQuestions",
+    "title": "Output Based Questions",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "CountriesCapitals",
+    "title": "Countries & Capitals",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "WorldFlags",
+    "title": "World Flags",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "RiversOceans",
+    "title": "Rivers & Oceans",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "MountainsDeserts",
+    "title": "Mountains & Deserts",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "ClimateEnvironment",
+    "title": "Climate & Environment",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]

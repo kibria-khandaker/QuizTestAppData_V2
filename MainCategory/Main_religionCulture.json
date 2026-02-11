@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MajorReligions",
+    "title": "Major Religions",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "ReligiousBooks",
+    "title": "Religious Books",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "FestivalsAroundTheWorld",
+    "title": "Festivals Around the World",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "CulturalHeritage",
+    "title": "Cultural Heritage",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "HistoricalReligiousSites",
+    "title": "Historical Religious Sites",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]

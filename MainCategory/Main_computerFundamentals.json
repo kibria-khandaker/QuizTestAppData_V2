@@ -1,0 +1,44 @@
+[
+  {
+    "key": "HardwareSoftware",
+    "title": "Hardware & Software",
+    "url": "xxxxxxxx",
+    "perExam": 10,
+    "finalExamQuestions": 20
+  },
+  {
+    "key": "OperatingSystems",
+    "title": "Operating Systems",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "MS_Office",
+    "title": "MS Office",
+    "url": "xxxxxxxx",
+    "perExam": 20,
+    "finalExamQuestions": 40
+  },
+  {
+    "key": "InternetNetworking",
+    "title": "Internet & Networking",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "CyberSecurityBasics",
+    "title": "Cyber Security Basics",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  },
+  {
+    "key": "ComputerAbbreviations",
+    "title": "Computer Abbreviations",
+    "url": "xxxxxxxx",
+    "perExam": 15,
+    "finalExamQuestions": 30
+  }
+]
