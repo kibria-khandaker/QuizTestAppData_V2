@@ -1,14 +1,14 @@
 [
   {
     "key": "importantFacts",
-    "title": "Important Facts",
+    "title": "Capital of Countries",
     "url": "xxxxxxxx",
     "perExam": 10,
     "finalExamQuestions": 20
   },
   {
     "key": "worldRecords",
-    "title": "World Records",
+    "title": "Currency of Countries",
     "url": "xxxxxxxx",
     "perExam": 20,
     "finalExamQuestions": 40
