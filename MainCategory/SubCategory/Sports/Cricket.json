@@ -148,5 +148,365 @@
     "question": "Which country won the first T20 World Cup in 2007?",
     "options": ["India", "Pakistan", "Australia", "England"],
     "correctAnswer": "India"
+  },
+  {
+    "id": "CR-021",
+    "question": "Which player holds the record for the highest individual score in Test cricket?",
+    "options": ["Brian Lara", "Matthew Hayden", "Mahela Jayawardene", "Virender Sehwag"],
+    "correctAnswer": "Brian Lara"
+  },
+  {
+    "id": "CR-022",
+    "question": "How many runs are awarded for a no-ball in international cricket?",
+    "options": ["0", "1", "2", "5"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "CR-023",
+    "question": "Who was the first bowler to take a hat-trick in a Cricket World Cup?",
+    "options": ["Chetan Sharma", "Wasim Akram", "Brett Lee", "Lasith Malinga"],
+    "correctAnswer": "Chetan Sharma"
+  },
+  {
+    "id": "CR-024",
+    "question": "Which country was the first to win the ICC Champions Trophy?",
+    "options": ["South Africa", "India", "Australia", "Sri Lanka"],
+    "correctAnswer": "South Africa"
+  },
+  {
+    "id": "CR-025",
+    "question": "What is the maximum length of a cricket bat according to the Laws of Cricket?",
+    "options": ["36 inches", "38 inches", "40 inches", "42 inches"],
+    "correctAnswer": "38 inches"
+  },
+  {
+    "id": "CR-026",
+    "question": "Which cricketer is known as 'The Wall'?",
+    "options": ["Rahul Dravid", "VVS Laxman", "Cheteshwar Pujara", "Jacques Kallis"],
+    "correctAnswer": "Rahul Dravid"
+  },
+  {
+    "id": "CR-027",
+    "question": "In which year was the first-ever Test match played?",
+    "options": ["1869", "1877", "1882", "1890"],
+    "correctAnswer": "1877"
+  },
+  {
+    "id": "CR-028",
+    "question": "Which bowler delivered the 'Ball of the Century' to Mike Gatting?",
+    "options": ["Muttiah Muralitharan", "Shane Warne", "Wasim Akram", "Allan Donald"],
+    "correctAnswer": "Shane Warne"
+  },
+  {
+    "id": "CR-029",
+    "question": "What is the maximum number of bouncers allowed per over in ODIs (as per modern ICC rules)?",
+    "options": ["1", "2", "3", "Unlimited"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "CR-030",
+    "question": "Which country won the inaugural ICC World Test Championship (2019–21)?",
+    "options": ["India", "Australia", "New Zealand", "England"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "CR-031",
+    "question": "Who was the first batsman to score 100 international centuries?",
+    "options": ["Ricky Ponting", "Jacques Kallis", "Sachin Tendulkar", "Kumar Sangakkara"],
+    "correctAnswer": "Sachin Tendulkar"
+  },
+  {
+    "id": "CR-032",
+    "question": "What does a 'maiden over' mean?",
+    "options": ["Over with a wicket", "Over with no runs conceded", "Over with only wides", "First over of innings"],
+    "correctAnswer": "Over with no runs conceded"
+  },
+  {
+    "id": "CR-033",
+    "question": "Which fielding position is directly behind the wicketkeeper?",
+    "options": ["Slip", "Gully", "Third Man", "Long Stop"],
+    "correctAnswer": "Long Stop"
+  },
+  {
+    "id": "CR-034",
+    "question": "Who was the first cricketer to take 600 Test wickets?",
+    "options": ["Shane Warne", "Anil Kumble", "Muttiah Muralitharan", "Glenn McGrath"],
+    "correctAnswer": "Shane Warne"
+  },
+  {
+    "id": "CR-035",
+    "question": "What is the circumference of a standard cricket ball?",
+    "options": ["20.5–22.5 cm", "22.4–22.9 cm", "18–20 cm", "23–25 cm"],
+    "correctAnswer": "22.4–22.9 cm"
+  },
+  {
+    "id": "CR-036",
+    "question": "Which player scored 6 sixes in an over in T20 World Cup 2007?",
+    "options": ["Chris Gayle", "Yuvraj Singh", "Herschelle Gibbs", "AB de Villiers"],
+    "correctAnswer": "Yuvraj Singh"
+  },
+  {
+    "id": "CR-037",
+    "question": "Which country is nicknamed the 'Baggy Greens'?",
+    "options": ["England", "New Zealand", "Australia", "South Africa"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "id": "CR-038",
+    "question": "How many slips are allowed in T20 cricket outside the powerplay?",
+    "options": ["1", "2", "3", "Unlimited"],
+    "correctAnswer": "Unlimited"
+  },
+  {
+    "id": "CR-039",
+    "question": "Who captained England to win the 2010 ICC T20 World Cup?",
+    "options": ["Andrew Strauss", "Paul Collingwood", "Eoin Morgan", "Kevin Pietersen"],
+    "correctAnswer": "Paul Collingwood"
+  },
+  {
+    "id": "CR-040",
+    "question": "What is the term for scoring 100 runs without being dismissed in both innings of a Test match?",
+    "options": ["Twin Tons", "Double Century", "Century Pair", "Master Knock"],
+    "correctAnswer": "Twin Tons"
+  },
+  {
+    "id": "CR-041",
+    "question": "Which country has never won a men's ICC Cricket World Cup (50-over)?",
+    "options": ["New Zealand", "Sri Lanka", "Pakistan", "India"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "CR-042",
+    "question": "What is the maximum width of a cricket bat?",
+    "options": ["4.25 inches", "4.5 inches", "5 inches", "3.5 inches"],
+    "correctAnswer": "4.25 inches"
+  },
+  {
+    "id": "CR-043",
+    "question": "Who was the first captain to win three ICC trophies?",
+    "options": ["Ricky Ponting", "MS Dhoni", "Clive Lloyd", "Imran Khan"],
+    "correctAnswer": "MS Dhoni"
+  },
+  {
+    "id": "CR-044",
+    "question": "In Test cricket, how many overs are scheduled per day (minimum requirement)?",
+    "options": ["80", "85", "90", "100"],
+    "correctAnswer": "90"
+  },
+  {
+    "id": "CR-045",
+    "question": "Which bowler has the best bowling figures in a Test innings (by wickets and runs)?",
+    "options": ["Jim Laker", "Anil Kumble", "Ajaz Patel", "Muttiah Muralitharan"],
+    "correctAnswer": "Jim Laker"
+  },
+  {
+    "id": "CR-046",
+    "question": "What is the name of the trophy awarded in the India vs Australia Test series?",
+    "options": ["Border-Gavaskar Trophy", "Ashes", "Warne-Muralitharan Trophy", "Pataudi Trophy"],
+    "correctAnswer": "Border-Gavaskar Trophy"
+  },
+  {
+    "id": "CR-047",
+    "question": "Which player has the most runs in T20 International cricket (men's)?",
+    "options": ["Babar Azam", "Virat Kohli", "Rohit Sharma", "Martin Guptill"],
+    "correctAnswer": "Rohit Sharma"
+  },
+  {
+    "id": "CR-048",
+    "question": "What happens if a fielder catches the ball after it touches the boundary rope?",
+    "options": ["Out", "Six runs", "Four runs", "Dead ball"],
+    "correctAnswer": "Six runs"
+  },
+  {
+    "id": "CR-049",
+    "question": "Who was the first cricketer to score a triple century in Test cricket?",
+    "options": ["Don Bradman", "Wally Hammond", "Andy Sandham", "Brian Lara"],
+    "correctAnswer": "Andy Sandham"
+  },
+  {
+    "id": "CR-050",
+    "question": "Which ICC tournament replaced the ICC KnockOut Trophy?",
+    "options": ["Champions Trophy", "World Test Championship", "T20 World Cup", "Asia Cup"],
+    "correctAnswer": "Champions Trophy"
+  },
+  {
+    "id": "CR-051",
+    "question": "Which cricketer was nicknamed 'Universe Boss'?",
+    "options": ["Chris Gayle", "AB de Villiers", "Brian Lara", "MS Dhoni"],
+    "correctAnswer": "Chris Gayle"
+  },
+  {
+    "id": "CR-052",
+    "question": "How many stumps are there in a standard cricket wicket?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "CR-053",
+    "question": "Which player scored the fastest century in ODI history (by balls)?",
+    "options": ["AB de Villiers", "Corey Anderson", "Shahid Afridi", "Viv Richards"],
+    "correctAnswer": "AB de Villiers"
+  },
+  {
+    "id": "CR-054",
+    "question": "What is the term used when a batsman is dismissed without scoring?",
+    "options": ["Duck", "Goose", "Owl", "Swan"],
+    "correctAnswer": "Duck"
+  },
+  {
+    "id": "CR-055",
+    "question": "Which bowler is known for inventing the 'Doosra'?",
+    "options": ["Shane Warne", "Muttiah Muralitharan", "Saqlain Mushtaq", "Anil Kumble"],
+    "correctAnswer": "Saqlain Mushtaq"
+  },
+  {
+    "id": "CR-056",
+    "question": "Which stadium is nicknamed 'The Cauldron'?",
+    "options": ["Eden Gardens", "Wankhede Stadium", "Melbourne Cricket Ground", "Sydney Cricket Ground"],
+    "correctAnswer": "Eden Gardens"
+  },
+  {
+    "id": "CR-057",
+    "question": "Who was the first wicketkeeper to score a double century in Test cricket?",
+    "options": ["MS Dhoni", "Adam Gilchrist", "Andy Flower", "Brendan Taylor"],
+    "correctAnswer": "Andy Flower"
+  },
+  {
+    "id": "CR-058",
+    "question": "Which team won the ICC Under-19 Cricket World Cup 2022?",
+    "options": ["India", "England", "Australia", "Afghanistan"],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "CR-059",
+    "question": "Which bowler took a hat-trick in the 2019 Cricket World Cup final?",
+    "options": ["Mitchell Starc", "Jofra Archer", "Trent Boult", "Chris Woakes"],
+    "correctAnswer": "Jofra Archer"
+  },
+  {
+    "id": "CR-060",
+    "question": "Which cricketer is nicknamed 'Mr. 360'?",
+    "options": ["AB de Villiers", "Rashid Khan", "Shahid Afridi", "Ben Stokes"],
+    "correctAnswer": "AB de Villiers"
+  },
+  {
+    "id": "CR-061",
+    "question": "What is the standard width of a cricket pitch?",
+    "options": ["10 feet", "12 feet", "14 feet", "16 feet"],
+    "correctAnswer": "10 feet"
+  },
+  {
+    "id": "CR-062",
+    "question": "Who was the first player to score a century in all three formats of international cricket?",
+    "options": ["Chris Gayle", "Brendon McCullum", "Saurav Ganguly", "Shahid Afridi"],
+    "correctAnswer": "Brendon McCullum"
+  },
+  {
+    "id": "CR-063",
+    "question": "Which country hosted the 1996 Cricket World Cup?",
+    "options": ["India, Pakistan, Sri Lanka", "Australia, New Zealand", "England", "South Africa, Zimbabwe"],
+    "correctAnswer": "India, Pakistan, Sri Lanka"
+  },
+  {
+    "id": "CR-064",
+    "question": "Who holds the record for the fastest 50 in T20 Internationals (men’s)?",
+    "options": ["Yuvraj Singh", "Chris Gayle", "Hazratullah Zazai", "Ishan Kishan"],
+    "correctAnswer": "Yuvraj Singh"
+  },
+  {
+    "id": "CR-065",
+    "question": "Which bowler delivered the fastest ball in cricket history (recorded speed)?",
+    "options": ["Shoaib Akhtar", "Brett Lee", "Jeff Thomson", "Mitchell Starc"],
+    "correctAnswer": "Shoaib Akhtar"
+  },
+  {
+    "id": "CR-066",
+    "question": "Which cricketer scored the first century in T20 World Cup history?",
+    "options": ["Chris Gayle", "Brendon McCullum", "Kumar Sangakkara", "Yuvraj Singh"],
+    "correctAnswer": "Brendon McCullum"
+  },
+  {
+    "id": "CR-067",
+    "question": "Which team holds the record for the highest team total in ODI cricket?",
+    "options": ["England", "India", "Australia", "South Africa"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "CR-068",
+    "question": "Who was the first bowler to take 500 wickets in ODIs?",
+    "options": ["Muttiah Muralitharan", "Waqar Younis", "Glenn McGrath", "Chaminda Vaas"],
+    "correctAnswer": "Muttiah Muralitharan"
+  },
+  {
+    "id": "CR-069",
+    "question": "Which cricketer hit six sixes in an over in first-class cricket?",
+    "options": ["Sir Garfield Sobers", "Ravi Shastri", "Herschelle Gibbs", "Yuvraj Singh"],
+    "correctAnswer": "Sir Garfield Sobers"
+  },
+  {
+    "id": "CR-070",
+    "question": "Which cricketer is called 'Captain Cool'?",
+    "options": ["MS Dhoni", "Ricky Ponting", "Graeme Smith", "Kumar Sangakkara"],
+    "correctAnswer": "MS Dhoni"
+  },
+  {
+    "id": "CR-071",
+    "question": "Who is the only bowler to have taken two hat-tricks in the same ODI match?",
+    "options": ["Lasith Malinga", "Wasim Akram", "Brett Lee", "Shaun Pollock"],
+    "correctAnswer": "Lasith Malinga"
+  },
+  {
+    "id": "CR-072",
+    "question": "Which country has won the ICC T20 World Cup the most times (men’s)?",
+    "options": ["India", "West Indies", "England", "Pakistan"],
+    "correctAnswer": "West Indies"
+  },
+  {
+    "id": "CR-073",
+    "question": "What is a 'Golden Duck' in cricket?",
+    "options": ["Out on first ball without scoring", "Scoring zero in the last over", "Bowled by a spinner", "Caught on boundary"],
+    "correctAnswer": "Out on first ball without scoring"
+  },
+  {
+    "id": "CR-074",
+    "question": "Which bowler is famous for the 'Carrom ball'?",
+    "options": ["Anil Kumble", "Rashid Khan", "Ajantha Mendis", "Shane Warne"],
+    "correctAnswer": "Ajantha Mendis"
+  },
+  {
+    "id": "CR-075",
+    "question": "Which cricketer has the record for most sixes in international cricket (men’s)?",
+    "options": ["Chris Gayle", "Rohit Sharma", "Shahid Afridi", "MS Dhoni"],
+    "correctAnswer": "Chris Gayle"
+  },
+  {
+    "id": "CR-076",
+    "question": "Which country won the first ICC Women's Cricket World Cup?",
+    "options": ["England", "Australia", "New Zealand", "India"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "CR-077",
+    "question": "What is the maximum number of overs in a T20 cricket match?",
+    "options": ["20", "25", "50", "15"],
+    "correctAnswer": "20"
+  },
+  {
+    "id": "CR-078",
+    "question": "Which player scored the most runs in a single T20 World Cup tournament?",
+    "options": ["Babar Azam", "Shahid Afridi", "Virat Kohli", "Martin Guptill"],
+    "correctAnswer": "Virat Kohli"
+  },
+  {
+    "id": "CR-079",
+    "question": "Who was the first bowler to take 10 wickets in a T20 international match?",
+    "options": ["Lasith Malinga", "Shahid Afridi", "Rashid Khan", "Not achieved yet"],
+    "correctAnswer": "Not achieved yet"
+  },
+  {
+    "id": "CR-080",
+    "question": "Which cricketer has the nickname 'The King of Swing'?",
+    "options": ["James Anderson", "Dale Steyn", "Stuart Broad", "Shane Warne"],
+    "correctAnswer": "James Anderson"
   }
 ]

@@ -118,5 +118,545 @@
     "question": "Which country won Copa America 2021?",
     "options": ["Argentina", "Brazil", "Chile", "Uruguay"],
     "correctAnswer": "Argentina"
+  },
+  {
+    "id": "FB-021",
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "options": ["USA", "Qatar", "Russia", "Japan"],
+    "correctAnswer": "Qatar"
+  },
+  {
+    "id": "FB-022",
+    "question": "Who won the Golden Boot in the 2022 FIFA World Cup?",
+    "options": ["Lionel Messi", "Kylian Mbappé", "Harry Kane", "Olivier Giroud"],
+    "correctAnswer": "Kylian Mbappé"
+  },
+  {
+    "id": "FB-023",
+    "question": "Which club is known as 'The Red Devils' in England?",
+    "options": ["Liverpool", "Manchester United", "Arsenal", "Chelsea"],
+    "correctAnswer": "Manchester United"
+  },
+  {
+    "id": "FB-024",
+    "question": "Which player scored the 'Hand of God' goal?",
+    "options": ["Pelé", "Diego Maradona", "Messi", "Ronaldo"],
+    "correctAnswer": "Diego Maradona"
+  },
+  {
+    "id": "FB-025",
+    "question": "Which country won the FIFA Women's World Cup 2023?",
+    "options": ["USA", "Spain", "England", "Germany"],
+    "correctAnswer": "Spain"
+  },
+  {
+    "id": "FB-026",
+    "question": "Which stadium is known as the home of FC Barcelona?",
+    "options": ["Santiago Bernabéu", "Camp Nou", "Anfield", "Old Trafford"],
+    "correctAnswer": "Camp Nou"
+  },
+  {
+    "id": "FB-027",
+    "question": "Who was the youngest player to score in a World Cup final?",
+    "options": ["Pelé", "Mbappé", "Messi", "Ronaldo Nazário"],
+    "correctAnswer": "Pelé"
+  },
+  {
+    "id": "FB-028",
+    "question": "Which country won the UEFA Euro 2016?",
+    "options": ["France", "Germany", "Portugal", "Spain"],
+    "correctAnswer": "Portugal"
+  },
+  {
+    "id": "FB-029",
+    "question": "Which club won the treble (League, Cup, UCL) in 1999?",
+    "options": ["Barcelona", "Manchester United", "Bayern Munich", "Real Madrid"],
+    "correctAnswer": "Manchester United"
+  },
+  {
+    "id": "FB-030",
+    "question": "Which African country reached the semi-final of the 2022 World Cup?",
+    "options": ["Nigeria", "Morocco", "Ghana", "Cameroon"],
+    "correctAnswer": "Morocco"
+  },
+  {
+    "id": "FB-031",
+    "question": "Who is the all-time top scorer in the UEFA Champions League?",
+    "options": ["Messi", "Cristiano Ronaldo", "Lewandowski", "Benzema"],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "FB-032",
+    "question": "Which country has won the most Copa America titles?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "id": "FB-033",
+    "question": "Which player won the Ballon d'Or in 2018?",
+    "options": ["Messi", "Cristiano Ronaldo", "Luka Modrić", "Griezmann"],
+    "correctAnswer": "Luka Modrić"
+  },
+  {
+    "id": "FB-034",
+    "question": "Which club is known as 'The Old Lady'?",
+    "options": ["AC Milan", "Inter Milan", "Juventus", "Roma"],
+    "correctAnswer": "Juventus"
+  },
+  {
+    "id": "FB-035",
+    "question": "Which country hosted the first FIFA World Cup in 1930?",
+    "options": ["Brazil", "Uruguay", "Italy", "France"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "id": "FB-036",
+    "question": "Who scored the fastest goal in World Cup history?",
+    "options": ["Hakan Şükür", "Ronaldo", "Miroslav Klose", "Thomas Müller"],
+    "correctAnswer": "Hakan Şükür"
+  },
+  {
+    "id": "FB-037",
+    "question": "Which English club is nicknamed 'The Gunners'?",
+    "options": ["Chelsea", "Arsenal", "Tottenham", "Manchester City"],
+    "correctAnswer": "Arsenal"
+  },
+  {
+    "id": "FB-038",
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "options": ["Germany", "Brazil", "Argentina", "Italy"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-039",
+    "question": "Who is the only goalkeeper to win the Ballon d'Or?",
+    "options": ["Buffon", "Lev Yashin", "Neuer", "Casillas"],
+    "correctAnswer": "Lev Yashin"
+  },
+  {
+    "id": "FB-040",
+    "question": "Which club did Cristiano Ronaldo join in 2018?",
+    "options": ["Manchester City", "PSG", "Juventus", "Bayern Munich"],
+    "correctAnswer": "Juventus"
+  },
+  {
+    "id": "FB-041",
+    "question": "Which country won the FIFA World Cup 1998?",
+    "options": ["Brazil", "France", "Germany", "Italy"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": "FB-042",
+    "question": "Which manager won the most UEFA Champions League titles?",
+    "options": ["Pep Guardiola", "Carlo Ancelotti", "Zidane", "Sir Alex Ferguson"],
+    "correctAnswer": "Carlo Ancelotti"
+  },
+  {
+    "id": "FB-043",
+    "question": "Which club won the Premier League unbeaten in 2003-04?",
+    "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
+    "correctAnswer": "Arsenal"
+  },
+  {
+    "id": "FB-044",
+    "question": "Which player scored a hat-trick in the 1966 World Cup final?",
+    "options": ["Pelé", "Geoff Hurst", "Bobby Charlton", "Eusébio"],
+    "correctAnswer": "Geoff Hurst"
+  },
+  {
+    "id": "FB-045",
+    "question": "Which country won the UEFA Nations League 2019?",
+    "options": ["Portugal", "France", "Spain", "Germany"],
+    "correctAnswer": "Portugal"
+  },
+  {
+    "id": "FB-046",
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Platini", "Cruyff"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "id": "FB-047",
+    "question": "Which Asian country reached the semi-final of the 2002 World Cup?",
+    "options": ["Japan", "South Korea", "Iran", "Saudi Arabia"],
+    "correctAnswer": "South Korea"
+  },
+  {
+    "id": "FB-048",
+    "question": "Which club won the UEFA Champions League 2020?",
+    "options": ["PSG", "Liverpool", "Bayern Munich", "Manchester City"],
+    "correctAnswer": "Bayern Munich"
+  },
+  {
+    "id": "FB-049",
+    "question": "Who was the captain of Argentina in the 2022 World Cup?",
+    "options": ["Di Maria", "Messi", "Otamendi", "Dybala"],
+    "correctAnswer": "Messi"
+  },
+  {
+    "id": "FB-050",
+    "question": "Which country has appeared in the most World Cup finals?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "id": "FB-051",
+    "question": "Which country won the FIFA World Cup 2006?",
+    "options": ["France", "Italy", "Germany", "Brazil"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "FB-052",
+    "question": "Who scored the winning goal in the 2010 World Cup final?",
+    "options": ["David Villa", "Andrés Iniesta", "Xavi", "Fernando Torres"],
+    "correctAnswer": "Andrés Iniesta"
+  },
+  {
+    "id": "FB-053",
+    "question": "Which club won the UEFA Champions League 2022?",
+    "options": ["Liverpool", "Real Madrid", "Manchester City", "Chelsea"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-054",
+    "question": "Which player has the most assists in UEFA Champions League history?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Ryan Giggs", "Ángel Di María"],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "FB-055",
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Netherlands"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "id": "FB-056",
+    "question": "Which club is known as 'The Citizens'?",
+    "options": ["Manchester United", "Manchester City", "Chelsea", "Arsenal"],
+    "correctAnswer": "Manchester City"
+  },
+  {
+    "id": "FB-057",
+    "question": "Who won the Golden Ball in the 2014 FIFA World Cup?",
+    "options": ["Thomas Müller", "Lionel Messi", "Arjen Robben", "James Rodríguez"],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "id": "FB-058",
+    "question": "Which country won the UEFA Euro 2012?",
+    "options": ["Spain", "Italy", "Germany", "Portugal"],
+    "correctAnswer": "Spain"
+  },
+  {
+    "id": "FB-059",
+    "question": "Which club won the first ever Premier League title (1992-93)?",
+    "options": ["Arsenal", "Liverpool", "Manchester United", "Blackburn Rovers"],
+    "correctAnswer": "Manchester United"
+  },
+  {
+    "id": "FB-060",
+    "question": "Who is the top scorer in World Cup history?",
+    "options": ["Miroslav Klose", "Ronaldo Nazário", "Gerd Müller", "Pelé"],
+    "correctAnswer": "Miroslav Klose"
+  },
+  {
+    "id": "FB-061",
+    "question": "Which country won the FIFA World Cup 1970?",
+    "options": ["Italy", "Brazil", "Germany", "England"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-062",
+    "question": "Which club won the UEFA Champions League 2019?",
+    "options": ["Tottenham", "Liverpool", "Ajax", "Barcelona"],
+    "correctAnswer": "Liverpool"
+  },
+  {
+    "id": "FB-063",
+    "question": "Which player won the Golden Boot at the 2018 FIFA World Cup?",
+    "options": ["Harry Kane", "Mbappé", "Griezmann", "Lukaku"],
+    "correctAnswer": "Harry Kane"
+  },
+  {
+    "id": "FB-064",
+    "question": "Which country won the Africa Cup of Nations 2021?",
+    "options": ["Egypt", "Senegal", "Cameroon", "Nigeria"],
+    "correctAnswer": "Senegal"
+  },
+  {
+    "id": "FB-065",
+    "question": "Which club won the UEFA Champions League 2015?",
+    "options": ["Juventus", "Barcelona", "Bayern Munich", "Real Madrid"],
+    "correctAnswer": "Barcelona"
+  },
+  {
+    "id": "FB-066",
+    "question": "Who was the top scorer of the 2010 FIFA World Cup?",
+    "options": ["David Villa", "Diego Forlán", "Thomas Müller", "Wesley Sneijder"],
+    "correctAnswer": "Thomas Müller"
+  },
+  {
+    "id": "FB-067",
+    "question": "Which country won the FIFA World Cup 1986?",
+    "options": ["Brazil", "Germany", "Argentina", "Italy"],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "id": "FB-068",
+    "question": "Which club is nicknamed 'The Blues' in England?",
+    "options": ["Chelsea", "Everton", "Leicester City", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": "FB-069",
+    "question": "Who won the Ballon d'Or in 2007?",
+    "options": ["Kaká", "Cristiano Ronaldo", "Messi", "Ronaldinho"],
+    "correctAnswer": "Kaká"
+  },
+  {
+    "id": "FB-070",
+    "question": "Which country won the FIFA World Cup 1966?",
+    "options": ["Germany", "Brazil", "England", "Italy"],
+    "correctAnswer": "England"
+  },
+  {
+    "id": "FB-071",
+    "question": "Which club won the UEFA Champions League 2013?",
+    "options": ["Borussia Dortmund", "Bayern Munich", "Chelsea", "Barcelona"],
+    "correctAnswer": "Bayern Munich"
+  },
+  {
+    "id": "FB-072",
+    "question": "Which player scored the most goals in the 2014 World Cup?",
+    "options": ["James Rodríguez", "Müller", "Messi", "Neymar"],
+    "correctAnswer": "James Rodríguez"
+  },
+  {
+    "id": "FB-073",
+    "question": "Which country won the FIFA World Cup 1958?",
+    "options": ["Brazil", "Sweden", "Germany", "France"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-074",
+    "question": "Which club won the UEFA Champions League 2017?",
+    "options": ["Juventus", "Real Madrid", "Atletico Madrid", "Barcelona"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-075",
+    "question": "Who was the manager of Spain during their 2010 World Cup win?",
+    "options": ["Luis Enrique", "Vicente del Bosque", "Pep Guardiola", "Julen Lopetegui"],
+    "correctAnswer": "Vicente del Bosque"
+  },
+  {
+    "id": "FB-076",
+    "question": "Which country won the FIFA World Cup 1994?",
+    "options": ["Brazil", "Italy", "Germany", "Argentina"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-077",
+    "question": "Which club won the UEFA Champions League 2008?",
+    "options": ["Chelsea", "Manchester United", "Barcelona", "AC Milan"],
+    "correctAnswer": "Manchester United"
+  },
+  {
+    "id": "FB-078",
+    "question": "Who scored the winning penalty in the 2006 World Cup final shootout for Italy?",
+    "options": ["Del Piero", "Pirlo", "Fabio Grosso", "Totti"],
+    "correctAnswer": "Fabio Grosso"
+  },
+  {
+    "id": "FB-079",
+    "question": "Which country won the FIFA World Cup 1934?",
+    "options": ["Italy", "Germany", "Brazil", "Uruguay"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "FB-080",
+    "question": "Which club won the UEFA Champions League 2016?",
+    "options": ["Real Madrid", "Atletico Madrid", "Barcelona", "Bayern Munich"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-081",
+    "question": "Which country won the FIFA World Cup 1974?",
+    "options": ["Netherlands", "West Germany", "Brazil", "Argentina"],
+    "correctAnswer": "West Germany"
+  },
+  {
+    "id": "FB-082",
+    "question": "Who scored the famous volley goal in the 2002 Champions League final for Real Madrid?",
+    "options": ["Raúl", "Roberto Carlos", "Zinedine Zidane", "Figo"],
+    "correctAnswer": "Zinedine Zidane"
+  },
+  {
+    "id": "FB-083",
+    "question": "Which club won the first UEFA Champions League (1955-56)?",
+    "options": ["AC Milan", "Real Madrid", "Benfica", "Barcelona"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-084",
+    "question": "Which country finished third in the 2018 FIFA World Cup?",
+    "options": ["England", "Belgium", "Croatia", "France"],
+    "correctAnswer": "Belgium"
+  },
+  {
+    "id": "FB-085",
+    "question": "Who was the top scorer of the UEFA Euro 2020?",
+    "options": ["Cristiano Ronaldo", "Harry Kane", "Romelu Lukaku", "Patrik Schick"],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "FB-086",
+    "question": "Which club did Neymar join in 2017 for a world-record transfer fee?",
+    "options": ["Manchester City", "PSG", "Real Madrid", "Bayern Munich"],
+    "correctAnswer": "PSG"
+  },
+  {
+    "id": "FB-087",
+    "question": "Which country won the FIFA World Cup 1954?",
+    "options": ["Hungary", "West Germany", "Brazil", "Uruguay"],
+    "correctAnswer": "West Germany"
+  },
+  {
+    "id": "FB-088",
+    "question": "Which player scored four goals in a single Champions League final in 1960?",
+    "options": ["Di Stéfano", "Ferenc Puskás", "Eusébio", "Gerd Müller"],
+    "correctAnswer": "Ferenc Puskás"
+  },
+  {
+    "id": "FB-089",
+    "question": "Which club won the UEFA Champions League 2021?",
+    "options": ["Manchester City", "Chelsea", "PSG", "Real Madrid"],
+    "correctAnswer": "Chelsea"
+  },
+  {
+    "id": "FB-090",
+    "question": "Who won the Golden Glove at the 2022 FIFA World Cup?",
+    "options": ["Emiliano Martínez", "Hugo Lloris", "Dominik Livaković", "Yassine Bounou"],
+    "correctAnswer": "Emiliano Martínez"
+  },
+  {
+    "id": "FB-091",
+    "question": "Which country won the FIFA World Cup 1978?",
+    "options": ["Brazil", "Argentina", "Netherlands", "Italy"],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "id": "FB-092",
+    "question": "Which club is nicknamed 'The Foxes'?",
+    "options": ["Leicester City", "Wolves", "Everton", "Aston Villa"],
+    "correctAnswer": "Leicester City"
+  },
+  {
+    "id": "FB-093",
+    "question": "Who was the top scorer of the 2006 FIFA World Cup?",
+    "options": ["Miroslav Klose", "Thierry Henry", "Ronaldo", "Zidane"],
+    "correctAnswer": "Miroslav Klose"
+  },
+  {
+    "id": "FB-094",
+    "question": "Which country won the FIFA World Cup 1938?",
+    "options": ["Italy", "Brazil", "Germany", "Hungary"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "FB-095",
+    "question": "Which club won the UEFA Champions League 2012?",
+    "options": ["Bayern Munich", "Chelsea", "Barcelona", "Real Madrid"],
+    "correctAnswer": "Chelsea"
+  },
+  {
+    "id": "FB-096",
+    "question": "Who scored the decisive goal in the 2014 World Cup final?",
+    "options": ["Thomas Müller", "Mario Götze", "Mesut Özil", "Klose"],
+    "correctAnswer": "Mario Götze"
+  },
+  {
+    "id": "FB-097",
+    "question": "Which country won the FIFA World Cup 1950?",
+    "options": ["Brazil", "Uruguay", "Italy", "Spain"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "id": "FB-098",
+    "question": "Which club is known as 'Los Blancos'?",
+    "options": ["Barcelona", "Real Madrid", "Valencia", "Sevilla"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-099",
+    "question": "Who won the Ballon d'Or in 2005?",
+    "options": ["Ronaldinho", "Kaká", "Lampard", "Henry"],
+    "correctAnswer": "Ronaldinho"
+  },
+  {
+    "id": "FB-100",
+    "question": "Which country won the FIFA World Cup 1990?",
+    "options": ["Argentina", "Germany", "Italy", "Brazil"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "id": "FB-101",
+    "question": "Which club won the UEFA Champions League 2018?",
+    "options": ["Liverpool", "Real Madrid", "Bayern Munich", "Roma"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-102",
+    "question": "Who scored the fastest hat-trick in Premier League history?",
+    "options": ["Sadio Mané", "Sergio Agüero", "Harry Kane", "Alan Shearer"],
+    "correctAnswer": "Sadio Mané"
+  },
+  {
+    "id": "FB-103",
+    "question": "Which country won the FIFA World Cup 1962?",
+    "options": ["Brazil", "Czechoslovakia", "Chile", "Italy"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "FB-104",
+    "question": "Which club won the UEFA Champions League 2014?",
+    "options": ["Real Madrid", "Atletico Madrid", "Chelsea", "Barcelona"],
+    "correctAnswer": "Real Madrid"
+  },
+  {
+    "id": "FB-105",
+    "question": "Who was the top scorer of the 1998 FIFA World Cup?",
+    "options": ["Ronaldo", "Davor Šuker", "Zidane", "Henry"],
+    "correctAnswer": "Davor Šuker"
+  },
+  {
+    "id": "FB-106",
+    "question": "Which country won the FIFA World Cup 1982?",
+    "options": ["Italy", "Brazil", "Germany", "Argentina"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "FB-107",
+    "question": "Which club won the UEFA Champions League 2011?",
+    "options": ["Manchester United", "Barcelona", "Real Madrid", "Inter Milan"],
+    "correctAnswer": "Barcelona"
+  },
+  {
+    "id": "FB-108",
+    "question": "Who won the Golden Ball at the 2018 FIFA World Cup?",
+    "options": ["Mbappé", "Modrić", "Griezmann", "Hazard"],
+    "correctAnswer": "Modrić"
+  },
+  {
+    "id": "FB-109",
+    "question": "Which country won the FIFA World Cup 1998?",
+    "options": ["Brazil", "France", "Italy", "Germany"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": "FB-110",
+    "question": "Which club won the UEFA Champions League 2010?",
+    "options": ["Bayern Munich", "Inter Milan", "Barcelona", "Manchester United"],
+    "correctAnswer": "Inter Milan"
   }
 ]
