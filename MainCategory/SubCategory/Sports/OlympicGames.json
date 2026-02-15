@@ -1,30 +1,757 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "OG-001",
+    "question": "In which year were the first modern Olympic Games held?",
+    "options": ["1892", "1896", "1900", "1904"],
+    "correctAnswer": "1896"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "OG-002",
+    "question": "Which city hosted the first modern Olympic Games?",
+    "options": ["Paris", "London", "Athens", "Rome"],
+    "correctAnswer": "Athens"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "OG-003",
+    "question": "How often are the Summer Olympic Games held?",
+    "options": ["Every 2 years", "Every 3 years", "Every 4 years", "Every 5 years"],
+    "correctAnswer": "Every 4 years"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "OG-004",
+    "question": "What do the five Olympic rings represent?",
+    "options": [
+      "Five oceans",
+      "Five host cities",
+      "Five continents",
+      "Five ancient games"
+    ],
+    "correctAnswer": "Five continents"
+  },
+  {
+    "id": "OG-005",
+    "question": "Which country has won the most Olympic gold medals overall?",
+    "options": ["Russia", "China", "United States", "Great Britain"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-006",
+    "question": "Which sport was removed from the Olympic Games after 2008 and returned in 2020?",
+    "options": ["Baseball", "Cricket", "Polo", "Rugby League"],
+    "correctAnswer": "Baseball"
+  },
+  {
+    "id": "OG-007",
+    "question": "Which Olympic event is traditionally known as the 'marathon'?",
+    "options": [
+      "10 km race",
+      "21 km race",
+      "42.195 km race",
+      "50 km walk"
+    ],
+    "correctAnswer": "42.195 km race"
+  },
+  {
+    "id": "OG-008",
+    "question": "Which was the first Asian country to host the Olympic Games?",
+    "options": ["China", "South Korea", "Japan", "Thailand"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "OG-009",
+    "question": "Which Olympic Games were cancelled due to World War I?",
+    "options": [
+      "1912",
+      "1916",
+      "1920",
+      "1924"
+    ],
+    "correctAnswer": "1916"
+  },
+  {
+    "id": "OG-010",
+    "question": "What is the maximum number of gold medals an athlete can win in a single Olympic Games?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "OG-011",
+    "question": "Which sport made its Olympic debut at the Tokyo 2020 Games?",
+    "options": ["Karate", "Squash", "Cricket", "Bowling"],
+    "correctAnswer": "Karate"
+  },
+  {
+    "id": "OG-012",
+    "question": "Which country boycotted the 1980 Moscow Olympics?",
+    "options": [
+      "China",
+      "United States",
+      "France",
+      "Japan"
+    ],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-013",
+    "question": "Which city has hosted the Summer Olympics three times?",
+    "options": ["Athens", "Paris", "London", "Tokyo"],
+    "correctAnswer": "London"
+  },
+  {
+    "id": "OG-014",
+    "question": "Which Olympic sport uses a piste, épée, and sabre?",
+    "options": ["Archery", "Fencing", "Modern Pentathlon", "Taekwondo"],
+    "correctAnswer": "Fencing"
+  },
+  {
+    "id": "OG-015",
+    "question": "What was the first Olympic Games to be broadcast on television?",
+    "options": ["1936 Berlin", "1948 London", "1952 Helsinki", "1960 Rome"],
+    "correctAnswer": "1936 Berlin"
+  },
+  {
+    "id": "OG-016",
+    "question": "Which country won the first ever Olympic football gold medal?",
+    "options": ["Great Britain", "Uruguay", "Brazil", "France"],
+    "correctAnswer": "Great Britain"
+  },
+  {
+    "id": "OG-017",
+    "question": "Which Winter Olympic sport is known as the fastest on ice?",
+    "options": ["Figure Skating", "Speed Skating", "Bobsleigh", "Ice Hockey"],
+    "correctAnswer": "Bobsleigh"
+  },
+  {
+    "id": "OG-018",
+    "question": "Which Olympic Games introduced the Olympic mascot for the first time?",
+    "options": ["1968 Mexico City", "1972 Munich", "1976 Montreal", "1980 Moscow"],
+    "correctAnswer": "1972 Munich"
+  },
+  {
+    "id": "OG-019",
+    "question": "Which country was banned from the 2018 Winter Olympics but allowed athletes under a neutral flag?",
+    "options": ["Russia", "North Korea", "Iran", "Cuba"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "OG-020",
+    "question": "Which sport awards points for 'ippon'?",
+    "options": ["Karate", "Judo", "Taekwondo", "Wrestling"],
+    "correctAnswer": "Judo"
+  },
+  {
+    "id": "OG-021",
+    "question": "Which Olympic event combines fencing, swimming, horse riding, shooting, and running?",
+    "options": [
+      "Triathlon",
+      "Heptathlon",
+      "Modern Pentathlon",
+      "Decathlon"
+    ],
+    "correctAnswer": "Modern Pentathlon"
+  },
+  {
+    "id": "OG-022",
+    "question": "Which country topped the medal table in the 2008 Beijing Olympics?",
+    "options": ["United States", "China", "Russia", "Germany"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "OG-023",
+    "question": "Which Olympic Games were postponed due to the COVID-19 pandemic?",
+    "options": ["Rio 2016", "Tokyo 2020", "Beijing 2022", "Paris 2024"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-024",
+    "question": "Which sport was part of the ancient Olympics but removed from the modern Games?",
+    "options": ["Chariot Racing", "Wrestling", "Discus Throw", "Javelin Throw"],
+    "correctAnswer": "Chariot Racing"
+  },
+  {
+    "id": "OG-025",
+    "question": "What is the maximum weight of a men's shot put in the Olympics?",
+    "options": ["6 kg", "7.26 kg", "8 kg", "9 kg"],
+    "correctAnswer": "7.26 kg"
+  },
+  {
+    "id": "OG-026",
+    "question": "Which country hosted the first Winter Olympic Games?",
+    "options": ["Switzerland", "Norway", "France", "Sweden"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": "OG-027",
+    "question": "Which Olympic symbol is lit during the opening ceremony and extinguished at the closing ceremony?",
+    "options": [
+      "Olympic Bell",
+      "Olympic Flame",
+      "Olympic Flag",
+      "Olympic Torch"
+    ],
+    "correctAnswer": "Olympic Flame"
+  },
+  {
+    "id": "OG-028",
+    "question": "Which female gymnast won four gold medals at a single Olympic Games?",
+    "options": [
+      "Larisa Latynina",
+      "Simone Biles",
+      "Nadia Comaneci",
+      "Olga Korbut"
+    ],
+    "correctAnswer": "Simone Biles"
+  },
+  {
+    "id": "OG-029",
+    "question": "Which Olympic event requires athletes to hit targets with a rifle or pistol?",
+    "options": ["Archery", "Biathlon", "Shooting", "Fencing"],
+    "correctAnswer": "Shooting"
+  },
+  {
+    "id": "OG-030",
+    "question": "Which country made its Olympic debut in 2012 and won its first medal in the same Games?",
+    "options": ["South Sudan", "Kosovo", "Montenegro", "Serbia"],
+    "correctAnswer": "Kosovo"
+  },
+  {
+    "id": "OG-031",
+    "question": "Which Olympic Games were the first to allow professional athletes to compete?",
+    "options": ["1976 Montreal", "1984 Los Angeles", "1988 Seoul", "1992 Barcelona"],
+    "correctAnswer": "1992 Barcelona"
+  },
+  {
+    "id": "OG-032",
+    "question": "What color is the Olympic ring that represents Africa?",
+    "options": ["Blue", "Black", "Green", "Red"],
+    "correctAnswer": "Black"
+  },
+  {
+    "id": "OG-033",
+    "question": "Which athlete is known as the most decorated Olympian of all time?",
+    "options": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Paavo Nurmi"],
+    "correctAnswer": "Michael Phelps"
+  },
+  {
+    "id": "OG-034",
+    "question": "Which Olympic sport features the apparatus called rings, pommel horse, and vault?",
+    "options": ["Artistic Gymnastics", "Trampoline", "Rhythmic Gymnastics", "Diving"],
+    "correctAnswer": "Artistic Gymnastics"
+  },
+  {
+    "id": "OG-035",
+    "question": "Which country has participated in every modern Olympic Games?",
+    "options": ["United States", "Great Britain", "France", "Australia"],
+    "correctAnswer": "Great Britain"
+  },
+  {
+    "id": "OG-036",
+    "question": "Which Olympic Games first featured women competing in athletics?",
+    "options": ["1912 Stockholm", "1920 Antwerp", "1928 Amsterdam", "1932 Los Angeles"],
+    "correctAnswer": "1928 Amsterdam"
+  },
+  {
+    "id": "OG-037",
+    "question": "Which Olympic event uses the terms 'clean and jerk' and 'snatch'?",
+    "options": ["Wrestling", "Powerlifting", "Weightlifting", "Strongman"],
+    "correctAnswer": "Weightlifting"
+  },
+  {
+    "id": "OG-038",
+    "question": "Which city hosted the Olympic Games immediately after World War II?",
+    "options": ["Berlin", "Tokyo", "London", "Rome"],
+    "correctAnswer": "London"
+  },
+  {
+    "id": "OG-039",
+    "question": "What is the standard length of an Olympic swimming pool?",
+    "options": ["25 meters", "40 meters", "50 meters", "60 meters"],
+    "correctAnswer": "50 meters"
+  },
+  {
+    "id": "OG-040",
+    "question": "Which country won its first-ever Olympic gold medal in 2016?",
+    "options": ["Fiji", "Jordan", "Vietnam", "Mongolia"],
+    "correctAnswer": "Fiji"
+  },
+  {
+    "id": "OG-041",
+    "question": "Which Olympic Games introduced synchronized swimming as a medal sport?",
+    "options": ["1976 Montreal", "1984 Los Angeles", "1988 Seoul", "1996 Atlanta"],
+    "correctAnswer": "1984 Los Angeles"
+  },
+  {
+    "id": "OG-042",
+    "question": "Which Olympic sport involves throwing a hammer attached to a wire?",
+    "options": ["Discus Throw", "Hammer Throw", "Shot Put", "Javelin Throw"],
+    "correctAnswer": "Hammer Throw"
+  },
+  {
+    "id": "OG-043",
+    "question": "Which Olympic Games had the slogan 'Inspire a Generation'?",
+    "options": ["Beijing 2008", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "London 2012"
+  },
+  {
+    "id": "OG-044",
+    "question": "Which country won the most medals in the 2016 Rio Olympics?",
+    "options": ["China", "Great Britain", "United States", "Russia"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-045",
+    "question": "Which Olympic event is also known as the 'queen of athletics'?",
+    "options": ["100 meters", "Marathon", "Decathlon", "Heptathlon"],
+    "correctAnswer": "Decathlon"
+  },
+  {
+    "id": "OG-046",
+    "question": "Which Olympic Games were the first to include skateboarding?",
+    "options": ["Rio 2016", "Tokyo 2020", "Paris 2024", "Beijing 2022"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-047",
+    "question": "Which Olympic sport includes the movements kata and kumite?",
+    "options": ["Judo", "Taekwondo", "Karate", "Wushu"],
+    "correctAnswer": "Karate"
+  },
+  {
+    "id": "OG-048",
+    "question": "Which country hosted the Olympic Games twice within 12 years?",
+    "options": ["Japan", "France", "Germany", "Italy"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "OG-049",
+    "question": "What material are Olympic gold medals primarily made of?",
+    "options": ["Pure gold", "Silver with gold plating", "Bronze", "Platinum"],
+    "correctAnswer": "Silver with gold plating"
+  },
+  {
+    "id": "OG-050",
+    "question": "Which Olympic event combines swimming, cycling, and running?",
+    "options": ["Pentathlon", "Aquathlon", "Triathlon", "Duathlon"],
+    "correctAnswer": "Triathlon"
+  },
+  {
+    "id": "OG-051",
+    "question": "Which country won the first Olympic gold medal in women's boxing?",
+    "options": ["United States", "China", "Ireland", "Russia"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-052",
+    "question": "Which Olympic Games were held at the highest altitude?",
+    "options": ["Mexico City 1968", "Los Angeles 1984", "Beijing 2008", "Seoul 1988"],
+    "correctAnswer": "Mexico City 1968"
+  },
+  {
+    "id": "OG-053",
+    "question": "Which Olympic sport uses a bow and arrow to hit targets?",
+    "options": ["Shooting", "Archery", "Biathlon", "Modern Pentathlon"],
+    "correctAnswer": "Archery"
+  },
+  {
+    "id": "OG-054",
+    "question": "Which Olympic Games first featured a refugee team?",
+    "options": ["London 2012", "Rio 2016", "Tokyo 2020", "Beijing 2022"],
+    "correctAnswer": "Rio 2016"
+  },
+  {
+    "id": "OG-055",
+    "question": "Which country has won the most medals in Olympic wrestling?",
+    "options": ["United States", "Turkey", "Russia", "Iran"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "OG-056",
+    "question": "Which Olympic discipline includes slalom, giant slalom, and downhill?",
+    "options": ["Snowboarding", "Alpine Skiing", "Nordic Combined", "Freestyle Skiing"],
+    "correctAnswer": "Alpine Skiing"
+  },
+  {
+    "id": "OG-057",
+    "question": "Which Olympic Games were the first to be streamed live on the internet?",
+    "options": ["Atlanta 1996", "Sydney 2000", "Athens 2004", "Beijing 2008"],
+    "correctAnswer": "Athens 2004"
+  },
+  {
+    "id": "OG-058",
+    "question": "Which Olympic sport awards medals based on artistic impression and technical difficulty?",
+    "options": ["Figure Skating", "Diving", "Gymnastics", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": "OG-059",
+    "question": "Which country won its first Olympic medal in history at Tokyo 2020?",
+    "options": ["San Marino", "Burkina Faso", "Albania", "Andorra"],
+    "correctAnswer": "San Marino"
+  },
+  {
+    "id": "OG-060",
+    "question": "Which Olympic Games introduced mixed-gender team events on a large scale?",
+    "options": ["London 2012", "Rio 2016", "Tokyo 2020", "Paris 2024"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-061",
+    "question": "Which Olympic Games were the first to introduce electronic timing officially?",
+    "options": ["1912 Stockholm", "1924 Paris", "1932 Los Angeles", "1948 London"],
+    "correctAnswer": "1912 Stockholm"
+  },
+  {
+    "id": "OG-062",
+    "question": "Which country won the first-ever Olympic gold medal in taekwondo?",
+    "options": ["South Korea", "China", "Iran", "Turkey"],
+    "correctAnswer": "South Korea"
+  },
+  {
+    "id": "OG-063",
+    "question": "Which Olympic sport uses the term 'touché'?",
+    "options": ["Boxing", "Fencing", "Wrestling", "Judo"],
+    "correctAnswer": "Fencing"
+  },
+  {
+    "id": "OG-064",
+    "question": "Which Olympic Games featured the first Olympic Village for athletes?",
+    "options": ["1924 Paris", "1928 Amsterdam", "1932 Los Angeles", "1936 Berlin"],
+    "correctAnswer": "1932 Los Angeles"
+  },
+  {
+    "id": "OG-065",
+    "question": "Which country has won the most Olympic medals in women's gymnastics?",
+    "options": ["United States", "Russia", "Romania", "China"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-066",
+    "question": "Which Olympic sport includes the techniques called 'osoto gari' and 'uchi mata'?",
+    "options": ["Karate", "Taekwondo", "Judo", "Aikido"],
+    "correctAnswer": "Judo"
+  },
+  {
+    "id": "OG-067",
+    "question": "Which Olympic Games were the first to feature color television broadcasts?",
+    "options": ["Rome 1960", "Tokyo 1964", "Mexico City 1968", "Munich 1972"],
+    "correctAnswer": "Tokyo 1964"
+  },
+  {
+    "id": "OG-068",
+    "question": "Which country won the first Olympic gold medal in women's weightlifting?",
+    "options": ["China", "Russia", "Turkey", "Thailand"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "OG-069",
+    "question": "Which Olympic event tests both speed and accuracy with a rifle and skis?",
+    "options": ["Shooting", "Cross-country skiing", "Biathlon", "Nordic Combined"],
+    "correctAnswer": "Biathlon"
+  },
+  {
+    "id": "OG-070",
+    "question": "Which Olympic Games had no opening ceremony parade of nations due to a pandemic?",
+    "options": ["Tokyo 2020", "Beijing 2022", "Paris 2024", "Seoul 1988"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-071",
+    "question": "Which Olympic sport awards victory by 'fall' or 'technical superiority'?",
+    "options": ["Judo", "Boxing", "Wrestling", "Taekwondo"],
+    "correctAnswer": "Wrestling"
+  },
+  {
+    "id": "OG-072",
+    "question": "Which Olympic Games were the first where women outnumbered men in certain sports?",
+    "options": ["Sydney 2000", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-073",
+    "question": "Which country won its first-ever Olympic gold medal in athletics in 2016?",
+    "options": ["South Africa", "Ivory Coast", "Bahamas", "Ethiopia"],
+    "correctAnswer": "Ivory Coast"
+  },
+  {
+    "id": "OG-074",
+    "question": "Which Olympic sport uses the apparatus called balance beam?",
+    "options": ["Rhythmic Gymnastics", "Artistic Gymnastics", "Trampoline", "Diving"],
+    "correctAnswer": "Artistic Gymnastics"
+  },
+  {
+    "id": "OG-075",
+    "question": "Which Olympic Games introduced the first official Olympic motto?",
+    "options": ["1896 Athens", "1900 Paris", "1924 Paris", "1936 Berlin"],
+    "correctAnswer": "1924 Paris"
+  },
+  {
+    "id": "OG-076",
+    "question": "Which Olympic event requires athletes to complete 10 different disciplines?",
+    "options": ["Heptathlon", "Pentathlon", "Decathlon", "Triathlon"],
+    "correctAnswer": "Decathlon"
+  },
+  {
+    "id": "OG-077",
+    "question": "Which country won the first Olympic gold medal in women's wrestling?",
+    "options": ["Japan", "China", "United States", "Canada"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "OG-078",
+    "question": "Which Olympic Games were the first to feature beach volleyball?",
+    "options": ["Barcelona 1992", "Atlanta 1996", "Sydney 2000", "Athens 2004"],
+    "correctAnswer": "Atlanta 1996"
+  },
+  {
+    "id": "OG-079",
+    "question": "Which Olympic sport involves racing boats with paddles?",
+    "options": ["Rowing", "Canoe Sprint", "Sailing", "Surfing"],
+    "correctAnswer": "Canoe Sprint"
+  },
+  {
+    "id": "OG-080",
+    "question": "Which Olympic Games were the first to include surfing as a medal sport?",
+    "options": ["Rio 2016", "Tokyo 2020", "Paris 2024", "Beijing 2022"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-081",
+    "question": "Which Olympic sport awards points for 'strikes' and 'spares'?",
+    "options": ["Bowling", "Archery", "Shooting", "Curling"],
+    "correctAnswer": "Bowling"
+  },
+  {
+    "id": "OG-082",
+    "question": "Which Olympic Games marked the return of golf after more than a century?",
+    "options": ["Beijing 2008", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "Rio 2016"
+  },
+  {
+    "id": "OG-083",
+    "question": "Which Olympic sport measures jumps using a crossbar and uprights?",
+    "options": ["Long Jump", "Triple Jump", "Pole Vault", "High Jump"],
+    "correctAnswer": "High Jump"
+  },
+  {
+    "id": "OG-084",
+    "question": "Which country won the first Olympic gold medal in women's judo?",
+    "options": ["Japan", "France", "Cuba", "China"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "OG-085",
+    "question": "Which Olympic Games introduced the Youth Olympic concept officially?",
+    "options": ["2008 Beijing", "2010 Singapore", "2012 London", "2014 Nanjing"],
+    "correctAnswer": "2010 Singapore"
+  },
+  {
+    "id": "OG-086",
+    "question": "Which Olympic event is decided by judges evaluating rhythm, expression, and technique?",
+    "options": ["Figure Skating", "Rhythmic Gymnastics", "Diving", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": "OG-087",
+    "question": "Which country won the first Olympic gold medal in women's karate?",
+    "options": ["Japan", "Spain", "France", "Egypt"],
+    "correctAnswer": "Spain"
+  },
+  {
+    "id": "OG-088",
+    "question": "Which Olympic sport includes events like foil, épée, and sabre?",
+    "options": ["Kendo", "Fencing", "Modern Pentathlon", "Wrestling"],
+    "correctAnswer": "Fencing"
+  },
+  {
+    "id": "OG-089",
+    "question": "Which Olympic Games were the first to feature equal numbers of men's and women's events?",
+    "options": ["London 2012", "Rio 2016", "Tokyo 2020", "Paris 2024"],
+    "correctAnswer": "Paris 2024"
+  },
+  {
+    "id": "OG-090",
+    "question": "Which Olympic sport uses waves as part of the competition environment?",
+    "options": ["Sailing", "Rowing", "Surfing", "Canoe Slalom"],
+    "correctAnswer": "Surfing"
+  },
+  {
+    "id": "OG-091",
+    "question": "Which Olympic Games were the first to introduce a unified Olympic oath including athletes, judges, and coaches?",
+    "options": ["Beijing 2008", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-092",
+    "question": "Which country won the first-ever Olympic gold medal in women's triathlon?",
+    "options": ["Australia", "Switzerland", "United States", "Great Britain"],
+    "correctAnswer": "Switzerland"
+  },
+  {
+    "id": "OG-093",
+    "question": "Which Olympic sport uses the scoring system called 'touchdown'?",
+    "options": ["Rugby Sevens", "Field Hockey", "Water Polo", "Handball"],
+    "correctAnswer": "Rugby Sevens"
+  },
+  {
+    "id": "OG-094",
+    "question": "Which Olympic Games were the first to feature night-time athletics events under floodlights?",
+    "options": ["Tokyo 1964", "Mexico City 1968", "Seoul 1988", "Barcelona 1992"],
+    "correctAnswer": "Tokyo 1964"
+  },
+  {
+    "id": "OG-095",
+    "question": "Which country won the first Olympic gold medal in women's pole vault?",
+    "options": ["Russia", "United States", "Australia", "Germany"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-096",
+    "question": "Which Olympic sport includes the discipline known as 'keirin'?",
+    "options": ["Speed Skating", "Track Cycling", "Road Cycling", "BMX Racing"],
+    "correctAnswer": "Track Cycling"
+  },
+  {
+    "id": "OG-097",
+    "question": "Which Olympic Games first used pictograms extensively to overcome language barriers?",
+    "options": ["Rome 1960", "Tokyo 1964", "Munich 1972", "Montreal 1976"],
+    "correctAnswer": "Tokyo 1964"
+  },
+  {
+    "id": "OG-098",
+    "question": "Which country won the first Olympic gold medal in women's marathon?",
+    "options": ["Norway", "Portugal", "United States", "Japan"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-099",
+    "question": "Which Olympic sport involves judging athletes on amplitude, execution, and landing?",
+    "options": ["Diving", "Trampoline Gymnastics", "Figure Skating", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": "OG-100",
+    "question": "Which Olympic Games introduced BMX freestyle as a medal event?",
+    "options": ["Rio 2016", "Tokyo 2020", "Paris 2024", "Beijing 2022"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-101",
+    "question": "Which country won the first Olympic gold medal in women's surfing?",
+    "options": ["Brazil", "United States", "Japan", "Australia"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-102",
+    "question": "Which Olympic sport uses the term 'bogey' as part of its scoring system?",
+    "options": ["Golf", "Archery", "Shooting", "Curling"],
+    "correctAnswer": "Golf"
+  },
+  {
+    "id": "OG-103",
+    "question": "Which Olympic Games were the first to allow athletes to compete under a neutral Olympic flag?",
+    "options": ["Barcelona 1992", "Athens 2004", "Sochi 2014", "Rio 2016"],
+    "correctAnswer": "Barcelona 1992"
+  },
+  {
+    "id": "OG-104",
+    "question": "Which Olympic event tests athletes across running, jumping, and throwing disciplines?",
+    "options": ["Triathlon", "Pentathlon", "Decathlon", "Marathon"],
+    "correctAnswer": "Decathlon"
+  },
+  {
+    "id": "OG-105",
+    "question": "Which country won the first Olympic gold medal in women's rugby sevens?",
+    "options": ["New Zealand", "Australia", "Canada", "France"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "id": "OG-106",
+    "question": "Which Olympic Games first featured women competing in boxing?",
+    "options": ["Beijing 2008", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "London 2012"
+  },
+  {
+    "id": "OG-107",
+    "question": "Which Olympic sport includes the apparatus called uneven bars?",
+    "options": ["Rhythmic Gymnastics", "Artistic Gymnastics", "Trampoline", "Acrobatics"],
+    "correctAnswer": "Artistic Gymnastics"
+  },
+  {
+    "id": "OG-108",
+    "question": "Which Olympic Games were the first to be carbon-neutral according to official claims?",
+    "options": ["Sydney 2000", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "Sydney 2000"
+  },
+  {
+    "id": "OG-109",
+    "question": "Which country won the first Olympic gold medal in women's sport climbing?",
+    "options": ["Slovenia", "Japan", "France", "South Korea"],
+    "correctAnswer": "Slovenia"
+  },
+  {
+    "id": "OG-110",
+    "question": "Which Olympic sport awards points for techniques like 'uchi mata' and 'seoi nage'?",
+    "options": ["Karate", "Taekwondo", "Judo", "Wrestling"],
+    "correctAnswer": "Judo"
+  },
+  {
+    "id": "OG-111",
+    "question": "Which Olympic Games were the first to include mixed-gender athletics relay events?",
+    "options": ["Rio 2016", "Tokyo 2020", "Paris 2024", "London 2012"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-112",
+    "question": "Which country won the first Olympic gold medal in women's canoe sprint?",
+    "options": ["Hungary", "New Zealand", "Canada", "China"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "OG-113",
+    "question": "Which Olympic sport includes the event known as 'madison'?",
+    "options": ["Track Cycling", "Road Cycling", "BMX Racing", "Speed Skating"],
+    "correctAnswer": "Track Cycling"
+  },
+  {
+    "id": "OG-114",
+    "question": "Which Olympic Games first used QR codes and digital tickets on a large scale?",
+    "options": ["Rio 2016", "Tokyo 2020", "Beijing 2022", "Paris 2024"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-115",
+    "question": "Which country won the first Olympic gold medal in women's skateboarding street?",
+    "options": ["Japan", "Brazil", "United States", "Australia"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "OG-116",
+    "question": "Which Olympic event combines dressage, cross-country, and show jumping?",
+    "options": ["Eventing", "Show Jumping", "Modern Pentathlon", "Endurance Riding"],
+    "correctAnswer": "Eventing"
+  },
+  {
+    "id": "OG-117",
+    "question": "Which Olympic Games were the first to feature esports-style virtual cycling events as demonstrations?",
+    "options": ["Rio 2016", "Tokyo 2020", "Beijing 2022", "Paris 2024"],
+    "correctAnswer": "Tokyo 2020"
+  },
+  {
+    "id": "OG-118",
+    "question": "Which country won the first Olympic gold medal in women's 3x3 basketball?",
+    "options": ["United States", "France", "Japan", "China"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "OG-119",
+    "question": "Which Olympic sport uses the term 'end' to describe a segment of play?",
+    "options": ["Curling", "Archery", "Shooting", "Bowls"],
+    "correctAnswer": "Curling"
+  },
+  {
+    "id": "OG-120",
+    "question": "Which Olympic Games marked the first time every participating nation included at least one female athlete?",
+    "options": ["Beijing 2008", "London 2012", "Rio 2016", "Tokyo 2020"],
+    "correctAnswer": "London 2012"
   }
 ]
