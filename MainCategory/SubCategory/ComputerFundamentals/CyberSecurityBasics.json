@@ -1,30 +1,722 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "CS-001",
+    "question": "What is the primary goal of cyber security?",
+    "options": ["Increase internet speed", "Protect systems and data", "Develop software", "Create networks"],
+    "correctAnswer": "Protect systems and data"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "CS-002",
+    "question": "Which of the following is an example of something you know in authentication?",
+    "options": ["Fingerprint", "Smart card", "Password", "OTP device"],
+    "correctAnswer": "Password"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "CS-003",
+    "question": "What does CIA triad stand for in cyber security?",
+    "options": ["Control, Integrity, Access", "Confidentiality, Integrity, Availability", "Cyber, Information, Assurance", "Confidentiality, Inspection, Authorization"],
+    "correctAnswer": "Confidentiality, Integrity, Availability"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "CS-004",
+    "question": "Which attack involves overwhelming a system with traffic?",
+    "options": ["Phishing", "Brute Force", "DDoS", "SQL Injection"],
+    "correctAnswer": "DDoS"
+  },
+  {
+    "id": "CS-005",
+    "question": "What type of malware encrypts files and demands payment?",
+    "options": ["Spyware", "Adware", "Ransomware", "Rootkit"],
+    "correctAnswer": "Ransomware"
+  },
+  {
+    "id": "CS-006",
+    "question": "Which protocol is used to securely browse websites?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "id": "CS-007",
+    "question": "What is social engineering primarily targeting?",
+    "options": ["Servers", "Firewalls", "Human behavior", "Encryption algorithms"],
+    "correctAnswer": "Human behavior"
+  },
+  {
+    "id": "CS-008",
+    "question": "Which attack attempts all possible password combinations?",
+    "options": ["Phishing", "Brute Force", "Man-in-the-Middle", "Spoofing"],
+    "correctAnswer": "Brute Force"
+  },
+  {
+    "id": "CS-009",
+    "question": "What does VPN primarily provide?",
+    "options": ["Faster internet", "Anonymous browsing", "Secure encrypted connection", "Virus protection"],
+    "correctAnswer": "Secure encrypted connection"
+  },
+  {
+    "id": "CS-010",
+    "question": "Which malware hides itself by modifying the operating system?",
+    "options": ["Trojan", "Worm", "Rootkit", "Keylogger"],
+    "correctAnswer": "Rootkit"
+  },
+  {
+    "id": "CS-011",
+    "question": "What is the main purpose of a firewall?",
+    "options": ["Store data", "Filter network traffic", "Encrypt files", "Detect viruses"],
+    "correctAnswer": "Filter network traffic"
+  },
+  {
+    "id": "CS-012",
+    "question": "Which type of attack intercepts communication between two parties?",
+    "options": ["Replay attack", "Man-in-the-Middle", "Phishing", "DoS"],
+    "correctAnswer": "Man-in-the-Middle"
+  },
+  {
+    "id": "CS-013",
+    "question": "What does SQL Injection exploit?",
+    "options": ["Weak passwords", "Database queries", "Network ports", "Email servers"],
+    "correctAnswer": "Database queries"
+  },
+  {
+    "id": "CS-014",
+    "question": "Which security principle ensures users get only minimum access?",
+    "options": ["Defense in depth", "Least privilege", "Zero trust", "Fail-safe"],
+    "correctAnswer": "Least privilege"
+  },
+  {
+    "id": "CS-015",
+    "question": "What is the strongest form of authentication?",
+    "options": ["Single-factor", "Two-factor", "Multi-factor", "Password-based"],
+    "correctAnswer": "Multi-factor"
+  },
+  {
+    "id": "CS-016",
+    "question": "Which malware replicates itself without user interaction?",
+    "options": ["Trojan", "Virus", "Worm", "Spyware"],
+    "correctAnswer": "Worm"
+  },
+  {
+    "id": "CS-017",
+    "question": "What does hashing primarily ensure?",
+    "options": ["Confidentiality", "Integrity", "Availability", "Authentication"],
+    "correctAnswer": "Integrity"
+  },
+  {
+    "id": "CS-018",
+    "question": "Which cyber attack uses fake emails to steal information?",
+    "options": ["Spoofing", "Phishing", "Sniffing", "Scanning"],
+    "correctAnswer": "Phishing"
+  },
+  {
+    "id": "CS-019",
+    "question": "What is a zero-day vulnerability?",
+    "options": ["A known patched flaw", "A vulnerability with no fix yet", "A fake vulnerability", "An outdated exploit"],
+    "correctAnswer": "A vulnerability with no fix yet"
+  },
+  {
+    "id": "CS-020",
+    "question": "Which tool is commonly used to scan for open ports?",
+    "options": ["Wireshark", "Nmap", "Metasploit", "Burp Suite"],
+    "correctAnswer": "Nmap"
+  },
+  {
+    "id": "CS-021",
+    "question": "What does IDS stand for?",
+    "options": ["Intrusion Detection System", "Internet Defense Software", "Internal Data Security", "Information Detection Service"],
+    "correctAnswer": "Intrusion Detection System"
+  },
+  {
+    "id": "CS-022",
+    "question": "Which attack involves redirecting traffic to a fake website?",
+    "options": ["Pharming", "Sniffing", "Flooding", "Backdoor"],
+    "correctAnswer": "Pharming"
+  },
+  {
+    "id": "CS-023",
+    "question": "What is the main risk of using public Wi-Fi?",
+    "options": ["Slow speed", "Data interception", "Limited access", "High cost"],
+    "correctAnswer": "Data interception"
+  },
+  {
+    "id": "CS-024",
+    "question": "Which encryption uses the same key for encryption and decryption?",
+    "options": ["Asymmetric", "Public key", "Symmetric", "Hashing"],
+    "correctAnswer": "Symmetric"
+  },
+  {
+    "id": "CS-025",
+    "question": "What is the role of penetration testing?",
+    "options": ["Fix vulnerabilities", "Exploit systems illegally", "Identify security weaknesses", "Monitor user activity"],
+    "correctAnswer": "Identify security weaknesses"
+  },
+  {
+    "id": "CS-026",
+    "question": "Which attack records keystrokes secretly?",
+    "options": ["Spyware", "Keylogger", "Trojan", "Botnet"],
+    "correctAnswer": "Keylogger"
+  },
+  {
+    "id": "CS-027",
+    "question": "What is a botnet?",
+    "options": ["Secure network", "Group of infected devices", "Firewall cluster", "Encryption system"],
+    "correctAnswer": "Group of infected devices"
+  },
+  {
+    "id": "CS-028",
+    "question": "Which principle assumes no user or device is trusted by default?",
+    "options": ["Least privilege", "Defense in depth", "Zero trust", "Role-based access"],
+    "correctAnswer": "Zero trust"
+  },
+  {
+    "id": "CS-029",
+    "question": "What is the main function of digital certificates?",
+    "options": ["Encrypt emails", "Verify identity", "Store passwords", "Detect malware"],
+    "correctAnswer": "Verify identity"
+  },
+  {
+    "id": "CS-030",
+    "question": "Which scenario best describes an Advanced Persistent Threat (APT)?",
+    "options": ["Quick malware infection", "Short-term phishing campaign", "Long-term targeted cyber attack", "Random port scanning"],
+    "correctAnswer": "Long-term targeted cyber attack"
+  },
+  {
+    "id": "CS-031",
+    "question": "Which security control is considered a preventive control?",
+    "options": ["Firewall", "Log analysis", "Incident report", "Audit trail"],
+    "correctAnswer": "Firewall"
+  },
+  {
+    "id": "CS-032",
+    "question": "What does the term \"attack surface\" refer to?",
+    "options": ["Physical size of a server", "Total points where an attacker can try to enter", "Graphical user interface", "Network bandwidth"],
+    "correctAnswer": "Total points where an attacker can try to enter"
+  },
+  {
+    "id": "CS-033",
+    "question": "Which file is commonly targeted in Linux privilege escalation?",
+    "options": ["/etc/passwd", "/var/log/syslog", "/boot/grub", "/home/user"],
+    "correctAnswer": "/etc/passwd"
+  },
+  {
+    "id": "CS-034",
+    "question": "What is the primary risk of default credentials on devices?",
+    "options": ["Slow performance", "Unauthorized access", "Data corruption", "System crash"],
+    "correctAnswer": "Unauthorized access"
+  },
+  {
+    "id": "CS-035",
+    "question": "Which cyber security concept focuses on multiple layers of defense?",
+    "options": ["Least privilege", "Defense in depth", "Zero trust", "Fail-open"],
+    "correctAnswer": "Defense in depth"
+  },
+  {
+    "id": "CS-036",
+    "question": "What is the main purpose of salting passwords?",
+    "options": ["Speed up hashing", "Reduce storage size", "Prevent rainbow table attacks", "Enable encryption"],
+    "correctAnswer": "Prevent rainbow table attacks"
+  },
+  {
+    "id": "CS-037",
+    "question": "Which attack manipulates users into transferring money or data?",
+    "options": ["Phishing", "Business Email Compromise", "DoS", "Port scanning"],
+    "correctAnswer": "Business Email Compromise"
+  },
+  {
+    "id": "CS-038",
+    "question": "What does an IPS do differently from an IDS?",
+    "options": ["Only logs attacks", "Detects but does not block", "Actively blocks malicious traffic", "Encrypts network data"],
+    "correctAnswer": "Actively blocks malicious traffic"
+  },
+  {
+    "id": "CS-039",
+    "question": "Which vulnerability is caused by improper input validation in web apps?",
+    "options": ["XSS", "DDoS", "ARP poisoning", "Clickjacking"],
+    "correctAnswer": "XSS"
+  },
+  {
+    "id": "CS-040",
+    "question": "What is the primary goal of log correlation?",
+    "options": ["Reduce storage", "Improve system speed", "Identify security incidents", "Encrypt logs"],
+    "correctAnswer": "Identify security incidents"
+  },
+  {
+    "id": "CS-041",
+    "question": "Which encryption algorithm is considered asymmetric?",
+    "options": ["AES", "DES", "RSA", "Blowfish"],
+    "correctAnswer": "RSA"
+  },
+  {
+    "id": "CS-042",
+    "question": "What is credential stuffing?",
+    "options": ["Guessing passwords randomly", "Reusing stolen credentials across sites", "Encrypting login data", "Blocking login attempts"],
+    "correctAnswer": "Reusing stolen credentials across sites"
+  },
+  {
+    "id": "CS-043",
+    "question": "Which security model focuses on confidentiality over availability?",
+    "options": ["Bell-LaPadula", "Biba", "Clark-Wilson", "Zero Trust"],
+    "correctAnswer": "Bell-LaPadula"
+  },
+  {
+    "id": "CS-044",
+    "question": "What does EDR stand for in cyber security?",
+    "options": ["Endpoint Detection and Response", "External Data Recovery", "Encrypted Device Routing", "Enterprise Defense Rule"],
+    "correctAnswer": "Endpoint Detection and Response"
+  },
+  {
+    "id": "CS-045",
+    "question": "Which attack exploits trust relationships between systems?",
+    "options": ["Pivoting", "Phishing", "Sniffing", "Flooding"],
+    "correctAnswer": "Pivoting"
+  },
+  {
+    "id": "CS-046",
+    "question": "What is the main purpose of a DMZ in networking?",
+    "options": ["Store backups", "Isolate public-facing services", "Encrypt internal traffic", "Increase bandwidth"],
+    "correctAnswer": "Isolate public-facing services"
+  },
+  {
+    "id": "CS-047",
+    "question": "Which technique hides data inside another file?",
+    "options": ["Encryption", "Hashing", "Steganography", "Tokenization"],
+    "correctAnswer": "Steganography"
+  },
+  {
+    "id": "CS-048",
+    "question": "What type of malware provides attackers persistent remote access?",
+    "options": ["RAT", "Adware", "Virus", "Logic bomb"],
+    "correctAnswer": "RAT"
+  },
+  {
+    "id": "CS-049",
+    "question": "Which security principle ensures systems fail securely?",
+    "options": ["Fail-open", "Fail-safe", "Least privilege", "Zero trust"],
+    "correctAnswer": "Fail-safe"
+  },
+  {
+    "id": "CS-050",
+    "question": "What is the primary danger of outdated software?",
+    "options": ["High memory usage", "Unsupported UI", "Known exploitable vulnerabilities", "Slow startup"],
+    "correctAnswer": "Known exploitable vulnerabilities"
+  },
+  {
+    "id": "CS-051",
+    "question": "Which attack targets DNS resolution to redirect users?",
+    "options": ["DNS spoofing", "ARP flooding", "IP scanning", "Session hijacking"],
+    "correctAnswer": "DNS spoofing"
+  },
+  {
+    "id": "CS-052",
+    "question": "What does the principle of non-repudiation ensure?",
+    "options": ["Data confidentiality", "Proof of origin and delivery", "System availability", "Access control"],
+    "correctAnswer": "Proof of origin and delivery"
+  },
+  {
+    "id": "CS-053",
+    "question": "Which vulnerability scanner is commonly used in enterprises?",
+    "options": ["Nessus", "Wireshark", "John the Ripper", "Aircrack-ng"],
+    "correctAnswer": "Nessus"
+  },
+  {
+    "id": "CS-054",
+    "question": "What is lateral movement in a cyber attack?",
+    "options": ["Initial compromise", "Moving between internal systems", "Data exfiltration", "Privilege revocation"],
+    "correctAnswer": "Moving between internal systems"
+  },
+  {
+    "id": "CS-055",
+    "question": "Which compliance standard focuses on payment card security?",
+    "options": ["ISO 27001", "HIPAA", "PCI DSS", "GDPR"],
+    "correctAnswer": "PCI DSS"
+  },
+  {
+    "id": "CS-056",
+    "question": "What does MFA reduce the risk of most effectively?",
+    "options": ["Malware infection", "Insider threats", "Credential compromise", "DDoS attacks"],
+    "correctAnswer": "Credential compromise"
+  },
+  {
+    "id": "CS-057",
+    "question": "Which technique is used to bypass antivirus detection?",
+    "options": ["Obfuscation", "Logging", "Hardening", "Whitelisting"],
+    "correctAnswer": "Obfuscation"
+  },
+  {
+    "id": "CS-058",
+    "question": "What is the purpose of a security baseline?",
+    "options": ["Maximum performance", "Minimum acceptable security configuration", "User convenience", "Network expansion"],
+    "correctAnswer": "Minimum acceptable security configuration"
+  },
+  {
+    "id": "CS-059",
+    "question": "Which attack abuses legitimate admin tools to avoid detection?",
+    "options": ["Living off the Land", "Brute force", "Pharming", "Clickjacking"],
+    "correctAnswer": "Living off the Land"
+  },
+  {
+    "id": "CS-060",
+    "question": "What is the final stage of the cyber kill chain?",
+    "options": ["Delivery", "Exploitation", "Command and Control", "Actions on Objectives"],
+    "correctAnswer": "Actions on Objectives"
+  },
+  {
+    "id": "CS-061",
+    "question": "Which security concept ensures that data is accessible when needed?",
+    "options": ["Confidentiality", "Integrity", "Availability", "Authentication"],
+    "correctAnswer": "Availability"
+  },
+  {
+    "id": "CS-062",
+    "question": "What is the main risk of shadow IT in an organization?",
+    "options": ["Lower productivity", "Unmanaged security vulnerabilities", "Higher costs", "Slower networks"],
+    "correctAnswer": "Unmanaged security vulnerabilities"
+  },
+  {
+    "id": "CS-063",
+    "question": "Which type of malware spreads by attaching itself to legitimate programs?",
+    "options": ["Worm", "Trojan", "Virus", "Ransomware"],
+    "correctAnswer": "Virus"
+  },
+  {
+    "id": "CS-064",
+    "question": "What does the term \"data exfiltration\" mean?",
+    "options": ["Data encryption", "Unauthorized data transfer out", "Data backup process", "Data deletion"],
+    "correctAnswer": "Unauthorized data transfer out"
+  },
+  {
+    "id": "CS-065",
+    "question": "Which access control model assigns permissions based on job roles?",
+    "options": ["DAC", "MAC", "RBAC", "ABAC"],
+    "correctAnswer": "RBAC"
+  },
+  {
+    "id": "CS-066",
+    "question": "What is the primary purpose of network segmentation?",
+    "options": ["Increase speed", "Reduce attack spread", "Simplify routing", "Lower costs"],
+    "correctAnswer": "Reduce attack spread"
+  },
+  {
+    "id": "CS-067",
+    "question": "Which attack exploits weak session management in web applications?",
+    "options": ["Session hijacking", "Phishing", "DDoS", "DNS poisoning"],
+    "correctAnswer": "Session hijacking"
+  },
+  {
+    "id": "CS-068",
+    "question": "What is the main benefit of using a password manager?",
+    "options": ["Faster login", "Generate and store strong passwords", "Encrypt hard drives", "Block malware"],
+    "correctAnswer": "Generate and store strong passwords"
+  },
+  {
+    "id": "CS-069",
+    "question": "Which monitoring technique focuses on user behavior anomalies?",
+    "options": ["SIEM", "UEBA", "IPS", "DLP"],
+    "correctAnswer": "UEBA"
+  },
+  {
+    "id": "CS-070",
+    "question": "What does DLP primarily aim to prevent?",
+    "options": ["Malware infection", "Data leakage", "Network downtime", "Unauthorized login"],
+    "correctAnswer": "Data leakage"
+  },
+  {
+    "id": "CS-071",
+    "question": "Which cryptographic concept ensures a message has not been altered?",
+    "options": ["Encryption", "Hashing", "Integrity", "Availability"],
+    "correctAnswer": "Integrity"
+  },
+  {
+    "id": "CS-072",
+    "question": "What is the main security concern with IoT devices?",
+    "options": ["High power usage", "Weak default security", "Limited storage", "Slow updates"],
+    "correctAnswer": "Weak default security"
+  },
+  {
+    "id": "CS-073",
+    "question": "Which attack involves repeatedly logging in to lock a user account?",
+    "options": ["Password spraying", "Account lockout attack", "Brute force", "Replay attack"],
+    "correctAnswer": "Account lockout attack"
+  },
+  {
+    "id": "CS-074",
+    "question": "What is the purpose of a honeypot?",
+    "options": ["Block attacks", "Detect and study attackers", "Encrypt sensitive data", "Backup systems"],
+    "correctAnswer": "Detect and study attackers"
+  },
+  {
+    "id": "CS-075",
+    "question": "Which protocol securely transfers files over SSH?",
+    "options": ["FTP", "FTPS", "SFTP", "TFTP"],
+    "correctAnswer": "SFTP"
+  },
+  {
+    "id": "CS-076",
+    "question": "What is the main threat posed by insider attacks?",
+    "options": ["External hackers", "Authorized misuse of access", "Network congestion", "Hardware failure"],
+    "correctAnswer": "Authorized misuse of access"
+  },
+  {
+    "id": "CS-077",
+    "question": "Which type of test checks defenses without prior notice?",
+    "options": ["White-box testing", "Black-box testing", "Gray-box testing", "Code review"],
+    "correctAnswer": "Black-box testing"
+  },
+  {
+    "id": "CS-078",
+    "question": "What does the term \"attack vector\" describe?",
+    "options": ["Impact of an attack", "Method used to gain access", "Attacker identity", "Defense mechanism"],
+    "correctAnswer": "Method used to gain access"
+  },
+  {
+    "id": "CS-079",
+    "question": "Which control helps ensure accountability for user actions?",
+    "options": ["Authentication", "Authorization", "Auditing", "Encryption"],
+    "correctAnswer": "Auditing"
+  },
+  {
+    "id": "CS-080",
+    "question": "What is the main objective of ransomware double extortion?",
+    "options": ["Encrypt data only", "Steal and threaten to leak data", "Disable backups", "Destroy systems"],
+    "correctAnswer": "Steal and threaten to leak data"
+  },
+  {
+    "id": "CS-081",
+    "question": "Which technique limits the damage of compromised credentials?",
+    "options": ["Privilege escalation", "Least privilege", "Password reuse", "Open access"],
+    "correctAnswer": "Least privilege"
+  },
+  {
+    "id": "CS-082",
+    "question": "What is the purpose of a checksum?",
+    "options": ["Encrypt data", "Verify data integrity", "Authenticate users", "Compress files"],
+    "correctAnswer": "Verify data integrity"
+  },
+  {
+    "id": "CS-083",
+    "question": "Which attack uses malicious advertisements to infect users?",
+    "options": ["Phishing", "Malvertising", "Smishing", "Vishing"],
+    "correctAnswer": "Malvertising"
+  },
+  {
+    "id": "CS-084",
+    "question": "What does SOC stand for in cyber security?",
+    "options": ["System Operations Center", "Security Operations Center", "Secure Online Cloud", "Software Oversight Console"],
+    "correctAnswer": "Security Operations Center"
+  },
+  {
+    "id": "CS-085",
+    "question": "Which framework helps organizations identify and manage cyber risks?",
+    "options": ["ITIL", "COBIT", "NIST CSF", "PMBOK"],
+    "correctAnswer": "NIST CSF"
+  },
+  {
+    "id": "CS-086",
+    "question": "What is the main risk of misconfigured cloud storage?",
+    "options": ["High latency", "Public data exposure", "Limited scalability", "Higher costs"],
+    "correctAnswer": "Public data exposure"
+  },
+  {
+    "id": "CS-087",
+    "question": "Which attack takes advantage of race conditions in software?",
+    "options": ["Timing attack", "Side-channel attack", "Replay attack", "Buffer overflow"],
+    "correctAnswer": "Timing attack"
+  },
+  {
+    "id": "CS-088",
+    "question": "What is the purpose of threat modeling?",
+    "options": ["Fix bugs", "Identify potential threats and mitigations", "Monitor logs", "Train users"],
+    "correctAnswer": "Identify potential threats and mitigations"
+  },
+  {
+    "id": "CS-089",
+    "question": "Which security feature helps prevent code from running in memory regions?",
+    "options": ["ASLR", "DEP", "Sandboxing", "Encryption"],
+    "correctAnswer": "DEP"
+  },
+  {
+    "id": "CS-090",
+    "question": "What is the main goal of cyber resilience?",
+    "options": ["Prevent all attacks", "Recover and continue operations after attacks", "Eliminate vulnerabilities", "Replace legacy systems"],
+    "correctAnswer": "Recover and continue operations after attacks"
+  },
+  {
+    "id": "CS-091",
+    "question": "Which security mechanism limits the number of login attempts in a given time?",
+    "options": ["Rate limiting", "Encryption", "Tokenization", "Load balancing"],
+    "correctAnswer": "Rate limiting"
+  },
+  {
+    "id": "CS-092",
+    "question": "What is the primary purpose of access logs?",
+    "options": ["Speed optimization", "Track user activities", "Encrypt sessions", "Prevent malware"],
+    "correctAnswer": "Track user activities"
+  },
+  {
+    "id": "CS-093",
+    "question": "Which type of malware activates when specific conditions are met?",
+    "options": ["Virus", "Logic bomb", "Worm", "Spyware"],
+    "correctAnswer": "Logic bomb"
+  },
+  {
+    "id": "CS-094",
+    "question": "What does the term \"security hardening\" mean?",
+    "options": ["Adding new features", "Reducing system vulnerabilities", "Increasing performance", "Upgrading hardware"],
+    "correctAnswer": "Reducing system vulnerabilities"
+  },
+  {
+    "id": "CS-095",
+    "question": "Which attack targets web application cookies?",
+    "options": ["Session fixation", "ARP spoofing", "DNS poisoning", "Smurf attack"],
+    "correctAnswer": "Session fixation"
+  },
+  {
+    "id": "CS-096",
+    "question": "What is the main goal of data masking?",
+    "options": ["Delete data", "Hide sensitive information", "Compress databases", "Speed up queries"],
+    "correctAnswer": "Hide sensitive information"
+  },
+  {
+    "id": "CS-097",
+    "question": "Which security practice separates development, testing, and production environments?",
+    "options": ["Network bridging", "Environment segregation", "Code obfuscation", "Virtual patching"],
+    "correctAnswer": "Environment segregation"
+  },
+  {
+    "id": "CS-098",
+    "question": "What does the principle of separation of duties prevent?",
+    "options": ["System downtime", "Single-user abuse of power", "External hacking", "Malware execution"],
+    "correctAnswer": "Single-user abuse of power"
+  },
+  {
+    "id": "CS-099",
+    "question": "Which attack leverages compromised websites to infect visitors?",
+    "options": ["Watering hole attack", "Brute force", "Port scanning", "Replay attack"],
+    "correctAnswer": "Watering hole attack"
+  },
+  {
+    "id": "CS-100",
+    "question": "What is the main risk of unmanaged APIs?",
+    "options": ["Low performance", "Unauthorized data access", "UI inconsistency", "High latency"],
+    "correctAnswer": "Unauthorized data access"
+  },
+  {
+    "id": "CS-101",
+    "question": "Which control type aims to correct issues after detection?",
+    "options": ["Preventive", "Detective", "Corrective", "Deterrent"],
+    "correctAnswer": "Corrective"
+  },
+  {
+    "id": "CS-102",
+    "question": "What is the purpose of certificate pinning?",
+    "options": ["Increase speed", "Prevent man-in-the-middle attacks", "Encrypt databases", "Manage passwords"],
+    "correctAnswer": "Prevent man-in-the-middle attacks"
+  },
+  {
+    "id": "CS-103",
+    "question": "Which attack exploits excessive trust in client-side validation?",
+    "options": ["Input tampering", "DDoS", "Sniffing", "Pharming"],
+    "correctAnswer": "Input tampering"
+  },
+  {
+    "id": "CS-104",
+    "question": "What does the term \"blast radius\" describe in security?",
+    "options": ["Physical explosion area", "Extent of damage from an incident", "Network coverage", "Firewall capacity"],
+    "correctAnswer": "Extent of damage from an incident"
+  },
+  {
+    "id": "CS-105",
+    "question": "Which technique helps prevent unauthorized USB device usage?",
+    "options": ["Device whitelisting", "Network segmentation", "Data masking", "Tokenization"],
+    "correctAnswer": "Device whitelisting"
+  },
+  {
+    "id": "CS-106",
+    "question": "What is the primary purpose of a jump server?",
+    "options": ["Backup data", "Secure administrative access", "Load balancing", "Monitor traffic"],
+    "correctAnswer": "Secure administrative access"
+  },
+  {
+    "id": "CS-107",
+    "question": "Which attack abuses weak CAPTCHA implementations?",
+    "options": ["Automated bot attack", "DNS spoofing", "ARP poisoning", "Side-channel attack"],
+    "correctAnswer": "Automated bot attack"
+  },
+  {
+    "id": "CS-108",
+    "question": "What does the term \"credential harvesting\" mean?",
+    "options": ["Encrypting passwords", "Collecting usernames and passwords", "Resetting credentials", "Sharing access tokens"],
+    "correctAnswer": "Collecting usernames and passwords"
+  },
+  {
+    "id": "CS-109",
+    "question": "Which security feature isolates applications to limit impact?",
+    "options": ["Sandboxing", "Hashing", "Port forwarding", "Replication"],
+    "correctAnswer": "Sandboxing"
+  },
+  {
+    "id": "CS-110",
+    "question": "What is the primary risk of over-privileged service accounts?",
+    "options": ["Higher costs", "Expanded attack impact", "Slower services", "Limited scalability"],
+    "correctAnswer": "Expanded attack impact"
+  },
+  {
+    "id": "CS-111",
+    "question": "Which attack relies on observing system behavior indirectly?",
+    "options": ["Side-channel attack", "Brute force", "Flooding", "Replay attack"],
+    "correctAnswer": "Side-channel attack"
+  },
+  {
+    "id": "CS-112",
+    "question": "What is the main purpose of a security playbook?",
+    "options": ["Train developers", "Standardize incident response actions", "Encrypt systems", "Improve UI design"],
+    "correctAnswer": "Standardize incident response actions"
+  },
+  {
+    "id": "CS-113",
+    "question": "Which technique reduces the risk of stolen database backups?",
+    "options": ["Backup encryption", "Load balancing", "Data deduplication", "Indexing"],
+    "correctAnswer": "Backup encryption"
+  },
+  {
+    "id": "CS-114",
+    "question": "What is the key security risk of legacy systems?",
+    "options": ["High maintenance cost", "Lack of vendor support and patches", "Low performance", "Limited storage"],
+    "correctAnswer": "Lack of vendor support and patches"
+  },
+  {
+    "id": "CS-115",
+    "question": "Which attack uses phone calls to trick victims?",
+    "options": ["Smishing", "Vishing", "Phishing", "Whaling"],
+    "correctAnswer": "Vishing"
+  },
+  {
+    "id": "CS-116",
+    "question": "What does the term \"defense evasion\" refer to?",
+    "options": ["Avoiding detection mechanisms", "Physical security breach", "System recovery", "Policy enforcement"],
+    "correctAnswer": "Avoiding detection mechanisms"
+  },
+  {
+    "id": "CS-117",
+    "question": "Which mechanism ensures secure deletion of sensitive data?",
+    "options": ["Data shredding", "Compression", "Replication", "Caching"],
+    "correctAnswer": "Data shredding"
+  },
+  {
+    "id": "CS-118",
+    "question": "What is the main purpose of security awareness training?",
+    "options": ["Improve coding skills", "Reduce human-related security risks", "Upgrade infrastructure", "Increase automation"],
+    "correctAnswer": "Reduce human-related security risks"
+  },
+  {
+    "id": "CS-119",
+    "question": "Which attack exploits excessive system resource consumption without crashing it?",
+    "options": ["Slowloris attack", "Smurf attack", "Buffer overflow", "Logic bomb"],
+    "correctAnswer": "Slowloris attack"
+  },
+  {
+    "id": "CS-120",
+    "question": "What is the primary objective of continuous security monitoring?",
+    "options": ["One-time compliance", "Early detection of threats", "System optimization", "User convenience"],
+    "correctAnswer": "Early detection of threats"
   }
 ]

@@ -1,30 +1,1622 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "MS-001",
+    "question": "Which Microsoft application is primarily used to create text documents?",
+    "options": ["Excel", "PowerPoint", "Word", "Access"],
+    "correctAnswer": "Word"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "MS-002",
+    "question": "Which shortcut key is used to save a file in most Microsoft Office apps?",
+    "options": ["Ctrl + S", "Ctrl + C", "Ctrl + V", "Ctrl + X"],
+    "correctAnswer": "Ctrl + S"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "MS-003",
+    "question": "Which Microsoft Office tool is best suited for creating charts and data analysis?",
+    "options": ["Word", "Excel", "Outlook", "OneNote"],
+    "correctAnswer": "Excel"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "MS-004",
+    "question": "What is the default file extension of Microsoft Word (modern versions)?",
+    "options": [".doc", ".txt", ".docx", ".rtf"],
+    "correctAnswer": ".docx"
+  },
+  {
+    "id": "MS-005",
+    "question": "Which Microsoft app is mainly used for email management?",
+    "options": ["Teams", "Outlook", "Access", "Publisher"],
+    "correctAnswer": "Outlook"
+  },
+  {
+    "id": "MS-006",
+    "question": "In Microsoft Excel, what does a cell reference like A1 represent?",
+    "options": ["A worksheet", "A column only", "A row only", "Intersection of row and column"],
+    "correctAnswer": "Intersection of row and column"
+  },
+  {
+    "id": "MS-007",
+    "question": "Which feature in Microsoft Word allows checking spelling and grammar?",
+    "options": ["Track Changes", "AutoCorrect", "Spell Check", "Thesaurus"],
+    "correctAnswer": "Spell Check"
+  },
+  {
+    "id": "MS-008",
+    "question": "Which Microsoft Office application is used to create slide presentations?",
+    "options": ["Word", "Excel", "PowerPoint", "OneDrive"],
+    "correctAnswer": "PowerPoint"
+  },
+  {
+    "id": "MS-009",
+    "question": "What is the maximum number of rows supported in modern Excel versions?",
+    "options": ["65,536", "500,000", "1,048,576", "2,000,000"],
+    "correctAnswer": "1,048,576"
+  },
+  {
+    "id": "MS-010",
+    "question": "Which Excel function is used to calculate the average of values?",
+    "options": ["SUM()", "COUNT()", "AVERAGE()", "MEAN()"],
+    "correctAnswer": "AVERAGE()"
+  },
+  {
+    "id": "MS-011",
+    "question": "Which Microsoft Office tool is best for creating databases?",
+    "options": ["Excel", "Access", "Word", "Publisher"],
+    "correctAnswer": "Access"
+  },
+  {
+    "id": "MS-012",
+    "question": "In PowerPoint, which view is best for rearranging slides quickly?",
+    "options": ["Normal View", "Slide Sorter View", "Reading View", "Notes View"],
+    "correctAnswer": "Slide Sorter View"
+  },
+  {
+    "id": "MS-013",
+    "question": "Which Excel feature allows automatic filtering of data?",
+    "options": ["Conditional Formatting", "AutoFilter", "Data Validation", "Macros"],
+    "correctAnswer": "AutoFilter"
+  },
+  {
+    "id": "MS-014",
+    "question": "What does OneDrive primarily provide?",
+    "options": ["Email service", "Cloud storage", "Database engine", "Presentation tool"],
+    "correctAnswer": "Cloud storage"
+  },
+  {
+    "id": "MS-015",
+    "question": "Which Word feature is used to record document editing history?",
+    "options": ["Mail Merge", "Track Changes", "Comments", "Styles"],
+    "correctAnswer": "Track Changes"
+  },
+  {
+    "id": "MS-016",
+    "question": "Which Excel function is commonly used to look up values vertically?",
+    "options": ["HLOOKUP", "MATCH", "VLOOKUP", "INDEX"],
+    "correctAnswer": "VLOOKUP"
+  },
+  {
+    "id": "MS-017",
+    "question": "Which Office app is mainly used for team communication and meetings?",
+    "options": ["Skype", "Teams", "Outlook", "Yammer"],
+    "correctAnswer": "Teams"
+  },
+  {
+    "id": "MS-018",
+    "question": "What is the main purpose of macros in Microsoft Office?",
+    "options": ["Design layouts", "Automate repetitive tasks", "Improve security", "Store files"],
+    "correctAnswer": "Automate repetitive tasks"
+  },
+  {
+    "id": "MS-019",
+    "question": "Which Excel chart type is best for showing trends over time?",
+    "options": ["Pie Chart", "Bar Chart", "Line Chart", "Scatter Chart"],
+    "correctAnswer": "Line Chart"
+  },
+  {
+    "id": "MS-020",
+    "question": "Which Word feature combines a document with a data source?",
+    "options": ["SmartArt", "Mail Merge", "Macros", "Bookmarks"],
+    "correctAnswer": "Mail Merge"
+  },
+  {
+    "id": "MS-021",
+    "question": "Which Excel feature prevents invalid data entry in cells?",
+    "options": ["AutoFill", "Data Validation", "Conditional Formatting", "Freeze Panes"],
+    "correctAnswer": "Data Validation"
+  },
+  {
+    "id": "MS-022",
+    "question": "What file extension is used for Excel macro-enabled workbooks?",
+    "options": [".xlsx", ".xls", ".xlsm", ".xltx"],
+    "correctAnswer": ".xlsm"
+  },
+  {
+    "id": "MS-023",
+    "question": "Which PowerPoint feature allows animation between slides?",
+    "options": ["Transitions", "Animations Pane", "Slide Master", "Themes"],
+    "correctAnswer": "Transitions"
+  },
+  {
+    "id": "MS-024",
+    "question": "Which Microsoft Office app is best for note-taking?",
+    "options": ["Word", "OneNote", "Outlook", "Publisher"],
+    "correctAnswer": "OneNote"
+  },
+  {
+    "id": "MS-025",
+    "question": "In Excel, which function counts only numeric values?",
+    "options": ["COUNT()", "COUNTA()", "COUNTIF()", "SUM()"],
+    "correctAnswer": "COUNT()"
+  },
+  {
+    "id": "MS-026",
+    "question": "Which Word feature ensures consistent formatting across a document?",
+    "options": ["Styles", "Themes", "Templates", "Headers"],
+    "correctAnswer": "Styles"
+  },
+  {
+    "id": "MS-027",
+    "question": "Which Excel tool summarizes large datasets dynamically?",
+    "options": ["Charts", "Pivot Tables", "Macros", "Slicers"],
+    "correctAnswer": "Pivot Tables"
+  },
+  {
+    "id": "MS-028",
+    "question": "Which Office app is primarily used for desktop publishing?",
+    "options": ["Word", "Publisher", "PowerPoint", "Access"],
+    "correctAnswer": "Publisher"
+  },
+  {
+    "id": "MS-029",
+    "question": "Which Excel function can return a value from a specified row and column?",
+    "options": ["LOOKUP()", "INDEX()", "MATCH()", "OFFSET()"],
+    "correctAnswer": "INDEX()"
+  },
+  {
+    "id": "MS-030",
+    "question": "Which Office security feature restricts editing to specific users?",
+    "options": ["Protected View", "IRM", "Password Encrypt", "Read Mode"],
+    "correctAnswer": "IRM"
+  },
+  {
+    "id": "MS-031",
+    "question": "Which Microsoft Office feature allows collaboration in real-time on documents?",
+    "options": ["Track Changes", "Co-authoring", "Mail Merge", "Version History"],
+    "correctAnswer": "Co-authoring"
+  },
+  {
+    "id": "MS-032",
+    "question": "Which Excel feature visually highlights data based on rules?",
+    "options": ["Data Validation", "Conditional Formatting", "Pivot Table", "Macros"],
+    "correctAnswer": "Conditional Formatting"
+  },
+  {
+    "id": "MS-033",
+    "question": "What is the primary use of the Slide Master in PowerPoint?",
+    "options": ["Add animations", "Control overall slide design", "Insert charts", "Manage transitions"],
+    "correctAnswer": "Control overall slide design"
+  },
+  {
+    "id": "MS-034",
+    "question": "Which Word feature automatically creates a list of headings with page numbers?",
+    "options": ["Index", "Table of Contents", "Footnotes", "Outline View"],
+    "correctAnswer": "Table of Contents"
+  },
+  {
+    "id": "MS-035",
+    "question": "Which Excel function finds the position of a value in a range?",
+    "options": ["INDEX()", "MATCH()", "FIND()", "SEARCH()"],
+    "correctAnswer": "MATCH()"
+  },
+  {
+    "id": "MS-036",
+    "question": "Which Outlook feature allows scheduling meetings with availability checking?",
+    "options": ["Calendar", "Tasks", "Rules", "Contacts"],
+    "correctAnswer": "Calendar"
+  },
+  {
+    "id": "MS-037",
+    "question": "What does the Excel IF() function primarily perform?",
+    "options": ["Text formatting", "Logical comparison", "Data sorting", "Cell protection"],
+    "correctAnswer": "Logical comparison"
+  },
+  {
+    "id": "MS-038",
+    "question": "Which PowerPoint element is best for presenting hierarchical information?",
+    "options": ["Charts", "SmartArt", "Tables", "Transitions"],
+    "correctAnswer": "SmartArt"
+  },
+  {
+    "id": "MS-039",
+    "question": "Which Microsoft Office app supports form creation with responses stored automatically?",
+    "options": ["Word", "Excel", "Microsoft Forms", "OneNote"],
+    "correctAnswer": "Microsoft Forms"
+  },
+  {
+    "id": "MS-040",
+    "question": "In Excel, what does Freeze Panes allow you to do?",
+    "options": ["Lock formulas", "Keep rows or columns visible while scrolling", "Protect worksheets", "Split windows"],
+    "correctAnswer": "Keep rows or columns visible while scrolling"
+  },
+  {
+    "id": "MS-041",
+    "question": "Which Word feature allows reuse of predefined text blocks?",
+    "options": ["Quick Parts", "Macros", "Templates", "Styles"],
+    "correctAnswer": "Quick Parts"
+  },
+  {
+    "id": "MS-042",
+    "question": "Which Excel feature enables grouping data by categories dynamically?",
+    "options": ["Tables", "Pivot Tables", "Charts", "Filters"],
+    "correctAnswer": "Pivot Tables"
+  },
+  {
+    "id": "MS-043",
+    "question": "Which PowerPoint option lets you rehearse slide timings?",
+    "options": ["Slide Sorter", "Rehearse Timings", "Presenter View", "Reading View"],
+    "correctAnswer": "Rehearse Timings"
+  },
+  {
+    "id": "MS-044",
+    "question": "Which Word feature is used to insert references at the bottom of pages?",
+    "options": ["Citations", "Footnotes", "Endnotes", "Comments"],
+    "correctAnswer": "Footnotes"
+  },
+  {
+    "id": "MS-045",
+    "question": "Which Excel function combines text from multiple cells?",
+    "options": ["MERGE()", "JOIN()", "CONCAT()", "TEXTJOIN()"],
+    "correctAnswer": "TEXTJOIN()"
+  },
+  {
+    "id": "MS-046",
+    "question": "Which Office tool is designed for enterprise social networking?",
+    "options": ["Teams", "Yammer", "Outlook", "SharePoint"],
+    "correctAnswer": "Yammer"
+  },
+  {
+    "id": "MS-047",
+    "question": "What is the purpose of SharePoint in Microsoft Office?",
+    "options": ["Email hosting", "Document management and collaboration", "Presentation design", "Database creation"],
+    "correctAnswer": "Document management and collaboration"
+  },
+  {
+    "id": "MS-048",
+    "question": "Which Excel feature records a sequence of actions for automation?",
+    "options": ["Functions", "Macros", "Add-ins", "Templates"],
+    "correctAnswer": "Macros"
+  },
+  {
+    "id": "MS-049",
+    "question": "Which PowerPoint view is best for speaker notes during a presentation?",
+    "options": ["Normal View", "Presenter View", "Slide Sorter", "Notes Page"],
+    "correctAnswer": "Presenter View"
+  },
+  {
+    "id": "MS-050",
+    "question": "Which Word option restricts editing but allows comments?",
+    "options": ["Read Mode", "Restrict Editing", "Protected View", "Track Changes"],
+    "correctAnswer": "Restrict Editing"
+  },
+  {
+    "id": "MS-051",
+    "question": "Which Excel function rounds a number to a specified number of digits?",
+    "options": ["ROUND()", "FIX()", "INT()", "TRUNC()"],
+    "correctAnswer": "ROUND()"
+  },
+  {
+    "id": "MS-052",
+    "question": "Which Office app is mainly used for creating professional newsletters?",
+    "options": ["Word", "Publisher", "PowerPoint", "OneNote"],
+    "correctAnswer": "Publisher"
+  },
+  {
+    "id": "MS-053",
+    "question": "Which Excel feature visually filters data using clickable buttons?",
+    "options": ["Filters", "Slicers", "Charts", "Tables"],
+    "correctAnswer": "Slicers"
+  },
+  {
+    "id": "MS-054",
+    "question": "Which Word feature allows automatic numbering of figures and tables?",
+    "options": ["Captions", "References", "Styles", "Cross-references"],
+    "correctAnswer": "Captions"
+  },
+  {
+    "id": "MS-055",
+    "question": "Which Excel function returns the current date?",
+    "options": ["NOW()", "DATE()", "TODAY()", "TIME()"],
+    "correctAnswer": "TODAY()"
+  },
+  {
+    "id": "MS-056",
+    "question": "Which PowerPoint feature ensures consistent branding across slides?",
+    "options": ["Themes", "Transitions", "Animations", "Layouts"],
+    "correctAnswer": "Themes"
+  },
+  {
+    "id": "MS-057",
+    "question": "Which Outlook feature automatically organizes incoming emails?",
+    "options": ["Folders", "Rules", "Categories", "Search"],
+    "correctAnswer": "Rules"
+  },
+  {
+    "id": "MS-058",
+    "question": "Which Excel function converts text to uppercase?",
+    "options": ["UPPER()", "CAPS()", "TEXT()", "PROPER()"],
+    "correctAnswer": "UPPER()"
+  },
+  {
+    "id": "MS-059",
+    "question": "Which Word feature allows linking text to another document location?",
+    "options": ["Bookmark", "Hyperlink", "Reference", "Anchor"],
+    "correctAnswer": "Hyperlink"
+  },
+  {
+    "id": "MS-060",
+    "question": "Which Microsoft Office security method assigns permissions based on user roles?",
+    "options": ["IRM", "Password Protection", "Read Mode", "Protected View"],
+    "correctAnswer": "IRM"
+  },
+  {
+    "id": "MS-061",
+    "question": "Which Excel feature allows creating drop-down lists in cells?",
+    "options": ["Conditional Formatting", "Data Validation", "AutoFilter", "Slicers"],
+    "correctAnswer": "Data Validation"
+  },
+  {
+    "id": "MS-062",
+    "question": "Which Word view is best for structuring long documents with headings?",
+    "options": ["Print Layout", "Read Mode", "Outline View", "Draft View"],
+    "correctAnswer": "Outline View"
+  },
+  {
+    "id": "MS-063",
+    "question": "Which PowerPoint option embeds fonts to avoid formatting issues on other devices?",
+    "options": ["Themes", "Embed Fonts", "Slide Master", "Design Ideas"],
+    "correctAnswer": "Embed Fonts"
+  },
+  {
+    "id": "MS-064",
+    "question": "Which Excel function returns the number of non-empty cells?",
+    "options": ["COUNT()", "COUNTA()", "COUNTBLANK()", "SUM()"],
+    "correctAnswer": "COUNTA()"
+  },
+  {
+    "id": "MS-065",
+    "question": "Which Outlook feature allows delayed sending of emails?",
+    "options": ["Rules", "Quick Steps", "Delay Delivery", "Categories"],
+    "correctAnswer": "Delay Delivery"
+  },
+  {
+    "id": "MS-066",
+    "question": "Which Word feature compares two documents to highlight differences?",
+    "options": ["Track Changes", "Compare", "Combine", "Version History"],
+    "correctAnswer": "Compare"
+  },
+  {
+    "id": "MS-067",
+    "question": "Which Excel tool prevents others from editing cell formulas?",
+    "options": ["Protect Sheet", "Freeze Panes", "Lock Cells", "Hide Formulas"],
+    "correctAnswer": "Protect Sheet"
+  },
+  {
+    "id": "MS-068",
+    "question": "Which PowerPoint feature automatically suggests slide layouts and designs?",
+    "options": ["Themes", "Slide Master", "Design Ideas", "SmartArt"],
+    "correctAnswer": "Design Ideas"
+  },
+  {
+    "id": "MS-069",
+    "question": "Which Office app integrates tightly with SharePoint for document libraries?",
+    "options": ["OneNote", "Word", "Teams", "Excel"],
+    "correctAnswer": "Teams"
+  },
+  {
+    "id": "MS-070",
+    "question": "Which Excel function removes extra spaces from text?",
+    "options": ["CLEAN()", "TRIM()", "TEXT()", "PROPER()"],
+    "correctAnswer": "TRIM()"
+  },
+  {
+    "id": "MS-071",
+    "question": "Which Word feature allows creating reusable document blueprints?",
+    "options": ["Styles", "Templates", "Themes", "Quick Parts"],
+    "correctAnswer": "Templates"
+  },
+  {
+    "id": "MS-072",
+    "question": "Which Excel feature allows analyzing data with multiple criteria quickly?",
+    "options": ["Filters", "Pivot Tables", "What-If Analysis", "Conditional Formatting"],
+    "correctAnswer": "What-If Analysis"
+  },
+  {
+    "id": "MS-073",
+    "question": "Which PowerPoint setting enables looping a presentation continuously?",
+    "options": ["Kiosk Mode", "Rehearse Timings", "Presenter View", "Slide Sorter"],
+    "correctAnswer": "Kiosk Mode"
+  },
+  {
+    "id": "MS-074",
+    "question": "Which Word option allows inserting citations from online sources?",
+    "options": ["References Manager", "Source Manager", "Bibliography Tool", "Citations & Bibliography"],
+    "correctAnswer": "Citations & Bibliography"
+  },
+  {
+    "id": "MS-075",
+    "question": "Which Excel function calculates the sum based on a condition?",
+    "options": ["SUM()", "SUMIF()", "COUNTIF()", "AVERAGEIF()"],
+    "correctAnswer": "SUMIF()"
+  },
+  {
+    "id": "MS-076",
+    "question": "Which Office app is optimized for digital ink and handwriting?",
+    "options": ["Word", "OneNote", "PowerPoint", "Outlook"],
+    "correctAnswer": "OneNote"
+  },
+  {
+    "id": "MS-077",
+    "question": "Which Excel feature tracks changes made by multiple users?",
+    "options": ["Co-authoring", "Share Workbook", "Version History", "Track Changes"],
+    "correctAnswer": "Version History"
+  },
+  {
+    "id": "MS-078",
+    "question": "Which PowerPoint feature allows adding interactive buttons for navigation?",
+    "options": ["Action Buttons", "Hyperlinks", "SmartArt", "Transitions"],
+    "correctAnswer": "Action Buttons"
+  },
+  {
+    "id": "MS-079",
+    "question": "Which Word feature locks specific sections of a document?",
+    "options": ["Restrict Editing", "Protected View", "Read Mode", "IRM"],
+    "correctAnswer": "Restrict Editing"
+  },
+  {
+    "id": "MS-080",
+    "question": "Which Excel function returns the largest value in a range?",
+    "options": ["MAX()", "LARGE()", "TOP()", "HIGH()"],
+    "correctAnswer": "MAX()"
+  },
+  {
+    "id": "MS-081",
+    "question": "Which Outlook feature converts emails into tasks automatically?",
+    "options": ["Rules", "Quick Steps", "Categories", "Flags"],
+    "correctAnswer": "Quick Steps"
+  },
+  {
+    "id": "MS-082",
+    "question": "Which Word feature allows automatic cross-referencing within a document?",
+    "options": ["Bookmarks", "Hyperlinks", "Cross-references", "Captions"],
+    "correctAnswer": "Cross-references"
+  },
+  {
+    "id": "MS-083",
+    "question": "Which Excel feature visually represents data trends inside cells?",
+    "options": ["Charts", "Sparklines", "Conditional Formatting", "Icons"],
+    "correctAnswer": "Sparklines"
+  },
+  {
+    "id": "MS-084",
+    "question": "Which PowerPoint view is best for printing speaker notes?",
+    "options": ["Notes Page", "Normal View", "Presenter View", "Outline View"],
+    "correctAnswer": "Notes Page"
+  },
+  {
+    "id": "MS-085",
+    "question": "Which Office tool is used to manage enterprise content workflows?",
+    "options": ["Teams", "SharePoint", "Yammer", "OneDrive"],
+    "correctAnswer": "SharePoint"
+  },
+  {
+    "id": "MS-086",
+    "question": "Which Excel function converts text to proper case?",
+    "options": ["UPPER()", "LOWER()", "PROPER()", "TEXT()"],
+    "correctAnswer": "PROPER()"
+  },
+  {
+    "id": "MS-087",
+    "question": "Which Word feature allows saving a document as a reusable building block?",
+    "options": ["Templates", "Quick Parts", "Styles", "Themes"],
+    "correctAnswer": "Quick Parts"
+  },
+  {
+    "id": "MS-088",
+    "question": "Which Excel feature analyzes possible outcomes by changing input values?",
+    "options": ["Solver", "What-If Analysis", "Goal Seek", "Scenarios"],
+    "correctAnswer": "Goal Seek"
+  },
+  {
+    "id": "MS-089",
+    "question": "Which PowerPoint option compresses media to reduce file size?",
+    "options": ["Optimize Media", "Compress Media", "Reduce Size", "Media Tools"],
+    "correctAnswer": "Compress Media"
+  },
+  {
+    "id": "MS-090",
+    "question": "Which Microsoft Office feature ensures data protection even after sharing files?",
+    "options": ["Password Protection", "IRM", "Protected View", "Read Mode"],
+    "correctAnswer": "IRM"
+  },
+  {
+    "id": "MS-091",
+    "question": "Which Excel feature allows creating calculated fields in Pivot Tables?",
+    "options": ["Power Query", "Calculated Field", "What-If Analysis", "Data Model"],
+    "correctAnswer": "Calculated Field"
+  },
+  {
+    "id": "MS-092",
+    "question": "Which Word option removes all formatting and keeps plain text only?",
+    "options": ["Clear Styles", "Paste Special", "Remove Formatting", "Text Only"],
+    "correctAnswer": "Paste Special"
+  },
+  {
+    "id": "MS-093",
+    "question": "Which PowerPoint feature allows recording narration for slides?",
+    "options": ["Slide Show", "Record Slide Show", "Presenter View", "Notes Page"],
+    "correctAnswer": "Record Slide Show"
+  },
+  {
+    "id": "MS-094",
+    "question": "Which Excel function checks multiple conditions at once?",
+    "options": ["IF()", "IFS()", "AND()", "OR()"],
+    "correctAnswer": "IFS()"
+  },
+  {
+    "id": "MS-095",
+    "question": "Which Outlook feature groups emails by conversation threads?",
+    "options": ["Focused Inbox", "Conversation View", "Categories", "Search Folders"],
+    "correctAnswer": "Conversation View"
+  },
+  {
+    "id": "MS-096",
+    "question": "Which Word feature is used to manage large documents by sections?",
+    "options": ["Breaks", "Sections", "Outline View", "Styles"],
+    "correctAnswer": "Sections"
+  },
+  {
+    "id": "MS-097",
+    "question": "Which Excel tool imports and transforms data from external sources?",
+    "options": ["Solver", "Power Query", "Macros", "Data Validation"],
+    "correctAnswer": "Power Query"
+  },
+  {
+    "id": "MS-098",
+    "question": "Which PowerPoint feature aligns objects precisely on slides?",
+    "options": ["Gridlines", "Smart Guides", "Ruler", "Arrange"],
+    "correctAnswer": "Smart Guides"
+  },
+  {
+    "id": "MS-099",
+    "question": "Which Office app allows simultaneous editing with cursor indicators?",
+    "options": ["Word Online", "Excel Desktop", "Access", "Publisher"],
+    "correctAnswer": "Word Online"
+  },
+  {
+    "id": "MS-100",
+    "question": "Which Excel function extracts a substring from text?",
+    "options": ["MID()", "SPLIT()", "TEXT()", "VALUE()"],
+    "correctAnswer": "MID()"
+  },
+  {
+    "id": "MS-101",
+    "question": "Which Word feature automatically fixes common typing mistakes?",
+    "options": ["AutoText", "AutoCorrect", "Spell Check", "Quick Parts"],
+    "correctAnswer": "AutoCorrect"
+  },
+  {
+    "id": "MS-102",
+    "question": "Which Excel feature allows creating relationships between multiple tables?",
+    "options": ["Power Pivot", "Data Validation", "Pivot Charts", "Tables"],
+    "correctAnswer": "Power Pivot"
+  },
+  {
+    "id": "MS-103",
+    "question": "Which PowerPoint option exports slides as a video file?",
+    "options": ["Save As Video", "Export Media", "Publish Slides", "Share Presentation"],
+    "correctAnswer": "Save As Video"
+  },
+  {
+    "id": "MS-104",
+    "question": "Which Outlook feature helps prioritize important emails automatically?",
+    "options": ["Conversation View", "Focused Inbox", "Rules", "Flags"],
+    "correctAnswer": "Focused Inbox"
+  },
+  {
+    "id": "MS-105",
+    "question": "Which Word feature allows locking formatting but not content?",
+    "options": ["Restrict Editing", "Protected View", "IRM", "Read Mode"],
+    "correctAnswer": "Restrict Editing"
+  },
+  {
+    "id": "MS-106",
+    "question": "Which Excel function returns the smallest value in a range?",
+    "options": ["MIN()", "SMALL()", "LOW()", "BOTTOM()"],
+    "correctAnswer": "MIN()"
+  },
+  {
+    "id": "MS-107",
+    "question": "Which Office tool allows creating automated workflows without coding?",
+    "options": ["Power Automate", "Macros", "Power Query", "VBA"],
+    "correctAnswer": "Power Automate"
+  },
+  {
+    "id": "MS-108",
+    "question": "Which PowerPoint feature hides slides without deleting them?",
+    "options": ["Skip Slide", "Hide Slide", "Remove Slide", "Collapse Slide"],
+    "correctAnswer": "Hide Slide"
+  },
+  {
+    "id": "MS-109",
+    "question": "Which Word option keeps headings visible while scrolling?",
+    "options": ["Freeze Panes", "Navigation Pane", "Split View", "Outline Mode"],
+    "correctAnswer": "Navigation Pane"
+  },
+  {
+    "id": "MS-110",
+    "question": "Which Excel function counts cells based on a condition?",
+    "options": ["COUNT()", "COUNTIF()", "COUNTA()", "SUMIF()"],
+    "correctAnswer": "COUNTIF()"
+  },
+  {
+    "id": "MS-111",
+    "question": "Which Outlook feature creates shared calendars for teams?",
+    "options": ["Public Folders", "Shared Calendar", "Meeting Poll", "Groups"],
+    "correctAnswer": "Shared Calendar"
+  },
+  {
+    "id": "MS-112",
+    "question": "Which Word feature allows inserting equations and mathematical symbols?",
+    "options": ["Symbol", "Equation Editor", "Math Tools", "Object Insert"],
+    "correctAnswer": "Equation Editor"
+  },
+  {
+    "id": "MS-113",
+    "question": "Which Excel feature visually displays data distribution?",
+    "options": ["Histogram", "Line Chart", "Pie Chart", "TreeMap"],
+    "correctAnswer": "Histogram"
+  },
+  {
+    "id": "MS-114",
+    "question": "Which PowerPoint view is best for managing animations timing?",
+    "options": ["Normal View", "Slide Sorter", "Animation Pane", "Presenter View"],
+    "correctAnswer": "Animation Pane"
+  },
+  {
+    "id": "MS-115",
+    "question": "Which Office app is best suited for creating fillable forms?",
+    "options": ["Word", "Excel", "Microsoft Forms", "OneNote"],
+    "correctAnswer": "Microsoft Forms"
+  },
+  {
+    "id": "MS-116",
+    "question": "Which Excel function returns text length?",
+    "options": ["LEN()", "COUNT()", "SIZE()", "TEXTLEN()"],
+    "correctAnswer": "LEN()"
+  },
+  {
+    "id": "MS-117",
+    "question": "Which Word feature allows adding watermarks to documents?",
+    "options": ["Page Color", "Watermark", "Background", "Page Border"],
+    "correctAnswer": "Watermark"
+  },
+  {
+    "id": "MS-118",
+    "question": "Which Excel feature allows forecasting future values based on trends?",
+    "options": ["Forecast Sheet", "Goal Seek", "Solver", "Scenarios"],
+    "correctAnswer": "Forecast Sheet"
+  },
+  {
+    "id": "MS-119",
+    "question": "Which PowerPoint option allows zooming into specific slide sections?",
+    "options": ["Slide Zoom", "Section Zoom", "Morph", "Focus View"],
+    "correctAnswer": "Section Zoom"
+  },
+  {
+    "id": "MS-120",
+    "question": "Which Microsoft Office feature supports role-based access control for documents?",
+    "options": ["IRM", "Password Encryption", "Protected View", "Read Mode"],
+    "correctAnswer": "IRM"
+  },
+  {
+    "id": "MS-121",
+    "question": "Which Excel feature allows combining data from multiple worksheets automatically?",
+    "options": ["Consolidate", "Power Query", "Merge Cells", "Data Validation"],
+    "correctAnswer": "Consolidate"
+  },
+  {
+    "id": "MS-122",
+    "question": "Which Word feature helps identify document structure quickly?",
+    "options": ["Navigation Pane", "Outline View", "Styles", "Bookmarks"],
+    "correctAnswer": "Navigation Pane"
+  },
+  {
+    "id": "MS-123",
+    "question": "Which PowerPoint feature enables smooth object-based transitions?",
+    "options": ["Fade", "Morph", "Zoom", "Wipe"],
+    "correctAnswer": "Morph"
+  },
+  {
+    "id": "MS-124",
+    "question": "Which Excel function converts numbers stored as text into numeric values?",
+    "options": ["TEXT()", "VALUE()", "NUM()", "CONVERT()"],
+    "correctAnswer": "VALUE()"
+  },
+  {
+    "id": "MS-125",
+    "question": "Which Outlook feature creates virtual folders without moving emails?",
+    "options": ["Folders", "Search Folders", "Rules", "Categories"],
+    "correctAnswer": "Search Folders"
+  },
+  {
+    "id": "MS-126",
+    "question": "Which Word feature allows applying multiple formatting styles at once?",
+    "options": ["Themes", "Styles", "Templates", "Quick Parts"],
+    "correctAnswer": "Styles"
+  },
+  {
+    "id": "MS-127",
+    "question": "Which Excel tool highlights duplicate values automatically?",
+    "options": ["Data Validation", "Conditional Formatting", "Slicers", "Filters"],
+    "correctAnswer": "Conditional Formatting"
+  },
+  {
+    "id": "MS-128",
+    "question": "Which PowerPoint feature groups slides into logical sections?",
+    "options": ["Slide Sorter", "Section Headers", "Slide Master", "Outline View"],
+    "correctAnswer": "Section Headers"
+  },
+  {
+    "id": "MS-129",
+    "question": "Which Office app allows syncing files for offline access?",
+    "options": ["OneDrive", "SharePoint", "Teams", "Outlook"],
+    "correctAnswer": "OneDrive"
+  },
+  {
+    "id": "MS-130",
+    "question": "Which Excel function returns the current date and time?",
+    "options": ["TODAY()", "NOW()", "DATE()", "TIME()"],
+    "correctAnswer": "NOW()"
+  },
+  {
+    "id": "MS-131",
+    "question": "Which Word feature allows comparing multiple document versions?",
+    "options": ["Track Changes", "Compare", "Combine", "Version History"],
+    "correctAnswer": "Compare"
+  },
+  {
+    "id": "MS-132",
+    "question": "Which Excel feature allows analyzing large datasets with DAX formulas?",
+    "options": ["Power Pivot", "Pivot Tables", "Solver", "Macros"],
+    "correctAnswer": "Power Pivot"
+  },
+  {
+    "id": "MS-133",
+    "question": "Which PowerPoint option allows inserting live web content?",
+    "options": ["Web Viewer", "Online Media", "Embed Object", "Live Slide"],
+    "correctAnswer": "Online Media"
+  },
+  {
+    "id": "MS-134",
+    "question": "Which Outlook feature automatically suggests meeting times?",
+    "options": ["Calendar", "Scheduling Assistant", "Meeting Poll", "Availability Checker"],
+    "correctAnswer": "Scheduling Assistant"
+  },
+  {
+    "id": "MS-135",
+    "question": "Which Word feature creates automatic indexes for terms?",
+    "options": ["Index", "Table of Contents", "Captions", "Cross-references"],
+    "correctAnswer": "Index"
+  },
+  {
+    "id": "MS-136",
+    "question": "Which Excel function replaces specific text within a string?",
+    "options": ["SUBSTITUTE()", "REPLACE()", "SWAP()", "CHANGE()"],
+    "correctAnswer": "SUBSTITUTE()"
+  },
+  {
+    "id": "MS-137",
+    "question": "Which Office tool allows building low-code business apps?",
+    "options": ["Power Apps", "Power Automate", "SharePoint", "Access"],
+    "correctAnswer": "Power Apps"
+  },
+  {
+    "id": "MS-138",
+    "question": "Which PowerPoint feature allows creating non-linear presentations?",
+    "options": ["Slide Zoom", "Hyperlinks", "Section Zoom", "Custom Slide Show"],
+    "correctAnswer": "Custom Slide Show"
+  },
+  {
+    "id": "MS-139",
+    "question": "Which Word option prevents copying content from a document?",
+    "options": ["Password Protection", "Restrict Editing", "IRM", "Protected View"],
+    "correctAnswer": "IRM"
+  },
+  {
+    "id": "MS-140",
+    "question": "Which Excel function finds the position of text within another text?",
+    "options": ["SEARCH()", "FIND()", "MATCH()", "LOCATE()"],
+    "correctAnswer": "FIND()"
+  },
+  {
+    "id": "MS-141",
+    "question": "Which Outlook feature allows assigning color labels to emails?",
+    "options": ["Flags", "Categories", "Rules", "Folders"],
+    "correctAnswer": "Categories"
+  },
+  {
+    "id": "MS-142",
+    "question": "Which Word feature allows splitting a document into multiple columns?",
+    "options": ["Columns", "Sections", "Layouts", "Tables"],
+    "correctAnswer": "Columns"
+  },
+  {
+    "id": "MS-143",
+    "question": "Which Excel feature allows sharing dashboards interactively?",
+    "options": ["Power BI", "Pivot Charts", "Slicers", "Charts"],
+    "correctAnswer": "Power BI"
+  },
+  {
+    "id": "MS-144",
+    "question": "Which PowerPoint feature shows slides on one screen and notes on another?",
+    "options": ["Presenter View", "Reading View", "Slide Show View", "Notes Page"],
+    "correctAnswer": "Presenter View"
+  },
+  {
+    "id": "MS-145",
+    "question": "Which Word feature allows inserting automatically updating fields?",
+    "options": ["Fields", "Quick Parts", "References", "Bookmarks"],
+    "correctAnswer": "Fields"
+  },
+  {
+    "id": "MS-146",
+    "question": "Which Excel function calculates average based on a condition?",
+    "options": ["AVERAGE()", "AVERAGEIF()", "MEAN()", "AVG()"],
+    "correctAnswer": "AVERAGEIF()"
+  },
+  {
+    "id": "MS-147",
+    "question": "Which Office app allows managing tasks with boards and cards?",
+    "options": ["Planner", "To Do", "OneNote", "Project"],
+    "correctAnswer": "Planner"
+  },
+  {
+    "id": "MS-148",
+    "question": "Which PowerPoint feature allows aligning objects to the slide center automatically?",
+    "options": ["Align Tools", "Smart Guides", "Gridlines", "Arrange"],
+    "correctAnswer": "Align Tools"
+  },
+  {
+    "id": "MS-149",
+    "question": "Which Word feature allows inserting comments without changing text?",
+    "options": ["Track Changes", "Comments", "Notes", "Review Mode"],
+    "correctAnswer": "Comments"
+  },
+  {
+    "id": "MS-150",
+    "question": "Which Microsoft Office feature supports enterprise-level data loss prevention?",
+    "options": ["IRM", "DLP Policies", "Protected View", "Encryption"],
+    "correctAnswer": "DLP Policies"
+  },
+  {
+    "id": "MS-151",
+    "question": "Which Excel feature allows stepping through formula calculations?",
+    "options": ["Formula Auditing", "Evaluate Formula", "Trace Dependents", "Name Manager"],
+    "correctAnswer": "Evaluate Formula"
+  },
+  {
+    "id": "MS-152",
+    "question": "Which Word tool is used to control widow and orphan lines in paragraphs?",
+    "options": ["Line Spacing", "Paragraph Settings", "Pagination", "Widow/Orphan Control"],
+    "correctAnswer": "Widow/Orphan Control"
+  },
+  {
+    "id": "MS-153",
+    "question": "Which PowerPoint feature keeps text readable on small screens automatically?",
+    "options": ["AutoFit", "Design Ideas", "Responsive Text", "Slide Master"],
+    "correctAnswer": "AutoFit"
+  },
+  {
+    "id": "MS-154",
+    "question": "Which Excel function returns a random number between 0 and 1?",
+    "options": ["RAND()", "RANDOM()", "RANDBETWEEN()", "VALUE()"],
+    "correctAnswer": "RAND()"
+  },
+  {
+    "id": "MS-155",
+    "question": "Which Outlook feature automatically moves emails based on conditions?",
+    "options": ["Folders", "Categories", "Rules", "Quick Steps"],
+    "correctAnswer": "Rules"
+  },
+  {
+    "id": "MS-156",
+    "question": "Which Word feature allows legal-style line numbering?",
+    "options": ["Track Changes", "Line Numbers", "Page Setup", "References"],
+    "correctAnswer": "Line Numbers"
+  },
+  {
+    "id": "MS-157",
+    "question": "Which Excel tool visually maps values using color gradients?",
+    "options": ["Data Bars", "Color Scales", "Icon Sets", "Sparklines"],
+    "correctAnswer": "Color Scales"
+  },
+  {
+    "id": "MS-158",
+    "question": "Which PowerPoint option allows exporting handouts to Word?",
+    "options": ["Send to Word", "Export Notes", "Handout Master", "Publish Slides"],
+    "correctAnswer": "Send to Word"
+  },
+  {
+    "id": "MS-159",
+    "question": "Which Microsoft 365 service provides version-controlled document libraries?",
+    "options": ["OneDrive", "SharePoint", "Teams", "Outlook"],
+    "correctAnswer": "SharePoint"
+  },
+  {
+    "id": "MS-160",
+    "question": "Which Excel function converts text representing numbers into real numbers?",
+    "options": ["NUM()", "TEXT()", "VALUE()", "CONVERT()"],
+    "correctAnswer": "VALUE()"
+  },
+  {
+    "id": "MS-161",
+    "question": "Which Word feature allows collapsing sections under headings?",
+    "options": ["Navigation Pane", "Outline Collapse", "Heading Collapse", "Outline View"],
+    "correctAnswer": "Outline View"
+  },
+  {
+    "id": "MS-162",
+    "question": "Which Excel feature helps identify circular references?",
+    "options": ["Error Checking", "Formula Auditing", "Trace Precedents", "Watch Window"],
+    "correctAnswer": "Error Checking"
+  },
+  {
+    "id": "MS-163",
+    "question": "Which PowerPoint feature smoothly animates changes between slides?",
+    "options": ["Fade", "Morph", "Motion Path", "Transform"],
+    "correctAnswer": "Morph"
+  },
+  {
+    "id": "MS-164",
+    "question": "Which Outlook feature highlights messages from important senders?",
+    "options": ["Rules", "Focused Inbox", "Flags", "Search Folders"],
+    "correctAnswer": "Focused Inbox"
+  },
+  {
+    "id": "MS-165",
+    "question": "Which Word option prevents formatting changes but allows text edits?",
+    "options": ["Restrict Editing", "Read Mode", "Protected View", "IRM"],
+    "correctAnswer": "Restrict Editing"
+  },
+  {
+    "id": "MS-166",
+    "question": "Which Excel function returns TRUE if all conditions are met?",
+    "options": ["OR()", "IF()", "AND()", "IFS()"],
+    "correctAnswer": "AND()"
+  },
+  {
+    "id": "MS-167",
+    "question": "Which Office tool automates approval workflows across apps?",
+    "options": ["Power Apps", "Power Automate", "Planner", "VBA"],
+    "correctAnswer": "Power Automate"
+  },
+  {
+    "id": "MS-168",
+    "question": "Which PowerPoint feature allows zooming into part of a slide during presentation?",
+    "options": ["Slide Zoom", "Section Zoom", "Zoom Tool", "Magnifier"],
+    "correctAnswer": "Slide Zoom"
+  },
+  {
+    "id": "MS-169",
+    "question": "Which Word feature creates references that update page numbers automatically?",
+    "options": ["Bookmarks", "Hyperlinks", "Cross-references", "Fields"],
+    "correctAnswer": "Cross-references"
+  },
+  {
+    "id": "MS-170",
+    "question": "Which Excel feature allows viewing formula results from multiple cells at once?",
+    "options": ["Watch Window", "Name Manager", "Evaluate Formula", "Formula Bar"],
+    "correctAnswer": "Watch Window"
+  },
+  {
+    "id": "MS-171",
+    "question": "Which Outlook feature converts emails into calendar events?",
+    "options": ["Quick Steps", "Rules", "Flags", "Categories"],
+    "correctAnswer": "Quick Steps"
+  },
+  {
+    "id": "MS-172",
+    "question": "Which Word feature enables automatic hyphenation of text?",
+    "options": ["Justification", "Line Breaks", "Hyphenation", "Word Wrap"],
+    "correctAnswer": "Hyphenation"
+  },
+  {
+    "id": "MS-173",
+    "question": "Which Excel function returns a value based on column index in a table?",
+    "options": ["VLOOKUP()", "HLOOKUP()", "INDEX()", "MATCH()"],
+    "correctAnswer": "VLOOKUP()"
+  },
+  {
+    "id": "MS-174",
+    "question": "Which PowerPoint feature controls the default layout of new slides?",
+    "options": ["Themes", "Slide Master", "Layouts", "Design Ideas"],
+    "correctAnswer": "Slide Master"
+  },
+  {
+    "id": "MS-175",
+    "question": "Which Microsoft app manages personal tasks across devices?",
+    "options": ["Planner", "To Do", "OneNote", "Project"],
+    "correctAnswer": "To Do"
+  },
+  {
+    "id": "MS-176",
+    "question": "Which Excel function returns the nth largest value?",
+    "options": ["MAX()", "TOP()", "LARGE()", "RANK()"],
+    "correctAnswer": "LARGE()"
+  },
+  {
+    "id": "MS-177",
+    "question": "Which Word feature allows inserting reusable headers and footers?",
+    "options": ["Templates", "Styles", "Quick Parts", "Building Blocks"],
+    "correctAnswer": "Building Blocks"
+  },
+  {
+    "id": "MS-178",
+    "question": "Which Excel feature predicts future values using historical data?",
+    "options": ["Goal Seek", "Forecast Sheet", "Solver", "Scenarios"],
+    "correctAnswer": "Forecast Sheet"
+  },
+  {
+    "id": "MS-179",
+    "question": "Which PowerPoint option compresses images only (not videos)?",
+    "options": ["Optimize Media", "Compress Pictures", "Reduce File Size", "Image Tools"],
+    "correctAnswer": "Compress Pictures"
+  },
+  {
+    "id": "MS-180",
+    "question": "Which Microsoft 365 feature prevents sharing sensitive information externally?",
+    "options": ["IRM", "DLP Policies", "Encryption", "Protected View"],
+    "correctAnswer": "DLP Policies"
+  },
+  {
+    "id": "MS-181",
+    "question": "Which Excel feature allows naming a range for easier formula use?",
+    "options": ["Name Manager", "Define Name", "Named Range", "Range Alias"],
+    "correctAnswer": "Define Name"
+  },
+  {
+    "id": "MS-182",
+    "question": "Which Word option ensures headings appear in the document navigation?",
+    "options": ["Outline Level", "Styles Pane", "Navigation Pane", "Heading Levels"],
+    "correctAnswer": "Navigation Pane"
+  },
+  {
+    "id": "MS-183",
+    "question": "Which PowerPoint feature animates slide objects based on movement paths?",
+    "options": ["Transitions", "Morph", "Motion Paths", "Zoom"],
+    "correctAnswer": "Motion Paths"
+  },
+  {
+    "id": "MS-184",
+    "question": "Which Excel function returns the position of the largest value in a range?",
+    "options": ["MAX()", "MATCH()", "RANK()", "LARGE()"],
+    "correctAnswer": "MATCH()"
+  },
+  {
+    "id": "MS-185",
+    "question": "Which Outlook feature allows sending automatic replies?",
+    "options": ["Rules", "Focused Inbox", "Out of Office", "Quick Steps"],
+    "correctAnswer": "Out of Office"
+  },
+  {
+    "id": "MS-186",
+    "question": "Which Word feature allows repeating table headers on each page?",
+    "options": ["Table Properties", "Repeat Header Rows", "Header Row Lock", "Table Styles"],
+    "correctAnswer": "Repeat Header Rows"
+  },
+  {
+    "id": "MS-187",
+    "question": "Which Excel feature shows small charts inside cells?",
+    "options": ["Mini Charts", "Inline Charts", "Sparklines", "Data Bars"],
+    "correctAnswer": "Sparklines"
+  },
+  {
+    "id": "MS-188",
+    "question": "Which PowerPoint option allows rehearsing narration with timing?",
+    "options": ["Presenter View", "Rehearse Timings", "Record Slide Show", "Notes View"],
+    "correctAnswer": "Rehearse Timings"
+  },
+  {
+    "id": "MS-189",
+    "question": "Which Microsoft 365 app is mainly used for collaborative whiteboarding?",
+    "options": ["OneNote", "Whiteboard", "Loop", "Planner"],
+    "correctAnswer": "Whiteboard"
+  },
+  {
+    "id": "MS-190",
+    "question": "Which Excel function returns text from the left side of a string?",
+    "options": ["LEFT()", "MID()", "RIGHT()", "TEXTLEFT()"],
+    "correctAnswer": "LEFT()"
+  },
+  {
+    "id": "MS-191",
+    "question": "Which Word feature allows inserting a table of authorities?",
+    "options": ["Citations", "Index", "Table of Authorities", "References"],
+    "correctAnswer": "Table of Authorities"
+  },
+  {
+    "id": "MS-192",
+    "question": "Which Excel feature helps analyze sensitivity by changing multiple variables?",
+    "options": ["Goal Seek", "Scenarios", "Solver", "Forecast Sheet"],
+    "correctAnswer": "Scenarios"
+  },
+  {
+    "id": "MS-193",
+    "question": "Which PowerPoint feature allows interactive navigation during presentation?",
+    "options": ["Action Buttons", "Custom Slide Show", "Slide Zoom", "Hyperlinks"],
+    "correctAnswer": "Action Buttons"
+  },
+  {
+    "id": "MS-194",
+    "question": "Which Outlook feature groups emails into virtual folders by criteria?",
+    "options": ["Rules", "Categories", "Search Folders", "Quick Steps"],
+    "correctAnswer": "Search Folders"
+  },
+  {
+    "id": "MS-195",
+    "question": "Which Word feature allows protecting only specific sections?",
+    "options": ["Read Mode", "Protected View", "Restrict Editing", "IRM"],
+    "correctAnswer": "Restrict Editing"
+  },
+  {
+    "id": "MS-196",
+    "question": "Which Excel function returns the number of blank cells?",
+    "options": ["COUNT()", "COUNTBLANK()", "COUNTA()", "ISBLANK()"],
+    "correctAnswer": "COUNTBLANK()"
+  },
+  {
+    "id": "MS-197",
+    "question": "Which Microsoft Power Platform tool visualizes data interactively?",
+    "options": ["Power Apps", "Power Automate", "Power BI", "Dataverse"],
+    "correctAnswer": "Power BI"
+  },
+  {
+    "id": "MS-198",
+    "question": "Which PowerPoint feature ensures consistent fonts and colors across slides?",
+    "options": ["Themes", "Slide Layouts", "Design Ideas", "Master Styles"],
+    "correctAnswer": "Themes"
+  },
+  {
+    "id": "MS-199",
+    "question": "Which Word feature allows automatic numbering of headings?",
+    "options": ["Multilevel List", "Styles", "Outline Mode", "Numbering"],
+    "correctAnswer": "Multilevel List"
+  },
+  {
+    "id": "MS-200",
+    "question": "Which Excel function rounds numbers down regardless of decimals?",
+    "options": ["ROUND()", "TRUNC()", "FLOOR()", "INT()"],
+    "correctAnswer": "INT()"
+  },
+  {
+    "id": "MS-201",
+    "question": "Which Outlook feature flags messages for follow-up?",
+    "options": ["Categories", "Rules", "Flags", "Tasks"],
+    "correctAnswer": "Flags"
+  },
+  {
+    "id": "MS-202",
+    "question": "Which Word option allows inserting section breaks?",
+    "options": ["Page Layout", "Breaks", "Layout Tools", "Page Setup"],
+    "correctAnswer": "Breaks"
+  },
+  {
+    "id": "MS-203",
+    "question": "Which Excel feature tracks precedent and dependent cells visually?",
+    "options": ["Watch Window", "Formula Auditing", "Evaluate Formula", "Error Checking"],
+    "correctAnswer": "Formula Auditing"
+  },
+  {
+    "id": "MS-204",
+    "question": "Which PowerPoint option allows exporting slides as images?",
+    "options": ["Save As", "Export Images", "Publish Slides", "Slide Output"],
+    "correctAnswer": "Save As"
+  },
+  {
+    "id": "MS-205",
+    "question": "Which Microsoft app is designed for collaborative components across documents?",
+    "options": ["Loop", "OneNote", "Planner", "Forms"],
+    "correctAnswer": "Loop"
+  },
+  {
+    "id": "MS-206",
+    "question": "Which Excel function returns TRUE if any condition is met?",
+    "options": ["IF()", "AND()", "OR()", "IFS()"],
+    "correctAnswer": "OR()"
+  },
+  {
+    "id": "MS-207",
+    "question": "Which Word feature allows inserting automatically updating dates?",
+    "options": ["Fields", "Quick Parts", "References", "Text Controls"],
+    "correctAnswer": "Fields"
+  },
+  {
+    "id": "MS-208",
+    "question": "Which Excel feature enables collaborative editing with cell indicators?",
+    "options": ["Share Workbook", "Co-authoring", "Track Changes", "Version History"],
+    "correctAnswer": "Co-authoring"
+  },
+  {
+    "id": "MS-209",
+    "question": "Which PowerPoint feature creates smooth transitions between sections?",
+    "options": ["Fade", "Morph", "Section Zoom", "Wipe"],
+    "correctAnswer": "Section Zoom"
+  },
+  {
+    "id": "MS-210",
+    "question": "Which Microsoft 365 feature enforces organizational compliance rules on data?",
+    "options": ["IRM", "Encryption", "DLP Policies", "Protected View"],
+    "correctAnswer": "DLP Policies"
+  },
+  {
+    "id": "MS-211",
+    "question": "Which Microsoft Office application is mainly used for creating structured notes with multimedia support?",
+    "options": ["Microsoft Word", "Microsoft OneNote", "Microsoft Excel", "Microsoft Outlook"],
+    "correctAnswer": "Microsoft OneNote"
+  },
+  {
+    "id": "MS-212",
+    "question": "In Microsoft Excel, which function is used to combine text from multiple cells?",
+    "options": ["MERGE", "TEXTJOIN", "APPEND", "COMBINE"],
+    "correctAnswer": "TEXTJOIN"
+  },
+  {
+    "id": "MS-213",
+    "question": "Which file format is used by default when saving a Microsoft PowerPoint presentation?",
+    "options": [".ppt", ".ppsx", ".pptx", ".pdf"],
+    "correctAnswer": ".pptx"
+  },
+  {
+    "id": "MS-214",
+    "question": "What is the main purpose of Microsoft OneDrive?",
+    "options": ["Email management", "Cloud storage", "Database creation", "Presentation design"],
+    "correctAnswer": "Cloud storage"
+  },
+  {
+    "id": "MS-215",
+    "question": "Which Excel feature helps prevent invalid data entry in cells?",
+    "options": ["Data Validation", "Conditional Formatting", "Flash Fill", "Pivot Chart"],
+    "correctAnswer": "Data Validation"
+  },
+  {
+    "id": "MS-216",
+    "question": "In Microsoft Word, which option allows sending the same letter to multiple recipients with personalized data?",
+    "options": ["Track Changes", "Mail Merge", "SmartArt", "Macros"],
+    "correctAnswer": "Mail Merge"
+  },
+  {
+    "id": "MS-217",
+    "question": "Which Microsoft Office app is primarily used for scheduling meetings and managing contacts?",
+    "options": ["Microsoft Outlook", "Microsoft Teams", "Microsoft Excel", "Microsoft Access"],
+    "correctAnswer": "Microsoft Outlook"
+  },
+  {
+    "id": "MS-218",
+    "question": "What does the IF function in Excel return?",
+    "options": ["A chart", "A logical result based on a condition", "A formatted cell", "A sorted list"],
+    "correctAnswer": "A logical result based on a condition"
+  },
+  {
+    "id": "MS-219",
+    "question": "Which PowerPoint feature allows slides to advance automatically?",
+    "options": ["Slide Master", "Transitions", "Animations", "Notes"],
+    "correctAnswer": "Transitions"
+  },
+  {
+    "id": "MS-220",
+    "question": "Which Microsoft Office application supports creating and managing tables with relationships?",
+    "options": ["Microsoft Access", "Microsoft Excel", "Microsoft Word", "Microsoft OneNote"],
+    "correctAnswer": "Microsoft Access"
+  },
+  {
+    "id": "MS-221",
+    "question": "In Excel, which chart is best suited for showing trends over time?",
+    "options": ["Pie Chart", "Column Chart", "Line Chart", "Radar Chart"],
+    "correctAnswer": "Line Chart"
+  },
+  {
+    "id": "MS-222",
+    "question": "Which Word feature highlights spelling and grammar errors?",
+    "options": ["AutoCorrect", "Spell Check", "Find & Replace", "Track Changes"],
+    "correctAnswer": "Spell Check"
+  },
+  {
+    "id": "MS-223",
+    "question": "What is the main use of the Slide Master in PowerPoint?",
+    "options": ["Adding animations", "Controlling overall slide design", "Editing slide text", "Reordering slides"],
+    "correctAnswer": "Controlling overall slide design"
+  },
+  {
+    "id": "MS-224",
+    "question": "Which Excel function calculates the average of selected numbers?",
+    "options": ["MEAN", "MID", "AVERAGE", "COUNT"],
+    "correctAnswer": "AVERAGE"
+  },
+  {
+    "id": "MS-225",
+    "question": "Which Microsoft Office tool is best for creating brochures and flyers?",
+    "options": ["Microsoft Word", "Microsoft Publisher", "Microsoft PowerPoint", "Microsoft Excel"],
+    "correctAnswer": "Microsoft Publisher"
+  },
+  {
+    "id": "MS-226",
+    "question": "In Outlook, which feature helps automatically sort incoming emails?",
+    "options": ["Rules", "Categories", "Folders", "Flags"],
+    "correctAnswer": "Rules"
+  },
+  {
+    "id": "MS-227",
+    "question": "Which Excel function counts cells that meet a specific condition?",
+    "options": ["COUNT", "COUNTA", "COUNTIF", "SUMIF"],
+    "correctAnswer": "COUNTIF"
+  },
+  {
+    "id": "MS-228",
+    "question": "What does the Track Changes feature in Word primarily do?",
+    "options": ["Locks the document", "Records edits made to a document", "Checks grammar", "Formats text automatically"],
+    "correctAnswer": "Records edits made to a document"
+  },
+  {
+    "id": "MS-229",
+    "question": "Which PowerPoint view is best for practicing a presentation with timings?",
+    "options": ["Normal View", "Slide Show View", "Notes View", "Outline View"],
+    "correctAnswer": "Slide Show View"
+  },
+  {
+    "id": "MS-230",
+    "question": "Which Excel feature visually highlights data patterns using colors?",
+    "options": ["Pivot Table", "Conditional Formatting", "Charts", "Filters"],
+    "correctAnswer": "Conditional Formatting"
+  },
+  {
+    "id": "MS-231",
+    "question": "Which Microsoft Office application allows integration of VBA for automation most deeply?",
+    "options": ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint", "Microsoft OneNote"],
+    "correctAnswer": "Microsoft Excel"
+  },
+  {
+    "id": "MS-232",
+    "question": "In Word, which option ensures text aligns evenly on both left and right margins?",
+    "options": ["Left Align", "Right Align", "Center Align", "Justify"],
+    "correctAnswer": "Justify"
+  },
+  {
+    "id": "MS-233",
+    "question": "Which Excel tool can instantly fill patterns based on existing data?",
+    "options": ["Flash Fill", "AutoFilter", "Data Sort", "Text to Columns"],
+    "correctAnswer": "Flash Fill"
+  },
+  {
+    "id": "MS-234",
+    "question": "Which PowerPoint feature is used to add movement to individual elements on a slide?",
+    "options": ["Transitions", "Animations", "Slide Layout", "Themes"],
+    "correctAnswer": "Animations"
+  },
+  {
+    "id": "MS-235",
+    "question": "Which Outlook component stores scheduled events?",
+    "options": ["Inbox", "Calendar", "Contacts", "Tasks"],
+    "correctAnswer": "Calendar"
+  },
+  {
+    "id": "MS-236",
+    "question": "In Excel, which function is used to extract a substring from text?",
+    "options": ["LEFT", "SEARCH", "TRIM", "REPLACE"],
+    "correctAnswer": "LEFT"
+  },
+  {
+    "id": "MS-237",
+    "question": "Which Word feature allows inserting references like citations and bibliographies?",
+    "options": ["Footnotes", "References Tool", "Index", "Comments"],
+    "correctAnswer": "References Tool"
+  },
+  {
+    "id": "MS-238",
+    "question": "Which Microsoft Office app is primarily designed for team collaboration and chat?",
+    "options": ["Microsoft Outlook", "Microsoft Teams", "Microsoft OneNote", "Microsoft Access"],
+    "correctAnswer": "Microsoft Teams"
+  },
+  {
+    "id": "MS-239",
+    "question": "Which Excel feature allows viewing specific rows based on criteria?",
+    "options": ["Freeze Panes", "Filters", "Grouping", "Data Validation"],
+    "correctAnswer": "Filters"
+  },
+  {
+    "id": "MS-240",
+    "question": "In PowerPoint, which file format is commonly used for sharing a non-editable presentation?",
+    "options": [".pptx", ".ppsx", ".pdf", ".potx"],
+    "correctAnswer": ".pdf"
+  },
+  {
+    "id": "MS-241",
+    "question": "Which Microsoft Excel feature allows locking specific rows or columns while scrolling?",
+    "options": ["Split Window", "Freeze Panes", "Group", "Protect Sheet"],
+    "correctAnswer": "Freeze Panes"
+  },
+  {
+    "id": "MS-242",
+    "question": "In Microsoft Word, which feature helps compare two documents for differences?",
+    "options": ["Track Changes", "Compare Documents", "Review Pane", "Document Inspector"],
+    "correctAnswer": "Compare Documents"
+  },
+  {
+    "id": "MS-243",
+    "question": "Which PowerPoint option controls the overall color, font, and effects of slides?",
+    "options": ["Layouts", "Themes", "Transitions", "Animations"],
+    "correctAnswer": "Themes"
+  },
+  {
+    "id": "MS-244",
+    "question": "Which Excel function is used to round a number to a specified number of digits?",
+    "options": ["ROUND", "INT", "FIXED", "CEILING"],
+    "correctAnswer": "ROUND"
+  },
+  {
+    "id": "MS-245",
+    "question": "Which Microsoft Office app is best for managing tasks with due dates and priorities?",
+    "options": ["Microsoft To Do", "Microsoft Access", "Microsoft Excel", "Microsoft Publisher"],
+    "correctAnswer": "Microsoft To Do"
+  },
+  {
+    "id": "MS-246",
+    "question": "In Outlook, which folder stores sent emails by default?",
+    "options": ["Drafts", "Outbox", "Sent Items", "Archive"],
+    "correctAnswer": "Sent Items"
+  },
+  {
+    "id": "MS-247",
+    "question": "Which Excel feature allows summarizing data by dragging fields into rows and columns?",
+    "options": ["Charts", "Power Query", "Pivot Table", "Solver"],
+    "correctAnswer": "Pivot Table"
+  },
+  {
+    "id": "MS-248",
+    "question": "Which Word option removes all formatting and leaves only plain text?",
+    "options": ["Clear Formatting", "Styles Pane", "Paste Special", "Remove Styles"],
+    "correctAnswer": "Clear Formatting"
+  },
+  {
+    "id": "MS-249",
+    "question": "In PowerPoint, which view is best for editing speaker notes?",
+    "options": ["Normal View", "Notes View", "Slide Sorter", "Reading View"],
+    "correctAnswer": "Notes View"
+  },
+  {
+    "id": "MS-250",
+    "question": "Which Excel function returns the largest value in a range?",
+    "options": ["MAX", "TOP", "LARGE", "HIGHEST"],
+    "correctAnswer": "MAX"
+  },
+  {
+    "id": "MS-251",
+    "question": "Which Microsoft Word feature allows dividing text into multiple vertical sections?",
+    "options": ["Tabs", "Text Box", "Columns", "Section Break"],
+    "correctAnswer": "Columns"
+  },
+  {
+    "id": "MS-252",
+    "question": "Which PowerPoint feature ensures consistent formatting across all slides?",
+    "options": ["Slide Master", "Design Ideas", "Themes", "Layouts"],
+    "correctAnswer": "Slide Master"
+  },
+  {
+    "id": "MS-253",
+    "question": "Which Excel tool can import data from external sources like CSV or databases?",
+    "options": ["Power Query", "Solver", "Pivot Chart", "Data Validation"],
+    "correctAnswer": "Power Query"
+  },
+  {
+    "id": "MS-254",
+    "question": "In Word, which option is used to insert page numbers automatically?",
+    "options": ["Header & Footer", "Page Layout", "References", "Insert Caption"],
+    "correctAnswer": "Header & Footer"
+  },
+  {
+    "id": "MS-255",
+    "question": "Which Outlook feature temporarily removes emails from the inbox without deleting them?",
+    "options": ["Delete", "Archive", "Flag", "Categorize"],
+    "correctAnswer": "Archive"
+  },
+  {
+    "id": "MS-256",
+    "question": "Which Excel function checks whether a value is true or false and returns results accordingly?",
+    "options": ["SWITCH", "LOGICAL", "IF", "TRUEFALSE"],
+    "correctAnswer": "IF"
+  },
+  {
+    "id": "MS-257",
+    "question": "Which Microsoft Office app supports creating forms and surveys online?",
+    "options": ["Microsoft Forms", "Microsoft Word", "Microsoft Excel", "Microsoft Access"],
+    "correctAnswer": "Microsoft Forms"
+  },
+  {
+    "id": "MS-258",
+    "question": "In PowerPoint, which feature allows rehearsing slide timings?",
+    "options": ["Slide Show", "Rehearse Timings", "Animations Pane", "Presenter View"],
+    "correctAnswer": "Rehearse Timings"
+  },
+  {
+    "id": "MS-259",
+    "question": "Which Excel option hides selected rows or columns from view?",
+    "options": ["Filter", "Hide", "Group", "Protect Sheet"],
+    "correctAnswer": "Hide"
+  },
+  {
+    "id": "MS-260",
+    "question": "Which Word feature protects a document from unauthorized editing?",
+    "options": ["Restrict Editing", "Encrypt File", "Lock Layout", "Protect View"],
+    "correctAnswer": "Restrict Editing"
+  },
+  {
+    "id": "MS-261",
+    "question": "Which Excel chart type is most suitable for comparing values across categories?",
+    "options": ["Pie Chart", "Column Chart", "Line Chart", "Area Chart"],
+    "correctAnswer": "Column Chart"
+  },
+  {
+    "id": "MS-262",
+    "question": "Which Outlook feature schedules an email to be sent later?",
+    "options": ["Delay Delivery", "Rules", "Outbox", "Quick Steps"],
+    "correctAnswer": "Delay Delivery"
+  },
+  {
+    "id": "MS-263",
+    "question": "Which PowerPoint option displays slides on one screen and notes on another?",
+    "options": ["Reading View", "Slide Sorter", "Presenter View", "Normal View"],
+    "correctAnswer": "Presenter View"
+  },
+  {
+    "id": "MS-264",
+    "question": "Which Excel function removes extra spaces from text?",
+    "options": ["CLEAN", "TRIM", "SUBSTITUTE", "TEXT"],
+    "correctAnswer": "TRIM"
+  },
+  {
+    "id": "MS-265",
+    "question": "Which Microsoft Word element repeats at the top of every page?",
+    "options": ["Footer", "Watermark", "Header", "Margin"],
+    "correctAnswer": "Header"
+  },
+  {
+    "id": "MS-266",
+    "question": "Which Excel feature allows solving optimization problems with constraints?",
+    "options": ["Solver", "Goal Seek", "Scenario Manager", "Forecast Sheet"],
+    "correctAnswer": "Solver"
+  },
+  {
+    "id": "MS-267",
+    "question": "Which Microsoft Office tool enables real-time co-authoring of documents?",
+    "options": ["OneDrive", "SharePoint", "Microsoft Teams", "All of these"],
+    "correctAnswer": "All of these"
+  },
+  {
+    "id": "MS-268",
+    "question": "In PowerPoint, which file type is used as a reusable template?",
+    "options": [".pptx", ".ppsx", ".potx", ".pdf"],
+    "correctAnswer": ".potx"
+  },
+  {
+    "id": "MS-269",
+    "question": "Which Excel feature prevents changes to formulas while allowing data entry?",
+    "options": ["Protect Workbook", "Protect Sheet", "Data Validation", "Lock Cells"],
+    "correctAnswer": "Protect Sheet"
+  },
+  {
+    "id": "MS-270",
+    "question": "Which Word tool checks accessibility issues for users with disabilities?",
+    "options": ["Accessibility Checker", "Document Inspector", "Read Aloud", "Smart Lookup"],
+    "correctAnswer": "Accessibility Checker"
   }
 ]

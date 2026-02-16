@@ -1,30 +1,722 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "IN-001",
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "High Transfer Text Protocol", "Hyper Transfer Text Process", "Host Text Transfer Protocol"],
+    "correctAnswer": "HyperText Transfer Protocol"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "IN-002",
+    "question": "Which device is used to connect multiple computers in a LAN?",
+    "options": ["Router", "Modem", "Switch", "Firewall"],
+    "correctAnswer": "Switch"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "IN-003",
+    "question": "What is the default port number for HTTPS?",
+    "options": ["21", "25", "80", "443"],
+    "correctAnswer": "443"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "IN-004",
+    "question": "Which protocol is used to send emails?",
+    "options": ["FTP", "SMTP", "POP3", "IMAP"],
+    "correctAnswer": "SMTP"
+  },
+  {
+    "id": "IN-005",
+    "question": "What does IP stand for in networking?",
+    "options": ["Internet Path", "Internal Protocol", "Internet Protocol", "Integrated Process"],
+    "correctAnswer": "Internet Protocol"
+  },
+  {
+    "id": "IN-006",
+    "question": "Which layer of the OSI model handles encryption and compression?",
+    "options": ["Session", "Transport", "Presentation", "Application"],
+    "correctAnswer": "Presentation"
+  },
+  {
+    "id": "IN-007",
+    "question": "What is the purpose of DNS?",
+    "options": ["Encrypt data", "Translate domain names to IP addresses", "Block malicious traffic", "Increase internet speed"],
+    "correctAnswer": "Translate domain names to IP addresses"
+  },
+  {
+    "id": "IN-008",
+    "question": "Which protocol is connection-oriented?",
+    "options": ["UDP", "IP", "TCP", "ICMP"],
+    "correctAnswer": "TCP"
+  },
+  {
+    "id": "IN-009",
+    "question": "What type of IP address is 192.168.1.1?",
+    "options": ["Public IP", "Private IP", "Multicast IP", "Loopback IP"],
+    "correctAnswer": "Private IP"
+  },
+  {
+    "id": "IN-010",
+    "question": "Which networking device operates at OSI Layer 3?",
+    "options": ["Hub", "Switch", "Router", "Repeater"],
+    "correctAnswer": "Router"
+  },
+  {
+    "id": "IN-011",
+    "question": "What does FTP stand for?",
+    "options": ["File Transfer Protocol", "Fast Transfer Process", "File Transmission Path", "Forward Transfer Protocol"],
+    "correctAnswer": "File Transfer Protocol"
+  },
+  {
+    "id": "IN-012",
+    "question": "Which command is used to test network connectivity?",
+    "options": ["ipconfig", "netstat", "ping", "tracert"],
+    "correctAnswer": "ping"
+  },
+  {
+    "id": "IN-013",
+    "question": "What is the maximum length of an IPv4 address in bits?",
+    "options": ["16", "32", "64", "128"],
+    "correctAnswer": "32"
+  },
+  {
+    "id": "IN-014",
+    "question": "Which protocol is used for secure remote login?",
+    "options": ["Telnet", "SSH", "FTP", "HTTP"],
+    "correctAnswer": "SSH"
+  },
+  {
+    "id": "IN-015",
+    "question": "What does NAT help to conserve?",
+    "options": ["Bandwidth", "MAC addresses", "IP addresses", "Ports"],
+    "correctAnswer": "IP addresses"
+  },
+  {
+    "id": "IN-016",
+    "question": "Which OSI layer is responsible for end-to-end communication?",
+    "options": ["Network", "Data Link", "Transport", "Session"],
+    "correctAnswer": "Transport"
+  },
+  {
+    "id": "IN-017",
+    "question": "What is the main purpose of a firewall?",
+    "options": ["Speed up internet", "Store data", "Filter network traffic", "Convert IP addresses"],
+    "correctAnswer": "Filter network traffic"
+  },
+  {
+    "id": "IN-018",
+    "question": "Which IPv6 address type is equivalent to IPv4 private addresses?",
+    "options": ["Global Unicast", "Multicast", "Link-Local", "Unique Local"],
+    "correctAnswer": "Unique Local"
+  },
+  {
+    "id": "IN-019",
+    "question": "What does QoS primarily manage?",
+    "options": ["Security", "Traffic priority", "IP allocation", "Encryption"],
+    "correctAnswer": "Traffic priority"
+  },
+  {
+    "id": "IN-020",
+    "question": "Which protocol is used to automatically assign IP addresses?",
+    "options": ["DNS", "ARP", "DHCP", "SNMP"],
+    "correctAnswer": "DHCP"
+  },
+  {
+    "id": "IN-021",
+    "question": "What is the function of ARP?",
+    "options": ["Resolve domain names", "Map IP to MAC addresses", "Encrypt packets", "Route data"],
+    "correctAnswer": "Map IP to MAC addresses"
+  },
+  {
+    "id": "IN-022",
+    "question": "Which attack involves overwhelming a server with traffic?",
+    "options": ["Phishing", "Man-in-the-middle", "DDoS", "Spoofing"],
+    "correctAnswer": "DDoS"
+  },
+  {
+    "id": "IN-023",
+    "question": "What does CIDR primarily improve?",
+    "options": ["Security", "Routing efficiency", "Bandwidth speed", "Packet size"],
+    "correctAnswer": "Routing efficiency"
+  },
+  {
+    "id": "IN-024",
+    "question": "Which protocol is used for network management and monitoring?",
+    "options": ["SMTP", "SNMP", "HTTP", "POP3"],
+    "correctAnswer": "SNMP"
+  },
+  {
+    "id": "IN-025",
+    "question": "What is the default subnet mask for a Class C network?",
+    "options": ["255.0.0.0", "255.255.0.0", "255.255.255.0", "255.255.255.255"],
+    "correctAnswer": "255.255.255.0"
+  },
+  {
+    "id": "IN-026",
+    "question": "Which protocol ensures reliable data transfer over the internet?",
+    "options": ["UDP", "ICMP", "TCP", "IGMP"],
+    "correctAnswer": "TCP"
+  },
+  {
+    "id": "IN-027",
+    "question": "What is the main purpose of a proxy server?",
+    "options": ["Store passwords", "Act as an intermediary for requests", "Assign IP addresses", "Monitor hardware"],
+    "correctAnswer": "Act as an intermediary for requests"
+  },
+  {
+    "id": "IN-028",
+    "question": "Which network topology has a single point of failure?",
+    "options": ["Mesh", "Star", "Bus", "Hybrid"],
+    "correctAnswer": "Star"
+  },
+  {
+    "id": "IN-029",
+    "question": "What does MTU define in networking?",
+    "options": ["Maximum Transmission Unit", "Minimum Transfer Usage", "Medium Transmission Utility", "Maximum Transport Usage"],
+    "correctAnswer": "Maximum Transmission Unit"
+  },
+  {
+    "id": "IN-030",
+    "question": "Which technology allows multiple VLANs to traverse a single switch port?",
+    "options": ["NAT", "Port Mirroring", "VLAN Trunking", "Spanning Tree"],
+    "correctAnswer": "VLAN Trunking"
+  },
+  {
+    "id": "IN-031",
+    "question": "Which protocol is used to securely transfer files over SSH?",
+    "options": ["FTP", "SFTP", "TFTP", "FTPS"],
+    "correctAnswer": "SFTP"
+  },
+  {
+    "id": "IN-032",
+    "question": "What is the primary role of a default gateway?",
+    "options": ["Assign IP addresses", "Connect local network to external networks", "Resolve domain names", "Encrypt traffic"],
+    "correctAnswer": "Connect local network to external networks"
+  },
+  {
+    "id": "IN-033",
+    "question": "Which OSI layer is responsible for framing?",
+    "options": ["Physical", "Network", "Data Link", "Transport"],
+    "correctAnswer": "Data Link"
+  },
+  {
+    "id": "IN-034",
+    "question": "What does the acronym LAN stand for?",
+    "options": ["Large Area Network", "Local Area Network", "Logical Access Network", "Linked Area Network"],
+    "correctAnswer": "Local Area Network"
+  },
+  {
+    "id": "IN-035",
+    "question": "Which IPv4 address is reserved for loopback testing?",
+    "options": ["0.0.0.0", "127.0.0.1", "255.255.255.255", "169.254.0.1"],
+    "correctAnswer": "127.0.0.1"
+  },
+  {
+    "id": "IN-036",
+    "question": "Which protocol is used to translate MAC addresses to IP addresses?",
+    "options": ["ARP", "RARP", "DNS", "ICMP"],
+    "correctAnswer": "RARP"
+  },
+  {
+    "id": "IN-037",
+    "question": "What is the main benefit of using IPv6?",
+    "options": ["Faster speed", "Better encryption", "Larger address space", "Lower latency"],
+    "correctAnswer": "Larger address space"
+  },
+  {
+    "id": "IN-038",
+    "question": "Which device regenerates signals to extend network distance?",
+    "options": ["Router", "Bridge", "Repeater", "Gateway"],
+    "correctAnswer": "Repeater"
+  },
+  {
+    "id": "IN-039",
+    "question": "What does a subnet mask help determine?",
+    "options": ["MAC address", "Network and host portions", "DNS server", "Gateway speed"],
+    "correctAnswer": "Network and host portions"
+  },
+  {
+    "id": "IN-040",
+    "question": "Which protocol reports errors and diagnostic information?",
+    "options": ["TCP", "UDP", "ICMP", "ARP"],
+    "correctAnswer": "ICMP"
+  },
+  {
+    "id": "IN-041",
+    "question": "Which wireless standard operates on both 2.4GHz and 5GHz bands?",
+    "options": ["802.11b", "802.11g", "802.11n", "802.11a"],
+    "correctAnswer": "802.11n"
+  },
+  {
+    "id": "IN-042",
+    "question": "What type of network covers a city-wide area?",
+    "options": ["LAN", "MAN", "WAN", "PAN"],
+    "correctAnswer": "MAN"
+  },
+  {
+    "id": "IN-043",
+    "question": "Which protocol is used to synchronize time across network devices?",
+    "options": ["SNMP", "NTP", "FTP", "LDAP"],
+    "correctAnswer": "NTP"
+  },
+  {
+    "id": "IN-044",
+    "question": "What is the primary function of a load balancer?",
+    "options": ["Encrypt traffic", "Distribute traffic across servers", "Block malware", "Assign MAC addresses"],
+    "correctAnswer": "Distribute traffic across servers"
+  },
+  {
+    "id": "IN-045",
+    "question": "Which addressing method sends data to all hosts in a network?",
+    "options": ["Unicast", "Multicast", "Broadcast", "Anycast"],
+    "correctAnswer": "Broadcast"
+  },
+  {
+    "id": "IN-046",
+    "question": "Which protocol is commonly used for directory services?",
+    "options": ["LDAP", "SMTP", "SNMP", "HTTP"],
+    "correctAnswer": "LDAP"
+  },
+  {
+    "id": "IN-047",
+    "question": "What is the main risk of an open Wi-Fi network?",
+    "options": ["Low speed", "IP conflict", "Unauthorized access", "Hardware failure"],
+    "correctAnswer": "Unauthorized access"
+  },
+  {
+    "id": "IN-048",
+    "question": "Which network topology provides the highest redundancy?",
+    "options": ["Bus", "Star", "Ring", "Mesh"],
+    "correctAnswer": "Mesh"
+  },
+  {
+    "id": "IN-049",
+    "question": "What does SSL/TLS primarily provide?",
+    "options": ["Routing", "Authentication and encryption", "IP assignment", "Traffic shaping"],
+    "correctAnswer": "Authentication and encryption"
+  },
+  {
+    "id": "IN-050",
+    "question": "Which protocol is used to discover neighboring network devices?",
+    "options": ["CDP", "FTP", "DNS", "SMTP"],
+    "correctAnswer": "CDP"
+  },
+  {
+    "id": "IN-051",
+    "question": "What is the purpose of port forwarding?",
+    "options": ["Increase bandwidth", "Allow external access to internal services", "Encrypt traffic", "Block unused ports"],
+    "correctAnswer": "Allow external access to internal services"
+  },
+  {
+    "id": "IN-052",
+    "question": "Which IP range is used for APIPA?",
+    "options": ["10.0.0.0/8", "127.0.0.0/8", "169.254.0.0/16", "192.168.0.0/16"],
+    "correctAnswer": "169.254.0.0/16"
+  },
+  {
+    "id": "IN-053",
+    "question": "Which protocol is used for voice over IP signaling?",
+    "options": ["SIP", "FTP", "HTTP", "SNMP"],
+    "correctAnswer": "SIP"
+  },
+  {
+    "id": "IN-054",
+    "question": "What does the term 'latency' refer to?",
+    "options": ["Data size", "Transmission delay", "Bandwidth limit", "Packet loss"],
+    "correctAnswer": "Transmission delay"
+  },
+  {
+    "id": "IN-055",
+    "question": "Which firewall technique inspects packet headers only?",
+    "options": ["Stateful inspection", "Proxy firewall", "Packet filtering", "Next-generation firewall"],
+    "correctAnswer": "Packet filtering"
+  },
+  {
+    "id": "IN-056",
+    "question": "Which routing protocol uses hop count as its metric?",
+    "options": ["OSPF", "BGP", "RIP", "EIGRP"],
+    "correctAnswer": "RIP"
+  },
+  {
+    "id": "IN-057",
+    "question": "What is the function of a VPN?",
+    "options": ["Increase internet speed", "Create a secure tunnel over public networks", "Assign DNS records", "Manage hardware"],
+    "correctAnswer": "Create a secure tunnel over public networks"
+  },
+  {
+    "id": "IN-058",
+    "question": "Which protocol operates at the Application layer and transfers web pages?",
+    "options": ["TCP", "IP", "HTTP", "ARP"],
+    "correctAnswer": "HTTP"
+  },
+  {
+    "id": "IN-059",
+    "question": "What does 'throughput' measure?",
+    "options": ["Signal strength", "Actual data transfer rate", "Packet size", "Error rate"],
+    "correctAnswer": "Actual data transfer rate"
+  },
+  {
+    "id": "IN-060",
+    "question": "Which concept allows multiple physical networks to appear as one logical network?",
+    "options": ["Subnetting", "VLAN", "NAT", "Bridging"],
+    "correctAnswer": "VLAN"
+  },
+  {
+    "id": "IN-061",
+    "question": "Which protocol is used to translate IP addresses to MAC addresses in IPv4 networks?",
+    "options": ["DNS", "ARP", "RARP", "ICMP"],
+    "correctAnswer": "ARP"
+  },
+  {
+    "id": "IN-062",
+    "question": "What does WAN stand for?",
+    "options": ["Wide Area Network", "Wireless Area Network", "Web Access Network", "World Area Network"],
+    "correctAnswer": "Wide Area Network"
+  },
+  {
+    "id": "IN-063",
+    "question": "Which OSI layer is responsible for logical addressing?",
+    "options": ["Data Link", "Network", "Transport", "Session"],
+    "correctAnswer": "Network"
+  },
+  {
+    "id": "IN-064",
+    "question": "What is the main function of a network bridge?",
+    "options": ["Route packets", "Filter traffic by IP", "Connect and segment LANs", "Encrypt data"],
+    "correctAnswer": "Connect and segment LANs"
+  },
+  {
+    "id": "IN-065",
+    "question": "Which protocol is used to retrieve emails from a mail server while keeping copies on the server?",
+    "options": ["SMTP", "POP3", "IMAP", "FTP"],
+    "correctAnswer": "IMAP"
+  },
+  {
+    "id": "IN-066",
+    "question": "What does the term 'bandwidth' refer to?",
+    "options": ["Network delay", "Maximum data capacity", "Packet loss rate", "Signal noise"],
+    "correctAnswer": "Maximum data capacity"
+  },
+  {
+    "id": "IN-067",
+    "question": "Which addressing method delivers packets to the nearest available node?",
+    "options": ["Unicast", "Multicast", "Broadcast", "Anycast"],
+    "correctAnswer": "Anycast"
+  },
+  {
+    "id": "IN-068",
+    "question": "Which protocol is commonly used for automated network device configuration backup?",
+    "options": ["HTTP", "FTP", "TFTP", "SMTP"],
+    "correctAnswer": "TFTP"
+  },
+  {
+    "id": "IN-069",
+    "question": "What is the primary purpose of the Spanning Tree Protocol (STP)?",
+    "options": ["Increase speed", "Prevent routing loops", "Prevent switching loops", "Encrypt data"],
+    "correctAnswer": "Prevent switching loops"
+  },
+  {
+    "id": "IN-070",
+    "question": "Which IP address represents an unspecified address in IPv4?",
+    "options": ["127.0.0.1", "0.0.0.0", "255.255.255.255", "169.254.1.1"],
+    "correctAnswer": "0.0.0.0"
+  },
+  {
+    "id": "IN-071",
+    "question": "Which wireless security protocol is considered the most secure?",
+    "options": ["WEP", "WPA", "WPA2", "WPA3"],
+    "correctAnswer": "WPA3"
+  },
+  {
+    "id": "IN-072",
+    "question": "What is the function of a DMZ in networking?",
+    "options": ["Encrypt traffic", "Isolate public-facing services", "Increase bandwidth", "Store backups"],
+    "correctAnswer": "Isolate public-facing services"
+  },
+  {
+    "id": "IN-073",
+    "question": "Which protocol is used to map IPv6 addresses to MAC addresses?",
+    "options": ["ARP", "NDP", "RARP", "ICMPv6"],
+    "correctAnswer": "NDP"
+  },
+  {
+    "id": "IN-074",
+    "question": "What does the term 'jitter' indicate in a network?",
+    "options": ["Packet size", "Variable delay in packet delivery", "Packet corruption", "Bandwidth usage"],
+    "correctAnswer": "Variable delay in packet delivery"
+  },
+  {
+    "id": "IN-075",
+    "question": "Which routing protocol is classified as a link-state protocol?",
+    "options": ["RIP", "BGP", "OSPF", "IGRP"],
+    "correctAnswer": "OSPF"
+  },
+  {
+    "id": "IN-076",
+    "question": "Which technology combines multiple physical links into one logical link?",
+    "options": ["NAT", "Link Aggregation", "VLAN", "Port Mirroring"],
+    "correctAnswer": "Link Aggregation"
+  },
+  {
+    "id": "IN-077",
+    "question": "What is the main purpose of MAC address filtering?",
+    "options": ["Improve speed", "Control network access", "Encrypt packets", "Assign IPs"],
+    "correctAnswer": "Control network access"
+  },
+  {
+    "id": "IN-078",
+    "question": "Which protocol is used to exchange routing information between autonomous systems?",
+    "options": ["RIP", "OSPF", "EIGRP", "BGP"],
+    "correctAnswer": "BGP"
+  },
+  {
+    "id": "IN-079",
+    "question": "What is the maximum number of usable hosts in a /29 subnet?",
+    "options": ["4", "6", "8", "14"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "IN-080",
+    "question": "Which type of cable is immune to electromagnetic interference?",
+    "options": ["UTP", "STP", "Coaxial", "Fiber optic"],
+    "correctAnswer": "Fiber optic"
+  },
+  {
+    "id": "IN-081",
+    "question": "What does the term 'north-south traffic' describe?",
+    "options": ["LAN traffic", "Traffic within a data center", "Traffic entering and leaving a network", "Wireless traffic"],
+    "correctAnswer": "Traffic entering and leaving a network"
+  },
+  {
+    "id": "IN-082",
+    "question": "Which protocol is used for secure web communication?",
+    "options": ["HTTP", "HTTPS", "FTP", "Telnet"],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "id": "IN-083",
+    "question": "What is the main role of an intrusion detection system (IDS)?",
+    "options": ["Block traffic", "Detect suspicious activities", "Encrypt data", "Route packets"],
+    "correctAnswer": "Detect suspicious activities"
+  },
+  {
+    "id": "IN-084",
+    "question": "Which addressing scheme allows multiple devices to share a single public IP?",
+    "options": ["Subnetting", "CIDR", "NAT", "VLAN"],
+    "correctAnswer": "NAT"
+  },
+  {
+    "id": "IN-085",
+    "question": "Which OSI layer is closest to the end user?",
+    "options": ["Session", "Presentation", "Application", "Transport"],
+    "correctAnswer": "Application"
+  },
+  {
+    "id": "IN-086",
+    "question": "What does the term 'failover' mean in networking?",
+    "options": ["Traffic blocking", "Automatic switch to a backup system", "Load sharing", "Packet filtering"],
+    "correctAnswer": "Automatic switch to a backup system"
+  },
+  {
+    "id": "IN-087",
+    "question": "Which protocol uses TCP port 22 by default?",
+    "options": ["FTP", "SSH", "HTTPS", "Telnet"],
+    "correctAnswer": "SSH"
+  },
+  {
+    "id": "IN-088",
+    "question": "What is the primary purpose of a content delivery network (CDN)?",
+    "options": ["Encrypt data", "Reduce latency by caching content closer to users", "Assign IPs", "Block attacks"],
+    "correctAnswer": "Reduce latency by caching content closer to users"
+  },
+  {
+    "id": "IN-089",
+    "question": "Which IPv6 feature eliminates the need for NAT?",
+    "options": ["IPsec", "Auto-configuration", "Huge address space", "Multicast"],
+    "correctAnswer": "Huge address space"
+  },
+  {
+    "id": "IN-090",
+    "question": "Which concept ensures network services remain available despite failures?",
+    "options": ["Scalability", "Redundancy", "Latency", "Throughput"],
+    "correctAnswer": "Redundancy"
+  },
+  {
+    "id": "IN-091",
+    "question": "Which protocol is responsible for resolving IP addresses to hostnames?",
+    "options": ["ARP", "DNS", "DHCP", "NTP"],
+    "correctAnswer": "DNS"
+  },
+  {
+    "id": "IN-092",
+    "question": "What is the main purpose of a stateful firewall?",
+    "options": ["Inspect packet headers only", "Track active connections", "Encrypt traffic", "Load balance requests"],
+    "correctAnswer": "Track active connections"
+  },
+  {
+    "id": "IN-093",
+    "question": "Which OSI layer handles flow control and error recovery?",
+    "options": ["Network", "Transport", "Session", "Presentation"],
+    "correctAnswer": "Transport"
+  },
+  {
+    "id": "IN-094",
+    "question": "What does the term 'packet loss' indicate?",
+    "options": ["Packets arriving late", "Packets dropped during transmission", "Packets encrypted", "Packets duplicated"],
+    "correctAnswer": "Packets dropped during transmission"
+  },
+  {
+    "id": "IN-095",
+    "question": "Which routing protocol is categorized as a path-vector protocol?",
+    "options": ["RIP", "OSPF", "IS-IS", "BGP"],
+    "correctAnswer": "BGP"
+  },
+  {
+    "id": "IN-096",
+    "question": "What is the function of a network tap?",
+    "options": ["Block traffic", "Monitor network traffic", "Encrypt packets", "Route data"],
+    "correctAnswer": "Monitor network traffic"
+  },
+  {
+    "id": "IN-097",
+    "question": "Which IPv6 address type is used for one-to-many communication?",
+    "options": ["Unicast", "Anycast", "Multicast", "Loopback"],
+    "correctAnswer": "Multicast"
+  },
+  {
+    "id": "IN-098",
+    "question": "What does the term 'east-west traffic' refer to?",
+    "options": ["Internet-bound traffic", "Traffic between internal systems", "Wireless traffic", "Satellite traffic"],
+    "correctAnswer": "Traffic between internal systems"
+  },
+  {
+    "id": "IN-099",
+    "question": "Which protocol is commonly used to secure email transmission?",
+    "options": ["SMTP with TLS", "POP3", "IMAP", "FTP"],
+    "correctAnswer": "SMTP with TLS"
+  },
+  {
+    "id": "IN-100",
+    "question": "What is the primary role of a reverse proxy?",
+    "options": ["Hide client identity", "Protect and load-balance backend servers", "Assign IP addresses", "Encrypt DNS queries"],
+    "correctAnswer": "Protect and load-balance backend servers"
+  },
+  {
+    "id": "IN-101",
+    "question": "Which subnet mask corresponds to a /26 network?",
+    "options": ["255.255.255.0", "255.255.255.128", "255.255.255.192", "255.255.255.224"],
+    "correctAnswer": "255.255.255.192"
+  },
+  {
+    "id": "IN-102",
+    "question": "Which protocol helps prevent IP address conflicts?",
+    "options": ["DNS", "ARP", "DHCP", "ICMP"],
+    "correctAnswer": "DHCP"
+  },
+  {
+    "id": "IN-103",
+    "question": "What is the main purpose of network segmentation?",
+    "options": ["Increase bandwidth", "Improve security and performance", "Reduce IP usage", "Encrypt traffic"],
+    "correctAnswer": "Improve security and performance"
+  },
+  {
+    "id": "IN-104",
+    "question": "Which protocol is used to exchange authentication information in AAA frameworks?",
+    "options": ["RADIUS", "FTP", "SNMP", "HTTP"],
+    "correctAnswer": "RADIUS"
+  },
+  {
+    "id": "IN-105",
+    "question": "What does the term 'line rate' mean?",
+    "options": ["Maximum theoretical throughput", "Actual throughput", "Packet delay", "Error rate"],
+    "correctAnswer": "Maximum theoretical throughput"
+  },
+  {
+    "id": "IN-106",
+    "question": "Which device forwards traffic based on MAC address tables?",
+    "options": ["Router", "Switch", "Gateway", "Firewall"],
+    "correctAnswer": "Switch"
+  },
+  {
+    "id": "IN-107",
+    "question": "Which protocol provides automatic IPv6 address configuration?",
+    "options": ["DHCPv4", "ARP", "SLAAC", "NAT"],
+    "correctAnswer": "SLAAC"
+  },
+  {
+    "id": "IN-108",
+    "question": "What is the main advantage of using full-duplex communication?",
+    "options": ["Lower latency", "Simultaneous send and receive", "Reduced errors", "Higher encryption"],
+    "correctAnswer": "Simultaneous send and receive"
+  },
+  {
+    "id": "IN-109",
+    "question": "Which protocol is commonly used for log collection from network devices?",
+    "options": ["SNMP", "Syslog", "SMTP", "NTP"],
+    "correctAnswer": "Syslog"
+  },
+  {
+    "id": "IN-110",
+    "question": "What does the term 'broadcast storm' describe?",
+    "options": ["High-speed multicast traffic", "Excessive broadcast traffic causing network congestion", "Wireless interference", "Routing loop"],
+    "correctAnswer": "Excessive broadcast traffic causing network congestion"
+  },
+  {
+    "id": "IN-111",
+    "question": "Which IPv4 address block is reserved for documentation and examples?",
+    "options": ["192.168.0.0/16", "172.16.0.0/12", "198.51.100.0/24", "10.0.0.0/8"],
+    "correctAnswer": "198.51.100.0/24"
+  },
+  {
+    "id": "IN-112",
+    "question": "What is the main function of a network access control (NAC) system?",
+    "options": ["Encrypt traffic", "Control device access to the network", "Assign routes", "Monitor bandwidth"],
+    "correctAnswer": "Control device access to the network"
+  },
+  {
+    "id": "IN-113",
+    "question": "Which protocol is used to encapsulate traffic in MPLS networks?",
+    "options": ["IP", "Label Switching", "GRE", "VXLAN"],
+    "correctAnswer": "Label Switching"
+  },
+  {
+    "id": "IN-114",
+    "question": "What does the term 'hairpin NAT' refer to?",
+    "options": ["NAT loopback to access internal services via public IP", "Double NAT configuration", "NAT with encryption", "NAT for VPN traffic"],
+    "correctAnswer": "NAT loopback to access internal services via public IP"
+  },
+  {
+    "id": "IN-115",
+    "question": "Which metric is most critical for real-time voice communication?",
+    "options": ["Bandwidth", "Latency", "Jitter", "Packet size"],
+    "correctAnswer": "Jitter"
+  },
+  {
+    "id": "IN-116",
+    "question": "Which protocol allows tunneling of Layer 2 traffic over IP networks?",
+    "options": ["GRE", "VXLAN", "IPsec", "OSPF"],
+    "correctAnswer": "VXLAN"
+  },
+  {
+    "id": "IN-117",
+    "question": "What is the primary purpose of microsegmentation?",
+    "options": ["Increase bandwidth", "Granular security control within networks", "Reduce cabling", "Improve routing speed"],
+    "correctAnswer": "Granular security control within networks"
+  },
+  {
+    "id": "IN-118",
+    "question": "Which technology is commonly used to virtualize network functions?",
+    "options": ["SD-WAN", "NFV", "VLAN", "STP"],
+    "correctAnswer": "NFV"
+  },
+  {
+    "id": "IN-119",
+    "question": "What does the term 'zero trust' imply in networking security?",
+    "options": ["Trust all internal users", "Never trust, always verify", "Disable firewalls", "Use only VPNs"],
+    "correctAnswer": "Never trust, always verify"
+  },
+  {
+    "id": "IN-120",
+    "question": "Which concept allows seamless movement of virtual machines without IP address changes?",
+    "options": ["NAT", "VLAN", "Overlay networking", "Static routing"],
+    "correctAnswer": "Overlay networking"
   }
 ]

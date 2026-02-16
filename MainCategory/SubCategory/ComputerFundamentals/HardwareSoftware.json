@@ -1,30 +1,1082 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "HS-001",
+    "question": "Which hardware component is considered the brain of a computer?",
+    "options": ["RAM", "Hard Disk", "CPU", "Motherboard"],
+    "correctAnswer": "CPU"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "HS-002",
+    "question": "Which software is responsible for managing computer hardware resources?",
+    "options": ["Application Software", "Utility Software", "Operating System", "Firmware"],
+    "correctAnswer": "Operating System"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "HS-003",
+    "question": "Which unit is used to measure CPU clock speed?",
+    "options": ["Bytes", "Hertz", "Volts", "Watts"],
+    "correctAnswer": "Hertz"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "HS-004",
+    "question": "Which of the following is non-volatile memory?",
+    "options": ["RAM", "Cache", "Register", "ROM"],
+    "correctAnswer": "ROM"
+  },
+  {
+    "id": "HS-005",
+    "question": "What type of software is MS Word?",
+    "options": ["System Software", "Firmware", "Application Software", "Middleware"],
+    "correctAnswer": "Application Software"
+  },
+  {
+    "id": "HS-006",
+    "question": "Which hardware component connects all other components together?",
+    "options": ["CPU", "Power Supply", "Motherboard", "Hard Disk"],
+    "correctAnswer": "Motherboard"
+  },
+  {
+    "id": "HS-007",
+    "question": "Which file system is commonly used by Windows OS?",
+    "options": ["EXT4", "FAT32", "NTFS", "HFS+"],
+    "correctAnswer": "NTFS"
+  },
+  {
+    "id": "HS-008",
+    "question": "Which software layer directly interacts with hardware?",
+    "options": ["Application Layer", "User Interface", "Operating System Kernel", "Compiler"],
+    "correctAnswer": "Operating System Kernel"
+  },
+  {
+    "id": "HS-009",
+    "question": "What does GPU primarily handle?",
+    "options": ["Networking", "Sound Processing", "Graphics Rendering", "Storage Management"],
+    "correctAnswer": "Graphics Rendering"
+  },
+  {
+    "id": "HS-010",
+    "question": "Which memory is fastest in a computer system?",
+    "options": ["RAM", "Cache", "Register", "SSD"],
+    "correctAnswer": "Register"
+  },
+  {
+    "id": "HS-011",
+    "question": "Which software converts source code into machine code?",
+    "options": ["Interpreter", "Compiler", "Assembler", "Linker"],
+    "correctAnswer": "Compiler"
+  },
+  {
+    "id": "HS-012",
+    "question": "What is the main purpose of a device driver?",
+    "options": ["Run applications", "Control hardware devices", "Manage files", "Secure data"],
+    "correctAnswer": "Control hardware devices"
+  },
+  {
+    "id": "HS-013",
+    "question": "Which type of storage uses flash memory?",
+    "options": ["HDD", "DVD", "SSD", "Blu-ray"],
+    "correctAnswer": "SSD"
+  },
+  {
+    "id": "HS-014",
+    "question": "Which software testing level focuses on individual components?",
+    "options": ["System Testing", "Integration Testing", "Unit Testing", "Acceptance Testing"],
+    "correctAnswer": "Unit Testing"
+  },
+  {
+    "id": "HS-015",
+    "question": "What does BIOS stand for?",
+    "options": ["Basic Input Output System", "Binary Input Output Software", "Boot Interface Operating System", "Basic Integrated Operating Setup"],
+    "correctAnswer": "Basic Input Output System"
+  },
+  {
+    "id": "HS-016",
+    "question": "Which hardware device converts digital signals into analog for speakers?",
+    "options": ["NIC", "GPU", "Sound Card", "Modem"],
+    "correctAnswer": "Sound Card"
+  },
+  {
+    "id": "HS-017",
+    "question": "Which scheduling algorithm may cause starvation?",
+    "options": ["Round Robin", "First Come First Serve", "Priority Scheduling", "FIFO"],
+    "correctAnswer": "Priority Scheduling"
+  },
+  {
+    "id": "HS-018",
+    "question": "Which software architecture separates UI, logic, and data?",
+    "options": ["Monolithic", "MVC", "Peer-to-Peer", "Client-Server"],
+    "correctAnswer": "MVC"
+  },
+  {
+    "id": "HS-019",
+    "question": "Which hardware interrupt has the highest priority?",
+    "options": ["Maskable Interrupt", "Software Interrupt", "Non-Maskable Interrupt", "Timer Interrupt"],
+    "correctAnswer": "Non-Maskable Interrupt"
+  },
+  {
+    "id": "HS-020",
+    "question": "What does RAID primarily improve?",
+    "options": ["CPU Speed", "Network Latency", "Storage Reliability/Performance", "RAM Capacity"],
+    "correctAnswer": "Storage Reliability/Performance"
+  },
+  {
+    "id": "HS-021",
+    "question": "Which OS concept allows multiple users simultaneously?",
+    "options": ["Multitasking", "Multiprocessing", "Multi-user", "Multithreading"],
+    "correctAnswer": "Multi-user"
+  },
+  {
+    "id": "HS-022",
+    "question": "Which hardware component handles virtual memory mapping?",
+    "options": ["ALU", "MMU", "Cache Controller", "DMA"],
+    "correctAnswer": "MMU"
+  },
+  {
+    "id": "HS-023",
+    "question": "Which software license allows modification and redistribution?",
+    "options": ["Proprietary", "Freeware", "Open Source", "Shareware"],
+    "correctAnswer": "Open Source"
+  },
+  {
+    "id": "HS-024",
+    "question": "Which bus is responsible for transferring data between CPU and RAM?",
+    "options": ["Address Bus", "Control Bus", "Data Bus", "Expansion Bus"],
+    "correctAnswer": "Data Bus"
+  },
+  {
+    "id": "HS-025",
+    "question": "Which OS mechanism prevents deadlock by avoiding unsafe states?",
+    "options": ["Semaphore", "Mutex", "Banker’s Algorithm", "Round Robin"],
+    "correctAnswer": "Banker’s Algorithm"
+  },
+  {
+    "id": "HS-026",
+    "question": "Which hardware technique improves CPU instruction throughput?",
+    "options": ["Paging", "Pipelining", "Spooling", "Virtualization"],
+    "correctAnswer": "Pipelining"
+  },
+  {
+    "id": "HS-027",
+    "question": "Which software component loads the operating system into memory?",
+    "options": ["Kernel", "Shell", "Bootloader", "Firmware"],
+    "correctAnswer": "Bootloader"
+  },
+  {
+    "id": "HS-028",
+    "question": "Which cache coherence protocol is widely used in multiprocessor systems?",
+    "options": ["FIFO", "LRU", "MESI", "MRU"],
+    "correctAnswer": "MESI"
+  },
+  {
+    "id": "HS-029",
+    "question": "Which hardware virtualization feature is provided by modern CPUs?",
+    "options": ["Hyper-Threading", "VT-x / AMD-V", "Overclocking", "Turbo Boost"],
+    "correctAnswer": "VT-x / AMD-V"
+  },
+  {
+    "id": "HS-030",
+    "question": "Which software model delivers applications over the internet without local installation?",
+    "options": ["On-Premise", "Client-Based", "SaaS", "Embedded Software"],
+    "correctAnswer": "SaaS"
+  },
+  {
+    "id": "HS-031",
+    "question": "Which hardware component supplies power to all computer parts?",
+    "options": ["UPS", "SMPS", "Motherboard", "Heat Sink"],
+    "correctAnswer": "SMPS"
+  },
+  {
+    "id": "HS-032",
+    "question": "Which type of software is antivirus software?",
+    "options": ["Application Software", "System Software", "Utility Software", "Firmware"],
+    "correctAnswer": "Utility Software"
+  },
+  {
+    "id": "HS-033",
+    "question": "Which memory stores data temporarily while a program is running?",
+    "options": ["ROM", "Cache", "RAM", "SSD"],
+    "correctAnswer": "RAM"
+  },
+  {
+    "id": "HS-034",
+    "question": "Which hardware device is required to connect a computer to a network?",
+    "options": ["Sound Card", "Graphics Card", "NIC", "Controller"],
+    "correctAnswer": "NIC"
+  },
+  {
+    "id": "HS-035",
+    "question": "Which software translates high-level language into machine code line by line?",
+    "options": ["Compiler", "Assembler", "Interpreter", "Debugger"],
+    "correctAnswer": "Interpreter"
+  },
+  {
+    "id": "HS-036",
+    "question": "Which storage device has moving mechanical parts?",
+    "options": ["SSD", "Flash Drive", "RAM", "HDD"],
+    "correctAnswer": "HDD"
+  },
+  {
+    "id": "HS-037",
+    "question": "Which operating system feature allows running multiple programs at once?",
+    "options": ["Multiprocessing", "Multitasking", "Multithreading", "Multi-user"],
+    "correctAnswer": "Multitasking"
+  },
+  {
+    "id": "HS-038",
+    "question": "Which hardware component performs arithmetic and logical operations?",
+    "options": ["CU", "ALU", "Register", "Cache"],
+    "correctAnswer": "ALU"
+  },
+  {
+    "id": "HS-039",
+    "question": "Which software development model follows a linear sequential approach?",
+    "options": ["Agile", "Spiral", "Waterfall", "RAD"],
+    "correctAnswer": "Waterfall"
+  },
+  {
+    "id": "HS-040",
+    "question": "Which type of software bug causes a program to crash?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Semantic Error"],
+    "correctAnswer": "Runtime Error"
+  },
+  {
+    "id": "HS-041",
+    "question": "Which hardware port is commonly used to connect modern printers?",
+    "options": ["VGA", "PS/2", "USB", "HDMI"],
+    "correctAnswer": "USB"
+  },
+  {
+    "id": "HS-042",
+    "question": "Which operating system component manages process scheduling?",
+    "options": ["Shell", "Kernel", "File System", "Device Driver"],
+    "correctAnswer": "Kernel"
+  },
+  {
+    "id": "HS-043",
+    "question": "Which memory management technique divides memory into fixed-size blocks?",
+    "options": ["Segmentation", "Paging", "Swapping", "Fragmentation"],
+    "correctAnswer": "Paging"
+  },
+  {
+    "id": "HS-044",
+    "question": "Which hardware device is used to input handwritten text?",
+    "options": ["Scanner", "Light Pen", "Joystick", "Digitizer"],
+    "correctAnswer": "Digitizer"
+  },
+  {
+    "id": "HS-045",
+    "question": "Which software tool is used to track changes in source code?",
+    "options": ["Compiler", "Debugger", "Version Control System", "IDE"],
+    "correctAnswer": "Version Control System"
+  },
+  {
+    "id": "HS-046",
+    "question": "Which scheduling algorithm gives each process equal CPU time slices?",
+    "options": ["Priority Scheduling", "FCFS", "Shortest Job First", "Round Robin"],
+    "correctAnswer": "Round Robin"
+  },
+  {
+    "id": "HS-047",
+    "question": "Which hardware component stores frequently accessed instructions?",
+    "options": ["RAM", "Cache Memory", "ROM", "Register"],
+    "correctAnswer": "Cache Memory"
+  },
+  {
+    "id": "HS-048",
+    "question": "Which software testing ensures the system meets user requirements?",
+    "options": ["Unit Testing", "Integration Testing", "System Testing", "Acceptance Testing"],
+    "correctAnswer": "Acceptance Testing"
+  },
+  {
+    "id": "HS-049",
+    "question": "Which hardware interrupt is generated by division by zero?",
+    "options": ["I/O Interrupt", "Timer Interrupt", "Exception", "Maskable Interrupt"],
+    "correctAnswer": "Exception"
+  },
+  {
+    "id": "HS-050",
+    "question": "Which software architecture uses independent services communicating via APIs?",
+    "options": ["Monolithic", "MVC", "Microservices", "Layered"],
+    "correctAnswer": "Microservices"
+  },
+  {
+    "id": "HS-051",
+    "question": "Which hardware technique allows a single CPU to appear as multiple CPUs?",
+    "options": ["Virtual Memory", "Hyper-Threading", "Pipelining", "Caching"],
+    "correctAnswer": "Hyper-Threading"
+  },
+  {
+    "id": "HS-052",
+    "question": "Which type of software fault occurs due to incorrect algorithm?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Compilation Error"],
+    "correctAnswer": "Logical Error"
+  },
+  {
+    "id": "HS-053",
+    "question": "Which hardware device converts AC power to DC power?",
+    "options": ["UPS", "SMPS", "Inverter", "Adapter"],
+    "correctAnswer": "SMPS"
+  },
+  {
+    "id": "HS-054",
+    "question": "Which OS memory issue occurs when memory is allocated but never released?",
+    "options": ["Deadlock", "Starvation", "Memory Leak", "Thrashing"],
+    "correctAnswer": "Memory Leak"
+  },
+  {
+    "id": "HS-055",
+    "question": "Which software metric measures code complexity?",
+    "options": ["Cyclomatic Complexity", "Latency", "Throughput", "Bandwidth"],
+    "correctAnswer": "Cyclomatic Complexity"
+  },
+  {
+    "id": "HS-056",
+    "question": "Which hardware feature enables direct data transfer without CPU involvement?",
+    "options": ["Cache", "DMA", "Interrupt", "Bus"],
+    "correctAnswer": "DMA"
+  },
+  {
+    "id": "HS-057",
+    "question": "Which software process converts source code into an executable file?",
+    "options": ["Editing", "Linking", "Loading", "Debugging"],
+    "correctAnswer": "Linking"
+  },
+  {
+    "id": "HS-058",
+    "question": "Which type of cache mapping provides the fastest access time?",
+    "options": ["Direct Mapping", "Associative Mapping", "Set Associative Mapping", "Random Mapping"],
+    "correctAnswer": "Associative Mapping"
+  },
+  {
+    "id": "HS-059",
+    "question": "Which hardware security feature isolates sensitive code execution?",
+    "options": ["Secure Boot", "TPM", "Trusted Execution Environment", "Firewall"],
+    "correctAnswer": "Trusted Execution Environment"
+  },
+  {
+    "id": "HS-060",
+    "question": "Which software delivery model provides a complete development platform online?",
+    "options": ["SaaS", "PaaS", "IaaS", "On-Premise"],
+    "correctAnswer": "PaaS"
+  },
+  {
+    "id": "HS-061",
+    "question": "Which hardware component is responsible for cooling the CPU?",
+    "options": ["Power Supply", "Heat Sink", "RAM", "Chipset"],
+    "correctAnswer": "Heat Sink"
+  },
+  {
+    "id": "HS-062",
+    "question": "Which type of software runs directly after the computer is powered on?",
+    "options": ["Application Software", "Operating System", "Firmware", "Utility Software"],
+    "correctAnswer": "Firmware"
+  },
+  {
+    "id": "HS-063",
+    "question": "Which memory is erased when the computer is turned off?",
+    "options": ["ROM", "EEPROM", "Cache", "RAM"],
+    "correctAnswer": "RAM"
+  },
+  {
+    "id": "HS-064",
+    "question": "Which hardware device is used to capture video input?",
+    "options": ["Webcam", "Scanner", "Microphone", "Projector"],
+    "correctAnswer": "Webcam"
+  },
+  {
+    "id": "HS-065",
+    "question": "Which software tool is primarily used to remove bugs from a program?",
+    "options": ["Compiler", "Interpreter", "Debugger", "Assembler"],
+    "correctAnswer": "Debugger"
+  },
+  {
+    "id": "HS-066",
+    "question": "Which storage technology uses laser light to read data?",
+    "options": ["SSD", "HDD", "Optical Disc", "Flash Drive"],
+    "correctAnswer": "Optical Disc"
+  },
+  {
+    "id": "HS-067",
+    "question": "Which OS concept allows a process to be paused and resumed later?",
+    "options": ["Multithreading", "Context Switching", "Spooling", "Buffering"],
+    "correctAnswer": "Context Switching"
+  },
+  {
+    "id": "HS-068",
+    "question": "Which hardware register holds the address of the next instruction?",
+    "options": ["MAR", "MBR", "Program Counter", "Accumulator"],
+    "correctAnswer": "Program Counter"
+  },
+  {
+    "id": "HS-069",
+    "question": "Which software development practice emphasizes small, frequent releases?",
+    "options": ["Waterfall", "Agile", "V-Model", "Big Bang"],
+    "correctAnswer": "Agile"
+  },
+  {
+    "id": "HS-070",
+    "question": "Which type of error is detected during program execution?",
+    "options": ["Syntax Error", "Logical Error", "Runtime Error", "Typographical Error"],
+    "correctAnswer": "Runtime Error"
+  },
+  {
+    "id": "HS-071",
+    "question": "Which hardware interface is commonly used for high-speed storage devices?",
+    "options": ["IDE", "SATA", "NVMe", "PS/2"],
+    "correctAnswer": "NVMe"
+  },
+  {
+    "id": "HS-072",
+    "question": "Which operating system structure uses a minimal core with services in user space?",
+    "options": ["Monolithic Kernel", "Microkernel", "Hybrid Kernel", "Layered Kernel"],
+    "correctAnswer": "Microkernel"
+  },
+  {
+    "id": "HS-073",
+    "question": "Which memory problem occurs when the system spends excessive time swapping pages?",
+    "options": ["Deadlock", "Thrashing", "Starvation", "Fragmentation"],
+    "correctAnswer": "Thrashing"
+  },
+  {
+    "id": "HS-074",
+    "question": "Which hardware input device is mainly used in CAD applications?",
+    "options": ["Mouse", "Trackball", "Light Pen", "Joystick"],
+    "correctAnswer": "Light Pen"
+  },
+  {
+    "id": "HS-075",
+    "question": "Which software tool combines editing, compiling, and debugging features?",
+    "options": ["Text Editor", "IDE", "Loader", "Linker"],
+    "correctAnswer": "IDE"
+  },
+  {
+    "id": "HS-076",
+    "question": "Which CPU scheduling algorithm minimizes average waiting time?",
+    "options": ["FCFS", "Round Robin", "Shortest Job First", "Priority Scheduling"],
+    "correctAnswer": "Shortest Job First"
+  },
+  {
+    "id": "HS-077",
+    "question": "Which hardware memory is located closest to the CPU core?",
+    "options": ["RAM", "Cache", "Register", "ROM"],
+    "correctAnswer": "Register"
+  },
+  {
+    "id": "HS-078",
+    "question": "Which testing technique checks internal logic of the code?",
+    "options": ["Black Box Testing", "White Box Testing", "Alpha Testing", "Beta Testing"],
+    "correctAnswer": "White Box Testing"
+  },
+  {
+    "id": "HS-079",
+    "question": "Which type of interrupt is generated by a system timer?",
+    "options": ["I/O Interrupt", "Software Interrupt", "Timer Interrupt", "External Interrupt"],
+    "correctAnswer": "Timer Interrupt"
+  },
+  {
+    "id": "HS-080",
+    "question": "Which software architecture arranges components in hierarchical layers?",
+    "options": ["Microservices", "Layered Architecture", "Event-Driven", "Peer-to-Peer"],
+    "correctAnswer": "Layered Architecture"
+  },
+  {
+    "id": "HS-081",
+    "question": "Which hardware feature improves performance by predicting instruction paths?",
+    "options": ["Caching", "Branch Prediction", "Pipelining", "Virtualization"],
+    "correctAnswer": "Branch Prediction"
+  },
+  {
+    "id": "HS-082",
+    "question": "Which type of software error does not prevent program execution but produces wrong output?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Linker Error"],
+    "correctAnswer": "Logical Error"
+  },
+  {
+    "id": "HS-083",
+    "question": "Which hardware component stores cryptographic keys securely?",
+    "options": ["Cache", "BIOS", "TPM", "Register"],
+    "correctAnswer": "TPM"
+  },
+  {
+    "id": "HS-084",
+    "question": "Which OS technique allows multiple processes to share CPU efficiently?",
+    "options": ["Spooling", "Time Sharing", "Buffering", "Caching"],
+    "correctAnswer": "Time Sharing"
+  },
+  {
+    "id": "HS-085",
+    "question": "Which software quality attribute refers to ease of maintenance?",
+    "options": ["Reliability", "Portability", "Maintainability", "Usability"],
+    "correctAnswer": "Maintainability"
+  },
+  {
+    "id": "HS-086",
+    "question": "Which hardware controller manages data transfer between peripherals and system bus?",
+    "options": ["ALU", "I/O Controller", "MMU", "Cache Controller"],
+    "correctAnswer": "I/O Controller"
+  },
+  {
+    "id": "HS-087",
+    "question": "Which software process places a program into memory for execution?",
+    "options": ["Linking", "Loading", "Compiling", "Scheduling"],
+    "correctAnswer": "Loading"
+  },
+  {
+    "id": "HS-088",
+    "question": "Which cache replacement policy removes the least recently used data?",
+    "options": ["FIFO", "LRU", "LFU", "Random"],
+    "correctAnswer": "LRU"
+  },
+  {
+    "id": "HS-089",
+    "question": "Which hardware-level protection prevents execution of malicious code at boot time?",
+    "options": ["Firewall", "Secure Boot", "Antivirus", "Sandboxing"],
+    "correctAnswer": "Secure Boot"
+  },
+  {
+    "id": "HS-090",
+    "question": "Which cloud service model provides virtual machines and storage resources?",
+    "options": ["SaaS", "PaaS", "IaaS", "FaaS"],
+    "correctAnswer": "IaaS"
+  },
+  {
+    "id": "HS-091",
+    "question": "Which hardware component converts digital signals to displayable images?",
+    "options": ["Sound Card", "Graphics Card", "Network Card", "Controller"],
+    "correctAnswer": "Graphics Card"
+  },
+  {
+    "id": "HS-092",
+    "question": "Which type of software is designed to perform a specific user task?",
+    "options": ["System Software", "Firmware", "Application Software", "Middleware"],
+    "correctAnswer": "Application Software"
+  },
+  {
+    "id": "HS-093",
+    "question": "Which memory is used to store BIOS settings?",
+    "options": ["RAM", "Cache", "CMOS", "Register"],
+    "correctAnswer": "CMOS"
+  },
+  {
+    "id": "HS-094",
+    "question": "Which hardware device is used to digitize physical documents?",
+    "options": ["Printer", "Scanner", "Plotter", "Projector"],
+    "correctAnswer": "Scanner"
+  },
+  {
+    "id": "HS-095",
+    "question": "Which software tool is used to automate software builds?",
+    "options": ["Debugger", "Build Tool", "Interpreter", "Loader"],
+    "correctAnswer": "Build Tool"
+  },
+  {
+    "id": "HS-096",
+    "question": "Which storage memory retains data even without power?",
+    "options": ["RAM", "Cache", "ROM", "Register"],
+    "correctAnswer": "ROM"
+  },
+  {
+    "id": "HS-097",
+    "question": "Which OS mechanism prevents simultaneous access to critical sections?",
+    "options": ["Deadlock", "Mutex", "Paging", "Scheduling"],
+    "correctAnswer": "Mutex"
+  },
+  {
+    "id": "HS-098",
+    "question": "Which CPU component decodes and executes instructions?",
+    "options": ["ALU", "Control Unit", "Register", "Cache"],
+    "correctAnswer": "Control Unit"
+  },
+  {
+    "id": "HS-099",
+    "question": "Which software model emphasizes risk analysis in each iteration?",
+    "options": ["Waterfall", "Agile", "Spiral", "RAD"],
+    "correctAnswer": "Spiral"
+  },
+  {
+    "id": "HS-100",
+    "question": "Which type of error is caused by violating language grammar rules?",
+    "options": ["Runtime Error", "Logical Error", "Syntax Error", "Semantic Error"],
+    "correctAnswer": "Syntax Error"
+  },
+  {
+    "id": "HS-101",
+    "question": "Which hardware port is mainly used for audio output?",
+    "options": ["HDMI", "USB", "Audio Jack", "Ethernet"],
+    "correctAnswer": "Audio Jack"
+  },
+  {
+    "id": "HS-102",
+    "question": "Which operating system component provides user interaction?",
+    "options": ["Kernel", "Shell", "Scheduler", "Driver"],
+    "correctAnswer": "Shell"
+  },
+  {
+    "id": "HS-103",
+    "question": "Which memory allocation technique suffers from external fragmentation?",
+    "options": ["Paging", "Segmentation", "Virtual Memory", "Caching"],
+    "correctAnswer": "Segmentation"
+  },
+  {
+    "id": "HS-104",
+    "question": "Which hardware device is commonly used for video conferencing?",
+    "options": ["Scanner", "Webcam", "Joystick", "Plotter"],
+    "correctAnswer": "Webcam"
+  },
+  {
+    "id": "HS-105",
+    "question": "Which software practice ensures new code does not break existing features?",
+    "options": ["Unit Testing", "Regression Testing", "System Testing", "Smoke Testing"],
+    "correctAnswer": "Regression Testing"
+  },
+  {
+    "id": "HS-106",
+    "question": "Which scheduling concept ensures fairness among processes?",
+    "options": ["Starvation", "Aging", "Deadlock", "Thrashing"],
+    "correctAnswer": "Aging"
+  },
+  {
+    "id": "HS-107",
+    "question": "Which hardware storage device is fastest for persistent data?",
+    "options": ["HDD", "SATA SSD", "NVMe SSD", "Optical Disc"],
+    "correctAnswer": "NVMe SSD"
+  },
+  {
+    "id": "HS-108",
+    "question": "Which testing level verifies interaction between integrated modules?",
+    "options": ["Unit Testing", "Integration Testing", "Acceptance Testing", "Beta Testing"],
+    "correctAnswer": "Integration Testing"
+  },
+  {
+    "id": "HS-109",
+    "question": "Which type of interrupt is initiated by executing a special instruction?",
+    "options": ["Hardware Interrupt", "Timer Interrupt", "Software Interrupt", "I/O Interrupt"],
+    "correctAnswer": "Software Interrupt"
+  },
+  {
+    "id": "HS-110",
+    "question": "Which software architecture relies on event producers and consumers?",
+    "options": ["Layered", "Microservices", "Event-Driven", "MVC"],
+    "correctAnswer": "Event-Driven"
+  },
+  {
+    "id": "HS-111",
+    "question": "Which CPU optimization executes multiple instructions per clock cycle?",
+    "options": ["Pipelining", "Superscalar Execution", "Caching", "Overclocking"],
+    "correctAnswer": "Superscalar Execution"
+  },
+  {
+    "id": "HS-112",
+    "question": "Which type of software error is hardest to detect?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Linker Error"],
+    "correctAnswer": "Logical Error"
+  },
+  {
+    "id": "HS-113",
+    "question": "Which hardware component manages memory address translation?",
+    "options": ["ALU", "MMU", "Cache Controller", "Register"],
+    "correctAnswer": "MMU"
+  },
+  {
+    "id": "HS-114",
+    "question": "Which OS concept allows execution of multiple threads within one process?",
+    "options": ["Multitasking", "Multiprocessing", "Multithreading", "Time Sharing"],
+    "correctAnswer": "Multithreading"
+  },
+  {
+    "id": "HS-115",
+    "question": "Which software quality attribute refers to system uptime?",
+    "options": ["Scalability", "Reliability", "Portability", "Efficiency"],
+    "correctAnswer": "Reliability"
+  },
+  {
+    "id": "HS-116",
+    "question": "Which hardware technique hides memory access latency?",
+    "options": ["Interrupts", "Caching", "Polling", "Virtualization"],
+    "correctAnswer": "Caching"
+  },
+  {
+    "id": "HS-117",
+    "question": "Which software stage resolves external references between modules?",
+    "options": ["Compiling", "Linking", "Loading", "Executing"],
+    "correctAnswer": "Linking"
+  },
+  {
+    "id": "HS-118",
+    "question": "Which page replacement algorithm replaces the page used least frequently?",
+    "options": ["FIFO", "LRU", "LFU", "Optimal"],
+    "correctAnswer": "LFU"
+  },
+  {
+    "id": "HS-119",
+    "question": "Which hardware feature enforces execution permission on memory pages?",
+    "options": ["DEP", "TPM", "Secure Boot", "Virtualization"],
+    "correctAnswer": "DEP"
+  },
+  {
+    "id": "HS-120",
+    "question": "Which cloud computing concept allows automatic scaling based on demand?",
+    "options": ["Load Balancing", "Elasticity", "Virtualization", "Replication"],
+    "correctAnswer": "Elasticity"
+  },
+  {
+    "id": "HS-121",
+    "question": "Which hardware component stores system firmware permanently?",
+    "options": ["RAM", "Cache", "ROM", "Register"],
+    "correctAnswer": "ROM"
+  },
+  {
+    "id": "HS-122",
+    "question": "Which type of software manages disk space and file organization?",
+    "options": ["Application Software", "Utility Software", "Firmware", "Middleware"],
+    "correctAnswer": "Utility Software"
+  },
+  {
+    "id": "HS-123",
+    "question": "Which memory is used to store frequently accessed data to speed up processing?",
+    "options": ["ROM", "Cache", "SSD", "Virtual Memory"],
+    "correctAnswer": "Cache"
+  },
+  {
+    "id": "HS-124",
+    "question": "Which hardware device is used to connect multiple computers in a local network?",
+    "options": ["Modem", "Router", "Switch", "Repeater"],
+    "correctAnswer": "Switch"
+  },
+  {
+    "id": "HS-125",
+    "question": "Which software tool converts human-readable code into an intermediate bytecode?",
+    "options": ["Assembler", "Compiler", "Interpreter", "Debugger"],
+    "correctAnswer": "Compiler"
+  },
+  {
+    "id": "HS-126",
+    "question": "Which storage technology uses NAND flash memory?",
+    "options": ["HDD", "SSD", "DVD", "Magnetic Tape"],
+    "correctAnswer": "SSD"
+  },
+  {
+    "id": "HS-127",
+    "question": "Which OS mechanism allows processes to communicate with each other?",
+    "options": ["Paging", "Scheduling", "IPC", "Virtual Memory"],
+    "correctAnswer": "IPC"
+  },
+  {
+    "id": "HS-128",
+    "question": "Which CPU register temporarily stores intermediate calculation results?",
+    "options": ["Program Counter", "Accumulator", "MAR", "IR"],
+    "correctAnswer": "Accumulator"
+  },
+  {
+    "id": "HS-129",
+    "question": "Which software development methodology emphasizes continuous integration?",
+    "options": ["Waterfall", "Agile", "Spiral", "Big Bang"],
+    "correctAnswer": "Agile"
+  },
+  {
+    "id": "HS-130",
+    "question": "Which type of error occurs when a program produces incorrect output despite running successfully?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Compilation Error"],
+    "correctAnswer": "Logical Error"
+  },
+  {
+    "id": "HS-131",
+    "question": "Which hardware interface is primarily used to connect monitors?",
+    "options": ["USB", "HDMI", "Ethernet", "Audio Jack"],
+    "correctAnswer": "HDMI"
+  },
+  {
+    "id": "HS-132",
+    "question": "Which operating system component is responsible for memory management?",
+    "options": ["Shell", "Kernel", "Device Driver", "File System"],
+    "correctAnswer": "Kernel"
+  },
+  {
+    "id": "HS-133",
+    "question": "Which memory management issue occurs when free memory is split into small blocks?",
+    "options": ["Paging", "Thrashing", "Fragmentation", "Deadlock"],
+    "correctAnswer": "Fragmentation"
+  },
+  {
+    "id": "HS-134",
+    "question": "Which hardware device is commonly used for precise drawing in graphics applications?",
+    "options": ["Mouse", "Touchpad", "Stylus", "Joystick"],
+    "correctAnswer": "Stylus"
+  },
+  {
+    "id": "HS-135",
+    "question": "Which software testing is performed by end users before final release?",
+    "options": ["Alpha Testing", "Beta Testing", "Unit Testing", "Integration Testing"],
+    "correctAnswer": "Beta Testing"
+  },
+  {
+    "id": "HS-136",
+    "question": "Which CPU scheduling technique increases priority of waiting processes over time?",
+    "options": ["Starvation", "Aging", "Round Robin", "Preemption"],
+    "correctAnswer": "Aging"
+  },
+  {
+    "id": "HS-137",
+    "question": "Which hardware storage medium is most suitable for long-term data archiving?",
+    "options": ["SSD", "HDD", "Magnetic Tape", "Cache"],
+    "correctAnswer": "Magnetic Tape"
+  },
+  {
+    "id": "HS-138",
+    "question": "Which testing approach focuses on system performance under heavy load?",
+    "options": ["Functional Testing", "Load Testing", "Regression Testing", "Smoke Testing"],
+    "correctAnswer": "Load Testing"
+  },
+  {
+    "id": "HS-139",
+    "question": "Which interrupt is generated when a user presses a key on the keyboard?",
+    "options": ["Timer Interrupt", "Software Interrupt", "I/O Interrupt", "Exception"],
+    "correctAnswer": "I/O Interrupt"
+  },
+  {
+    "id": "HS-140",
+    "question": "Which software architecture separates concerns into presentation, business, and data layers?",
+    "options": ["Microservices", "MVC", "Layered Architecture", "Event-Driven"],
+    "correctAnswer": "Layered Architecture"
+  },
+  {
+    "id": "HS-141",
+    "question": "Which CPU feature allows execution of instructions out of order?",
+    "options": ["Pipelining", "Out-of-Order Execution", "Caching", "Hyper-Threading"],
+    "correctAnswer": "Out-of-Order Execution"
+  },
+  {
+    "id": "HS-142",
+    "question": "Which type of software fault is detected only during execution with specific input?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Linker Error"],
+    "correctAnswer": "Runtime Error"
+  },
+  {
+    "id": "HS-143",
+    "question": "Which hardware component ensures secure storage of encryption keys?",
+    "options": ["Cache", "CMOS", "TPM", "Register"],
+    "correctAnswer": "TPM"
+  },
+  {
+    "id": "HS-144",
+    "question": "Which OS concept allows multiple programs to reside in memory simultaneously?",
+    "options": ["Multitasking", "Multiprogramming", "Multithreading", "Time Sharing"],
+    "correctAnswer": "Multiprogramming"
+  },
+  {
+    "id": "HS-145",
+    "question": "Which software quality attribute measures system response time?",
+    "options": ["Reliability", "Efficiency", "Usability", "Maintainability"],
+    "correctAnswer": "Efficiency"
+  },
+  {
+    "id": "HS-146",
+    "question": "Which hardware feature speeds up memory access by storing data closer to CPU?",
+    "options": ["Virtual Memory", "Caching", "Interrupts", "DMA"],
+    "correctAnswer": "Caching"
+  },
+  {
+    "id": "HS-147",
+    "question": "Which software stage prepares a program for execution by assigning memory addresses?",
+    "options": ["Compiling", "Linking", "Loading", "Debugging"],
+    "correctAnswer": "Loading"
+  },
+  {
+    "id": "HS-148",
+    "question": "Which page replacement algorithm replaces the oldest loaded page?",
+    "options": ["LRU", "LFU", "FIFO", "Optimal"],
+    "correctAnswer": "FIFO"
+  },
+  {
+    "id": "HS-149",
+    "question": "Which hardware security feature prevents execution of data as code?",
+    "options": ["TPM", "DEP", "Secure Boot", "Sandboxing"],
+    "correctAnswer": "DEP"
+  },
+  {
+    "id": "HS-150",
+    "question": "Which cloud computing feature allows resources to grow or shrink automatically?",
+    "options": ["Virtualization", "Elasticity", "High Availability", "Load Balancing"],
+    "correctAnswer": "Elasticity"
+  },
+  {
+    "id": "HS-151",
+    "question": "Which hardware component provides temporary power backup during voltage fluctuations?",
+    "options": ["SMPS", "Inverter", "UPS", "Adapter"],
+    "correctAnswer": "UPS"
+  },
+  {
+    "id": "HS-152",
+    "question": "Which type of software acts as a bridge between different applications or systems?",
+    "options": ["Application Software", "System Software", "Middleware", "Firmware"],
+    "correctAnswer": "Middleware"
+  },
+  {
+    "id": "HS-153",
+    "question": "Which memory stores the bootloader configuration persistently?",
+    "options": ["RAM", "Cache", "ROM", "Register"],
+    "correctAnswer": "ROM"
+  },
+  {
+    "id": "HS-154",
+    "question": "Which hardware device converts analog audio signals into digital form?",
+    "options": ["Sound Card", "Microphone", "Speaker", "Amplifier"],
+    "correctAnswer": "Sound Card"
+  },
+  {
+    "id": "HS-155",
+    "question": "Which software tool analyzes source code to find potential bugs without execution?",
+    "options": ["Debugger", "Static Analyzer", "Profiler", "Interpreter"],
+    "correctAnswer": "Static Analyzer"
+  },
+  {
+    "id": "HS-156",
+    "question": "Which storage technology offers wear-leveling to extend device lifespan?",
+    "options": ["HDD", "Optical Disc", "SSD", "Magnetic Tape"],
+    "correctAnswer": "SSD"
+  },
+  {
+    "id": "HS-157",
+    "question": "Which OS mechanism allows asynchronous notification of events?",
+    "options": ["Polling", "Interrupts", "Spooling", "Buffering"],
+    "correctAnswer": "Interrupts"
+  },
+  {
+    "id": "HS-158",
+    "question": "Which CPU register holds the currently executing instruction?",
+    "options": ["Program Counter", "Instruction Register", "Accumulator", "MAR"],
+    "correctAnswer": "Instruction Register"
+  },
+  {
+    "id": "HS-159",
+    "question": "Which development practice integrates code changes frequently into a shared repository?",
+    "options": ["Waterfall", "Continuous Integration", "Big Bang", "Prototyping"],
+    "correctAnswer": "Continuous Integration"
+  },
+  {
+    "id": "HS-160",
+    "question": "Which error occurs due to incorrect use of variables or logic flow?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Linker Error"],
+    "correctAnswer": "Logical Error"
+  },
+  {
+    "id": "HS-161",
+    "question": "Which hardware interface supports daisy-chaining multiple devices?",
+    "options": ["USB", "HDMI", "Thunderbolt", "VGA"],
+    "correctAnswer": "Thunderbolt"
+  },
+  {
+    "id": "HS-162",
+    "question": "Which operating system component handles hardware abstraction?",
+    "options": ["Shell", "Kernel", "User Interface", "Application Manager"],
+    "correctAnswer": "Kernel"
+  },
+  {
+    "id": "HS-163",
+    "question": "Which memory issue occurs when processes compete excessively for limited memory?",
+    "options": ["Deadlock", "Thrashing", "Fragmentation", "Starvation"],
+    "correctAnswer": "Thrashing"
+  },
+  {
+    "id": "HS-164",
+    "question": "Which hardware device is primarily used for biometric authentication?",
+    "options": ["Scanner", "Fingerprint Reader", "Webcam", "Microphone"],
+    "correctAnswer": "Fingerprint Reader"
+  },
+  {
+    "id": "HS-165",
+    "question": "Which software testing verifies that critical features work after a build?",
+    "options": ["Regression Testing", "Smoke Testing", "Load Testing", "Unit Testing"],
+    "correctAnswer": "Smoke Testing"
+  },
+  {
+    "id": "HS-166",
+    "question": "Which scheduling strategy allows higher-priority tasks to preempt lower ones?",
+    "options": ["Non-Preemptive", "Preemptive Scheduling", "FCFS", "Round Robin"],
+    "correctAnswer": "Preemptive Scheduling"
+  },
+  {
+    "id": "HS-167",
+    "question": "Which hardware component manages communication between CPU and peripherals?",
+    "options": ["ALU", "System Bus", "Register", "Cache"],
+    "correctAnswer": "System Bus"
+  },
+  {
+    "id": "HS-168",
+    "question": "Which testing type evaluates system behavior beyond normal operational limits?",
+    "options": ["Load Testing", "Stress Testing", "Integration Testing", "Acceptance Testing"],
+    "correctAnswer": "Stress Testing"
+  },
+  {
+    "id": "HS-169",
+    "question": "Which interrupt type is triggered by illegal instruction execution?",
+    "options": ["Timer Interrupt", "I/O Interrupt", "Exception", "Software Interrupt"],
+    "correctAnswer": "Exception"
+  },
+  {
+    "id": "HS-170",
+    "question": "Which software architecture emphasizes independent deployment of components?",
+    "options": ["Monolithic", "Layered", "Microservices", "MVC"],
+    "correctAnswer": "Microservices"
+  },
+  {
+    "id": "HS-171",
+    "question": "Which CPU feature improves performance by executing instructions speculatively?",
+    "options": ["Speculative Execution", "Caching", "DMA", "Virtualization"],
+    "correctAnswer": "Speculative Execution"
+  },
+  {
+    "id": "HS-172",
+    "question": "Which software defect is typically revealed only with large datasets?",
+    "options": ["Syntax Error", "Runtime Error", "Logical Error", "Compilation Error"],
+    "correctAnswer": "Logical Error"
+  },
+  {
+    "id": "HS-173",
+    "question": "Which hardware module supports secure boot measurements?",
+    "options": ["BIOS", "TPM", "Cache", "MMU"],
+    "correctAnswer": "TPM"
+  },
+  {
+    "id": "HS-174",
+    "question": "Which OS concept allows sharing CPU time among many users interactively?",
+    "options": ["Batch Processing", "Time Sharing", "Multiprogramming", "Multithreading"],
+    "correctAnswer": "Time Sharing"
+  },
+  {
+    "id": "HS-175",
+    "question": "Which software quality attribute refers to ease of use by end users?",
+    "options": ["Usability", "Reliability", "Scalability", "Portability"],
+    "correctAnswer": "Usability"
+  },
+  {
+    "id": "HS-176",
+    "question": "Which hardware optimization reduces main memory accesses?",
+    "options": ["Caching", "Polling", "Interrupts", "Virtual Memory"],
+    "correctAnswer": "Caching"
+  },
+  {
+    "id": "HS-177",
+    "question": "Which software stage combines object files into a single executable?",
+    "options": ["Compiling", "Linking", "Loading", "Executing"],
+    "correctAnswer": "Linking"
+  },
+  {
+    "id": "HS-178",
+    "question": "Which page replacement strategy replaces the page that will not be used for the longest time?",
+    "options": ["FIFO", "LRU", "LFU", "Optimal"],
+    "correctAnswer": "Optimal"
+  },
+  {
+    "id": "HS-179",
+    "question": "Which hardware feature marks memory pages as non-executable?",
+    "options": ["DEP", "TPM", "Secure Boot", "Virtualization"],
+    "correctAnswer": "DEP"
+  },
+  {
+    "id": "HS-180",
+    "question": "Which cloud concept ensures applications remain available during failures?",
+    "options": ["Elasticity", "High Availability", "Virtualization", "Scalability"],
+    "correctAnswer": "High Availability"
   }
 ]

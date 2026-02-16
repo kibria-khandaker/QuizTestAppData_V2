@@ -1,30 +1,902 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "CA-001",
+    "question": "What does CPU stand for in computing?",
+    "options": ["Central Processing Unit", "Computer Power Utility", "Control Program Unit", "Central Performance User"],
+    "correctAnswer": "Central Processing Unit"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "CA-002",
+    "question": "What is the full form of RAM?",
+    "options": ["Random Access Memory", "Read All Memory", "Rapid Action Module", "Run Access Machine"],
+    "correctAnswer": "Random Access Memory"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "CA-003",
+    "question": "What does ROM stand for?",
+    "options": ["Read Once Memory", "Read Only Memory", "Run Only Module", "Random Output Machine"],
+    "correctAnswer": "Read Only Memory"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "CA-004",
+    "question": "What is the expansion of USB?",
+    "options": ["Universal Serial Bus", "Unified System Board", "Universal System Backup", "User Shared Bus"],
+    "correctAnswer": "Universal Serial Bus"
+  },
+  {
+    "id": "CA-005",
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "High Transmission Text Process", "Host Transfer Type Program", "Hyperlink Transport Technology"],
+    "correctAnswer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": "CA-006",
+    "question": "What is the full form of HTML?",
+    "options": ["HighText Machine Language", "HyperText Markup Language", "Hyper Tool Multi Language", "Home Text Markup Logic"],
+    "correctAnswer": "HyperText Markup Language"
+  },
+  {
+    "id": "CA-007",
+    "question": "What does IP stand for in networking?",
+    "options": ["Internet Process", "Internal Protocol", "Internet Protocol", "Information Packet"],
+    "correctAnswer": "Internet Protocol"
+  },
+  {
+    "id": "CA-008",
+    "question": "What is the expansion of LAN?",
+    "options": ["Large Area Network", "Local Area Network", "Logical Access Network", "Limited Area Node"],
+    "correctAnswer": "Local Area Network"
+  },
+  {
+    "id": "CA-009",
+    "question": "What does WAN stand for?",
+    "options": ["Wide Area Network", "Wireless Access Node", "World Area Net", "Web Access Network"],
+    "correctAnswer": "Wide Area Network"
+  },
+  {
+    "id": "CA-010",
+    "question": "What is the full form of GPU?",
+    "options": ["Graphical Processing Utility", "Graphics Processing Unit", "General Power Unit", "Graphic Performance User"],
+    "correctAnswer": "Graphics Processing Unit"
+  },
+  {
+    "id": "CA-011",
+    "question": "What does SSD stand for?",
+    "options": ["Solid State Drive", "Super Speed Disk", "Static Storage Device", "Serial System Drive"],
+    "correctAnswer": "Solid State Drive"
+  },
+  {
+    "id": "CA-012",
+    "question": "What is the expansion of HDD?",
+    "options": ["Hard Disk Drive", "High Density Disk", "Hybrid Data Device", "Hard Data Directory"],
+    "correctAnswer": "Hard Disk Drive"
+  },
+  {
+    "id": "CA-013",
+    "question": "What does BIOS stand for?",
+    "options": ["Basic Input Output System", "Binary Integrated Operating Setup", "Basic Internal Operating Software", "Boot Interface Output Service"],
+    "correctAnswer": "Basic Input Output System"
+  },
+  {
+    "id": "CA-014",
+    "question": "What is the full form of OS?",
+    "options": ["Operating System", "Online Software", "Open Source", "Output Service"],
+    "correctAnswer": "Operating System"
+  },
+  {
+    "id": "CA-015",
+    "question": "What does PDF stand for?",
+    "options": ["Portable Document Format", "Personal Data File", "Program Data Form", "Public Document Framework"],
+    "correctAnswer": "Portable Document Format"
+  },
+  {
+    "id": "CA-016",
+    "question": "What is the expansion of URL?",
+    "options": ["Universal Reference Link", "Uniform Resource Locator", "Unified Resource Language", "User Routing Link"],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "id": "CA-017",
+    "question": "What does ASCII stand for?",
+    "options": ["American Standard Code for Information Interchange", "Advanced System Code Interface", "Applied Standard Coding Index", "American System Communication Interface"],
+    "correctAnswer": "American Standard Code for Information Interchange"
+  },
+  {
+    "id": "CA-018",
+    "question": "What is the full form of DNS?",
+    "options": ["Domain Name System", "Data Network Service", "Dynamic Name Server", "Distributed Network Setup"],
+    "correctAnswer": "Domain Name System"
+  },
+  {
+    "id": "CA-019",
+    "question": "What does FTP stand for?",
+    "options": ["Fast Transfer Process", "File Transfer Protocol", "File Transport Program", "Formatted Transfer Path"],
+    "correctAnswer": "File Transfer Protocol"
+  },
+  {
+    "id": "CA-020",
+    "question": "What is the expansion of VPN?",
+    "options": ["Virtual Private Network", "Verified Public Node", "Virtual Processing Network", "Visual Private Net"],
+    "correctAnswer": "Virtual Private Network"
+  },
+  {
+    "id": "CA-021",
+    "question": "What does API stand for?",
+    "options": ["Advanced Programming Interface", "Application Programming Interface", "Automated Process Integration", "Applied Program Instruction"],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "id": "CA-022",
+    "question": "What is the full form of CLI?",
+    "options": ["Command Line Interface", "Control Logic Integration", "Common Language Input", "Command Level Interaction"],
+    "correctAnswer": "Command Line Interface"
+  },
+  {
+    "id": "CA-023",
+    "question": "What does GUI stand for?",
+    "options": ["Graphical User Interface", "General Utility Interface", "Graphical Unified Input", "Global User Interaction"],
+    "correctAnswer": "Graphical User Interface"
+  },
+  {
+    "id": "CA-024",
+    "question": "What is the expansion of AI?",
+    "options": ["Advanced Intelligence", "Artificial Intelligence", "Automated Interface", "Applied Informatics"],
+    "correctAnswer": "Artificial Intelligence"
+  },
+  {
+    "id": "CA-025",
+    "question": "What does IoT stand for?",
+    "options": ["Internet of Tools", "Integrated Online Technology", "Internet of Things", "Information of Technology"],
+    "correctAnswer": "Internet of Things"
+  },
+  {
+    "id": "CA-026",
+    "question": "What is the full form of SQL?",
+    "options": ["Structured Query Language", "System Question Logic", "Sequential Query List", "Standard Queue Language"],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "id": "CA-027",
+    "question": "What does SaaS stand for?",
+    "options": ["Software as a Service", "System as a Software", "Storage as a Solution", "Service and Application Suite"],
+    "correctAnswer": "Software as a Service"
+  },
+  {
+    "id": "CA-028",
+    "question": "What is the expansion of IDE?",
+    "options": ["Integrated Development Environment", "Internal Design Engine", "Interactive Development Editor", "Integrated Data Entity"],
+    "correctAnswer": "Integrated Development Environment"
+  },
+  {
+    "id": "CA-029",
+    "question": "What does OCR stand for?",
+    "options": ["Optical Character Recognition", "Online Code Reader", "Open Content Registry", "Optical Coding Resource"],
+    "correctAnswer": "Optical Character Recognition"
+  },
+  {
+    "id": "CA-030",
+    "question": "What is the full form of CDN?",
+    "options": ["Central Data Network", "Content Delivery Network", "Cloud Data Node", "Core Distribution Net"],
+    "correctAnswer": "Content Delivery Network"
+  },
+  {
+    "id": "CA-031",
+    "question": "What does NIC stand for in computer networking?",
+    "options": ["Network Interface Card", "Node Internet Connector", "Network Internal Controller", "New Interface Chip"],
+    "correctAnswer": "Network Interface Card"
+  },
+  {
+    "id": "CA-032",
+    "question": "What is the full form of MIME?",
+    "options": ["Multiple Internet Mail Extension", "Multipurpose Internet Mail Extensions", "Main Internet Message Encoder", "Mail Interface Media Extension"],
+    "correctAnswer": "Multipurpose Internet Mail Extensions"
+  },
+  {
+    "id": "CA-033",
+    "question": "What does UPS stand for in computing?",
+    "options": ["Unified Power Source", "Universal Power Supply", "Uninterrupted Power Service", "Uninterruptible Power Supply"],
+    "correctAnswer": "Uninterruptible Power Supply"
+  },
+  {
+    "id": "CA-034",
+    "question": "What is the expansion of SMTP?",
+    "options": ["Simple Mail Transfer Protocol", "Standard Message Transmission Process", "System Mail Transport Program", "Secure Mail Transfer Path"],
+    "correctAnswer": "Simple Mail Transfer Protocol"
+  },
+  {
+    "id": "CA-035",
+    "question": "What does TCP stand for?",
+    "options": ["Transfer Control Process", "Transmission Control Protocol", "Trusted Communication Protocol", "Terminal Control Program"],
+    "correctAnswer": "Transmission Control Protocol"
+  },
+  {
+    "id": "CA-036",
+    "question": "What is the full form of UDP?",
+    "options": ["Unified Data Process", "Universal Data Path", "User Datagram Protocol", "User Data Program"],
+    "correctAnswer": "User Datagram Protocol"
+  },
+  {
+    "id": "CA-037",
+    "question": "What does ORM stand for in software development?",
+    "options": ["Object Relational Mapping", "Operational Resource Model", "Object Runtime Manager", "Online Record Mapper"],
+    "correctAnswer": "Object Relational Mapping"
+  },
+  {
+    "id": "CA-038",
+    "question": "What is the expansion of MVC?",
+    "options": ["Main View Control", "Model View Controller", "Multiple Visual Components", "Model Variable Connection"],
+    "correctAnswer": "Model View Controller"
+  },
+  {
+    "id": "CA-039",
+    "question": "What does SSH stand for?",
+    "options": ["Secure Shell", "System Secure Host", "Standard Socket Handler", "Server Side Hub"],
+    "correctAnswer": "Secure Shell"
+  },
+  {
+    "id": "CA-040",
+    "question": "What is the full form of CRUD?",
+    "options": ["Create Read Update Delete", "Control Read Use Deploy", "Create Remove Upload Download", "Core Runtime User Data"],
+    "correctAnswer": "Create Read Update Delete"
+  },
+  {
+    "id": "CA-041",
+    "question": "What does DHCP stand for?",
+    "options": ["Dynamic Host Configuration Protocol", "Direct Host Control Program", "Distributed Hardware Communication Path", "Domain Host Connection Process"],
+    "correctAnswer": "Dynamic Host Configuration Protocol"
+  },
+  {
+    "id": "CA-042",
+    "question": "What is the expansion of CDN Edge in networking context?",
+    "options": ["Central Data Node Edge", "Content Delivery Network Edge", "Cloud Distribution Node Extension", "Core Data Network Endpoint"],
+    "correctAnswer": "Content Delivery Network Edge"
+  },
+  {
+    "id": "CA-043",
+    "question": "What does RDBMS stand for?",
+    "options": ["Relational Database Management System", "Rapid Data Backup Management Service", "Remote Database Model Structure", "Relational Data Mapping Software"],
+    "correctAnswer": "Relational Database Management System"
+  },
+  {
+    "id": "CA-044",
+    "question": "What is the full form of JSON?",
+    "options": ["Java Source Object Notation", "JavaScript Object Notation", "Joined System Object Network", "Java Structured Output Name"],
+    "correctAnswer": "JavaScript Object Notation"
+  },
+  {
+    "id": "CA-045",
+    "question": "What does YAML stand for?",
+    "options": ["Yet Another Markup Language", "Your Advanced Modeling Language", "Yield Access Management Layer", "Young Application Markup Logic"],
+    "correctAnswer": "Yet Another Markup Language"
+  },
+  {
+    "id": "CA-046",
+    "question": "What is the expansion of PCIe?",
+    "options": ["Peripheral Component Interconnect Express", "Programmed Circuit Interface Extended", "Primary Controller Interface Engine", "Peripheral Control Input Express"],
+    "correctAnswer": "Peripheral Component Interconnect Express"
+  },
+  {
+    "id": "CA-047",
+    "question": "What does QoS stand for in networking?",
+    "options": ["Query Operating System", "Quality of Service", "Queue Optimization Standard", "Quick Output Stream"],
+    "correctAnswer": "Quality of Service"
+  },
+  {
+    "id": "CA-048",
+    "question": "What is the full form of VM?",
+    "options": ["Virtual Memory", "Visual Machine", "Virtual Machine", "Verified Module"],
+    "correctAnswer": "Virtual Machine"
+  },
+  {
+    "id": "CA-049",
+    "question": "What does JWT stand for?",
+    "options": ["Java Web Token", "JSON Web Token", "Joint Web Transfer", "Java Workflow Ticket"],
+    "correctAnswer": "JSON Web Token"
+  },
+  {
+    "id": "CA-050",
+    "question": "What is the expansion of RAID?",
+    "options": ["Redundant Array of Independent Disks", "Rapid Access Integrated Drive", "Randomized Allocation of Internal Data", "Redundant Algorithm for Indexed Data"],
+    "correctAnswer": "Redundant Array of Independent Disks"
+  },
+  {
+    "id": "CA-051",
+    "question": "What does IDE mode AHCI relate to?",
+    "options": ["Advanced Host Controller Interface", "Automated Hardware Control Integration", "Advanced Hard Cache Index", "Active Host Communication Interface"],
+    "correctAnswer": "Advanced Host Controller Interface"
+  },
+  {
+    "id": "CA-052",
+    "question": "What is the full form of SPF in email systems?",
+    "options": ["Sender Policy Framework", "Secure Packet Filter", "System Protection Firewall", "Source Processing Function"],
+    "correctAnswer": "Sender Policy Framework"
+  },
+  {
+    "id": "CA-053",
+    "question": "What does DKIM stand for?",
+    "options": ["Domain Keys Identified Mail", "Distributed Key Integration Method", "Digital Kernel Identity Module", "Domain Knowledge Information Model"],
+    "correctAnswer": "Domain Keys Identified Mail"
+  },
+  {
+    "id": "CA-054",
+    "question": "What is the expansion of TTL in networking?",
+    "options": ["Total Transfer Limit", "Time To Live", "Transmission Time Length", "Terminal Trace Level"],
+    "correctAnswer": "Time To Live"
+  },
+  {
+    "id": "CA-055",
+    "question": "What does KPI stand for in IT management?",
+    "options": ["Key Performance Indicator", "Knowledge Process Index", "Kernel Performance Interface", "Key Program Instance"],
+    "correctAnswer": "Key Performance Indicator"
+  },
+  {
+    "id": "CA-056",
+    "question": "What is the full form of PaaS?",
+    "options": ["Platform as a Service", "Program as a Solution", "Process and Application Suite", "Platform and Storage System"],
+    "correctAnswer": "Platform as a Service"
+  },
+  {
+    "id": "CA-057",
+    "question": "What does IaaS stand for?",
+    "options": ["Infrastructure as a Service", "Integrated Application as Software", "Internet as a Solution", "Instance Allocation and Scaling"],
+    "correctAnswer": "Infrastructure as a Service"
+  },
+  {
+    "id": "CA-058",
+    "question": "What is the expansion of CAPTCHA?",
+    "options": ["Completely Automated Public Turing test to tell Computers and Humans Apart", "Controlled Access Public Test for Human Approval", "Computer Assisted Program for Technical Human Authentication", "Common Automated Protection Tool for Human Access"],
+    "correctAnswer": "Completely Automated Public Turing test to tell Computers and Humans Apart"
+  },
+  {
+    "id": "CA-059",
+    "question": "What does FPGA stand for?",
+    "options": ["Field Programmable Gate Array", "Fast Processing Graphics Adapter", "Flexible Program Grid Architecture", "First Programmable General Array"],
+    "correctAnswer": "Field Programmable Gate Array"
+  },
+  {
+    "id": "CA-060",
+    "question": "What is the full form of UEFI?",
+    "options": ["Unified Extensible Firmware Interface", "Universal Enhanced File Integration", "User Embedded Firmware Instruction", "Unified External Function Interface"],
+    "correctAnswer": "Unified Extensible Firmware Interface"
+  },
+  {
+    "id": "CA-061",
+    "question": "What does BIOS POST stand for in computer startup?",
+    "options": ["Power On Self Test", "Primary Operating System Task", "Program Output System Test", "Power Output Signal Transfer"],
+    "correctAnswer": "Power On Self Test"
+  },
+  {
+    "id": "CA-062",
+    "question": "What is the full form of DPI in display technology?",
+    "options": ["Dots Per Inch", "Display Pixel Index", "Data Processing Interface", "Digital Picture Input"],
+    "correctAnswer": "Dots Per Inch"
+  },
+  {
+    "id": "CA-063",
+    "question": "What does PSU stand for in computer hardware?",
+    "options": ["Power Supply Unit", "Primary System Utility", "Power Storage Unit", "Peripheral Support Utility"],
+    "correctAnswer": "Power Supply Unit"
+  },
+  {
+    "id": "CA-064",
+    "question": "What is the expansion of RTC in computers?",
+    "options": ["Run Time Clock", "Real Time Clock", "Random Timing Circuit", "Read Time Counter"],
+    "correctAnswer": "Real Time Clock"
+  },
+  {
+    "id": "CA-065",
+    "question": "What does VDU stand for?",
+    "options": ["Visual Display Unit", "Virtual Data Utility", "Video Data Unit", "Variable Display User"],
+    "correctAnswer": "Visual Display Unit"
+  },
+  {
+    "id": "CA-066",
+    "question": "What is the full form of BPS in data transmission?",
+    "options": ["Bits Per Second", "Binary Processing Speed", "Bandwidth Per Signal", "Base Packet System"],
+    "correctAnswer": "Bits Per Second"
+  },
+  {
+    "id": "CA-067",
+    "question": "What does ISP stand for?",
+    "options": ["Internet Service Provider", "Internal System Protocol", "Integrated Software Platform", "Internet Security Program"],
+    "correctAnswer": "Internet Service Provider"
+  },
+  {
+    "id": "CA-068",
+    "question": "What is the expansion of LCD?",
+    "options": ["Light Crystal Display", "Liquid Crystal Display", "Low Contrast Display", "Linear Color Device"],
+    "correctAnswer": "Liquid Crystal Display"
+  },
+  {
+    "id": "CA-069",
+    "question": "What does LED stand for?",
+    "options": ["Light Emitting Diode", "Low Energy Display", "Linear Electronic Device", "Light Encoded Display"],
+    "correctAnswer": "Light Emitting Diode"
+  },
+  {
+    "id": "CA-070",
+    "question": "What is the full form of CMOS?",
+    "options": ["Complementary Metal Oxide Semiconductor", "Central Memory Operating System", "Controlled Modular Output Storage", "Computer Managed Optical System"],
+    "correctAnswer": "Complementary Metal Oxide Semiconductor"
+  },
+  {
+    "id": "CA-071",
+    "question": "What does API Gateway commonly mean in cloud systems?",
+    "options": ["Application Programming Interface Gateway", "Advanced Program Integration Gateway", "Application Process Index Gateway", "Automated Platform Interface Gateway"],
+    "correctAnswer": "Application Programming Interface Gateway"
+  },
+  {
+    "id": "CA-072",
+    "question": "What is the expansion of SLA in IT services?",
+    "options": ["Service Level Agreement", "System Load Allocation", "Software License Authority", "Service Logic Architecture"],
+    "correctAnswer": "Service Level Agreement"
+  },
+  {
+    "id": "CA-073",
+    "question": "What does MFA stand for in cybersecurity?",
+    "options": ["Multiple Factor Authentication", "Managed Firewall Access", "Modular Function Authority", "Main Frame Authentication"],
+    "correctAnswer": "Multiple Factor Authentication"
+  },
+  {
+    "id": "CA-074",
+    "question": "What is the full form of IDS?",
+    "options": ["Intrusion Detection System", "Integrated Data Service", "Internal Defense Software", "Information Distribution Setup"],
+    "correctAnswer": "Intrusion Detection System"
+  },
+  {
+    "id": "CA-075",
+    "question": "What does IPS stand for in network security?",
+    "options": ["Intrusion Prevention System", "Internet Protection Service", "Integrated Packet Shield", "Internal Processing System"],
+    "correctAnswer": "Intrusion Prevention System"
+  },
+  {
+    "id": "CA-076",
+    "question": "What is the expansion of NAT?",
+    "options": ["Network Address Translation", "Node Access Transfer", "Network Allocation Table", "New Address Technique"],
+    "correctAnswer": "Network Address Translation"
+  },
+  {
+    "id": "CA-077",
+    "question": "What does VoIP stand for?",
+    "options": ["Voice over Internet Protocol", "Virtual Office Integrated Platform", "Video over Internal Process", "Voice Output Interface Program"],
+    "correctAnswer": "Voice over Internet Protocol"
+  },
+  {
+    "id": "CA-078",
+    "question": "What is the full form of CSR in computing?",
+    "options": ["Certificate Signing Request", "Central System Registry", "Client Service Resource", "Core Security Rule"],
+    "correctAnswer": "Certificate Signing Request"
+  },
+  {
+    "id": "CA-079",
+    "question": "What does HCI stand for in modern computing?",
+    "options": ["Human Computer Interaction", "High Capacity Infrastructure", "Hybrid Control Interface", "Host Communication Index"],
+    "correctAnswer": "Human Computer Interaction"
+  },
+  {
+    "id": "CA-080",
+    "question": "What is the expansion of SoC?",
+    "options": ["System on a Chip", "Storage on Cloud", "Software on Computer", "System of Circuits"],
+    "correctAnswer": "System on a Chip"
+  },
+  {
+    "id": "CA-081",
+    "question": "What does PPI stand for in screen resolution?",
+    "options": ["Pixels Per Inch", "Programs Per Instruction", "Picture Processing Index", "Primary Pixel Interface"],
+    "correctAnswer": "Pixels Per Inch"
+  },
+  {
+    "id": "CA-082",
+    "question": "What is the full form of TLD in domain names?",
+    "options": ["Top Level Domain", "Transfer Link Directory", "Technical Level Designation", "Terminal Lookup Domain"],
+    "correctAnswer": "Top Level Domain"
+  },
+  {
+    "id": "CA-083",
+    "question": "What does CDN POP stand for?",
+    "options": ["Point of Presence", "Packet Operation Point", "Public Online Platform", "Process Optimization Protocol"],
+    "correctAnswer": "Point of Presence"
+  },
+  {
+    "id": "CA-084",
+    "question": "What is the expansion of VCS in software development?",
+    "options": ["Version Control System", "Virtual Computing Service", "Verified Code Source", "Variable Control Software"],
+    "correctAnswer": "Version Control System"
+  },
+  {
+    "id": "CA-085",
+    "question": "What does SDK stand for?",
+    "options": ["Software Development Kit", "System Driver Kernel", "Source Design Knowledge", "Software Data Key"],
+    "correctAnswer": "Software Development Kit"
+  },
+  {
+    "id": "CA-086",
+    "question": "What is the full form of KVM in virtualization?",
+    "options": ["Kernel-based Virtual Machine", "Key Virtual Memory", "Kernel Volume Manager", "Knowledge Virtual Model"],
+    "correctAnswer": "Kernel-based Virtual Machine"
+  },
+  {
+    "id": "CA-087",
+    "question": "What does OCR Engine typically refer to?",
+    "options": ["Optical Character Recognition Engine", "Online Code Reader Engine", "Operational Control Registry Engine", "Open Content Resource Engine"],
+    "correctAnswer": "Optical Character Recognition Engine"
+  },
+  {
+    "id": "CA-088",
+    "question": "What is the expansion of SSO?",
+    "options": ["Single Sign-On", "Secure System Operation", "Shared Software Object", "System Sign Output"],
+    "correctAnswer": "Single Sign-On"
+  },
+  {
+    "id": "CA-089",
+    "question": "What does XSS stand for in web security?",
+    "options": ["Cross-Site Scripting", "Extended System Service", "Cross Server Security", "XML Style Sheet"],
+    "correctAnswer": "Cross-Site Scripting"
+  },
+  {
+    "id": "CA-090",
+    "question": "What is the full form of RBAC?",
+    "options": ["Role-Based Access Control", "Rule Based Authentication Code", "Resource Backup and Control", "Role Binding Access Configuration"],
+    "correctAnswer": "Role-Based Access Control"
+  },
+  {
+    "id": "CA-091",
+    "question": "What does RAMDAC stand for in graphics systems?",
+    "options": ["Random Access Memory Digital-to-Analog Converter", "Read Access Memory Display Adapter Circuit", "Rapid Analog Monitor Data Access Controller", "Raster Access Module Digital Adapter Chip"],
+    "correctAnswer": "Random Access Memory Digital-to-Analog Converter"
+  },
+  {
+    "id": "CA-092",
+    "question": "What is the full form of ECC in computer memory?",
+    "options": ["Error Checking and Correction", "Extended Cache Controller", "Electronic Clock Circuit", "Enhanced Computing Core"],
+    "correctAnswer": "Error Checking and Correction"
+  },
+  {
+    "id": "CA-093",
+    "question": "What does DPIA stand for in security compliance?",
+    "options": ["Data Protection Impact Assessment", "Digital Process Integrity Audit", "Distributed Privacy Information Access", "Data Processing Internal Analysis"],
+    "correctAnswer": "Data Protection Impact Assessment"
+  },
+  {
+    "id": "CA-094",
+    "question": "What is the expansion of BGP in networking?",
+    "options": ["Border Gateway Protocol", "Binary Graph Process", "Base Group Policy", "Broadband Gateway Path"],
+    "correctAnswer": "Border Gateway Protocol"
+  },
+  {
+    "id": "CA-095",
+    "question": "What does ICMP stand for?",
+    "options": ["Internet Control Message Protocol", "Internal Communication Management Process", "Integrated Control Monitoring Program", "Interconnected Message Control Path"],
+    "correctAnswer": "Internet Control Message Protocol"
+  },
+  {
+    "id": "CA-096",
+    "question": "What is the full form of VDI in enterprise computing?",
+    "options": ["Virtual Desktop Infrastructure", "Visual Data Interface", "Virtual Device Integration", "Verified Digital Identity"],
+    "correctAnswer": "Virtual Desktop Infrastructure"
+  },
+  {
+    "id": "CA-097",
+    "question": "What does PBX stand for in telecommunication systems?",
+    "options": ["Private Branch Exchange", "Public Broadband Extension", "Primary Backup Exchange", "Private Bandwidth Executor"],
+    "correctAnswer": "Private Branch Exchange"
+  },
+  {
+    "id": "CA-098",
+    "question": "What is the expansion of CSP in cloud security?",
+    "options": ["Cloud Service Provider", "Central Security Policy", "Certified Systems Platform", "Cloud Storage Protocol"],
+    "correctAnswer": "Cloud Service Provider"
+  },
+  {
+    "id": "CA-099",
+    "question": "What does ACID stand for in database systems?",
+    "options": ["Atomicity Consistency Isolation Durability", "Access Control Integrity Definition", "Automated Core Index Design", "Advanced Computing Interface Domain"],
+    "correctAnswer": "Atomicity Consistency Isolation Durability"
+  },
+  {
+    "id": "CA-100",
+    "question": "What is the full form of ETL in data engineering?",
+    "options": ["Extract Transform Load", "External Transfer Logic", "Efficient Table Linking", "Encoded Transaction Layer"],
+    "correctAnswer": "Extract Transform Load"
+  },
+  {
+    "id": "CA-101",
+    "question": "What does DDoS stand for?",
+    "options": ["Distributed Denial of Service", "Dynamic Data Operating System", "Direct Data Output Stream", "Distributed Database Online Sync"],
+    "correctAnswer": "Distributed Denial of Service"
+  },
+  {
+    "id": "CA-102",
+    "question": "What is the expansion of PAM in cybersecurity?",
+    "options": ["Privileged Access Management", "Protected Account Module", "Public Authorization Method", "Process Access Mechanism"],
+    "correctAnswer": "Privileged Access Management"
+  },
+  {
+    "id": "CA-103",
+    "question": "What does SOC stand for in security operations?",
+    "options": ["Security Operations Center", "System Optimization Console", "Service Oriented Computing", "Secure Online Channel"],
+    "correctAnswer": "Security Operations Center"
+  },
+  {
+    "id": "CA-104",
+    "question": "What is the full form of HDFS?",
+    "options": ["Hadoop Distributed File System", "High Density File Storage", "Hierarchical Data Flow Structure", "Hybrid Disk Framework System"],
+    "correctAnswer": "Hadoop Distributed File System"
+  },
+  {
+    "id": "CA-105",
+    "question": "What does CI/CD stand for in DevOps?",
+    "options": ["Continuous Integration and Continuous Delivery", "Code Inspection and Code Deployment", "Cloud Integration and Cloud Distribution", "Centralized Infrastructure Control Design"],
+    "correctAnswer": "Continuous Integration and Continuous Delivery"
+  },
+  {
+    "id": "CA-106",
+    "question": "What is the expansion of TPM in hardware security?",
+    "options": ["Trusted Platform Module", "Total Processing Memory", "Terminal Protection Mechanism", "Transaction Policy Manager"],
+    "correctAnswer": "Trusted Platform Module"
+  },
+  {
+    "id": "CA-107",
+    "question": "What does SFTP stand for?",
+    "options": ["SSH File Transfer Protocol", "Secure File Transport Program", "System File Transfer Path", "Structured Fast Transfer Protocol"],
+    "correctAnswer": "SSH File Transfer Protocol"
+  },
+  {
+    "id": "CA-108",
+    "question": "What is the full form of NTP?",
+    "options": ["Network Time Protocol", "Node Transfer Process", "Network Transaction Policy", "New Timing Program"],
+    "correctAnswer": "Network Time Protocol"
+  },
+  {
+    "id": "CA-109",
+    "question": "What does CDN SSL refer to?",
+    "options": ["Secure Sockets Layer", "Server Security Link", "System Socket Logic", "Secure Software License"],
+    "correctAnswer": "Secure Sockets Layer"
+  },
+  {
+    "id": "CA-110",
+    "question": "What is the expansion of BYOD in IT policy?",
+    "options": ["Bring Your Own Device", "Build Your Own Data", "Backup Your Office Documents", "Bring Your Online Directory"],
+    "correctAnswer": "Bring Your Own Device"
+  },
+  {
+    "id": "CA-111",
+    "question": "What does MBR stand for in disk partitioning?",
+    "options": ["Master Boot Record", "Main Binary Register", "Memory Block Resource", "Multi Boot Reference"],
+    "correctAnswer": "Master Boot Record"
+  },
+  {
+    "id": "CA-112",
+    "question": "What is the full form of GPT in disk systems?",
+    "options": ["GUID Partition Table", "General Processing Task", "Global Program Template", "Graphical Partition Tool"],
+    "correctAnswer": "GUID Partition Table"
+  },
+  {
+    "id": "CA-113",
+    "question": "What does SIEM stand for?",
+    "options": ["Security Information and Event Management", "System Integration and Error Monitoring", "Secure Infrastructure Event Model", "Software Intelligence Execution Module"],
+    "correctAnswer": "Security Information and Event Management"
+  },
+  {
+    "id": "CA-114",
+    "question": "What is the expansion of RPA in automation?",
+    "options": ["Robotic Process Automation", "Real-Time Processing Agent", "Remote Program Access", "Rule-Based Process Allocation"],
+    "correctAnswer": "Robotic Process Automation"
+  },
+  {
+    "id": "CA-115",
+    "question": "What does CDN WAF stand for?",
+    "options": ["Web Application Firewall", "Wide Area Framework", "Web Access Function", "Wireless Application Filter"],
+    "correctAnswer": "Web Application Firewall"
+  },
+  {
+    "id": "CA-116",
+    "question": "What is the full form of APM in monitoring tools?",
+    "options": ["Application Performance Monitoring", "Advanced Process Management", "Automated Program Metrics", "Application Policy Manager"],
+    "correctAnswer": "Application Performance Monitoring"
+  },
+  {
+    "id": "CA-117",
+    "question": "What does IAM stand for in identity systems?",
+    "options": ["Identity and Access Management", "Integrated Authorization Module", "Information Account Model", "Internal Access Method"],
+    "correctAnswer": "Identity and Access Management"
+  },
+  {
+    "id": "CA-118",
+    "question": "What is the expansion of LTS in software releases?",
+    "options": ["Long Term Support", "Low Traffic System", "Limited Technical Service", "Long Transfer Session"],
+    "correctAnswer": "Long Term Support"
+  },
+  {
+    "id": "CA-119",
+    "question": "What does FQDN stand for?",
+    "options": ["Fully Qualified Domain Name", "Fast Query Distribution Network", "Formal Quality Data Node", "Federated Query Domain Number"],
+    "correctAnswer": "Fully Qualified Domain Name"
+  },
+  {
+    "id": "CA-120",
+    "question": "What is the full form of DRaaS?",
+    "options": ["Disaster Recovery as a Service", "Dynamic Resource Allocation System", "Distributed Replication and Storage", "Data Recovery and Archival Solution"],
+    "correctAnswer": "Disaster Recovery as a Service"
+  },
+  {
+    "id": "CA-121",
+    "question": "What does TLS stand for in network security?",
+    "options": ["Transport Layer Security", "Trusted Link Service", "Transfer Logic System", "Terminal Layer Standard"],
+    "correctAnswer": "Transport Layer Security"
+  },
+  {
+    "id": "CA-122",
+    "question": "What is the full form of MTU in networking?",
+    "options": ["Maximum Transmission Unit", "Minimum Transfer Utility", "Main Traffic User", "Managed Transport Unit"],
+    "correctAnswer": "Maximum Transmission Unit"
+  },
+  {
+    "id": "CA-123",
+    "question": "What does ARP stand for?",
+    "options": ["Address Resolution Protocol", "Automatic Routing Process", "Advanced Resource Path", "Access Request Program"],
+    "correctAnswer": "Address Resolution Protocol"
+  },
+  {
+    "id": "CA-124",
+    "question": "What is the expansion of RDP?",
+    "options": ["Remote Desktop Protocol", "Rapid Data Process", "Remote Device Pairing", "Real-time Data Path"],
+    "correctAnswer": "Remote Desktop Protocol"
+  },
+  {
+    "id": "CA-125",
+    "question": "What does SMB stand for in file sharing?",
+    "options": ["Server Message Block", "System Memory Buffer", "Shared Media Bus", "Secure Mode Bridge"],
+    "correctAnswer": "Server Message Block"
+  },
+  {
+    "id": "CA-126",
+    "question": "What is the full form of LDAP?",
+    "options": ["Lightweight Directory Access Protocol", "Local Data Authorization Process", "Logical Directory Allocation Program", "Linked Data Access Path"],
+    "correctAnswer": "Lightweight Directory Access Protocol"
+  },
+  {
+    "id": "CA-127",
+    "question": "What does SNMP stand for?",
+    "options": ["Simple Network Management Protocol", "System Node Monitoring Process", "Secure Network Messaging Platform", "Standard Network Mapping Procedure"],
+    "correctAnswer": "Simple Network Management Protocol"
+  },
+  {
+    "id": "CA-128",
+    "question": "What is the expansion of MQTT?",
+    "options": ["Message Queuing Telemetry Transport", "Modular Query Transfer Tool", "Managed Queue Message Technique", "Multi Queue Transmission Type"],
+    "correctAnswer": "Message Queuing Telemetry Transport"
+  },
+  {
+    "id": "CA-129",
+    "question": "What does AMQP stand for?",
+    "options": ["Advanced Message Queuing Protocol", "Automated Messaging Query Process", "Asynchronous Message Quality Path", "Application Message Queue Platform"],
+    "correctAnswer": "Advanced Message Queuing Protocol"
+  },
+  {
+    "id": "CA-130",
+    "question": "What is the full form of PCI DSS?",
+    "options": ["Payment Card Industry Data Security Standard", "Protected Computing Interface Data Storage System", "Private Card Information Digital Safety Scheme", "Public Cloud Infrastructure Data Security Service"],
+    "correctAnswer": "Payment Card Industry Data Security Standard"
+  },
+  {
+    "id": "CA-131",
+    "question": "What does CVE stand for in cybersecurity?",
+    "options": ["Common Vulnerabilities and Exposures", "Centralized Verification Engine", "Critical Vector Enumeration", "Common Validation Entity"],
+    "correctAnswer": "Common Vulnerabilities and Exposures"
+  },
+  {
+    "id": "CA-132",
+    "question": "What is the expansion of CWE?",
+    "options": ["Common Weakness Enumeration", "Centralized Web Evaluation", "Core Workflow Engine", "Critical Warning Event"],
+    "correctAnswer": "Common Weakness Enumeration"
+  },
+  {
+    "id": "CA-133",
+    "question": "What does OWASP stand for?",
+    "options": ["Open Worldwide Application Security Project", "Open Web Access Security Protocol", "Organization for Web Application Software Protection", "Online Wide Area Security Platform"],
+    "correctAnswer": "Open Worldwide Application Security Project"
+  },
+  {
+    "id": "CA-134",
+    "question": "What is the full form of SAML?",
+    "options": ["Security Assertion Markup Language", "Secure Access Management Logic", "Standard Authentication Message Layer", "System Authorization Modeling Language"],
+    "correctAnswer": "Security Assertion Markup Language"
+  },
+  {
+    "id": "CA-135",
+    "question": "What does OIDC stand for?",
+    "options": ["OpenID Connect", "Online Identity Controller", "Open Interface Directory Channel", "Operational Identity Configuration"],
+    "correctAnswer": "OpenID Connect"
+  },
+  {
+    "id": "CA-136",
+    "question": "What is the expansion of WebRTC?",
+    "options": ["Web Real-Time Communication", "Web Remote Transfer Channel", "Wideband Real-Time Control", "Web Routing and Transmission Core"],
+    "correctAnswer": "Web Real-Time Communication"
+  },
+  {
+    "id": "CA-137",
+    "question": "What does gRPC stand for?",
+    "options": ["Google Remote Procedure Call", "General Runtime Protocol Channel", "Global Request Processing Core", "Generic Remote Process Connector"],
+    "correctAnswer": "Google Remote Procedure Call"
+  },
+  {
+    "id": "CA-138",
+    "question": "What is the full form of REST?",
+    "options": ["Representational State Transfer", "Remote Execution State Technique", "Reliable System Transport", "Resource State Transition"],
+    "correctAnswer": "Representational State Transfer"
+  },
+  {
+    "id": "CA-139",
+    "question": "What does SOAP stand for?",
+    "options": ["Simple Object Access Protocol", "System Oriented Application Process", "Structured Operation Access Path", "Service Oriented Architecture Protocol"],
+    "correctAnswer": "Simple Object Access Protocol"
+  },
+  {
+    "id": "CA-140",
+    "question": "What is the expansion of SIMD?",
+    "options": ["Single Instruction Multiple Data", "Synchronous Input Memory Distribution", "System Integrated Modular Design", "Single Interface Memory Device"],
+    "correctAnswer": "Single Instruction Multiple Data"
+  },
+  {
+    "id": "CA-141",
+    "question": "What does NUMA stand for?",
+    "options": ["Non-Uniform Memory Access", "Network Unified Memory Architecture", "Node User Memory Allocation", "Nonlinear Unified Memory Array"],
+    "correctAnswer": "Non-Uniform Memory Access"
+  },
+  {
+    "id": "CA-142",
+    "question": "What is the full form of DMA?",
+    "options": ["Direct Memory Access", "Dynamic Module Allocation", "Data Management Architecture", "Distributed Memory Adapter"],
+    "correctAnswer": "Direct Memory Access"
+  },
+  {
+    "id": "CA-143",
+    "question": "What does IOPS stand for in storage systems?",
+    "options": ["Input/Output Operations Per Second", "Integrated Operational Processing Speed", "Internal Output Performance Scale", "Input Oriented Processing System"],
+    "correctAnswer": "Input/Output Operations Per Second"
+  },
+  {
+    "id": "CA-144",
+    "question": "What is the expansion of MTBF?",
+    "options": ["Mean Time Between Failures", "Maximum Tolerable Backup Frequency", "Measured Technical Breakdown Factor", "Minimum Time Before Fault"],
+    "correctAnswer": "Mean Time Between Failures"
+  },
+  {
+    "id": "CA-145",
+    "question": "What does MTTR stand for?",
+    "options": ["Mean Time To Repair", "Maximum Time To Recover", "Managed Technical Trouble Resolution", "Minimum Transfer Time Rate"],
+    "correctAnswer": "Mean Time To Repair"
+  },
+  {
+    "id": "CA-146",
+    "question": "What is the full form of EDR in cybersecurity?",
+    "options": ["Endpoint Detection and Response", "Enterprise Data Recovery", "External Device Regulation", "Event Driven Remediation"],
+    "correctAnswer": "Endpoint Detection and Response"
+  },
+  {
+    "id": "CA-147",
+    "question": "What does XDR stand for?",
+    "options": ["Extended Detection and Response", "Cross Domain Routing", "External Data Repository", "Executable Defense Resource"],
+    "correctAnswer": "Extended Detection and Response"
+  },
+  {
+    "id": "CA-148",
+    "question": "What is the expansion of UEBA?",
+    "options": ["User and Entity Behavior Analytics", "Unified Endpoint Backup Architecture", "User Event Based Authorization", "Universal Enterprise Behavior Assessment"],
+    "correctAnswer": "User and Entity Behavior Analytics"
+  },
+  {
+    "id": "CA-149",
+    "question": "What does CASB stand for in cloud security?",
+    "options": ["Cloud Access Security Broker", "Centralized Application Security Base", "Cloud Authentication Service Backend", "Controlled Access Storage Bridge"],
+    "correctAnswer": "Cloud Access Security Broker"
+  },
+  {
+    "id": "CA-150",
+    "question": "What is the full form of ZTA in cybersecurity?",
+    "options": ["Zero Trust Architecture", "Zonal Threat Analysis", "Zero Tolerance Access", "Zoned Traffic Authorization"],
+    "correctAnswer": "Zero Trust Architecture"
   }
 ]

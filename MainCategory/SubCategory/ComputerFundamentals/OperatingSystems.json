@@ -1,30 +1,1622 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "OS-001",
+    "question": "Which operating system concept allows multiple programs to reside in memory at the same time?",
+    "options": ["Multithreading", "Multiprocessing", "Multiprogramming", "Multitasking"],
+    "correctAnswer": "Multiprogramming"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "OS-002",
+    "question": "Which component of an operating system directly interacts with hardware?",
+    "options": ["Shell", "Kernel", "File System", "User Interface"],
+    "correctAnswer": "Kernel"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "OS-003",
+    "question": "Which scheduling algorithm gives the smallest average waiting time?",
+    "options": ["Round Robin", "First Come First Serve", "Priority Scheduling", "Shortest Job First"],
+    "correctAnswer": "Shortest Job First"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "OS-004",
+    "question": "What is the main purpose of a page table?",
+    "options": ["Process synchronization", "File management", "Address translation", "CPU scheduling"],
+    "correctAnswer": "Address translation"
+  },
+  {
+    "id": "OS-005",
+    "question": "Which type of operating system is used in washing machines or microwave ovens?",
+    "options": ["Batch OS", "Real-Time OS", "Distributed OS", "Time-Sharing OS"],
+    "correctAnswer": "Real-Time OS"
+  },
+  {
+    "id": "OS-006",
+    "question": "What is a deadlock in operating systems?",
+    "options": ["Infinite loop", "CPU starvation", "Memory leak", "Circular waiting of processes"],
+    "correctAnswer": "Circular waiting of processes"
+  },
+  {
+    "id": "OS-007",
+    "question": "Which memory allocation technique suffers from external fragmentation?",
+    "options": ["Paging", "Segmentation", "Virtual memory", "Cache memory"],
+    "correctAnswer": "Segmentation"
+  },
+  {
+    "id": "OS-008",
+    "question": "Which system call is used to create a new process in Unix-based systems?",
+    "options": ["exec()", "wait()", "fork()", "exit()"],
+    "correctAnswer": "fork()"
+  },
+  {
+    "id": "OS-009",
+    "question": "What is thrashing in an operating system?",
+    "options": ["High CPU usage", "Frequent page swapping", "Disk fragmentation", "Deadlock condition"],
+    "correctAnswer": "Frequent page swapping"
+  },
+  {
+    "id": "OS-010",
+    "question": "Which scheduling algorithm is mainly used in time-sharing systems?",
+    "options": ["Priority Scheduling", "Shortest Job First", "Round Robin", "FCFS"],
+    "correctAnswer": "Round Robin"
+  },
+  {
+    "id": "OS-011",
+    "question": "Which of the following is NOT a necessary condition for deadlock?",
+    "options": ["Circular wait", "Preemption", "Hold and wait", "Mutual exclusion"],
+    "correctAnswer": "Preemption"
+  },
+  {
+    "id": "OS-012",
+    "question": "What does the term 'context switch' mean?",
+    "options": ["Switching between CPUs", "Switching user accounts", "Saving and loading process state", "Changing memory pages"],
+    "correctAnswer": "Saving and loading process state"
+  },
+  {
+    "id": "OS-013",
+    "question": "Which memory management scheme eliminates external fragmentation completely?",
+    "options": ["Segmentation", "Paging", "Swapping", "Dynamic partitioning"],
+    "correctAnswer": "Paging"
+  },
+  {
+    "id": "OS-014",
+    "question": "In which OS architecture does the kernel provide minimal services?",
+    "options": ["Monolithic Kernel", "Hybrid Kernel", "Microkernel", "Layered Kernel"],
+    "correctAnswer": "Microkernel"
+  },
+  {
+    "id": "OS-015",
+    "question": "Which file allocation method suffers from poor random access performance?",
+    "options": ["Indexed allocation", "Linked allocation", "Contiguous allocation", "Hashed allocation"],
+    "correctAnswer": "Linked allocation"
+  },
+  {
+    "id": "OS-016",
+    "question": "What is the main goal of virtual memory?",
+    "options": ["Increase CPU speed", "Reduce fragmentation", "Allow programs larger than RAM", "Improve disk performance"],
+    "correctAnswer": "Allow programs larger than RAM"
+  },
+  {
+    "id": "OS-017",
+    "question": "Which page replacement algorithm may suffer from Belady’s anomaly?",
+    "options": ["LRU", "Optimal", "FIFO", "LFU"],
+    "correctAnswer": "FIFO"
+  },
+  {
+    "id": "OS-018",
+    "question": "Which structure keeps track of free memory blocks?",
+    "options": ["Page table", "Inode table", "Free list", "Process table"],
+    "correctAnswer": "Free list"
+  },
+  {
+    "id": "OS-019",
+    "question": "What does IPC stand for in operating systems?",
+    "options": ["Internal Process Call", "Inter Process Communication", "Integrated Program Control", "Instruction Process Cycle"],
+    "correctAnswer": "Inter Process Communication"
+  },
+  {
+    "id": "OS-020",
+    "question": "Which synchronization problem is a classic example in OS textbooks?",
+    "options": ["Banker’s algorithm", "Dining philosophers", "Deadlock recovery", "Memory compaction"],
+    "correctAnswer": "Dining philosophers"
+  },
+  {
+    "id": "OS-021",
+    "question": "Which algorithm is used in deadlock avoidance?",
+    "options": ["FIFO", "LRU", "Banker’s Algorithm", "Round Robin"],
+    "correctAnswer": "Banker’s Algorithm"
+  },
+  {
+    "id": "OS-022",
+    "question": "What is the purpose of a semaphore?",
+    "options": ["Memory allocation", "CPU scheduling", "Process synchronization", "Disk scheduling"],
+    "correctAnswer": "Process synchronization"
+  },
+  {
+    "id": "OS-023",
+    "question": "Which disk scheduling algorithm minimizes head movement the most?",
+    "options": ["SCAN", "C-SCAN", "SSTF", "FCFS"],
+    "correctAnswer": "SSTF"
+  },
+  {
+    "id": "OS-024",
+    "question": "Which OS structure organizes components into layers?",
+    "options": ["Microkernel", "Layered architecture", "Monolithic kernel", "Virtual machine"],
+    "correctAnswer": "Layered architecture"
+  },
+  {
+    "id": "OS-025",
+    "question": "Which system call waits for a child process to terminate?",
+    "options": ["exit()", "wait()", "fork()", "exec()"],
+    "correctAnswer": "wait()"
+  },
+  {
+    "id": "OS-026",
+    "question": "What is starvation in operating systems?",
+    "options": ["Deadlock situation", "Process never gets CPU", "Memory overflow", "Disk failure"],
+    "correctAnswer": "Process never gets CPU"
+  },
+  {
+    "id": "OS-027",
+    "question": "Which memory is fastest in a computer system?",
+    "options": ["RAM", "Cache", "Hard Disk", "Virtual Memory"],
+    "correctAnswer": "Cache"
+  },
+  {
+    "id": "OS-028",
+    "question": "Which scheduling algorithm is non-preemptive by nature?",
+    "options": ["Round Robin", "Priority Scheduling", "FCFS", "Multilevel Queue"],
+    "correctAnswer": "FCFS"
+  },
+  {
+    "id": "OS-029",
+    "question": "What happens if a process accesses a page not in memory?",
+    "options": ["Deadlock occurs", "Page fault occurs", "Segmentation fault always", "CPU halts"],
+    "correctAnswer": "Page fault occurs"
+  },
+  {
+    "id": "OS-030",
+    "question": "Which concept allows one physical machine to run multiple operating systems?",
+    "options": ["Multibooting", "Virtualization", "Time-sharing", "Dual-core processing"],
+    "correctAnswer": "Virtualization"
+  },
+  {
+    "id": "OS-031",
+    "question": "Which OS component is responsible for managing device communication?",
+    "options": ["File manager", "Process scheduler", "Device driver", "Shell"],
+    "correctAnswer": "Device driver"
+  },
+  {
+    "id": "OS-032",
+    "question": "What is the main advantage of a time-sharing operating system?",
+    "options": ["Low cost hardware", "Multiple users simultaneously", "Faster disk access", "Simpler design"],
+    "correctAnswer": "Multiple users simultaneously"
+  },
+  {
+    "id": "OS-033",
+    "question": "Which scheduling criteria measures how long a process waits in the ready queue?",
+    "options": ["Turnaround time", "Waiting time", "Response time", "Throughput"],
+    "correctAnswer": "Waiting time"
+  },
+  {
+    "id": "OS-034",
+    "question": "Which memory management technique divides memory into fixed-size blocks?",
+    "options": ["Segmentation", "Paging", "Swapping", "Compaction"],
+    "correctAnswer": "Paging"
+  },
+  {
+    "id": "OS-035",
+    "question": "What is a zombie process?",
+    "options": ["Process waiting for I/O", "Killed process consuming CPU", "Terminated process with entry in process table", "Blocked process"],
+    "correctAnswer": "Terminated process with entry in process table"
+  },
+  {
+    "id": "OS-036",
+    "question": "Which disk scheduling algorithm services requests in one direction only?",
+    "options": ["FCFS", "SSTF", "SCAN", "C-SCAN"],
+    "correctAnswer": "C-SCAN"
+  },
+  {
+    "id": "OS-037",
+    "question": "What does the term 'booting' refer to?",
+    "options": ["Installing OS", "Restarting applications", "Loading OS into memory", "Shutting down system"],
+    "correctAnswer": "Loading OS into memory"
+  },
+  {
+    "id": "OS-038",
+    "question": "Which problem occurs when higher priority processes prevent lower ones from executing?",
+    "options": ["Deadlock", "Starvation", "Thrashing", "Livelock"],
+    "correctAnswer": "Starvation"
+  },
+  {
+    "id": "OS-039",
+    "question": "Which algorithm is considered optimal for page replacement but not implementable?",
+    "options": ["FIFO", "LRU", "Optimal", "Clock"],
+    "correctAnswer": "Optimal"
+  },
+  {
+    "id": "OS-040",
+    "question": "Which OS service ensures protection between users?",
+    "options": ["Accounting", "Security", "Scheduling", "File handling"],
+    "correctAnswer": "Security"
+  },
+  {
+    "id": "OS-041",
+    "question": "Which structure stores information about each process?",
+    "options": ["Page table", "Process Control Block", "Inode", "Stack"],
+    "correctAnswer": "Process Control Block"
+  },
+  {
+    "id": "OS-042",
+    "question": "Which memory issue is solved by compaction?",
+    "options": ["Internal fragmentation", "External fragmentation", "Paging fault", "Thrashing"],
+    "correctAnswer": "External fragmentation"
+  },
+  {
+    "id": "OS-043",
+    "question": "Which CPU scheduling algorithm is preemptive?",
+    "options": ["FCFS", "SJF (non-preemptive)", "Round Robin", "Batch scheduling"],
+    "correctAnswer": "Round Robin"
+  },
+  {
+    "id": "OS-044",
+    "question": "What is the main role of an interrupt?",
+    "options": ["Stop CPU permanently", "Notify CPU of events", "Allocate memory", "Create process"],
+    "correctAnswer": "Notify CPU of events"
+  },
+  {
+    "id": "OS-045",
+    "question": "Which file system structure contains metadata of a file?",
+    "options": ["Superblock", "Data block", "Inode", "Page table"],
+    "correctAnswer": "Inode"
+  },
+  {
+    "id": "OS-046",
+    "question": "Which type of OS is designed for distributed computing environments?",
+    "options": ["Batch OS", "Network OS", "Embedded OS", "Single-user OS"],
+    "correctAnswer": "Network OS"
+  },
+  {
+    "id": "OS-047",
+    "question": "What is the main disadvantage of FCFS scheduling?",
+    "options": ["Starvation", "Convoy effect", "Deadlock", "Thrashing"],
+    "correctAnswer": "Convoy effect"
+  },
+  {
+    "id": "OS-048",
+    "question": "Which synchronization tool uses integer variables?",
+    "options": ["Monitor", "Semaphore", "Mutex", "Spinlock"],
+    "correctAnswer": "Semaphore"
+  },
+  {
+    "id": "OS-049",
+    "question": "What is the purpose of swap space?",
+    "options": ["Store cache data", "Store kernel code", "Extend physical memory", "Speed up CPU"],
+    "correctAnswer": "Extend physical memory"
+  },
+  {
+    "id": "OS-050",
+    "question": "Which condition allows a process to be interrupted by another?",
+    "options": ["Non-preemption", "Mutual exclusion", "Preemption", "Hold and wait"],
+    "correctAnswer": "Preemption"
+  },
+  {
+    "id": "OS-051",
+    "question": "Which OS concept allows CPU to execute another process during I/O?",
+    "options": ["Spooling", "Multiprogramming", "Deadlock", "Interrupt masking"],
+    "correctAnswer": "Multiprogramming"
+  },
+  {
+    "id": "OS-052",
+    "question": "Which page replacement algorithm approximates LRU?",
+    "options": ["FIFO", "Clock", "Optimal", "Random"],
+    "correctAnswer": "Clock"
+  },
+  {
+    "id": "OS-053",
+    "question": "What is a critical section?",
+    "options": ["Kernel code only", "Non-shareable code", "Code accessing shared resources", "Interrupt handler"],
+    "correctAnswer": "Code accessing shared resources"
+  },
+  {
+    "id": "OS-054",
+    "question": "Which scheduling approach uses multiple queues based on priority?",
+    "options": ["Round Robin", "FCFS", "Multilevel Queue Scheduling", "SJF"],
+    "correctAnswer": "Multilevel Queue Scheduling"
+  },
+  {
+    "id": "OS-055",
+    "question": "Which OS feature allows automatic resource cleanup after process termination?",
+    "options": ["Garbage collection", "Process scheduling", "Accounting", "Spooling"],
+    "correctAnswer": "Garbage collection"
+  },
+  {
+    "id": "OS-056",
+    "question": "Which memory is volatile in nature?",
+    "options": ["ROM", "SSD", "Cache", "Hard Disk"],
+    "correctAnswer": "Cache"
+  },
+  {
+    "id": "OS-057",
+    "question": "Which term describes continuous disk I/O operations overlapping CPU execution?",
+    "options": ["Spooling", "Paging", "Thrashing", "Deadlock"],
+    "correctAnswer": "Spooling"
+  },
+  {
+    "id": "OS-058",
+    "question": "Which OS design combines microkernel and monolithic approaches?",
+    "options": ["Layered kernel", "Hybrid kernel", "Virtual kernel", "Nano kernel"],
+    "correctAnswer": "Hybrid kernel"
+  },
+  {
+    "id": "OS-059",
+    "question": "Which algorithm dynamically changes priority to prevent starvation?",
+    "options": ["Aging", "FIFO", "Optimal", "Clock"],
+    "correctAnswer": "Aging"
+  },
+  {
+    "id": "OS-060",
+    "question": "Which OS concept ensures that processes do not interfere with each other?",
+    "options": ["Concurrency", "Protection", "Scheduling", "Spooling"],
+    "correctAnswer": "Protection"
+  },
+  {
+    "id": "OS-061",
+    "question": "Which OS mechanism maps virtual addresses to physical addresses?",
+    "options": ["TLB", "MMU", "Cache controller", "DMA"],
+    "correctAnswer": "MMU"
+  },
+  {
+    "id": "OS-062",
+    "question": "What is the primary goal of load balancing in multiprocessor systems?",
+    "options": ["Reduce memory usage", "Maximize CPU utilization", "Prevent deadlock", "Increase disk speed"],
+    "correctAnswer": "Maximize CPU utilization"
+  },
+  {
+    "id": "OS-063",
+    "question": "Which IPC method allows unrelated processes to communicate?",
+    "options": ["Signals", "Shared memory", "Pipes", "Named pipes"],
+    "correctAnswer": "Named pipes"
+  },
+  {
+    "id": "OS-064",
+    "question": "Which scheduling metric measures how quickly a system responds to a request?",
+    "options": ["Waiting time", "Turnaround time", "Response time", "Throughput"],
+    "correctAnswer": "Response time"
+  },
+  {
+    "id": "OS-065",
+    "question": "Which memory allocation strategy chooses the smallest block that fits the request?",
+    "options": ["First fit", "Best fit", "Worst fit", "Next fit"],
+    "correctAnswer": "Best fit"
+  },
+  {
+    "id": "OS-066",
+    "question": "What is the main drawback of busy waiting?",
+    "options": ["Deadlock risk", "Wastes CPU cycles", "Memory overflow", "Starvation only"],
+    "correctAnswer": "Wastes CPU cycles"
+  },
+  {
+    "id": "OS-067",
+    "question": "Which disk scheduling algorithm can cause starvation?",
+    "options": ["FCFS", "SCAN", "C-SCAN", "SSTF"],
+    "correctAnswer": "SSTF"
+  },
+  {
+    "id": "OS-068",
+    "question": "Which OS structure runs most services in user space?",
+    "options": ["Monolithic kernel", "Hybrid kernel", "Microkernel", "Layered kernel"],
+    "correctAnswer": "Microkernel"
+  },
+  {
+    "id": "OS-069",
+    "question": "What is the purpose of copy-on-write?",
+    "options": ["Speed up disk writes", "Reduce memory duplication", "Prevent deadlock", "Increase cache size"],
+    "correctAnswer": "Reduce memory duplication"
+  },
+  {
+    "id": "OS-070",
+    "question": "Which page table organization supports very large address spaces efficiently?",
+    "options": ["Single-level", "Hashed page table", "Inverted page table", "Linear page table"],
+    "correctAnswer": "Inverted page table"
+  },
+  {
+    "id": "OS-071",
+    "question": "Which state represents a process waiting for I/O completion?",
+    "options": ["Ready", "New", "Blocked", "Running"],
+    "correctAnswer": "Blocked"
+  },
+  {
+    "id": "OS-072",
+    "question": "Which technique prevents deadlock by denying one of its necessary conditions?",
+    "options": ["Detection", "Recovery", "Avoidance", "Prevention"],
+    "correctAnswer": "Prevention"
+  },
+  {
+    "id": "OS-073",
+    "question": "What is the primary function of the scheduler dispatcher?",
+    "options": ["Choose next process", "Save process state", "Switch context", "Allocate memory"],
+    "correctAnswer": "Switch context"
+  },
+  {
+    "id": "OS-074",
+    "question": "Which memory fragmentation occurs when allocated memory is larger than requested?",
+    "options": ["External fragmentation", "Internal fragmentation", "Paging fault", "Thrashing"],
+    "correctAnswer": "Internal fragmentation"
+  },
+  {
+    "id": "OS-075",
+    "question": "Which algorithm schedules jobs based on predicted CPU burst time?",
+    "options": ["FCFS", "Priority scheduling", "SJF", "Round Robin"],
+    "correctAnswer": "SJF"
+  },
+  {
+    "id": "OS-076",
+    "question": "Which file access method is best for sequential processing?",
+    "options": ["Direct access", "Indexed access", "Sequential access", "Hashed access"],
+    "correctAnswer": "Sequential access"
+  },
+  {
+    "id": "OS-077",
+    "question": "What does the term 'livelock' describe?",
+    "options": ["Processes blocked forever", "Processes running but making no progress", "Infinite loop in kernel", "CPU starvation"],
+    "correctAnswer": "Processes running but making no progress"
+  },
+  {
+    "id": "OS-078",
+    "question": "Which component handles asynchronous I/O completion notifications?",
+    "options": ["Scheduler", "Interrupt handler", "Loader", "Linker"],
+    "correctAnswer": "Interrupt handler"
+  },
+  {
+    "id": "OS-079",
+    "question": "Which memory policy decides which pages to keep in memory?",
+    "options": ["Fetch policy", "Placement policy", "Replacement policy", "Allocation policy"],
+    "correctAnswer": "Replacement policy"
+  },
+  {
+    "id": "OS-080",
+    "question": "Which OS feature allows safe execution of untrusted programs?",
+    "options": ["Virtualization", "Protection rings", "Batch processing", "Spooling"],
+    "correctAnswer": "Protection rings"
+  },
+  {
+    "id": "OS-081",
+    "question": "Which scheduling approach dynamically adjusts priorities based on behavior?",
+    "options": ["Static priority", "Aging", "Multilevel feedback queue", "FCFS"],
+    "correctAnswer": "Multilevel feedback queue"
+  },
+  {
+    "id": "OS-082",
+    "question": "What is the main purpose of journaling in file systems?",
+    "options": ["Improve read speed", "Reduce fragmentation", "Crash recovery", "Encrypt data"],
+    "correctAnswer": "Crash recovery"
+  },
+  {
+    "id": "OS-083",
+    "question": "Which OS abstraction represents an executing program?",
+    "options": ["Thread", "Job", "Process", "Task queue"],
+    "correctAnswer": "Process"
+  },
+  {
+    "id": "OS-084",
+    "question": "Which technique allows overlapping of computation and I/O?",
+    "options": ["Spooling", "Polling", "Busy waiting", "Locking"],
+    "correctAnswer": "Spooling"
+  },
+  {
+    "id": "OS-085",
+    "question": "Which kernel data structure tracks open files per process?",
+    "options": ["System-wide file table", "Page table", "Per-process file descriptor table", "Inode cache"],
+    "correctAnswer": "Per-process file descriptor table"
+  },
+  {
+    "id": "OS-086",
+    "question": "Which scheduling goal maximizes completed jobs per unit time?",
+    "options": ["Fairness", "Response time", "Throughput", "Waiting time"],
+    "correctAnswer": "Throughput"
+  },
+  {
+    "id": "OS-087",
+    "question": "Which memory technique brings pages into memory only when needed?",
+    "options": ["Pre-paging", "Demand paging", "Segmentation", "Swapping"],
+    "correctAnswer": "Demand paging"
+  },
+  {
+    "id": "OS-088",
+    "question": "Which condition must be true for mutual exclusion?",
+    "options": ["Multiple processes in critical section", "At least one process in critical section", "No process in critical section", "Critical section reentrancy"],
+    "correctAnswer": "At least one process in critical section"
+  },
+  {
+    "id": "OS-089",
+    "question": "Which disk structure reduces seek time by grouping related blocks?",
+    "options": ["Cylinder groups", "Linked allocation", "FAT", "Bitmap"],
+    "correctAnswer": "Cylinder groups"
+  },
+  {
+    "id": "OS-090",
+    "question": "Which OS technique isolates faults to prevent system-wide failure?",
+    "options": ["Monolithic design", "Fault containment", "Static linking", "Batch execution"],
+    "correctAnswer": "Fault containment"
+  },
+  {
+    "id": "OS-091",
+    "question": "Which OS mechanism ensures only authorized users can access system resources?",
+    "options": ["Authentication", "Scheduling", "Virtual memory", "Caching"],
+    "correctAnswer": "Authentication"
+  },
+  {
+    "id": "OS-092",
+    "question": "Which type of interrupt is generated by software instructions?",
+    "options": ["I/O interrupt", "Hardware interrupt", "Trap", "Clock interrupt"],
+    "correctAnswer": "Trap"
+  },
+  {
+    "id": "OS-093",
+    "question": "Which memory management scheme allows sharing of code between processes?",
+    "options": ["Swapping", "Demand paging", "Segmentation", "Contiguous allocation"],
+    "correctAnswer": "Segmentation"
+  },
+  {
+    "id": "OS-094",
+    "question": "Which scheduling algorithm may cause long processes to starve?",
+    "options": ["FCFS", "SJF", "Round Robin", "Multilevel feedback queue"],
+    "correctAnswer": "SJF"
+  },
+  {
+    "id": "OS-095",
+    "question": "What is the main function of the OS loader?",
+    "options": ["Link object files", "Load program into memory", "Schedule CPU", "Handle interrupts"],
+    "correctAnswer": "Load program into memory"
+  },
+  {
+    "id": "OS-096",
+    "question": "Which disk scheduling algorithm maintains fairness but may have high seek time?",
+    "options": ["SSTF", "SCAN", "C-SCAN", "FCFS"],
+    "correctAnswer": "FCFS"
+  },
+  {
+    "id": "OS-097",
+    "question": "Which OS concept allows multiple threads within a single process?",
+    "options": ["Multitasking", "Multiprocessing", "Multithreading", "Time-sharing"],
+    "correctAnswer": "Multithreading"
+  },
+  {
+    "id": "OS-098",
+    "question": "Which table keeps track of open files system-wide?",
+    "options": ["Inode table", "Page table", "System-wide open file table", "Process table"],
+    "correctAnswer": "System-wide open file table"
+  },
+  {
+    "id": "OS-099",
+    "question": "Which condition occurs when processes repeatedly change state to avoid deadlock?",
+    "options": ["Deadlock", "Starvation", "Livelock", "Thrashing"],
+    "correctAnswer": "Livelock"
+  },
+  {
+    "id": "OS-100",
+    "question": "Which technique allows safe execution of multiple OS instances on one machine?",
+    "options": ["Time-sharing", "Multibooting", "Virtualization", "Clustering"],
+    "correctAnswer": "Virtualization"
+  },
+  {
+    "id": "OS-101",
+    "question": "Which memory allocation method scans memory from the last allocated position?",
+    "options": ["Best fit", "Worst fit", "First fit", "Next fit"],
+    "correctAnswer": "Next fit"
+  },
+  {
+    "id": "OS-102",
+    "question": "Which scheduling policy favors I/O-bound processes?",
+    "options": ["FCFS", "Round Robin", "Multilevel feedback queue", "SJF"],
+    "correctAnswer": "Multilevel feedback queue"
+  },
+  {
+    "id": "OS-103",
+    "question": "Which OS service records resource usage for billing or statistics?",
+    "options": ["Accounting", "Protection", "Security", "Scheduling"],
+    "correctAnswer": "Accounting"
+  },
+  {
+    "id": "OS-104",
+    "question": "Which page replacement algorithm uses a reference bit?",
+    "options": ["Optimal", "Clock", "FIFO", "LFU"],
+    "correctAnswer": "Clock"
+  },
+  {
+    "id": "OS-105",
+    "question": "Which process state indicates completion of execution?",
+    "options": ["Ready", "Blocked", "Running", "Terminated"],
+    "correctAnswer": "Terminated"
+  },
+  {
+    "id": "OS-106",
+    "question": "Which IPC mechanism is fastest but requires synchronization?",
+    "options": ["Message queues", "Signals", "Shared memory", "Sockets"],
+    "correctAnswer": "Shared memory"
+  },
+  {
+    "id": "OS-107",
+    "question": "Which OS concept reduces context switch overhead?",
+    "options": ["Preemption", "Threading", "Spooling", "Swapping"],
+    "correctAnswer": "Threading"
+  },
+  {
+    "id": "OS-108",
+    "question": "Which file system allocation method guarantees contiguous storage?",
+    "options": ["Linked allocation", "Indexed allocation", "Contiguous allocation", "Hashed allocation"],
+    "correctAnswer": "Contiguous allocation"
+  },
+  {
+    "id": "OS-109",
+    "question": "Which scheduling algorithm assigns CPU based on fixed priority?",
+    "options": ["Round Robin", "Priority scheduling", "FCFS", "SJF"],
+    "correctAnswer": "Priority scheduling"
+  },
+  {
+    "id": "OS-110",
+    "question": "Which memory fault occurs when accessing an invalid address?",
+    "options": ["Page fault", "Bus error", "Segmentation fault", "TLB miss"],
+    "correctAnswer": "Segmentation fault"
+  },
+  {
+    "id": "OS-111",
+    "question": "Which OS strategy groups processes for collective resource allocation?",
+    "options": ["Thread pooling", "Process grouping", "Gang scheduling", "Load sharing"],
+    "correctAnswer": "Gang scheduling"
+  },
+  {
+    "id": "OS-112",
+    "question": "Which file system component stores overall file system information?",
+    "options": ["Inode", "Data block", "Superblock", "Directory entry"],
+    "correctAnswer": "Superblock"
+  },
+  {
+    "id": "OS-113",
+    "question": "Which scheduling metric measures total time from submission to completion?",
+    "options": ["Waiting time", "Response time", "Turnaround time", "Throughput"],
+    "correctAnswer": "Turnaround time"
+  },
+  {
+    "id": "OS-114",
+    "question": "Which OS design emphasizes minimal trusted computing base?",
+    "options": ["Monolithic kernel", "Hybrid kernel", "Microkernel", "Layered kernel"],
+    "correctAnswer": "Microkernel"
+  },
+  {
+    "id": "OS-115",
+    "question": "Which memory technique temporarily moves entire processes to disk?",
+    "options": ["Paging", "Segmentation", "Swapping", "Caching"],
+    "correctAnswer": "Swapping"
+  },
+  {
+    "id": "OS-116",
+    "question": "Which disk scheduling algorithm moves the head back and forth like an elevator?",
+    "options": ["FCFS", "SCAN", "C-SCAN", "SSTF"],
+    "correctAnswer": "SCAN"
+  },
+  {
+    "id": "OS-117",
+    "question": "Which OS abstraction represents a lightweight process?",
+    "options": ["Job", "Task", "Thread", "Daemon"],
+    "correctAnswer": "Thread"
+  },
+  {
+    "id": "OS-118",
+    "question": "Which technique ensures that only one process enters critical section?",
+    "options": ["Mutual exclusion", "Deadlock prevention", "Starvation avoidance", "Aging"],
+    "correctAnswer": "Mutual exclusion"
+  },
+  {
+    "id": "OS-119",
+    "question": "Which OS concept allows execution of programs without recompilation on different hardware?",
+    "options": ["Portability", "Compatibility", "Virtual memory", "Multitasking"],
+    "correctAnswer": "Portability"
+  },
+  {
+    "id": "OS-120",
+    "question": "Which scheduling goal ensures equal CPU access over time?",
+    "options": ["Throughput", "Fairness", "Response time", "Turnaround time"],
+    "correctAnswer": "Fairness"
+  },
+  {
+    "id": "OS-121",
+    "question": "Which OS mechanism prevents unauthorized memory access between processes?",
+    "options": ["Paging", "Protection domains", "Caching", "Spooling"],
+    "correctAnswer": "Protection domains"
+  },
+  {
+    "id": "OS-122",
+    "question": "Which scheduling algorithm is most suitable for real-time systems?",
+    "options": ["FCFS", "Rate Monotonic", "Round Robin", "SJF"],
+    "correctAnswer": "Rate Monotonic"
+  },
+  {
+    "id": "OS-123",
+    "question": "Which memory structure speeds up virtual-to-physical address translation?",
+    "options": ["Cache", "TLB", "Page table", "Register file"],
+    "correctAnswer": "TLB"
+  },
+  {
+    "id": "OS-124",
+    "question": "Which OS concept allows deferring interrupt handling to a safer context?",
+    "options": ["Polling", "Deferred interrupt handling", "Busy waiting", "Spooling"],
+    "correctAnswer": "Deferred interrupt handling"
+  },
+  {
+    "id": "OS-125",
+    "question": "Which allocation strategy leaves the largest remaining free block?",
+    "options": ["First fit", "Best fit", "Worst fit", "Next fit"],
+    "correctAnswer": "Worst fit"
+  },
+  {
+    "id": "OS-126",
+    "question": "Which page replacement policy uses frequency of access counts?",
+    "options": ["LRU", "FIFO", "LFU", "Clock"],
+    "correctAnswer": "LFU"
+  },
+  {
+    "id": "OS-127",
+    "question": "Which OS component decides when to preempt a running process?",
+    "options": ["Dispatcher", "Scheduler", "Loader", "Linker"],
+    "correctAnswer": "Scheduler"
+  },
+  {
+    "id": "OS-128",
+    "question": "Which file system feature maintains consistency after a crash?",
+    "options": ["Defragmentation", "Journaling", "Compression", "Encryption"],
+    "correctAnswer": "Journaling"
+  },
+  {
+    "id": "OS-129",
+    "question": "Which process state transition occurs after I/O completion?",
+    "options": ["Blocked to Ready", "Running to Blocked", "Ready to Running", "New to Ready"],
+    "correctAnswer": "Blocked to Ready"
+  },
+  {
+    "id": "OS-130",
+    "question": "Which OS abstraction represents an independent execution path within a process?",
+    "options": ["Process", "Job", "Thread", "Daemon"],
+    "correctAnswer": "Thread"
+  },
+  {
+    "id": "OS-131",
+    "question": "Which disk scheduling approach reduces variance in response time?",
+    "options": ["FCFS", "SCAN", "C-SCAN", "SSTF"],
+    "correctAnswer": "C-SCAN"
+  },
+  {
+    "id": "OS-132",
+    "question": "Which technique allows safe sharing of read-only memory pages?",
+    "options": ["Copy-on-write", "Swapping", "Segmentation", "Pre-paging"],
+    "correctAnswer": "Copy-on-write"
+  },
+  {
+    "id": "OS-133",
+    "question": "Which scheduling policy attempts to balance responsiveness and throughput?",
+    "options": ["FCFS", "Round Robin", "Priority scheduling", "Multilevel feedback queue"],
+    "correctAnswer": "Multilevel feedback queue"
+  },
+  {
+    "id": "OS-134",
+    "question": "Which memory error occurs when a page is present but access is denied?",
+    "options": ["TLB miss", "Page fault", "Protection fault", "Bus error"],
+    "correctAnswer": "Protection fault"
+  },
+  {
+    "id": "OS-135",
+    "question": "Which OS technique groups disk blocks to improve locality?",
+    "options": ["Bitmap allocation", "Cylinder grouping", "Linked allocation", "Hashed allocation"],
+    "correctAnswer": "Cylinder grouping"
+  },
+  {
+    "id": "OS-136",
+    "question": "Which kernel approach places device drivers in user space?",
+    "options": ["Monolithic kernel", "Hybrid kernel", "Microkernel", "Layered kernel"],
+    "correctAnswer": "Microkernel"
+  },
+  {
+    "id": "OS-137",
+    "question": "Which IPC mechanism supports network-transparent communication?",
+    "options": ["Signals", "Shared memory", "Sockets", "Anonymous pipes"],
+    "correctAnswer": "Sockets"
+  },
+  {
+    "id": "OS-138",
+    "question": "Which scheduling metric indicates system productivity?",
+    "options": ["Response time", "Waiting time", "Throughput", "Turnaround time"],
+    "correctAnswer": "Throughput"
+  },
+  {
+    "id": "OS-139",
+    "question": "Which OS service enforces access control policies?",
+    "options": ["Protection", "Accounting", "Scheduling", "Spooling"],
+    "correctAnswer": "Protection"
+  },
+  {
+    "id": "OS-140",
+    "question": "Which memory policy decides when pages are brought into memory?",
+    "options": ["Replacement policy", "Fetch policy", "Placement policy", "Allocation policy"],
+    "correctAnswer": "Fetch policy"
+  },
+  {
+    "id": "OS-141",
+    "question": "Which OS mechanism reduces priority inversion?",
+    "options": ["Aging", "Priority inheritance", "Round Robin", "Pre-paging"],
+    "correctAnswer": "Priority inheritance"
+  },
+  {
+    "id": "OS-142",
+    "question": "Which file access method is best for random access patterns?",
+    "options": ["Sequential access", "Direct access", "Tape access", "Stream access"],
+    "correctAnswer": "Direct access"
+  },
+  {
+    "id": "OS-143",
+    "question": "Which scheduling approach assigns time slices dynamically?",
+    "options": ["FCFS", "Static priority", "Round Robin", "Batch scheduling"],
+    "correctAnswer": "Round Robin"
+  },
+  {
+    "id": "OS-144",
+    "question": "Which memory feature allows processes to see a private address space?",
+    "options": ["Virtual memory", "Cache coherence", "Swapping", "Segmentation only"],
+    "correctAnswer": "Virtual memory"
+  },
+  {
+    "id": "OS-145",
+    "question": "Which disk scheduling algorithm is most prone to starvation?",
+    "options": ["FCFS", "SCAN", "C-SCAN", "SSTF"],
+    "correctAnswer": "SSTF"
+  },
+  {
+    "id": "OS-146",
+    "question": "Which OS component initializes hardware during system startup?",
+    "options": ["Kernel", "Bootloader", "Shell", "File system"],
+    "correctAnswer": "Bootloader"
+  },
+  {
+    "id": "OS-147",
+    "question": "Which technique allows delaying writes to improve performance?",
+    "options": ["Write-through", "Write-back", "Journaling", "Synchronous I/O"],
+    "correctAnswer": "Write-back"
+  },
+  {
+    "id": "OS-148",
+    "question": "Which scheduling goal minimizes time to first response?",
+    "options": ["Throughput", "Fairness", "Response time", "CPU utilization"],
+    "correctAnswer": "Response time"
+  },
+  {
+    "id": "OS-149",
+    "question": "Which OS abstraction represents background system processes?",
+    "options": ["Threads", "Daemons", "Jobs", "Tasks"],
+    "correctAnswer": "Daemons"
+  },
+  {
+    "id": "OS-150",
+    "question": "Which memory management feature enables efficient inter-process communication?",
+    "options": ["Shared memory", "Paging", "Swapping", "Caching"],
+    "correctAnswer": "Shared memory"
+  },
+  {
+    "id": "OS-151",
+    "question": "Which OS mechanism ensures atomic execution of critical sections on multiprocessors?",
+    "options": ["Spinlock", "Semaphore", "Monitor", "Mutex"],
+    "correctAnswer": "Spinlock"
+  },
+  {
+    "id": "OS-152",
+    "question": "Which real-time scheduling algorithm assigns priorities based on deadlines?",
+    "options": ["Rate Monotonic", "FCFS", "Earliest Deadline First", "Round Robin"],
+    "correctAnswer": "Earliest Deadline First"
+  },
+  {
+    "id": "OS-153",
+    "question": "Which memory technique reduces page faults by loading pages in advance?",
+    "options": ["Demand paging", "Pre-paging", "Segmentation", "Swapping"],
+    "correctAnswer": "Pre-paging"
+  },
+  {
+    "id": "OS-154",
+    "question": "Which kernel data structure maps process IDs to PCB locations?",
+    "options": ["Ready queue", "Process table", "Page table", "File table"],
+    "correctAnswer": "Process table"
+  },
+  {
+    "id": "OS-155",
+    "question": "Which disk feature allows parallel access to improve throughput?",
+    "options": ["RAID striping", "Disk mirroring", "Journaling", "Caching"],
+    "correctAnswer": "RAID striping"
+  },
+  {
+    "id": "OS-156",
+    "question": "Which scheduling issue occurs when a low-priority process holds a resource needed by a high-priority process?",
+    "options": ["Starvation", "Deadlock", "Priority inversion", "Livelock"],
+    "correctAnswer": "Priority inversion"
+  },
+  {
+    "id": "OS-157",
+    "question": "Which OS abstraction allows multiple user programs to share the same physical memory safely?",
+    "options": ["Virtual address space", "Caching", "Swapping", "Direct mapping"],
+    "correctAnswer": "Virtual address space"
+  },
+  {
+    "id": "OS-158",
+    "question": "Which page replacement policy considers both recency and frequency heuristics?",
+    "options": ["FIFO", "LRU", "LRFU", "Optimal"],
+    "correctAnswer": "LRFU"
+  },
+  {
+    "id": "OS-159",
+    "question": "Which file system technique delays allocation of blocks until data is written?",
+    "options": ["Preallocation", "Lazy allocation", "Contiguous allocation", "Indexed allocation"],
+    "correctAnswer": "Lazy allocation"
+  },
+  {
+    "id": "OS-160",
+    "question": "Which OS component is responsible for enforcing system call boundaries?",
+    "options": ["Shell", "Kernel mode", "User mode", "Loader"],
+    "correctAnswer": "Kernel mode"
+  },
+  {
+    "id": "OS-161",
+    "question": "Which scheduling model allows related threads to run simultaneously on different CPUs?",
+    "options": ["Time slicing", "Gang scheduling", "FCFS", "Priority scheduling"],
+    "correctAnswer": "Gang scheduling"
+  },
+  {
+    "id": "OS-162",
+    "question": "Which memory structure stores permission bits for pages?",
+    "options": ["TLB", "Page table entry", "Cache line", "Segment table"],
+    "correctAnswer": "Page table entry"
+  },
+  {
+    "id": "OS-163",
+    "question": "Which OS concept prevents a process from monopolizing the CPU indefinitely?",
+    "options": ["Aging", "Mutual exclusion", "Non-preemption", "Spooling"],
+    "correctAnswer": "Aging"
+  },
+  {
+    "id": "OS-164",
+    "question": "Which disk scheduling strategy guarantees bounded waiting time?",
+    "options": ["SSTF", "FCFS", "SCAN", "Random"],
+    "correctAnswer": "SCAN"
+  },
+  {
+    "id": "OS-165",
+    "question": "Which IPC mechanism preserves message boundaries?",
+    "options": ["Shared memory", "Pipes", "Message queues", "Memory-mapped files"],
+    "correctAnswer": "Message queues"
+  },
+  {
+    "id": "OS-166",
+    "question": "Which OS service abstracts hardware timers for process scheduling?",
+    "options": ["Clock management", "Accounting", "Protection", "Spooling"],
+    "correctAnswer": "Clock management"
+  },
+  {
+    "id": "OS-167",
+    "question": "Which memory fault occurs when accessing a page not resident in RAM?",
+    "options": ["Protection fault", "Segmentation fault", "Page fault", "Bus error"],
+    "correctAnswer": "Page fault"
+  },
+  {
+    "id": "OS-168",
+    "question": "Which scheduling objective minimizes variance in waiting times?",
+    "options": ["Fairness", "Throughput", "Response time", "Predictability"],
+    "correctAnswer": "Predictability"
+  },
+  {
+    "id": "OS-169",
+    "question": "Which OS mechanism allows zero-copy I/O optimizations?",
+    "options": ["DMA", "Polling", "Interrupt coalescing", "Busy waiting"],
+    "correctAnswer": "DMA"
+  },
+  {
+    "id": "OS-170",
+    "question": "Which file system structure accelerates path name resolution?",
+    "options": ["Directory cache", "Inode bitmap", "Superblock", "Journal"],
+    "correctAnswer": "Directory cache"
+  },
+  {
+    "id": "OS-171",
+    "question": "Which scheduling approach is most suitable for soft real-time workloads?",
+    "options": ["Round Robin", "EDF", "FCFS", "Batch scheduling"],
+    "correctAnswer": "EDF"
+  },
+  {
+    "id": "OS-172",
+    "question": "Which OS concept enables transparent memory overcommitment?",
+    "options": ["Demand paging", "Pre-paging", "Segmentation", "Static allocation"],
+    "correctAnswer": "Demand paging"
+  },
+  {
+    "id": "OS-173",
+    "question": "Which synchronization primitive avoids busy waiting by sleeping?",
+    "options": ["Spinlock", "Semaphore", "Atomic variable", "Test-and-set"],
+    "correctAnswer": "Semaphore"
+  },
+  {
+    "id": "OS-174",
+    "question": "Which kernel subsystem handles power management policies?",
+    "options": ["Scheduler", "Device manager", "Energy manager", "File system"],
+    "correctAnswer": "Energy manager"
+  },
+  {
+    "id": "OS-175",
+    "question": "Which disk layout technique groups metadata near data to improve locality?",
+    "options": ["Extent-based allocation", "Linked allocation", "Hashed allocation", "Bitmap allocation"],
+    "correctAnswer": "Extent-based allocation"
+  },
+  {
+    "id": "OS-176",
+    "question": "Which OS feature allows rolling back partial file updates after crashes?",
+    "options": ["Snapshots", "Journaling", "Replication", "Caching"],
+    "correctAnswer": "Journaling"
+  },
+  {
+    "id": "OS-177",
+    "question": "Which scheduling concept penalizes CPU-bound processes over time?",
+    "options": ["Static priority", "Aging", "Feedback scheduling", "FCFS"],
+    "correctAnswer": "Feedback scheduling"
+  },
+  {
+    "id": "OS-178",
+    "question": "Which memory mapping allows files to be accessed like arrays in memory?",
+    "options": ["Shared memory", "Memory-mapped files", "Swapping", "Caching"],
+    "correctAnswer": "Memory-mapped files"
+  },
+  {
+    "id": "OS-179",
+    "question": "Which OS isolation mechanism confines damage from faulty drivers?",
+    "options": ["User-space drivers", "Monolithic kernel", "Static linking", "Batch execution"],
+    "correctAnswer": "User-space drivers"
+  },
+  {
+    "id": "OS-180",
+    "question": "Which scheduling metric reflects perceived system interactivity?",
+    "options": ["Throughput", "Turnaround time", "Response time", "CPU utilization"],
+    "correctAnswer": "Response time"
+  },
+  {
+    "id": "OS-181",
+    "question": "Which OS mechanism ensures atomicity of read-modify-write operations?",
+    "options": ["Test-and-set", "Semaphore", "Monitor", "Scheduler"],
+    "correctAnswer": "Test-and-set"
+  },
+  {
+    "id": "OS-182",
+    "question": "Which scheduling policy is optimal for minimizing average turnaround time?",
+    "options": ["Round Robin", "FCFS", "Priority scheduling", "Shortest Job First"],
+    "correctAnswer": "Shortest Job First"
+  },
+  {
+    "id": "OS-183",
+    "question": "Which memory management technique supports non-contiguous allocation with logical units?",
+    "options": ["Paging", "Swapping", "Segmentation", "Caching"],
+    "correctAnswer": "Segmentation"
+  },
+  {
+    "id": "OS-184",
+    "question": "Which OS component manages DMA transfers completion?",
+    "options": ["Loader", "Interrupt handler", "Scheduler", "Shell"],
+    "correctAnswer": "Interrupt handler"
+  },
+  {
+    "id": "OS-185",
+    "question": "Which disk scheduling algorithm equalizes wait times across requests?",
+    "options": ["SSTF", "FCFS", "C-SCAN", "SCAN"],
+    "correctAnswer": "C-SCAN"
+  },
+  {
+    "id": "OS-186",
+    "question": "Which synchronization issue occurs when threads wait on each other indefinitely?",
+    "options": ["Starvation", "Livelock", "Deadlock", "Priority inversion"],
+    "correctAnswer": "Deadlock"
+  },
+  {
+    "id": "OS-187",
+    "question": "Which OS abstraction encapsulates CPU state, memory, and resources?",
+    "options": ["Thread", "Job", "Process", "Daemon"],
+    "correctAnswer": "Process"
+  },
+  {
+    "id": "OS-188",
+    "question": "Which memory policy decides where to place incoming pages in RAM?",
+    "options": ["Replacement policy", "Allocation policy", "Placement policy", "Fetch policy"],
+    "correctAnswer": "Placement policy"
+  },
+  {
+    "id": "OS-189",
+    "question": "Which file system technique reduces metadata overhead by grouping blocks?",
+    "options": ["Linked allocation", "Extent-based allocation", "Hashed allocation", "Bitmap allocation"],
+    "correctAnswer": "Extent-based allocation"
+  },
+  {
+    "id": "OS-190",
+    "question": "Which OS feature allows processes to continue despite page faults?",
+    "options": ["Demand paging", "Pre-paging", "Segmentation", "Static linking"],
+    "correctAnswer": "Demand paging"
+  },
+  {
+    "id": "OS-191",
+    "question": "Which scheduling model supports proportional CPU sharing?",
+    "options": ["Completely Fair Scheduling", "FCFS", "Batch scheduling", "Static priority"],
+    "correctAnswer": "Completely Fair Scheduling"
+  },
+  {
+    "id": "OS-192",
+    "question": "Which IPC method supports full-duplex communication over networks?",
+    "options": ["Signals", "Pipes", "Sockets", "Shared memory"],
+    "correctAnswer": "Sockets"
+  },
+  {
+    "id": "OS-193",
+    "question": "Which memory error arises from violating access permissions?",
+    "options": ["Page fault", "Bus error", "Protection fault", "TLB miss"],
+    "correctAnswer": "Protection fault"
+  },
+  {
+    "id": "OS-194",
+    "question": "Which OS service ensures ordered access to shared resources?",
+    "options": ["Synchronization", "Scheduling", "Accounting", "Spooling"],
+    "correctAnswer": "Synchronization"
+  },
+  {
+    "id": "OS-195",
+    "question": "Which disk feature improves reliability by duplicating data?",
+    "options": ["Striping", "Caching", "Mirroring", "Journaling"],
+    "correctAnswer": "Mirroring"
+  },
+  {
+    "id": "OS-196",
+    "question": "Which scheduling approach reacts to process behavior changes?",
+    "options": ["Static priority", "FCFS", "Multilevel feedback queue", "Batch scheduling"],
+    "correctAnswer": "Multilevel feedback queue"
+  },
+  {
+    "id": "OS-197",
+    "question": "Which memory optimization allows read-only pages to be shared until modified?",
+    "options": ["Swapping", "Copy-on-write", "Pre-paging", "Caching"],
+    "correctAnswer": "Copy-on-write"
+  },
+  {
+    "id": "OS-198",
+    "question": "Which kernel structure accelerates frequent system calls?",
+    "options": ["System call table", "Page cache", "Run queue", "I/O buffer"],
+    "correctAnswer": "System call table"
+  },
+  {
+    "id": "OS-199",
+    "question": "Which scheduling metric reflects user-perceived latency?",
+    "options": ["Throughput", "CPU utilization", "Response time", "Turnaround time"],
+    "correctAnswer": "Response time"
+  },
+  {
+    "id": "OS-200",
+    "question": "Which OS feature isolates applications using hardware support?",
+    "options": ["Containers", "Virtual machines", "Threads", "Batch jobs"],
+    "correctAnswer": "Virtual machines"
+  },
+  {
+    "id": "OS-201",
+    "question": "Which memory structure caches recent page translations?",
+    "options": ["Cache", "TLB", "Segment table", "Inode table"],
+    "correctAnswer": "TLB"
+  },
+  {
+    "id": "OS-202",
+    "question": "Which scheduling strategy minimizes worst-case response time?",
+    "options": ["EDF", "FCFS", "Round Robin", "Static priority"],
+    "correctAnswer": "EDF"
+  },
+  {
+    "id": "OS-203",
+    "question": "Which file system operation ensures atomic updates?",
+    "options": ["Write-back", "Journaling", "Buffering", "Caching"],
+    "correctAnswer": "Journaling"
+  },
+  {
+    "id": "OS-204",
+    "question": "Which OS component manages context switch mechanics?",
+    "options": ["Scheduler", "Dispatcher", "Loader", "Linker"],
+    "correctAnswer": "Dispatcher"
+  },
+  {
+    "id": "OS-205",
+    "question": "Which disk scheduling algorithm prioritizes closest requests first?",
+    "options": ["FCFS", "SCAN", "SSTF", "C-SCAN"],
+    "correctAnswer": "SSTF"
+  },
+  {
+    "id": "OS-206",
+    "question": "Which OS feature provides checkpointing and rollback?",
+    "options": ["Snapshots", "Caching", "Spooling", "Defragmentation"],
+    "correctAnswer": "Snapshots"
+  },
+  {
+    "id": "OS-207",
+    "question": "Which synchronization primitive enforces ownership semantics?",
+    "options": ["Semaphore", "Mutex", "Spinlock", "Barrier"],
+    "correctAnswer": "Mutex"
+  },
+  {
+    "id": "OS-208",
+    "question": "Which memory technique supports large sparse address spaces efficiently?",
+    "options": ["Hashed page tables", "Single-level paging", "Segmentation only", "Static allocation"],
+    "correctAnswer": "Hashed page tables"
+  },
+  {
+    "id": "OS-209",
+    "question": "Which OS mechanism schedules kernel work outside interrupt context?",
+    "options": ["Bottom halves", "Polling", "Busy waiting", "Spooling"],
+    "correctAnswer": "Bottom halves"
+  },
+  {
+    "id": "OS-210",
+    "question": "Which scheduling goal ensures long-term equitable CPU distribution?",
+    "options": ["Throughput", "Fairness", "Turnaround time", "CPU utilization"],
+    "correctAnswer": "Fairness"
+  },
+  {
+    "id": "OS-211",
+    "question": "A process holds a mutex and is preempted indefinitely by a higher-priority process that waits for the same mutex. Which OS problem is illustrated?",
+    "options": ["Deadlock", "Starvation", "Priority Inversion", "Busy Waiting"],
+    "correctAnswer": "Priority Inversion"
+  },
+  {
+    "id": "OS-212",
+    "question": "In a demand-paging system, what happens if the working set size exceeds physical memory?",
+    "options": ["Page fault rate drops", "Thrashing occurs", "TLB hit ratio increases", "CPU utilization increases"],
+    "correctAnswer": "Thrashing occurs"
+  },
+  {
+    "id": "OS-213",
+    "question": "Which scheduling policy can cause convoy effect under heavy I/O-bound workloads?",
+    "options": ["Round Robin", "Shortest Job First", "First Come First Serve", "Multilevel Feedback Queue"],
+    "correctAnswer": "First Come First Serve"
+  },
+  {
+    "id": "OS-214",
+    "question": "A system allows a process to request all required resources before execution. Which deadlock condition is eliminated?",
+    "options": ["Circular wait", "Mutual exclusion", "Hold and wait", "No preemption"],
+    "correctAnswer": "Hold and wait"
+  },
+  {
+    "id": "OS-215",
+    "question": "Which page replacement algorithm suffers from Belady’s anomaly?",
+    "options": ["Optimal", "LRU", "FIFO", "Clock"],
+    "correctAnswer": "FIFO"
+  },
+  {
+    "id": "OS-216",
+    "question": "In copy-on-write fork(), when is the actual memory page duplicated?",
+    "options": ["At fork() call", "During exec()", "When a write occurs", "At context switch"],
+    "correctAnswer": "When a write occurs"
+  },
+  {
+    "id": "OS-217",
+    "question": "Which structure maps virtual pages to physical frames in modern OS designs?",
+    "options": ["Page table", "Segment register", "Cache line", "TLB buffer"],
+    "correctAnswer": "Page table"
+  },
+  {
+    "id": "OS-218",
+    "question": "If a thread blocks on I/O in a user-level threading model, what happens?",
+    "options": ["Only the thread blocks", "Entire process blocks", "Kernel switches threads", "Another process runs same thread"],
+    "correctAnswer": "Entire process blocks"
+  },
+  {
+    "id": "OS-219",
+    "question": "Which scheduling algorithm minimizes average waiting time theoretically?",
+    "options": ["Round Robin", "Priority Scheduling", "Shortest Job First", "FCFS"],
+    "correctAnswer": "Shortest Job First"
+  },
+  {
+    "id": "OS-220",
+    "question": "What is the primary risk of disabling interrupts for synchronization?",
+    "options": ["Deadlock", "Busy waiting", "Starvation of interrupts", "Race condition"],
+    "correctAnswer": "Starvation of interrupts"
+  },
+  {
+    "id": "OS-221",
+    "question": "Which file allocation method best supports random access?",
+    "options": ["Linked allocation", "Indexed allocation", "Contiguous allocation", "Sequential allocation"],
+    "correctAnswer": "Indexed allocation"
+  },
+  {
+    "id": "OS-222",
+    "question": "A system call switches execution from user mode to kernel mode using:",
+    "options": ["Context switch", "Interrupt", "Trap", "Scheduler tick"],
+    "correctAnswer": "Trap"
+  },
+  {
+    "id": "OS-223",
+    "question": "Which condition is NOT necessary for deadlock to occur?",
+    "options": ["Circular wait", "Mutual exclusion", "Resource preemption", "Hold and wait"],
+    "correctAnswer": "Resource preemption"
+  },
+  {
+    "id": "OS-224",
+    "question": "What happens if the TLB entry is not found but page exists in memory?",
+    "options": ["Page fault", "Segmentation fault", "TLB miss handled by OS", "Process termination"],
+    "correctAnswer": "TLB miss handled by OS"
+  },
+  {
+    "id": "OS-225",
+    "question": "Which algorithm dynamically adjusts process priority based on behavior?",
+    "options": ["FCFS", "SJF", "Multilevel Feedback Queue", "Round Robin"],
+    "correctAnswer": "Multilevel Feedback Queue"
+  },
+  {
+    "id": "OS-226",
+    "question": "Which scenario most likely causes livelock?",
+    "options": ["Processes waiting indefinitely", "Processes repeatedly changing state without progress", "Circular resource waiting", "Blocked I/O requests"],
+    "correctAnswer": "Processes repeatedly changing state without progress"
+  },
+  {
+    "id": "OS-227",
+    "question": "In NUMA systems, what is the major performance concern?",
+    "options": ["TLB flushing", "Remote memory access latency", "Context switch cost", "Cache coherence disabled"],
+    "correctAnswer": "Remote memory access latency"
+  },
+  {
+    "id": "OS-228",
+    "question": "Which technique allows multiple processes to share the same physical memory pages safely?",
+    "options": ["Paging", "Segmentation", "Copy-on-write", "Swapping"],
+    "correctAnswer": "Copy-on-write"
+  },
+  {
+    "id": "OS-229",
+    "question": "What does the working set model primarily help prevent?",
+    "options": ["Deadlock", "Thrashing", "Starvation", "Fragmentation"],
+    "correctAnswer": "Thrashing"
+  },
+  {
+    "id": "OS-230",
+    "question": "Which OS component decides when to swap processes in and out of memory?",
+    "options": ["CPU scheduler", "Memory manager", "I/O scheduler", "Dispatcher"],
+    "correctAnswer": "Memory manager"
+  },
+  {
+    "id": "OS-231",
+    "question": "What happens if a semaphore is initialized to a negative value?",
+    "options": ["Runtime error", "Threads block immediately", "Acts as mutex", "Value auto-corrects to zero"],
+    "correctAnswer": "Threads block immediately"
+  },
+  {
+    "id": "OS-232",
+    "question": "Which file system structure improves crash recovery using write-ahead logging?",
+    "options": ["FAT", "NTFS", "Journaling file system", "Ext2"],
+    "correctAnswer": "Journaling file system"
+  },
+  {
+    "id": "OS-233",
+    "question": "In real-time systems, missing a deadline usually implies:",
+    "options": ["System crash", "Reduced throughput", "Incorrect system behavior", "Lower CPU utilization"],
+    "correctAnswer": "Incorrect system behavior"
+  },
+  {
+    "id": "OS-234",
+    "question": "Which scheduling algorithm is most suitable for hard real-time systems?",
+    "options": ["Rate Monotonic Scheduling", "Round Robin", "FCFS", "MLFQ"],
+    "correctAnswer": "Rate Monotonic Scheduling"
+  },
+  {
+    "id": "OS-235",
+    "question": "What is the main disadvantage of segmentation compared to paging?",
+    "options": ["External fragmentation", "Internal fragmentation", "No protection", "No sharing"],
+    "correctAnswer": "External fragmentation"
+  },
+  {
+    "id": "OS-236",
+    "question": "Which situation causes a spurious wakeup in condition variables?",
+    "options": ["Lost signal", "Kernel bug", "Broadcast wakeups", "Scheduler preemption"],
+    "correctAnswer": "Broadcast wakeups"
+  },
+  {
+    "id": "OS-237",
+    "question": "In kernel-level threads, blocking a thread results in:",
+    "options": ["Whole process blocked", "Only that thread blocked", "All threads terminated", "Context switch skipped"],
+    "correctAnswer": "Only that thread blocked"
+  },
+  {
+    "id": "OS-238",
+    "question": "What is the key benefit of using a slab allocator?",
+    "options": ["Reduced fragmentation", "Faster disk I/O", "Lower context switches", "Improved CPU scheduling"],
+    "correctAnswer": "Reduced fragmentation"
+  },
+  {
+    "id": "OS-239",
+    "question": "Which situation most accurately represents a race condition?",
+    "options": ["Two processes deadlocked", "Order-dependent incorrect output", "Process starvation", "CPU idle state"],
+    "correctAnswer": "Order-dependent incorrect output"
+  },
+  {
+    "id": "OS-240",
+    "question": "What is the hardest problem to guarantee in distributed operating systems?",
+    "options": ["Fault tolerance", "Mutual exclusion", "Clock synchronization", "Leader election"],
+    "correctAnswer": "Clock synchronization"
+  },
+  {
+    "id": "OS-241",
+    "question": "In a microkernel architecture, which component is typically moved to user space to improve reliability?",
+    "options": ["Process scheduler", "Device drivers", "Memory allocator", "Interrupt handler"],
+    "correctAnswer": "Device drivers"
+  },
+  {
+    "id": "OS-242",
+    "question": "What is the primary danger of handling page faults while holding a spinlock?",
+    "options": ["Deadlock", "Priority inversion", "Kernel panic", "Starvation"],
+    "correctAnswer": "Deadlock"
+  },
+  {
+    "id": "OS-243",
+    "question": "Which kernel mechanism allows safe access to user-space memory from kernel space?",
+    "options": ["DMA mapping", "Copy-on-write", "Safe copy routines", "TLB shootdown"],
+    "correctAnswer": "Safe copy routines"
+  },
+  {
+    "id": "OS-244",
+    "question": "In a distributed system, what problem does the Paxos algorithm primarily solve?",
+    "options": ["Leader election", "Distributed consensus", "Clock synchronization", "Deadlock avoidance"],
+    "correctAnswer": "Distributed consensus"
+  },
+  {
+    "id": "OS-245",
+    "question": "Which scenario most commonly triggers a kernel livelock?",
+    "options": ["Excessive context switching without progress", "Circular wait for locks", "Process starvation", "Blocking I/O calls"],
+    "correctAnswer": "Excessive context switching without progress"
+  },
+  {
+    "id": "OS-246",
+    "question": "What is the main purpose of a TLB shootdown in SMP systems?",
+    "options": ["Flush local cache", "Invalidate stale page mappings on all CPUs", "Reschedule threads", "Synchronize clocks"],
+    "correctAnswer": "Invalidate stale page mappings on all CPUs"
+  },
+  {
+    "id": "OS-247",
+    "question": "Which failure model is assumed by most distributed consensus algorithms like Raft?",
+    "options": ["Byzantine failures", "Crash-stop failures", "Timing failures", "Omission failures"],
+    "correctAnswer": "Crash-stop failures"
+  },
+  {
+    "id": "OS-248",
+    "question": "What kernel data structure tracks ownership of physical memory frames?",
+    "options": ["Page table", "Frame table", "Inode table", "Process control block"],
+    "correctAnswer": "Frame table"
+  },
+  {
+    "id": "OS-249",
+    "question": "Why are blocking locks unsafe in interrupt context?",
+    "options": ["They increase latency", "Interrupts cannot sleep", "They disable preemption", "They consume stack memory"],
+    "correctAnswer": "Interrupts cannot sleep"
+  },
+  {
+    "id": "OS-250",
+    "question": "Which mechanism ensures atomic updates to shared kernel data on multiprocessors?",
+    "options": ["Disabling paging", "Atomic CPU instructions", "User-level mutexes", "Context switching"],
+    "correctAnswer": "Atomic CPU instructions"
+  },
+  {
+    "id": "OS-251",
+    "question": "In distributed file systems, what does eventual consistency guarantee?",
+    "options": ["Immediate consistency", "All replicas converge if no new updates occur", "No stale reads ever", "Strict serialization"],
+    "correctAnswer": "All replicas converge if no new updates occur"
+  },
+  {
+    "id": "OS-252",
+    "question": "Which kernel optimization reduces TLB misses by grouping memory allocations?",
+    "options": ["Buddy system", "Slab allocator", "Swapping", "Demand paging"],
+    "correctAnswer": "Slab allocator"
+  },
+  {
+    "id": "OS-253",
+    "question": "What happens if a kernel thread panics on one CPU in a tightly coupled SMP system?",
+    "options": ["Only the thread exits", "Entire system halts", "CPU is hot-unplugged", "Scheduler restarts the thread"],
+    "correctAnswer": "Entire system halts"
+  },
+  {
+    "id": "OS-254",
+    "question": "Which property is sacrificed to achieve high availability under network partition (CAP theorem)?",
+    "options": ["Consistency", "Latency", "Durability", "Throughput"],
+    "correctAnswer": "Consistency"
+  },
+  {
+    "id": "OS-255",
+    "question": "Why is preemption disabled during certain kernel critical sections?",
+    "options": ["To reduce power usage", "To protect shared kernel data", "To improve scheduling fairness", "To avoid page faults"],
+    "correctAnswer": "To protect shared kernel data"
+  },
+  {
+    "id": "OS-256",
+    "question": "Which attack exploits speculative execution in modern CPUs?",
+    "options": ["Rowhammer", "Spectre", "Buffer overflow", "Return-to-libc"],
+    "correctAnswer": "Spectre"
+  },
+  {
+    "id": "OS-257",
+    "question": "What is the hardest aspect of implementing a distributed mutex?",
+    "options": ["Lock acquisition", "Failure detection", "Message serialization", "Context switching"],
+    "correctAnswer": "Failure detection"
+  },
+  {
+    "id": "OS-258",
+    "question": "Which kernel mechanism prevents stack overflow from corrupting adjacent memory?",
+    "options": ["Guard pages", "Segmentation", "TLB isolation", "Stack copying"],
+    "correctAnswer": "Guard pages"
+  },
+  {
+    "id": "OS-259",
+    "question": "Why is clock synchronization fundamentally difficult in distributed systems?",
+    "options": ["Hardware clock drift", "Unbounded network latency", "Limited CPU speed", "Process scheduling delays"],
+    "correctAnswer": "Unbounded network latency"
+  },
+  {
+    "id": "OS-260",
+    "question": "Which kernel design minimizes system call overhead?",
+    "options": ["Microkernel", "Monolithic kernel", "Exokernel", "Hybrid kernel"],
+    "correctAnswer": "Exokernel"
+  },
+  {
+    "id": "OS-261",
+    "question": "What happens if a kernel forgets to release a spinlock?",
+    "options": ["Memory leak", "Deadlock", "Starvation only", "Graceful recovery"],
+    "correctAnswer": "Deadlock"
+  },
+  {
+    "id": "OS-262",
+    "question": "Which distributed algorithm detects global termination?",
+    "options": ["Chandy-Lamport", "Bully algorithm", "Paxos", "Lamport clock"],
+    "correctAnswer": "Chandy-Lamport"
+  },
+  {
+    "id": "OS-263",
+    "question": "Why is false sharing harmful in multicore systems?",
+    "options": ["Increases cache coherence traffic", "Causes deadlocks", "Disables parallelism", "Consumes virtual memory"],
+    "correctAnswer": "Increases cache coherence traffic"
+  },
+  {
+    "id": "OS-264",
+    "question": "Which kernel structure uniquely identifies a running process?",
+    "options": ["Thread ID", "Process Control Block", "Page directory", "Inode"],
+    "correctAnswer": "Process Control Block"
+  },
+  {
+    "id": "OS-265",
+    "question": "What is the key risk of optimistic concurrency control in distributed databases?",
+    "options": ["Deadlock", "High rollback cost", "Starvation", "Priority inversion"],
+    "correctAnswer": "High rollback cost"
+  },
+  {
+    "id": "OS-266",
+    "question": "Which mechanism allows kernel bypass for high-speed networking?",
+    "options": ["Virtual memory", "RDMA", "System calls", "Interrupt coalescing"],
+    "correctAnswer": "RDMA"
+  },
+  {
+    "id": "OS-267",
+    "question": "Why is global garbage collection difficult in distributed systems?",
+    "options": ["Lack of shared memory", "Unreliable failure detection", "High CPU usage", "Limited address space"],
+    "correctAnswer": "Unreliable failure detection"
+  },
+  {
+    "id": "OS-268",
+    "question": "Which scheduling problem is unique to multiprocessor real-time systems?",
+    "options": ["Priority inversion across CPUs", "Convoy effect", "Starvation", "Context switch overhead"],
+    "correctAnswer": "Priority inversion across CPUs"
+  },
+  {
+    "id": "OS-269",
+    "question": "What does a kernel memory barrier primarily ensure?",
+    "options": ["Atomicity", "Ordering of memory operations", "Mutual exclusion", "Cache eviction"],
+    "correctAnswer": "Ordering of memory operations"
+  },
+  {
+    "id": "OS-270",
+    "question": "Which problem remains unsolvable in a fully asynchronous distributed system?",
+    "options": ["Mutual exclusion", "Leader election", "Consensus with failures", "Deadlock detection"],
+    "correctAnswer": "Consensus with failures"
   }
 ]
