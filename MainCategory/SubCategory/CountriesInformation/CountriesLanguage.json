@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "LAN-001",
+    "examStageType": "easy",
+    "question": "What is the official language of Bangladesh?",
+    "options": ["Urdu", "English", "Bengali", "Hindi"],
+    "correctAnswer": "Bengali"
+  },
+  {
+    "id": "LAN-002",
+    "examStageType": "easy",
+    "question": "What is the official language of India?",
+    "options": ["English", "Tamil", "Hindi", "Bengali"],
+    "correctAnswer": "Hindi"
+  },
+  {
+    "id": "LAN-003",
+    "examStageType": "easy",
+    "question": "What is the official language of Pakistan?",
+    "options": ["Punjabi", "Urdu", "Pashto", "English"],
+    "correctAnswer": "Urdu"
+  },
+  {
+    "id": "LAN-004",
+    "examStageType": "easy",
+    "question": "What is the official language of Nepal?",
+    "options": ["Nepali", "Hindi", "Tibetan", "Bengali"],
+    "correctAnswer": "Nepali"
+  },
+  {
+    "id": "LAN-005",
+    "examStageType": "easy",
+    "question": "What is the official language of Sri Lanka?",
+    "options": ["Sinhala", "Tamil", "English", "Hindi"],
+    "correctAnswer": "Sinhala"
+  },
+  {
+    "id": "LAN-006",
+    "examStageType": "easy",
+    "question": "What is the official language of Cuba?",
+    "options": ["Portuguese", "Spanish", "French", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-007",
+    "examStageType": "easy",
+    "question": "What is the official language of Japan?",
+    "options": ["Korean", "Chinese", "Thai", "Japanese"],
+    "correctAnswer": "Japanese"
+  },
+  {
+    "id": "LAN-008",
+    "examStageType": "easy",
+    "question": "What is the official language of Ecuador?",
+    "options": ["Spanish", "Portuguese", "English", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-009",
+    "examStageType": "easy",
+    "question": "What is the official language of El Salvador?",
+    "options": ["English", "French", "Spanish", "Portuguese"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-010",
+    "examStageType": "easy",
+    "question": "What is the official language of Eswatini?",
+    "options": ["Zulu", "Swati", "English", "Tswana"],
+    "correctAnswer": "Swati"
+  },
+  {
+    "id": "LAN-011",
+    "examStageType": "easy",
+    "question": "What is the official language of Gabon?",
+    "options": ["Portuguese", "Spanish", "French", "Arabic"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-012",
+    "examStageType": "easy",
+    "question": "What is the official language of Guinea?",
+    "options": ["French", "English", "Portuguese", "Spanish"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-013",
+    "examStageType": "easy",
+    "question": "What is the official language of Guinea-Bissau?",
+    "options": ["Spanish", "French", "Portuguese", "English"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-014",
+    "examStageType": "easy",
+    "question": "What is the official language of Haiti?",
+    "options": ["French", "Spanish", "English", "Portuguese"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-015",
+    "examStageType": "easy",
+    "question": "What is the official language of Honduras?",
+    "options": ["Portuguese", "English", "Spanish", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-016",
+    "examStageType": "easy",
+    "question": "What is the official language of Jamaica?",
+    "options": ["Spanish", "English", "French", "Dutch"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-017",
+    "examStageType": "easy",
+    "question": "What is the official language of Liberia?",
+    "options": ["French", "English", "Arabic", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-018",
+    "examStageType": "easy",
+    "question": "What is the official language of Mauritania?",
+    "options": ["Arabic", "French", "English", "Spanish"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-019",
+    "examStageType": "easy",
+    "question": "What is the official language of Niger?",
+    "options": ["Arabic", "French", "English", "Hausa"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-020",
+    "examStageType": "easy",
+    "question": "What is the official language of Panama?",
+    "options": ["Spanish", "Portuguese", "English", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-021",
+    "examStageType": "easy",
+    "question": "What is the official language of Paraguay?",
+    "options": ["Portuguese", "Guarani", "Spanish", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-022",
+    "examStageType": "easy",
+    "question": "What is the official language of Peru?",
+    "options": ["French", "Spanish", "Portuguese", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-023",
+    "examStageType": "easy",
+    "question": "What is the official language of Sierra Leone?",
+    "options": ["French", "English", "Portuguese", "Spanish"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-024",
+    "examStageType": "easy",
+    "question": "What is the official language of Burundi?",
+    "options": ["French", "Kirundi", "English", "Swahili"],
+    "correctAnswer": "Kirundi"
+  },
+  {
+    "id": "LAN-025",
+    "examStageType": "easy",
+    "question": "What is the official language of the United Kingdom?",
+    "options": ["Welsh", "English", "Irish", "Scottish Gaelic"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-026",
+    "examStageType": "easy",
+    "question": "What is the official language of Brazil?",
+    "options": ["Spanish", "French", "Portuguese", "English"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-027",
+    "examStageType": "easy",
+    "question": "What is the official language of Argentina?",
+    "options": ["Spanish", "Portuguese", "English", "Italian"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-028",
+    "examStageType": "easy",
+    "question": "What is the official language of Mexico?",
+    "options": ["French", "Spanish", "Portuguese", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-029",
+    "examStageType": "easy",
+    "question": "What is the official language of Grenada?",
+    "options": ["French", "English", "Spanish", "Dutch"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-030",
+    "examStageType": "easy",
+    "question": "What is the official language of France?",
+    "options": ["Italian", "German", "French", "Spanish"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-031",
+    "examStageType": "easy",
+    "question": "What is the official language of Germany?",
+    "options": ["Dutch", "German", "French", "Danish"],
+    "correctAnswer": "German"
+  },
+  {
+    "id": "LAN-032",
+    "examStageType": "easy",
+    "question": "What is the official language of Saint Lucia?",
+    "options": ["French", "Spanish", "English", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-033",
+    "examStageType": "easy",
+    "question": "What is the official language of Guyana?",
+    "options": ["English", "Dutch", "Spanish", "French"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-034",
+    "examStageType": "easy",
+    "question": "What is the official language of Suriname?",
+    "options": ["Portuguese", "Dutch", "English", "Spanish"],
+    "correctAnswer": "Dutch"
+  },
+  {
+    "id": "LAN-035",
+    "examStageType": "easy",
+    "question": "What is the official language of Algeria?",
+    "options": ["French", "Arabic", "Spanish", "Italian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-036",
+    "examStageType": "easy",
+    "question": "What is the official language of the Netherlands?",
+    "options": ["German", "French", "Dutch", "English"],
+    "correctAnswer": "Dutch"
+  },
+  {
+    "id": "LAN-037",
+    "examStageType": "easy",
+    "question": "What is the official language of Djibouti?",
+    "options": ["Somali", "Arabic", "French", "English"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-038",
+    "examStageType": "easy",
+    "question": "What is the official language of Sudan?",
+    "options": ["Arabic", "English", "French", "Swahili"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-039",
+    "examStageType": "easy",
+    "question": "What is the official language of Sweden?",
+    "options": ["Norwegian", "Swedish", "Danish", "Finnish"],
+    "correctAnswer": "Swedish"
+  },
+  {
+    "id": "LAN-040",
+    "examStageType": "easy",
+    "question": "What is the official language of South Sudan?",
+    "options": ["Arabic", "Swahili", "English", "French"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-041",
+    "examStageType": "easy",
+    "question": "What is the official language of Denmark?",
+    "options": ["Swedish", "German", "Danish", "Dutch"],
+    "correctAnswer": "Danish"
+  },
+  {
+    "id": "LAN-042",
+    "examStageType": "easy",
+    "question": "What is the official language of Finland?",
+    "options": ["Finnish", "Swedish", "Norwegian", "Icelandic"],
+    "correctAnswer": "Finnish"
+  },
+  {
+    "id": "LAN-043",
+    "examStageType": "easy",
+    "question": "What is the official language of Ireland?",
+    "options": ["Irish", "English", "Welsh", "Scottish Gaelic"],
+    "correctAnswer": "Irish"
+  },
+  {
+    "id": "LAN-044",
+    "examStageType": "easy",
+    "question": "What is the official language of Portugal?",
+    "options": ["Spanish", "Italian", "Portuguese", "French"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-045",
+    "examStageType": "easy",
+    "question": "What is the official language of Greece?",
+    "options": ["Greek", "Turkish", "Italian", "Albanian"],
+    "correctAnswer": "Greek"
+  },
+  {
+    "id": "LAN-046",
+    "examStageType": "easy",
+    "question": "What is the official language of Austria?",
+    "options": ["German", "Hungarian", "Czech", "Slovak"],
+    "correctAnswer": "German"
+  },
+  {
+    "id": "LAN-047",
+    "examStageType": "easy",
+    "question": "What is the official language of Poland?",
+    "options": ["Polish", "Czech", "Slovak", "German"],
+    "correctAnswer": "Polish"
+  },
+  {
+    "id": "LAN-048",
+    "examStageType": "easy",
+    "question": "What is the official language of the Czech Republic?",
+    "options": ["Slovak", "Hungarian", "Czech", "Polish"],
+    "correctAnswer": "Czech"
+  },
+  {
+    "id": "LAN-049",
+    "examStageType": "easy",
+    "question": "What is the official language of Hungary?",
+    "options": ["Romanian", "Hungarian", "Polish", "Serbian"],
+    "correctAnswer": "Hungarian"
+  },
+  {
+    "id": "LAN-050",
+    "examStageType": "easy",
+    "question": "What is the official language of Romania?",
+    "options": ["Bulgarian", "Romanian", "Hungarian", "Greek"],
+    "correctAnswer": "Romanian"
+  },
+  {
+    "id": "LAN-051",
+    "examStageType": "easy",
+    "question": "What is the official language of Bulgaria?",
+    "options": ["Serbian", "Greek", "Bulgarian", "Romanian"],
+    "correctAnswer": "Bulgarian"
+  },
+  {
+    "id": "LAN-052",
+    "examStageType": "easy",
+    "question": "What is the official language of Croatia?",
+    "options": ["Slovenian", "Croatian", "Serbian", "Bosnian"],
+    "correctAnswer": "Croatian"
+  },
+  {
+    "id": "LAN-053",
+    "examStageType": "easy",
+    "question": "What is the official language of Serbia?",
+    "options": ["Croatian", "Serbian", "Bulgarian", "Albanian"],
+    "correctAnswer": "Serbian"
+  },
+  {
+    "id": "LAN-054",
+    "examStageType": "easy",
+    "question": "What is the official language of Slovakia?",
+    "options": ["Czech", "Slovak", "Hungarian", "Polish"],
+    "correctAnswer": "Slovak"
+  },
+  {
+    "id": "LAN-055",
+    "examStageType": "easy",
+    "question": "What is the official language of Slovenia?",
+    "options": ["Croatian", "Slovak", "Slovenian", "Serbian"],
+    "correctAnswer": "Slovenian"
+  },
+  {
+    "id": "LAN-056",
+    "examStageType": "easy",
+    "question": "What is the official language of Ukraine?",
+    "options": ["Russian", "Ukrainian", "Polish", "Romanian"],
+    "correctAnswer": "Ukrainian"
+  },
+  {
+    "id": "LAN-057",
+    "examStageType": "easy",
+    "question": "What is the official language of Belarus?",
+    "options": ["Belarusian", "Russian", "Ukrainian", "Lithuanian"],
+    "correctAnswer": "Belarusian"
+  },
+  {
+    "id": "LAN-058",
+    "examStageType": "easy",
+    "question": "What is the official language of Latvia?",
+    "options": ["Estonian", "Lithuanian", "Latvian", "Polish"],
+    "correctAnswer": "Latvian"
+  },
+  {
+    "id": "LAN-059",
+    "examStageType": "easy",
+    "question": "What is the official language of Lithuania?",
+    "options": ["Latvian", "Estonian", "Lithuanian", "Russian"],
+    "correctAnswer": "Lithuanian"
+  },
+  {
+    "id": "LAN-060",
+    "examStageType": "easy",
+    "question": "What is the official language of Estonia?",
+    "options": ["Finnish", "Estonian", "Latvian", "Lithuanian"],
+    "correctAnswer": "Estonian"
+  },
+  {
+    "id": "LAN-061",
+    "examStageType": "easy",
+    "question": "What is the official language of Norway?",
+    "options": ["Swedish", "Norwegian", "Finnish", "Danish"],
+    "correctAnswer": "Norwegian"
+  },
+  {
+    "id": "LAN-062",
+    "examStageType": "easy",
+    "question": "What is the official language of Somalia?",
+    "options": ["Somali", "Arabic", "English", "Swahili"],
+    "correctAnswer": "Somali"
+  },
+  {
+    "id": "LAN-063",
+    "examStageType": "easy",
+    "question": "What is the official language of Iceland?",
+    "options": ["Icelandic", "Norwegian", "Swedish", "Danish"],
+    "correctAnswer": "Icelandic"
+  },
+  {
+    "id": "LAN-064",
+    "examStageType": "easy",
+    "question": "What is the official language of Switzerland?",
+    "options": ["German", "Russian", "Spanish", "Arabic"],
+    "correctAnswer": "German"
+  },
+  {
+    "id": "LAN-065",
+    "examStageType": "easy",
+    "question": "What is the official language of Belgium?",
+    "options": ["French", "Portuguese", "German", "Spanish"],
+    "correctAnswer": "German"
+  },
+  {
+    "id": "LAN-066",
+    "examStageType": "easy",
+    "question": "What is the official language of Venezuela?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-067",
+    "examStageType": "easy",
+    "question": "What is the official language of Luxembourg?",
+    "options": ["French", "Luxembourgish", "German", "Dutch"],
+    "correctAnswer": "Luxembourgish"
+  },
+  {
+    "id": "LAN-068",
+    "examStageType": "easy",
+    "question": "What is the official language of Malta?",
+    "options": ["English", "Maltese", "French", "Spanish"],
+    "correctAnswer": "Maltese"
+  },
+  {
+    "id": "LAN-069",
+    "examStageType": "easy",
+    "question": "What is the official language of Cyprus?",
+    "options": ["Turkish", "Greek", "Arabic", "English"],
+    "correctAnswer": "Greek"
+  },
+  {
+    "id": "LAN-070",
+    "examStageType": "easy",
+    "question": "What is the official language of Albania?",
+    "options": ["Greek", "Albanian", "Serbian", "Turkish"],
+    "correctAnswer": "Albanian"
+  },
+  {
+    "id": "LAN-071",
+    "examStageType": "easy",
+    "question": "What is the official language of North Macedonia?",
+    "options": ["Albanian", "Turkish", "Macedonian", "Serbian"],
+    "correctAnswer": "Macedonian"
+  },
+  {
+    "id": "LAN-072",
+    "examStageType": "easy",
+    "question": "What is the official language of Bosnia and Herzegovina?",
+    "options": ["Bosnian", "Croatian", "Serbian", "Slovene"],
+    "correctAnswer": "Bosnian"
+  },
+  {
+    "id": "LAN-073",
+    "examStageType": "easy",
+    "question": "What is the official language of Montenegro?",
+    "options": ["Montenegrin", "Croatian", "Serbian", "Bosnian"],
+    "correctAnswer": "Montenegrin"
+  },
+  {
+    "id": "LAN-074",
+    "examStageType": "easy",
+    "question": "What is the official language of Moldova?",
+    "options": ["Russian", "Romanian", "Ukrainian", "Bulgarian"],
+    "correctAnswer": "Romanian"
+  },
+  {
+    "id": "LAN-075",
+    "examStageType": "easy",
+    "question": "What is the official language of Andorra?",
+    "options": ["Spanish", "French", "Catalan", "Portuguese"],
+    "correctAnswer": "Catalan"
+  },
+  {
+    "id": "LAN-076",
+    "examStageType": "easy",
+    "question": "What is the official language of Monaco?",
+    "options": ["Italian", "French", "German", "Spanish"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-077",
+    "examStageType": "easy",
+    "question": "What is the official language of San Marino?",
+    "options": ["Italian", "French", "Spanish", "German"],
+    "correctAnswer": "Italian"
+  },
+  {
+    "id": "LAN-078",
+    "examStageType": "easy",
+    "question": "What is the official language of Liechtenstein?",
+    "options": ["German", "French", "Italian", "Romansh"],
+    "correctAnswer": "German"
+  },
+  {
+    "id": "LAN-079",
+    "examStageType": "easy",
+    "question": "What is the official language of Turkey?",
+    "options": ["Arabic", "Turkish", "Greek", "Kurdish"],
+    "correctAnswer": "Turkish"
+  },
+  {
+    "id": "LAN-080",
+    "examStageType": "easy",
+    "question": "What is the official language of Kosovo?",
+    "options": ["Serbian", "Albanian", "Bosnian", "Croatian"],
+    "correctAnswer": "Albanian"
+  },
+  {
+    "id": "LAN-081",
+    "examStageType": "easy",
+    "question": "What is the official language of Egypt?",
+    "options": ["Arabic", "English", "French", "Spanish"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-082",
+    "examStageType": "easy",
+    "question": "What is the official language of Nigeria?",
+    "options": ["Hausa", "Swahili", "English", "Yoruba"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-083",
+    "examStageType": "easy",
+    "question": "What is the official language of South Africa?",
+    "options": ["Zulu", "English", "Afrikaans", "Xhosa"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-084",
+    "examStageType": "easy",
+    "question": "What is the official language of Kenya?",
+    "options": ["Swahili", "English", "French", "Arabic"],
+    "correctAnswer": "Swahili"
+  },
+  {
+    "id": "LAN-085",
+    "examStageType": "easy",
+    "question": "What is the official language of Ethiopia?",
+    "options": ["Amharic", "Oromo", "Tigrinya", "Somali"],
+    "correctAnswer": "Amharic"
+  },
+  {
+    "id": "LAN-086",
+    "examStageType": "easy",
+    "question": "What is the official language of Ghana?",
+    "options": ["Akan", "English", "Ewe", "Ga"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-087",
+    "examStageType": "easy",
+    "question": "What is the official language of Morocco?",
+    "options": ["French", "Arabic", "Spanish", "Berber"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-088",
+    "examStageType": "easy",
+    "question": "What is the official language of Burkina Faso?",
+    "options": ["Spanish", "French", "English", "Arabic"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-089",
+    "examStageType": "easy",
+    "question": "What is the official language of Tunisia?",
+    "options": ["Arabic", "French", "English", "Spanish"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-090",
+    "examStageType": "easy",
+    "question": "What is the official language of Libya?",
+    "options": ["Arabic", "English", "French", "Italian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-091",
+    "examStageType": "easy",
+    "question": "What is the official language of Uganda?",
+    "options": ["Swahili", "English", "French", "Kinyarwanda"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-092",
+    "examStageType": "easy",
+    "question": "What is the official language of Tanzania?",
+    "options": ["Swahili", "English", "Portuguese", "French"],
+    "correctAnswer": "Swahili"
+  },
+  {
+    "id": "LAN-093",
+    "examStageType": "easy",
+    "question": "What is the official language of Rwanda?",
+    "options": ["Kinyarwanda", "French", "English", "Swahili"],
+    "correctAnswer": "Kinyarwanda"
+  },
+  {
+    "id": "LAN-094",
+    "examStageType": "easy",
+    "question": "What is the official language of Senegal?",
+    "options": ["French", "Wolof", "English", "Arabic"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-095",
+    "examStageType": "easy",
+    "question": "What is the official language of Angola?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-096",
+    "examStageType": "easy",
+    "question": "What is the official language of Zimbabwe?",
+    "options": ["Shona", "English", "Ndebele", "French"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-097",
+    "examStageType": "easy",
+    "question": "What is the official language of Zambia?",
+    "options": ["English", "Bemba", "French", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-098",
+    "examStageType": "easy",
+    "question": "What is the official language of Mozambique?",
+    "options": ["Portuguese", "Swahili", "English", "French"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-099",
+    "examStageType": "easy",
+    "question": "What is the official language of Namibia?",
+    "options": ["Afrikaans", "English", "German", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-100",
+    "examStageType": "easy",
+    "question": "What is the official language of Botswana?",
+    "options": ["English", "Tswana", "French", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-101",
+    "examStageType": "easy",
+    "question": "What is the official language of Madagascar?",
+    "options": ["French", "Malagasy", "English", "Swahili"],
+    "correctAnswer": "Malagasy"
+  },
+  {
+    "id": "LAN-102",
+    "examStageType": "easy",
+    "question": "What is the official language of Mauritius?",
+    "options": ["French", "English", "Creole", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-103",
+    "examStageType": "easy",
+    "question": "What is the official language of Seychelles?",
+    "options": ["French", "English", "Creole", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-104",
+    "examStageType": "easy",
+    "question": "What is the official language of Comoros?",
+    "options": ["Arabic", "French", "Comorian", "English"],
+    "correctAnswer": "Comorian"
+  },
+  {
+    "id": "LAN-105",
+    "examStageType": "easy",
+    "question": "What is the official language of São Tomé and Príncipe?",
+    "options": ["Portuguese", "Spanish", "French", "Creole"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-106",
+    "examStageType": "easy",
+    "question": "What is the official language of the Republic of the Congo?",
+    "options": ["French", "Portuguese", "English", "Swahili"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-107",
+    "examStageType": "easy",
+    "question": "What is the official language of Equatorial Guinea?",
+    "options": ["Spanish", "French", "Portuguese", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-108",
+    "examStageType": "easy",
+    "question": "What is the official language of Cape Verde?",
+    "options": ["French", "Portuguese", "Spanish", "English"],
+    "correctAnswer": "Portuguese"
+  },
+  {
+    "id": "LAN-109",
+    "examStageType": "easy",
+    "question": "What is the official language of Armenia?",
+    "options": ["Russian", "Armenian", "Persian", "English"],
+    "correctAnswer": "Armenian"
+  },
+  {
+    "id": "LAN-110",
+    "examStageType": "easy",
+    "question": "What is the official language of Belize?",
+    "options": ["Spanish", "English", "Mayan", "French"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-111",
+    "examStageType": "easy",
+    "question": "What is the official language of Afghanistan?",
+    "options": ["Pashto", "Dari", "English", "Urdu"],
+    "correctAnswer": "Dari"
+  },
+  {
+    "id": "LAN-112",
+    "examStageType": "easy",
+    "question": "What is the official language of Iran?",
+    "options": ["Arabic", "Persian", "Kurdish", "English"],
+    "correctAnswer": "Persian"
+  },
+  {
+    "id": "LAN-113",
+    "examStageType": "easy",
+    "question": "What is the official language of Iraq?",
+    "options": ["Arabic", "Kurdish", "Persian", "Turkish"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-114",
+    "examStageType": "easy",
+    "question": "What is the official language of Saudi Arabia?",
+    "options": ["Arabic", "Urdu", "English", "French"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-115",
+    "examStageType": "easy",
+    "question": "What is the official language of the United Arab Emirates?",
+    "options": ["Arabic", "English", "Persian", "French"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-116",
+    "examStageType": "easy",
+    "question": "What is the official language of Qatar?",
+    "options": ["Arabic", "English", "French", "Hindi"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-117",
+    "examStageType": "easy",
+    "question": "What is the official language of Oman?",
+    "options": ["Arabic", "English", "Portuguese", "Persian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-118",
+    "examStageType": "easy",
+    "question": "What is the official language of Yemen?",
+    "options": ["Arabic", "English", "French", "Persian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-119",
+    "examStageType": "easy",
+    "question": "What is the official language of Jordan?",
+    "options": ["Arabic", "English", "French", "Persian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-120",
+    "examStageType": "easy",
+    "question": "What is the official language of Lebanon?",
+    "options": ["Arabic", "French", "English", "Armenian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-121",
+    "examStageType": "easy",
+    "question": "What is the official language of Syria?",
+    "options": ["Arabic", "French", "English", "Turkish"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-122",
+    "examStageType": "easy",
+    "question": "What is the official language of Israel?",
+    "options": ["Hebrew", "Arabic", "English", "French"],
+    "correctAnswer": "Hebrew"
+  },
+  {
+    "id": "LAN-123",
+    "examStageType": "easy",
+    "question": "What is the official language of Uruguay?",
+    "options": ["Portuguese", "Spanish", "Italian", "English"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-124",
+    "examStageType": "easy",
+    "question": "What is the official language of Kuwait?",
+    "options": ["Arabic", "English", "French", "Persian"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-125",
+    "examStageType": "easy",
+    "question": "What is the official language of Bahrain?",
+    "options": ["Arabic", "English", "Persian", "French"],
+    "correctAnswer": "Arabic"
+  },
+  {
+    "id": "LAN-126",
+    "examStageType": "easy",
+    "question": "What is the official language of Malawi?",
+    "options": ["Chichewa", "English", "French", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-127",
+    "examStageType": "easy",
+    "question": "What is the official language of Barbados?",
+    "options": ["French", "English", "Spanish", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-128",
+    "examStageType": "easy",
+    "question": "What is the official language of Cameroon?",
+    "options": ["French", "English", "Portuguese", "Spanish"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-129",
+    "examStageType": "easy",
+    "question": "What is the official language of Italy?",
+    "options": ["Italian", "French", "Spanish", "English"],
+    "correctAnswer": "Italian"
+  },
+  {
+    "id": "LAN-130",
+    "examStageType": "easy",
+    "question": "What is the official language of Saint Kitts and Nevis?",
+    "options": ["French", "English", "Spanish", "Dutch"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-131",
+    "examStageType": "easy",
+    "question": "What is the official language of Saint Vincent and the Grenadines?",
+    "options": ["English", "French", "Spanish", "Dutch"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-132",
+    "examStageType": "easy",
+    "question": "What is the official language of Tajikistan?",
+    "options": ["Tajik", "Russian", "Uzbek", "Persian"],
+    "correctAnswer": "Tajik"
+  },
+  {
+    "id": "LAN-133",
+    "examStageType": "easy",
+    "question": "What is the official language of Trinidad and Tobago?",
+    "options": ["Spanish", "English", "French", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-134",
+    "examStageType": "easy",
+    "question": "What is the official language of Ivory Coast?",
+    "options": ["French", "English", "Arabic", "Portuguese"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-135",
+    "examStageType": "easy",
+    "question": "What is the official language of North Korea?",
+    "options": ["Korean", "Japanese", "Chinese", "English"],
+    "correctAnswer": "Korean"
+  },
+  {
+    "id": "LAN-136",
+    "examStageType": "easy",
+    "question": "What is the official language of South Korea?",
+    "options": ["Korean", "English", "Japanese", "Chinese"],
+    "correctAnswer": "Korean"
+  },
+  {
+    "id": "LAN-137",
+    "examStageType": "easy",
+    "question": "What is the official language of Dominica?",
+    "options": ["French", "English", "Spanish", "Dutch"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-138",
+    "examStageType": "easy",
+    "question": "What is the official language of Togo?",
+    "options": ["French", "English", "Portuguese", "German"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-139",
+    "examStageType": "easy",
+    "question": "What is the official language of Cambodia?",
+    "options": ["Thai", "Khmer", "Vietnamese", "English"],
+    "correctAnswer": "Khmer"
+  },
+  {
+    "id": "LAN-140",
+    "examStageType": "easy",
+    "question": "What is the official language of Georgia?",
+    "options": ["Armenian", "Georgian", "Russian", "English"],
+    "correctAnswer": "Georgian"
+  },
+  {
+    "id": "LAN-141",
+    "examStageType": "easy",
+    "question": "What is the official language of Thailand?",
+    "options": ["Thai", "Khmer", "Lao", "English"],
+    "correctAnswer": "Thai"
+  },
+  {
+    "id": "LAN-142",
+    "examStageType": "easy",
+    "question": "What is the official language of Myanmar?",
+    "options": ["Burmese", "Thai", "English", "Chinese"],
+    "correctAnswer": "Burmese"
+  },
+  {
+    "id": "LAN-143",
+    "examStageType": "easy",
+    "question": "What is the official language of Malaysia?",
+    "options": ["Malay", "English", "Chinese", "Tamil"],
+    "correctAnswer": "Malay"
+  },
+  {
+    "id": "LAN-144",
+    "examStageType": "easy",
+    "question": "What is the official language of Singapore?",
+    "options": ["Malay", "English", "Mandarin", "Tamil"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-145",
+    "examStageType": "easy",
+    "question": "What is the official language of Indonesia?",
+    "options": ["Javanese", "Bahasa Indonesia", "Malay", "English"],
+    "correctAnswer": "Bahasa Indonesia"
+  },
+  {
+    "id": "LAN-146",
+    "examStageType": "easy",
+    "question": "What is the official language of Chile?",
+    "options": ["Portuguese", "Spanish", "English", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-147",
+    "examStageType": "easy",
+    "question": "What is the official language of The Gambia?",
+    "options": ["Mandinka", "English", "French", "Wolof"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-148",
+    "examStageType": "easy",
+    "question": "What is the official language of Timor-Leste?",
+    "options": ["Portuguese", "Tetum", "Indonesian", "English"],
+    "correctAnswer": "Tetum"
+  },
+  {
+    "id": "LAN-149",
+    "examStageType": "easy",
+    "question": "What is the official language of the Bahamas?",
+    "options": ["English", "Spanish", "French", "Creole"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-150",
+    "examStageType": "easy",
+    "question": "What is the official language of Antigua and Barbuda?",
+    "options": ["English", "French", "Spanish", "Dutch"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-151",
+    "examStageType": "easy",
+    "question": "What is the official language of Bhutan?",
+    "options": ["Bhutanese", "Dzongkha", "Nepali", "Hindi"],
+    "correctAnswer": "Dzongkha"
+  },
+  {
+    "id": "LAN-152",
+    "examStageType": "easy",
+    "question": "What is the official language of Chad?",
+    "options": ["French", "Arabic", "English", "Portuguese"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-153",
+    "examStageType": "easy",
+    "question": "What is the official language of Maldives?",
+    "options": ["Dhivehi", "English", "Arabic", "French"],
+    "correctAnswer": "Dhivehi"
+  },
+  {
+    "id": "LAN-154",
+    "examStageType": "easy",
+    "question": "What is the official language of the Democratic Republic of the Congo?",
+    "options": ["Swahili", "French", "Lingala", "Kikongo"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-155",
+    "examStageType": "easy",
+    "question": "What is the official language of Bolivia?",
+    "options": ["Spanish", "Quechua", "Aymara", "Guarani"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-156",
+    "examStageType": "easy",
+    "question": "What is the official language of Benin?",
+    "options": ["French", "Fon", "Yoruba", "English"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-157",
+    "examStageType": "easy",
+    "question": "What is the official language of Kazakhstan?",
+    "options": ["Kazakh", "Russian", "Uzbek", "English"],
+    "correctAnswer": "Kazakh"
+  },
+  {
+    "id": "LAN-158",
+    "examStageType": "easy",
+    "question": "What is the official language of Kyrgyzstan?",
+    "options": ["Kyrgyz", "Russian", "Uzbek", "English"],
+    "correctAnswer": "Kyrgyz"
+  },
+  {
+    "id": "LAN-159",
+    "examStageType": "easy",
+    "question": "What is the official language of Spain?",
+    "options": ["Spanish", "Catalan", "Galician", "Basque"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-160",
+    "examStageType": "easy",
+    "question": "What is the official language of Uzbekistan?",
+    "options": ["Uzbek", "Russian", "Kazakh", "Tajik"],
+    "correctAnswer": "Uzbek"
+  },
+  {
+    "id": "LAN-161",
+    "examStageType": "easy",
+    "question": "What is the official language of Turkmenistan?",
+    "options": ["Turkmen", "Russian", "Kazakh", "Persian"],
+    "correctAnswer": "Turkmen"
+  },
+  {
+    "id": "LAN-162",
+    "examStageType": "easy",
+    "question": "What is the official language of Mongolia?",
+    "options": ["Mongolian", "Russian", "Kazakh", "Chinese"],
+    "correctAnswer": "Mongolian"
+  },
+  {
+    "id": "LAN-163",
+    "examStageType": "easy",
+    "question": "What is the official language of China?",
+    "options": ["Mandarin", "Cantonese", "Tibetan", "English"],
+    "correctAnswer": "Mandarin"
+  },
+  {
+    "id": "LAN-164",
+    "examStageType": "easy",
+    "question": "What is the official language of Eritrea?",
+    "options": ["Tigrinya", "Arabic", "English", "Italian"],
+    "correctAnswer": "Tigrinya"
+  },
+  {
+    "id": "LAN-165",
+    "examStageType": "easy",
+    "question": "What is the official language of Mali?",
+    "options": ["French", "Bambara", "English", "Arabic"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-166",
+    "examStageType": "easy",
+    "question": "What is the official language of the Dominican Republic?",
+    "options": ["Spanish", "French", "English", "Creole"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-167",
+    "examStageType": "easy",
+    "question": "What is the official language of Laos?",
+    "options": ["Lao", "Thai", "Vietnamese", "French"],
+    "correctAnswer": "Lao"
+  },
+  {
+    "id": "LAN-168",
+    "examStageType": "easy",
+    "question": "What is the official language of Azerbaijan?",
+    "options": ["Azerbaijani", "Russian", "Turkish", "Persian"],
+    "correctAnswer": "Azerbaijani"
+  },
+  {
+    "id": "LAN-169",
+    "examStageType": "easy",
+    "question": "What is the official language of Vietnam?",
+    "options": ["Vietnamese", "French", "English", "Chinese"],
+    "correctAnswer": "Vietnamese"
+  },
+  {
+    "id": "LAN-170",
+    "examStageType": "easy",
+    "question": "What is the official language of Brunei?",
+    "options": ["Malay", "English", "Chinese", "Arabic"],
+    "correctAnswer": "Malay"
+  },
+  {
+    "id": "LAN-171",
+    "examStageType": "easy",
+    "question": "What is the official language of the Philippines?",
+    "options": ["Filipino", "English", "Spanish", "Chinese"],
+    "correctAnswer": "Filipino"
+  },
+  {
+    "id": "LAN-172",
+    "examStageType": "easy",
+    "question": "What is the official language of Timor-Leste?",
+    "options": ["Tetum", "Portuguese", "Indonesian", "English"],
+    "correctAnswer": "Tetum"
+  },
+  {
+    "id": "LAN-173",
+    "examStageType": "easy",
+    "question": "What is the official language of the Central African Republic?",
+    "options": ["French", "Sango", "English", "Arabic"],
+    "correctAnswer": "French"
+  },
+  {
+    "id": "LAN-174",
+    "examStageType": "easy",
+    "question": "What is the official language of Nicaragua?",
+    "options": ["Spanish", "English", "Miskito", "Creole"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-175",
+    "examStageType": "easy",
+    "question": "What is the official language of Papua New Guinea?",
+    "options": ["English", "Tok Pisin", "Hiri Motu", "French"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-176",
+    "examStageType": "easy",
+    "question": "What is the official language of Lesotho?",
+    "options": ["Sesotho", "English", "Zulu", "French"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-177",
+    "examStageType": "easy",
+    "question": "What is the official language of Solomon Islands?",
+    "options": ["English", "Pijin", "French", "Spanish"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-178",
+    "examStageType": "easy",
+    "question": "What is the official language of Guatemala?",
+    "options": ["Spanish", "Mayan", "English", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-179",
+    "examStageType": "easy",
+    "question": "What is the official language of Samoa?",
+    "options": ["Samoan", "English", "French", "Tongan"],
+    "correctAnswer": "Samoan"
+  },
+  {
+    "id": "LAN-180",
+    "examStageType": "easy",
+    "question": "What is the official language of Colombia?",
+    "options": ["Spanish", "English", "Portuguese", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-181",
+    "examStageType": "easy",
+    "question": "What is the official language of the Federated States of Micronesia?",
+    "options": ["English", "Micronesian", "Spanish", "Portuguese"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-182",
+    "examStageType": "easy",
+    "question": "What is the official language of the Marshall Islands?",
+    "options": ["Marshallese", "English", "French", "Spanish"],
+    "correctAnswer": "Marshallese"
+  },
+  {
+    "id": "LAN-183",
+    "examStageType": "easy",
+    "question": "What is the official language of Palau?",
+    "options": ["Palauan", "English", "Japanese", "Spanish"],
+    "correctAnswer": "Palauan"
+  },
+  {
+    "id": "LAN-184",
+    "examStageType": "easy",
+    "question": "What is the official language of Nauru?",
+    "options": ["Nauruan", "English", "French", "German"],
+    "correctAnswer": "Nauruan"
+  },
+  {
+    "id": "LAN-185",
+    "examStageType": "easy",
+    "question": "What is the official language of Tuvalu?",
+    "options": ["Tuvaluan", "English", "French", "Samoan"],
+    "correctAnswer": "Tuvaluan"
+  },
+  {
+    "id": "LAN-186",
+    "examStageType": "easy",
+    "question": "What is the official language of Kiribati?",
+    "options": ["English", "Gilbertese", "French", "Spanish"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-187",
+    "examStageType": "easy",
+    "question": "What is the official language of Tonga?",
+    "options": ["Tongan", "English", "Fijian", "Samoan"],
+    "correctAnswer": "Tongan"
+  },
+  {
+    "id": "LAN-188",
+    "examStageType": "easy",
+    "question": "What is the official language of Costa Rica?",
+    "options": ["Spanish", "English", "Portuguese", "French"],
+    "correctAnswer": "Spanish"
+  },
+  {
+    "id": "LAN-189",
+    "examStageType": "easy",
+    "question": "What is the official language of Vanuatu?",
+    "options": ["Bislama", "English", "French", "Spanish"],
+    "correctAnswer": "Bislama"
+  },
+  {
+    "id": "LAN-190",
+    "examStageType": "easy",
+    "question": "What is the official language of Fiji?",
+    "options": ["Fijian", "English", "Hindi", "French"],
+    "correctAnswer": "Fijian"
+  },
+  {
+    "id": "LAN-191",
+    "examStageType": "easy",
+    "question": "What is the official language of New Zealand?",
+    "options": ["English", "Maori", "French", "Samoan"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-192",
+    "examStageType": "easy",
+    "question": "What is the official language of Australia?",
+    "options": ["English", "Aboriginal languages", "French", "Spanish"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-193",
+    "examStageType": "easy",
+    "question": "What is the official language of the United States?",
+    "options": ["English", "Spanish", "French", "None"],
+    "correctAnswer": "English"
+  },
+  {
+    "id": "LAN-194",
+    "examStageType": "easy",
+    "question": "What is the official language of Canada?",
+    "options": ["English", "French", "Both English and French", "Spanish"],
+    "correctAnswer": "Both English and French"
+  },
+  {
+    "id": "LAN-195",
+    "examStageType": "easy",
+    "question": "What is the official language of Russia?",
+    "options": ["Russian", "Tatar", "English", "French"],
+    "correctAnswer": "Russian"
+  },
+  {
+    "id": "LAN-196",
+    "examStageType": "easy",
+    "question": "What is the official language of Vatican City?",
+    "options": ["Italian", "Latin", "English", "French"],
+    "correctAnswer": "Latin"
+  },
+  {
+    "id": "LAN-197",
+    "examStageType": "easy",
+    "question": "What is the official language of Israel?",
+    "options": ["Hebrew", "Arabic", "English", "French"],
+    "correctAnswer": "Hebrew"
+  }
+]

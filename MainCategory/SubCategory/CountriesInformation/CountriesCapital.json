@@ -69,21 +69,21 @@
     "id": "CAP-010",
     "examStageType": "easy",
     "question": "Capital of Eswatini",
-    "options": ["Mbabane", "Lobamba", "Manzini", "Siteki"],
+    "options": ["Lobamba", "Manzini", "Mbabane", "Siteki"],
     "correctAnswer": "Mbabane"
   },
   {
     "id": "CAP-011",
     "examStageType": "easy",
     "question": "Capital of Gabon",
-    "options": ["Libreville", "Port-Gentil", "Franceville", "Oyem"],
+    "options": ["Port-Gentil", "Libreville", "Franceville", "Oyem"],
     "correctAnswer": "Libreville"
   },
   {
     "id": "CAP-012",
     "examStageType": "easy",
     "question": "Capital of Guinea",
-    "options": ["Conakry", "Nzérékoré", "Kankan", "Labé"],
+    "options": ["Nzérékoré", "Kankan", "Labé", "Conakry"],
     "correctAnswer": "Conakry"
   },
   {
@@ -1364,7 +1364,7 @@
     "id": "CAP-195",
     "examStageType": "easy",
     "question": "Capital of Russia",
-    "options": ["Moscow", "Saint Petersburg", "Sochi", "Kazan"],
+    "options": ["Sochi", "Moscow", "Saint Petersburg", "Kazan"],
     "correctAnswer": "Moscow"
   },
   {

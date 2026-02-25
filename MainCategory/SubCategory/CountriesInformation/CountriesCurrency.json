@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "CUR-001",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bangladesh?",
+    "options": ["Rupee", "Taka", "Dollar", "Riyal"],
+    "correctAnswer": "Taka"
+  },
+  {
+    "id": "CUR-002",
+    "examStageType": "easy",
+    "question": "What is the official currency of India?",
+    "options": ["Dollar", "Rupee", "Ringgit", "Baht"],
+    "correctAnswer": "Rupee"
+  },
+  {
+    "id": "CUR-003",
+    "examStageType": "easy",
+    "question": "What is the official currency of Pakistan?",
+    "options": ["Riyal", "Taka", "Rupee", "Dinar"],
+    "correctAnswer": "Rupee"
+  },
+  {
+    "id": "CUR-004",
+    "examStageType": "easy",
+    "question": "What is the official currency of Nepal?",
+    "options": ["Rupee", "Peso", "Euro", "Franc"],
+    "correctAnswer": "Rupee"
+  },
+  {
+    "id": "CUR-005",
+    "examStageType": "easy",
+    "question": "What is the official currency of Sri Lanka?",
+    "options": ["Dollar", "Rupee", "Riyal", "Yen"],
+    "correctAnswer": "Rupee"
+  },
+  {
+    "id": "CUR-006",
+    "examStageType": "easy",
+    "question": "What is the official currency of Cuba?",
+    "options": ["Peso", "Euro", "Dollar", "Lira"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-007",
+    "examStageType": "easy",
+    "question": "What is the official currency of Japan?",
+    "options": ["Won", "Yuan", "Yen", "Ringgit"],
+    "correctAnswer": "Yen"
+  },
+  {
+    "id": "CUR-008",
+    "examStageType": "easy",
+    "question": "What is the official currency of Ecuador?",
+    "options": ["Peso", "Dollar", "Real", "Euro"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-009",
+    "examStageType": "easy",
+    "question": "What is the official currency of El Salvador?",
+    "options": ["Colon", "Peso", "Dollar", "Quetzal"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-010",
+    "examStageType": "easy",
+    "question": "What is the official currency of Eswatini?",
+    "options": ["Rand", "Lilangeni", "Dollar", "Kwacha"],
+    "correctAnswer": "Lilangeni"
+  },
+  {
+    "id": "CUR-011",
+    "examStageType": "easy",
+    "question": "What is the official currency of Gabon?",
+    "options": ["Franc", "Dinar", "Peso", "Shilling"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-012",
+    "examStageType": "easy",
+    "question": "What is the official currency of Guinea?",
+    "options": ["Franc", "Cedi", "Dalasi", "Rupee"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-013",
+    "examStageType": "easy",
+    "question": "What is the official currency of Guinea-Bissau?",
+    "options": ["Peso", "Euro", "Franc", "Dollar"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-014",
+    "examStageType": "easy",
+    "question": "What is the official currency of Haiti?",
+    "options": ["Peso", "Gourde", "Dollar", "Euro"],
+    "correctAnswer": "Gourde"
+  },
+  {
+    "id": "CUR-015",
+    "examStageType": "easy",
+    "question": "What is the official currency of Honduras?",
+    "options": ["Lempira", "Peso", "Colon", "Dollar"],
+    "correctAnswer": "Lempira"
+  },
+  {
+    "id": "CUR-016",
+    "examStageType": "easy",
+    "question": "What is the official currency of Jamaica?",
+    "options": ["Euro", "Dollar", "Peso", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-017",
+    "examStageType": "easy",
+    "question": "What is the official currency of Liberia?",
+    "options": ["Franc", "Dollar", "Naira", "Cedi"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-018",
+    "examStageType": "easy",
+    "question": "What is the official currency of Mauritania?",
+    "options": ["Dinar", "Ouguiya", "Riyal", "Pound"],
+    "correctAnswer": "Ouguiya"
+  },
+  {
+    "id": "CUR-019",
+    "examStageType": "easy",
+    "question": "What is the official currency of Niger?",
+    "options": ["Franc", "Shilling", "Peso", "Dirham"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-020",
+    "examStageType": "easy",
+    "question": "What is the official currency of Panama?",
+    "options": ["Peso", "Balboa", "Dollar", "Colon"],
+    "correctAnswer": "Balboa"
+  },
+  {
+    "id": "CUR-021",
+    "examStageType": "easy",
+    "question": "What is the official currency of Paraguay?",
+    "options": ["Guarani", "Peso", "Real", "Dollar"],
+    "correctAnswer": "Guarani"
+  },
+  {
+    "id": "CUR-022",
+    "examStageType": "easy",
+    "question": "What is the official currency of Peru?",
+    "options": ["Peso", "Sol", "Dollar", "Bolivar"],
+    "correctAnswer": "Sol"
+  },
+  {
+    "id": "CUR-023",
+    "examStageType": "easy",
+    "question": "What is the official currency of Sierra Leone?",
+    "options": ["Leone", "Cedi", "Franc", "Shilling"],
+    "correctAnswer": "Leone"
+  },
+  {
+    "id": "CUR-024",
+    "examStageType": "easy",
+    "question": "What is the official currency of Burundi?",
+    "options": ["Franc", "Kwacha", "Dollar", "Dinar"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-025",
+    "examStageType": "easy",
+    "question": "What is the official currency of the United Kingdom?",
+    "options": ["Euro", "Pound Sterling", "Dollar", "Franc"],
+    "correctAnswer": "Pound Sterling"
+  },
+  {
+    "id": "CUR-026",
+    "examStageType": "easy",
+    "question": "What is the official currency of Brazil?",
+    "options": ["Peso", "Real", "Dollar", "Sol"],
+    "correctAnswer": "Real"
+  },
+  {
+    "id": "CUR-027",
+    "examStageType": "easy",
+    "question": "What is the official currency of Argentina?",
+    "options": ["Peso", "Real", "Dollar", "Bolivar"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-028",
+    "examStageType": "easy",
+    "question": "What is the official currency of Mexico?",
+    "options": ["Dollar", "Peso", "Quetzal", "Colon"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-029",
+    "examStageType": "easy",
+    "question": "What is the official currency of Grenada?",
+    "options": ["Dollar", "Peso", "Euro", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-030",
+    "examStageType": "easy",
+    "question": "What is the official currency of France?",
+    "options": ["Franc", "Euro", "Pound", "Lira"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-031",
+    "examStageType": "easy",
+    "question": "What is the official currency of Germany?",
+    "options": ["Euro", "Pound", "Franc", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-032",
+    "examStageType": "easy",
+    "question": "What is the official currency of Saint Lucia?",
+    "options": ["Dollar", "Peso", "Euro", "Franc"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-033",
+    "examStageType": "easy",
+    "question": "What is the official currency of Guyana?",
+    "options": ["Peso", "Dollar", "Real", "Euro"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-034",
+    "examStageType": "easy",
+    "question": "What is the official currency of Suriname?",
+    "options": ["Dollar", "Peso", "Rupee", "Franc"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-035",
+    "examStageType": "easy",
+    "question": "What is the official currency of Algeria?",
+    "options": ["Dirham", "Dinar", "Riyal", "Pound"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-036",
+    "examStageType": "easy",
+    "question": "What is the official currency of the Netherlands?",
+    "options": ["Guilder", "Euro", "Franc", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-037",
+    "examStageType": "easy",
+    "question": "What is the official currency of Djibouti?",
+    "options": ["Franc", "Dinar", "Birr", "Shilling"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-038",
+    "examStageType": "easy",
+    "question": "What is the official currency of Sudan?",
+    "options": ["Dinar", "Pound", "Riyal", "Franc"],
+    "correctAnswer": "Pound"
+  },
+  {
+    "id": "CUR-039",
+    "examStageType": "easy",
+    "question": "What is the official currency of Sweden?",
+    "options": ["Euro", "Krone", "Franc", "Pound"],
+    "correctAnswer": "Krone"
+  },
+  {
+    "id": "CUR-040",
+    "examStageType": "easy",
+    "question": "What is the official currency of South Sudan?",
+    "options": ["Shilling", "Pound", "Birr", "Dollar"],
+    "correctAnswer": "Pound"
+  },
+  {
+    "id": "CUR-041",
+    "examStageType": "easy",
+    "question": "What is the official currency of Denmark?",
+    "options": ["Krone", "Euro", "Franc", "Mark"],
+    "correctAnswer": "Krone"
+  },
+  {
+    "id": "CUR-042",
+    "examStageType": "easy",
+    "question": "What is the official currency of Finland?",
+    "options": ["Markka", "Krone", "Euro", "Pound"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-043",
+    "examStageType": "easy",
+    "question": "What is the official currency of Ireland?",
+    "options": ["Pound", "Dollar", "Euro", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-044",
+    "examStageType": "easy",
+    "question": "What is the official currency of Portugal?",
+    "options": ["Euro", "Escudo", "Franc", "Peso"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-045",
+    "examStageType": "easy",
+    "question": "What is the official currency of Greece?",
+    "options": ["Drachma", "Euro", "Pound", "Lira"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-046",
+    "examStageType": "easy",
+    "question": "What is the official currency of Austria?",
+    "options": ["Euro", "Franc", "Krone", "Mark"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-047",
+    "examStageType": "easy",
+    "question": "What is the official currency of Poland?",
+    "options": ["Euro", "Zloty", "Koruna", "Forint"],
+    "correctAnswer": "Zloty"
+  },
+  {
+    "id": "CUR-048",
+    "examStageType": "easy",
+    "question": "What is the official currency of the Czech Republic?",
+    "options": ["Euro", "Forint", "Koruna", "Zloty"],
+    "correctAnswer": "Koruna"
+  },
+  {
+    "id": "CUR-049",
+    "examStageType": "easy",
+    "question": "What is the official currency of Hungary?",
+    "options": ["Forint", "Euro", "Koruna", "Zloty"],
+    "correctAnswer": "Forint"
+  },
+  {
+    "id": "CUR-050",
+    "examStageType": "easy",
+    "question": "What is the official currency of Romania?",
+    "options": ["Leu", "Euro", "Forint", "Dinar"],
+    "correctAnswer": "Leu"
+  },
+  {
+    "id": "CUR-051",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bulgaria?",
+    "options": ["Euro", "Lev", "Leu", "Dinar"],
+    "correctAnswer": "Lev"
+  },
+  {
+    "id": "CUR-052",
+    "examStageType": "easy",
+    "question": "What is the official currency of Croatia?",
+    "options": ["Kuna", "Euro", "Dinar", "Lev"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-053",
+    "examStageType": "easy",
+    "question": "What is the official currency of Serbia?",
+    "options": ["Euro", "Dinar", "Lev", "Forint"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-054",
+    "examStageType": "easy",
+    "question": "What is the official currency of Slovakia?",
+    "options": ["Koruna", "Euro", "Zloty", "Forint"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-055",
+    "examStageType": "easy",
+    "question": "What is the official currency of Slovenia?",
+    "options": ["Euro", "Dinar", "Kuna", "Lev"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-056",
+    "examStageType": "easy",
+    "question": "What is the official currency of Ukraine?",
+    "options": ["Ruble", "Euro", "Hryvnia", "Leu"],
+    "correctAnswer": "Hryvnia"
+  },
+  {
+    "id": "CUR-057",
+    "examStageType": "easy",
+    "question": "What is the official currency of Belarus?",
+    "options": ["Euro", "Ruble", "Hryvnia", "Zloty"],
+    "correctAnswer": "Ruble"
+  },
+  {
+    "id": "CUR-058",
+    "examStageType": "easy",
+    "question": "What is the official currency of Latvia?",
+    "options": ["Lats", "Euro", "Krone", "Ruble"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-059",
+    "examStageType": "easy",
+    "question": "What is the official currency of Lithuania?",
+    "options": ["Litas", "Euro", "Krone", "Ruble"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-060",
+    "examStageType": "easy",
+    "question": "What is the official currency of Estonia?",
+    "options": ["Krone", "Euro", "Ruble", "Lats"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-061",
+    "examStageType": "easy",
+    "question": "What is the official currency of Norway?",
+    "options": ["Euro", "Krone", "Pound", "Franc"],
+    "correctAnswer": "Krone"
+  },
+  {
+    "id": "CUR-062",
+    "examStageType": "easy",
+    "question": "What is the official currency of Somalia?",
+    "options": ["Shilling", "Dinar", "Rupee", "Dollar"],
+    "correctAnswer": "Shilling"
+  },
+  {
+    "id": "CUR-063",
+    "examStageType": "easy",
+    "question": "What is the official currency of Iceland?",
+    "options": ["Euro", "Krona", "Krone", "Ruble"],
+    "correctAnswer": "Krona"
+  },
+  {
+    "id": "CUR-064",
+    "examStageType": "easy",
+    "question": "What is the official currency of Switzerland?",
+    "options": ["Euro", "Franc", "Pound", "Krone"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-065",
+    "examStageType": "easy",
+    "question": "What is the official currency of Belgium?",
+    "options": ["Pound", "Franc", "Euro", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-066",
+    "examStageType": "easy",
+    "question": "What is the official currency of Venezuela?",
+    "options": ["Peso", "Bolivar", "Euro", "Dollar"],
+    "correctAnswer": "Bolivar"
+  },
+  {
+    "id": "CUR-067",
+    "examStageType": "easy",
+    "question": "What is the official currency of Luxembourg?",
+    "options": ["Dollar", "Euro", "Franc", "Pound"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-068",
+    "examStageType": "easy",
+    "question": "What is the official currency of Malta?",
+    "options": ["Euro", "Lira", "Franc", "Dinar"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-069",
+    "examStageType": "easy",
+    "question": "What is the official currency of Cyprus?",
+    "options": ["Euro", "Pound", "Lira", "Ruble"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-070",
+    "examStageType": "easy",
+    "question": "What is the official currency of Albania?",
+    "options": ["Euro", "Lek", "Dinar", "Franc"],
+    "correctAnswer": "Lek"
+  },
+  {
+    "id": "CUR-071",
+    "examStageType": "easy",
+    "question": "What is the official currency of North Macedonia?",
+    "options": ["Dinar", "Euro", "Krone", "Leu"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-072",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bosnia and Herzegovina?",
+    "options": ["Convertible Mark", "Euro", "Dinar", "Franc"],
+    "correctAnswer": "Convertible Mark"
+  },
+  {
+    "id": "CUR-073",
+    "examStageType": "easy",
+    "question": "What is the official currency of Montenegro?",
+    "options": ["Euro", "Dinar", "Franc", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-074",
+    "examStageType": "easy",
+    "question": "What is the official currency of Moldova?",
+    "options": ["Leu", "Euro", "Dinar", "Franc"],
+    "correctAnswer": "Leu"
+  },
+  {
+    "id": "CUR-075",
+    "examStageType": "easy",
+    "question": "What is the official currency of Andorra?",
+    "options": ["Peseta", "Euro", "Franc", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-076",
+    "examStageType": "easy",
+    "question": "What is the official currency of Monaco?",
+    "options": ["Euro", "Franc", "Lira", "Pound"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-077",
+    "examStageType": "easy",
+    "question": "What is the official currency of San Marino?",
+    "options": ["Euro", "Lira", "Franc", "Peso"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-078",
+    "examStageType": "easy",
+    "question": "What is the official currency of Liechtenstein?",
+    "options": ["Franc", "Euro", "Pound", "Krone"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-079",
+    "examStageType": "easy",
+    "question": "What is the official currency of Turkey?",
+    "options": ["Dollar", "Lira", "Euro", "Franc"],
+    "correctAnswer": "Lira"
+  },
+  {
+    "id": "CUR-080",
+    "examStageType": "easy",
+    "question": "What is the official currency of Kosovo?",
+    "options": ["Euro", "Dinar", "Franc", "Krone"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-081",
+    "examStageType": "easy",
+    "question": "What is the official currency of Egypt?",
+    "options": ["Shilling", "Pound", "Dollar", "Euro"],
+    "correctAnswer": "Pound"
+  },
+  {
+    "id": "CUR-082",
+    "examStageType": "easy",
+    "question": "What is the official currency of Nigeria?",
+    "options": ["Naira", "Shilling", "Pound", "Dollar"],
+    "correctAnswer": "Naira"
+  },
+  {
+    "id": "CUR-083",
+    "examStageType": "easy",
+    "question": "What is the official currency of South Africa?",
+    "options": ["Rand", "Shilling", "Pound", "Dollar"],
+    "correctAnswer": "Rand"
+  },
+  {
+    "id": "CUR-084",
+    "examStageType": "easy",
+    "question": "What is the official currency of Kenya?",
+    "options": ["Shilling", "Rupee", "Dollar", "Franc"],
+    "correctAnswer": "Shilling"
+  },
+  {
+    "id": "CUR-085",
+    "examStageType": "easy",
+    "question": "What is the official currency of Ethiopia?",
+    "options": ["Birr", "Shilling", "Pound", "Dollar"],
+    "correctAnswer": "Birr"
+  },
+  {
+    "id": "CUR-086",
+    "examStageType": "easy",
+    "question": "What is the official currency of Ghana?",
+    "options": ["Cedi", "Shilling", "Dollar", "Franc"],
+    "correctAnswer": "Cedi"
+  },
+  {
+    "id": "CUR-087",
+    "examStageType": "easy",
+    "question": "What is the official currency of Morocco?",
+    "options": ["Dirham", "Dinar", "Euro", "Pound"],
+    "correctAnswer": "Dirham"
+  },
+  {
+    "id": "CUR-088",
+    "examStageType": "easy",
+    "question": "What is the official currency of Burkina Faso?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Pound"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-089",
+    "examStageType": "easy",
+    "question": "What is the official currency of Tunisia?",
+    "options": ["Dinar", "Euro", "Franc", "Pound"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-090",
+    "examStageType": "easy",
+    "question": "What is the official currency of Libya?",
+    "options": ["Dinar", "Shilling", "Pound", "Dollar"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-091",
+    "examStageType": "easy",
+    "question": "What is the official currency of Uganda?",
+    "options": ["Shilling", "Dollar", "Franc", "Rupee"],
+    "correctAnswer": "Shilling"
+  },
+  {
+    "id": "CUR-092",
+    "examStageType": "easy",
+    "question": "What is the official currency of Tanzania?",
+    "options": ["Shilling", "Dollar", "Franc", "Pound"],
+    "correctAnswer": "Shilling"
+  },
+  {
+    "id": "CUR-093",
+    "examStageType": "easy",
+    "question": "What is the official currency of Rwanda?",
+    "options": ["Franc", "Shilling", "Dollar", "Euro"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-094",
+    "examStageType": "easy",
+    "question": "What is the official currency of Senegal?",
+    "options": ["CFA Franc", "Dollar", "Shilling", "Euro"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-095",
+    "examStageType": "easy",
+    "question": "What is the official currency of Angola?",
+    "options": ["Kwanza", "Dollar", "Franc", "Euro"],
+    "correctAnswer": "Kwanza"
+  },
+  {
+    "id": "CUR-096",
+    "examStageType": "easy",
+    "question": "What is the official currency of Zimbabwe?",
+    "options": ["Dollar", "Rand", "Shilling", "Franc"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-097",
+    "examStageType": "easy",
+    "question": "What is the official currency of Zambia?",
+    "options": ["Kwacha", "Dollar", "Shilling", "Franc"],
+    "correctAnswer": "Kwacha"
+  },
+  {
+    "id": "CUR-098",
+    "examStageType": "easy",
+    "question": "What is the official currency of Mozambique?",
+    "options": ["Metical", "Dollar", "Franc", "Kwacha"],
+    "correctAnswer": "Metical"
+  },
+  {
+    "id": "CUR-099",
+    "examStageType": "easy",
+    "question": "What is the official currency of Namibia?",
+    "options": ["Dollar", "Rand", "Shilling", "Franc"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-100",
+    "examStageType": "easy",
+    "question": "What is the official currency of Botswana?",
+    "options": ["Pula", "Dollar", "Rand", "Shilling"],
+    "correctAnswer": "Pula"
+  },
+  {
+    "id": "CUR-101",
+    "examStageType": "easy",
+    "question": "What is the official currency of Madagascar?",
+    "options": ["Ariary", "Franc", "Dollar", "Shilling"],
+    "correctAnswer": "Ariary"
+  },
+  {
+    "id": "CUR-102",
+    "examStageType": "easy",
+    "question": "What is the official currency of Mauritius?",
+    "options": ["Rupee", "Dollar", "Franc", "Shilling"],
+    "correctAnswer": "Rupee"
+  },
+  {
+    "id": "CUR-103",
+    "examStageType": "easy",
+    "question": "What is the official currency of Seychelles?",
+    "options": ["Rupee", "Dollar", "Franc", "Shilling"],
+    "correctAnswer": "Rupee"
+  },
+  {
+    "id": "CUR-104",
+    "examStageType": "easy",
+    "question": "What is the official currency of Comoros?",
+    "options": ["Franc", "Dollar", "Shilling", "Euro"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-105",
+    "examStageType": "easy",
+    "question": "What is the official currency of São Tomé and Príncipe?",
+    "options": ["Dobra", "Dollar", "Franc", "Euro"],
+    "correctAnswer": "Dobra"
+  },
+  {
+    "id": "CUR-106",
+    "examStageType": "easy",
+    "question": "What is the official currency of Republic of the Congo?",
+    "options": ["CFA Franc", "Dollar", "Shilling", "Euro"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-107",
+    "examStageType": "easy",
+    "question": "What is the official currency of Equatorial Guinea?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Shilling"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-108",
+    "examStageType": "easy",
+    "question": "What is the official currency of Cape Verde?",
+    "options": ["Escudo", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Escudo"
+  },
+  {
+    "id": "CUR-109",
+    "examStageType": "easy",
+    "question": "What is the official currency of Armenia?",
+    "options": ["Dram", "Dollar", "Franc", "Euro"],
+    "correctAnswer": "Dram"
+  },
+  {
+    "id": "CUR-110",
+    "examStageType": "easy",
+    "question": "What is the official currency of Belize?",
+    "options": ["Dollar", "Peso", "Franc", "Euro"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-111",
+    "examStageType": "easy",
+    "question": "What is the official currency of Afghanistan?",
+    "options": ["Afghani", "Dollar", "Rupee", "Franc"],
+    "correctAnswer": "Afghani"
+  },
+  {
+    "id": "CUR-112",
+    "examStageType": "easy",
+    "question": "What is the official currency of Iran?",
+    "options": ["Rial", "Dinar", "Dollar", "Franc"],
+    "correctAnswer": "Rial"
+  },
+  {
+    "id": "CUR-113",
+    "examStageType": "easy",
+    "question": "What is the official currency of Iraq?",
+    "options": ["Dinar", "Dollar", "Rial", "Franc"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-114",
+    "examStageType": "easy",
+    "question": "What is the official currency of Saudi Arabia?",
+    "options": ["Riyal", "Dollar", "Dinar", "Franc"],
+    "correctAnswer": "Riyal"
+  },
+  {
+    "id": "CUR-115",
+    "examStageType": "easy",
+    "question": "What is the official currency of United Arab Emirates?",
+    "options": ["Dirham", "Dollar", "Riyal", "Franc"],
+    "correctAnswer": "Dirham"
+  },
+  {
+    "id": "CUR-116",
+    "examStageType": "easy",
+    "question": "What is the official currency of Qatar?",
+    "options": ["Riyal", "Dollar", "Dirham", "Franc"],
+    "correctAnswer": "Riyal"
+  },
+  {
+    "id": "CUR-117",
+    "examStageType": "easy",
+    "question": "What is the official currency of Oman?",
+    "options": ["Rial", "Dollar", "Dinar", "Franc"],
+    "correctAnswer": "Rial"
+  },
+  {
+    "id": "CUR-118",
+    "examStageType": "easy",
+    "question": "What is the official currency of Yemen?",
+    "options": ["Rial", "Dollar", "Dinar", "Franc"],
+    "correctAnswer": "Rial"
+  },
+  {
+    "id": "CUR-119",
+    "examStageType": "easy",
+    "question": "What is the official currency of Jordan?",
+    "options": ["Dinar", "Rial", "Dollar", "Franc"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-120",
+    "examStageType": "easy",
+    "question": "What is the official currency of Lebanon?",
+    "options": ["Pound", "Dollar", "Franc", "Dinar"],
+    "correctAnswer": "Pound"
+  },
+  {
+    "id": "CUR-121",
+    "examStageType": "easy",
+    "question": "What is the official currency of Syria?",
+    "options": ["Pound", "Dollar", "Rial", "Franc"],
+    "correctAnswer": "Pound"
+  },
+  {
+    "id": "CUR-122",
+    "examStageType": "easy",
+    "question": "What is the official currency of Israel?",
+    "options": ["Shekel", "Dollar", "Euro", "Pound"],
+    "correctAnswer": "Shekel"
+  },
+  {
+    "id": "CUR-123",
+    "examStageType": "easy",
+    "question": "What is the official currency of Uruguay?",
+    "options": ["Peso", "Dollar", "Real", "Franc"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-124",
+    "examStageType": "easy",
+    "question": "What is the official currency of Kuwait?",
+    "options": ["Dinar", "Riyal", "Dollar", "Franc"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-125",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bahrain?",
+    "options": ["Dinar", "Riyal", "Dollar", "Franc"],
+    "correctAnswer": "Dinar"
+  },
+  {
+    "id": "CUR-126",
+    "examStageType": "easy",
+    "question": "What is the official currency of Malawi?",
+    "options": ["Kwacha", "Shilling", "Dollar", "Franc"],
+    "correctAnswer": "Kwacha"
+  },
+  {
+    "id": "CUR-127",
+    "examStageType": "easy",
+    "question": "What is the official currency of Barbados?",
+    "options": ["Dollar", "Peso", "Franc", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-128",
+    "examStageType": "easy",
+    "question": "What is the official currency of Cameroon?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Shilling"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-129",
+    "examStageType": "easy",
+    "question": "What is the official currency of Italy?",
+    "options": ["Euro", "Lira", "Franc", "Pound"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-130",
+    "examStageType": "easy",
+    "question": "What is the official currency of Saint Kitts and Nevis?",
+    "options": ["Dollar", "East Caribbean Dollar", "Euro", "Pound"],
+    "correctAnswer": "East Caribbean Dollar"
+  },
+  {
+    "id": "CUR-131",
+    "examStageType": "easy",
+    "question": "What is the official currency of Saint Vincent and the Grenadines?",
+    "options": ["Dollar", "East Caribbean Dollar", "Euro", "Pound"],
+    "correctAnswer": "East Caribbean Dollar"
+  },
+  {
+    "id": "CUR-132",
+    "examStageType": "easy",
+    "question": "What is the official currency of Tajikistan?",
+    "options": ["Somoni", "Tugrik", "Dollar", "Franc"],
+    "correctAnswer": "Somoni"
+  },
+  {
+    "id": "CUR-133",
+    "examStageType": "easy",
+    "question": "What is the official currency of Trinidad and Tobago?",
+    "options": ["Dollar", "Tobago Dollar", "Euro", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-134",
+    "examStageType": "easy",
+    "question": "What is the official currency of Ivory Coast?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Shilling"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-135",
+    "examStageType": "easy",
+    "question": "What is the official currency of North Korea?",
+    "options": ["Won", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Won"
+  },
+  {
+    "id": "CUR-136",
+    "examStageType": "easy",
+    "question": "What is the official currency of South Korea?",
+    "options": ["Won", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Won"
+  },
+  {
+    "id": "CUR-137",
+    "examStageType": "easy",
+    "question": "What is the official currency of Dominica?",
+    "options": ["East Caribbean Dollar", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "East Caribbean Dollar"
+  },
+  {
+    "id": "CUR-138",
+    "examStageType": "easy",
+    "question": "What is the official currency of Togo?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Shilling"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-139",
+    "examStageType": "easy",
+    "question": "What is the official currency of Cambodia?",
+    "options": ["Riel", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Riel"
+  },
+  {
+    "id": "CUR-140",
+    "examStageType": "easy",
+    "question": "What is the official currency of Georgia?",
+    "options": ["Lari", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Lari"
+  },
+  {
+    "id": "CUR-141",
+    "examStageType": "easy",
+    "question": "What is the official currency of Thailand?",
+    "options": ["Baht", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Baht"
+  },
+  {
+    "id": "CUR-142",
+    "examStageType": "easy",
+    "question": "What is the official currency of Myanmar?",
+    "options": ["Kyat", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Kyat"
+  },
+  {
+    "id": "CUR-143",
+    "examStageType": "easy",
+    "question": "What is the official currency of Malaysia?",
+    "options": ["Ringgit", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Ringgit"
+  },
+  {
+    "id": "CUR-144",
+    "examStageType": "easy",
+    "question": "What is the official currency of Singapore?",
+    "options": ["Dollar", "Euro", "Franc", "Ringgit"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-145",
+    "examStageType": "easy",
+    "question": "What is the official currency of Indonesia?",
+    "options": ["Rupiah", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Rupiah"
+  },
+  {
+    "id": "CUR-146",
+    "examStageType": "easy",
+    "question": "What is the official currency of Chile?",
+    "options": ["Peso", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-147",
+    "examStageType": "easy",
+    "question": "What is the official currency of Gambia?",
+    "options": ["Dalasi", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Dalasi"
+  },
+  {
+    "id": "CUR-148",
+    "examStageType": "easy",
+    "question": "What is the official currency of Timor-Leste?",
+    "options": ["Dollar", "Euro", "Franc", "Rupiah"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-149",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bahamas?",
+    "options": ["Dollar", "Euro", "Franc", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-150",
+    "examStageType": "easy",
+    "question": "What is the official currency of Antigua and Barbuda?",
+    "options": ["East Caribbean Dollar", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "East Caribbean Dollar"
+  },
+  {
+    "id": "CUR-151",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bhutan?",
+    "options": ["Ngultrum", "Dollar", "Rupee", "Franc"],
+    "correctAnswer": "Ngultrum"
+  },
+  {
+    "id": "CUR-152",
+    "examStageType": "easy",
+    "question": "What is the official currency of Chad?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Rupee"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-153",
+    "examStageType": "easy",
+    "question": "What is the official currency of Maldives?",
+    "options": ["Rufiyaa", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Rufiyaa"
+  },
+  {
+    "id": "CUR-154",
+    "examStageType": "easy",
+    "question": "What is the official currency of Democratic Republic of the Congo?",
+    "options": ["Franc", "Dollar", "Euro", "Rupee"],
+    "correctAnswer": "Franc"
+  },
+  {
+    "id": "CUR-155",
+    "examStageType": "easy",
+    "question": "What is the official currency of Bolivia?",
+    "options": ["Boliviano", "Dollar", "Peso", "Franc"],
+    "correctAnswer": "Boliviano"
+  },
+  {
+    "id": "CUR-156",
+    "examStageType": "easy",
+    "question": "What is the official currency of Benin?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-157",
+    "examStageType": "easy",
+    "question": "What is the official currency of Kazakhstan?",
+    "options": ["Tenge", "Dollar", "Ruble", "Franc"],
+    "correctAnswer": "Tenge"
+  },
+  {
+    "id": "CUR-158",
+    "examStageType": "easy",
+    "question": "What is the official currency of Kyrgyzstan?",
+    "options": ["Som", "Dollar", "Tenge", "Franc"],
+    "correctAnswer": "Som"
+  },
+  {
+    "id": "CUR-159",
+    "examStageType": "easy",
+    "question": "What is the official currency of Spain?",
+    "options": ["Euro", "Peseta", "Dollar", "Franc"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-160",
+    "examStageType": "easy",
+    "question": "What is the official currency of Uzbekistan?",
+    "options": ["Som", "Dollar", "Ruble", "Franc"],
+    "correctAnswer": "Som"
+  },
+  {
+    "id": "CUR-161",
+    "examStageType": "easy",
+    "question": "What is the official currency of Turkmenistan?",
+    "options": ["Manat", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Manat"
+  },
+  {
+    "id": "CUR-162",
+    "examStageType": "easy",
+    "question": "What is the official currency of Mongolia?",
+    "options": ["Tugrik", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Tugrik"
+  },
+  {
+    "id": "CUR-163",
+    "examStageType": "easy",
+    "question": "What is the official currency of China?",
+    "options": ["Renminbi", "Yuan", "Dollar", "Euro"],
+    "correctAnswer": "Renminbi"
+  },
+  {
+    "id": "CUR-164",
+    "examStageType": "easy",
+    "question": "What is the official currency of Eritrea?",
+    "options": ["Nakfa", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Nakfa"
+  },
+  {
+    "id": "CUR-165",
+    "examStageType": "easy",
+    "question": "What is the official currency of Mali?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-166",
+    "examStageType": "easy",
+    "question": "What is the official currency of Dominican Republic?",
+    "options": ["Peso", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-167",
+    "examStageType": "easy",
+    "question": "What is the official currency of Laos?",
+    "options": ["Kip", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Kip"
+  },
+  {
+    "id": "CUR-168",
+    "examStageType": "easy",
+    "question": "What is the official currency of Azerbaijan?",
+    "options": ["Manat", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Manat"
+  },
+  {
+    "id": "CUR-169",
+    "examStageType": "easy",
+    "question": "What is the official currency of Vietnam?",
+    "options": ["Dong", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Dong"
+  },
+  {
+    "id": "CUR-170",
+    "examStageType": "easy",
+    "question": "What is the official currency of Brunei?",
+    "options": ["Dollar", "Ringgit", "Euro", "Franc"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-171",
+    "examStageType": "easy",
+    "question": "What is the official currency of Philippines?",
+    "options": ["Peso", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-172",
+    "examStageType": "easy",
+    "question": "What is the official currency of Timor-Leste?",
+    "options": ["Dollar", "Euro", "Franc", "Rupiah"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-173",
+    "examStageType": "easy",
+    "question": "What is the official currency of Central African Republic?",
+    "options": ["CFA Franc", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "CFA Franc"
+  },
+  {
+    "id": "CUR-174",
+    "examStageType": "easy",
+    "question": "What is the official currency of Nicaragua?",
+    "options": ["Córdoba", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Córdoba"
+  },
+  {
+    "id": "CUR-175",
+    "examStageType": "easy",
+    "question": "What is the official currency of Papua New Guinea?",
+    "options": ["Kina", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Kina"
+  },
+  {
+    "id": "CUR-176",
+    "examStageType": "easy",
+    "question": "What is the official currency of Lesotho?",
+    "options": ["Loti", "Rand", "Dollar", "Franc"],
+    "correctAnswer": "Loti"
+  },
+  {
+    "id": "CUR-177",
+    "examStageType": "easy",
+    "question": "What is the official currency of Solomon Islands?",
+    "options": ["Dollar", "Euro", "Franc", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-178",
+    "examStageType": "easy",
+    "question": "What is the official currency of Guatemala?",
+    "options": ["Quetzal", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Quetzal"
+  },
+  {
+    "id": "CUR-179",
+    "examStageType": "easy",
+    "question": "What is the official currency of Samoa?",
+    "options": ["Tala", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Tala"
+  },
+  {
+    "id": "CUR-180",
+    "examStageType": "easy",
+    "question": "What is the official currency of Colombia?",
+    "options": ["Peso", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Peso"
+  },
+  {
+    "id": "CUR-181",
+    "examStageType": "easy",
+    "question": "What is the official currency of Micronesia?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-182",
+    "examStageType": "easy",
+    "question": "What is the official currency of Marshall Islands?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-183",
+    "examStageType": "easy",
+    "question": "What is the official currency of Palau?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-184",
+    "examStageType": "easy",
+    "question": "What is the official currency of Nauru?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Australian Dollar"
+  },
+  {
+    "id": "CUR-185",
+    "examStageType": "easy",
+    "question": "What is the official currency of Tuvalu?",
+    "options": ["Dollar", "Australian Dollar", "Euro", "Franc"],
+    "correctAnswer": "Australian Dollar"
+  },
+  {
+    "id": "CUR-186",
+    "examStageType": "easy",
+    "question": "What is the official currency of Kiribati?",
+    "options": ["Dollar", "Australian Dollar", "Euro", "Franc"],
+    "correctAnswer": "Australian Dollar"
+  },
+  {
+    "id": "CUR-187",
+    "examStageType": "easy",
+    "question": "What is the official currency of Tonga?",
+    "options": ["Paʻanga", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Paʻanga"
+  },
+  {
+    "id": "CUR-188",
+    "examStageType": "easy",
+    "question": "What is the official currency of Costa Rica?",
+    "options": ["Colon", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Colon"
+  },
+  {
+    "id": "CUR-189",
+    "examStageType": "easy",
+    "question": "What is the official currency of Vanuatu?",
+    "options": ["Vatu", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Vatu"
+  },
+  {
+    "id": "CUR-190",
+    "examStageType": "easy",
+    "question": "What is the official currency of Fiji?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-191",
+    "examStageType": "easy",
+    "question": "What is the official currency of New Zealand?",
+    "options": ["Dollar", "Euro", "Franc", "Pound"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-192",
+    "examStageType": "easy",
+    "question": "What is the official currency of Australia?",
+    "options": ["Dollar", "Euro", "Franc", "Pound"],
+    "correctAnswer": "Australian Dollar"
+  },
+  {
+    "id": "CUR-193",
+    "examStageType": "easy",
+    "question": "What is the official currency of United States?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Dollar"
+  },
+  {
+    "id": "CUR-194",
+    "examStageType": "easy",
+    "question": "What is the official currency of Canada?",
+    "options": ["Dollar", "Euro", "Franc", "Peso"],
+    "correctAnswer": "Canadian Dollar"
+  },
+  {
+    "id": "CUR-195",
+    "examStageType": "easy",
+    "question": "What is the official currency of Russia?",
+    "options": ["Ruble", "Dollar", "Euro", "Franc"],
+    "correctAnswer": "Ruble"
+  },
+  {
+    "id": "CUR-196",
+    "examStageType": "easy",
+    "question": "What is the official currency of Vatican City?",
+    "options": ["Euro", "Dollar", "Franc", "Lira"],
+    "correctAnswer": "Euro"
+  },
+  {
+    "id": "CUR-197",
+    "examStageType": "easy",
+    "question": "What is the official currency of Israel?",
+    "options": ["Shekel", "Dollar", "Euro", "Pound"],
+    "correctAnswer": "Shekel"
+  }
+]

@@ -1,30 +1,362 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "CE-001",
+    "question": "Which gas is primarily responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "CE-002",
+    "question": "What is the main cause of ocean acidification?",
+    "options": ["Excess carbon dioxide", "Oil spills", "Plastic pollution", "Overfishing"],
+    "correctAnswer": "Excess carbon dioxide"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "CE-003",
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": "Stratosphere"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "CE-004",
+    "question": "El Niño is associated with which climate phenomenon?",
+    "options": ["Sea surface warming", "Ice age", "Volcanic eruption", "Earthquake"],
+    "correctAnswer": "Sea surface warming"
+  },
+  {
+    "id": "CE-005",
+    "question": "Which renewable energy source relies on the Earth's heat?",
+    "options": ["Solar", "Wind", "Geothermal", "Hydroelectric"],
+    "correctAnswer": "Geothermal"
+  },
+  {
+    "id": "CE-006",
+    "question": "Deforestation contributes directly to an increase in which gas?",
+    "options": ["Carbon Dioxide", "Oxygen", "Methane", "Nitrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": "CE-007",
+    "question": "Which biome is characterized by permafrost and low biodiversity?",
+    "options": ["Tundra", "Desert", "Rainforest", "Savanna"],
+    "correctAnswer": "Tundra"
+  },
+  {
+    "id": "CE-008",
+    "question": "Which process releases water vapor into the atmosphere from plants?",
+    "options": ["Condensation", "Transpiration", "Precipitation", "Evaporation"],
+    "correctAnswer": "Transpiration"
+  },
+  {
+    "id": "CE-009",
+    "question": "What is the primary cause of global sea level rise?",
+    "options": ["Melting glaciers and thermal expansion", "Earthquakes", "Tsunamis", "Volcanic activity"],
+    "correctAnswer": "Melting glaciers and thermal expansion"
+  },
+  {
+    "id": "CE-010",
+    "question": "Which international agreement aims to limit global warming to 1.5°C?",
+    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Geneva Convention"],
+    "correctAnswer": "Paris Agreement"
+  },
+  {
+    "id": "CE-011",
+    "question": "Which phenomenon is described as a long-term change in Earth's average temperature?",
+    "options": ["Weather", "Climate Change", "Monsoon", "Tsunami"],
+    "correctAnswer": "Climate Change"
+  },
+  {
+    "id": "CE-012",
+    "question": "Which type of cloud is typically associated with thunderstorms?",
+    "options": ["Cumulonimbus", "Cirrus", "Stratus", "Altocumulus"],
+    "correctAnswer": "Cumulonimbus"
+  },
+  {
+    "id": "CE-013",
+    "question": "Which human activity contributes most to the rise of methane in the atmosphere?",
+    "options": ["Cattle farming", "Deforestation", "Coal mining", "Transportation"],
+    "correctAnswer": "Cattle farming"
+  },
+  {
+    "id": "CE-014",
+    "question": "Which gas is NOT considered a greenhouse gas?",
+    "options": ["Nitrous Oxide", "Carbon Dioxide", "Oxygen", "Methane"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "CE-015",
+    "question": "Which climate zone has hot, wet summers and mild, wet winters?",
+    "options": ["Mediterranean", "Tropical Rainforest", "Desert", "Tundra"],
+    "correctAnswer": "Mediterranean"
+  },
+  {
+    "id": "CE-016",
+    "question": "Which process removes carbon dioxide from the atmosphere?",
+    "options": ["Photosynthesis", "Respiration", "Combustion", "Deforestation"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "id": "CE-017",
+    "question": "Acid rain is primarily caused by which pollutants?",
+    "options": ["Sulfur dioxide and nitrogen oxides", "Carbon monoxide and ozone", "Methane and CO2", "Lead and mercury"],
+    "correctAnswer": "Sulfur dioxide and nitrogen oxides"
+  },
+  {
+    "id": "CE-018",
+    "question": "Which term describes species that are highly sensitive to climate change?",
+    "options": ["Indicator species", "Invasive species", "Endangered species", "Keystone species"],
+    "correctAnswer": "Indicator species"
+  },
+  {
+    "id": "CE-019",
+    "question": "Which renewable energy has the highest global electricity generation potential?",
+    "options": ["Solar", "Wind", "Hydropower", "Biomass"],
+    "correctAnswer": "Solar"
+  },
+  {
+    "id": "CE-020",
+    "question": "Which desert is the largest in the world by area?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "correctAnswer": "Sahara"
+  },
+  {
+    "id": "CE-021",
+    "question": "Which human-induced factor most accelerates soil erosion?",
+    "options": ["Overgrazing", "Planting trees", "Terracing", "Rainfall"],
+    "correctAnswer": "Overgrazing"
+  },
+  {
+    "id": "CE-022",
+    "question": "Which phenomenon occurs when urban areas experience higher temperatures than rural surroundings?",
+    "options": ["Urban Heat Island", "Global Warming", "Smog", "Deforestation"],
+    "correctAnswer": "Urban Heat Island"
+  },
+  {
+    "id": "CE-023",
+    "question": "Which ocean current warms Western Europe’s climate?",
+    "options": ["Gulf Stream", "California Current", "Benguela Current", "Kuroshio Current"],
+    "correctAnswer": "Gulf Stream"
+  },
+  {
+    "id": "CE-024",
+    "question": "Which gas is primarily responsible for ozone layer depletion?",
+    "options": ["CFCs", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "correctAnswer": "CFCs"
+  },
+  {
+    "id": "CE-025",
+    "question": "Which layer of ice is most vulnerable to melting due to global warming?",
+    "options": ["Glaciers", "Sea ice", "Icebergs", "Permafrost"],
+    "correctAnswer": "Glaciers"
+  },
+  {
+    "id": "CE-026",
+    "question": "Which forest type is most effective at absorbing carbon dioxide?",
+    "options": ["Tropical Rainforest", "Temperate Deciduous", "Boreal Forest", "Mangrove"],
+    "correctAnswer": "Tropical Rainforest"
+  },
+  {
+    "id": "CE-027",
+    "question": "Which of the following is a feedback mechanism that amplifies climate change?",
+    "options": ["Ice-albedo effect", "Photosynthesis", "Rainfall", "Evapotranspiration"],
+    "correctAnswer": "Ice-albedo effect"
+  },
+  {
+    "id": "CE-028",
+    "question": "Which pollutant is primarily responsible for smog formation in cities?",
+    "options": ["Nitrogen oxides", "Oxygen", "Carbon monoxide", "Sulfur dioxide"],
+    "correctAnswer": "Nitrogen oxides"
+  },
+  {
+    "id": "CE-029",
+    "question": "Which environmental protocol was designed to phase out substances that deplete the ozone layer?",
+    "options": ["Montreal Protocol", "Kyoto Protocol", "Paris Agreement", "Geneva Convention"],
+    "correctAnswer": "Montreal Protocol"
+  },
+  {
+    "id": "CE-030",
+    "question": "Which term describes the large-scale redistribution of species due to changing climate?",
+    "options": ["Range shift", "Migration", "Extinction", "Adaptation"],
+    "correctAnswer": "Range shift"
+  },
+  {
+    "id": "CE-031",
+    "question": "Which climate zone experiences the highest annual rainfall?",
+    "options": ["Tropical Rainforest", "Desert", "Tundra", "Savanna"],
+    "correctAnswer": "Tropical Rainforest"
+  },
+  {
+    "id": "CE-032",
+    "question": "Which atmospheric layer protects Earth from harmful ultraviolet radiation?",
+    "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": "Stratosphere"
+  },
+  {
+    "id": "CE-033",
+    "question": "What term describes the long-term pattern of temperature and precipitation in a region?",
+    "options": ["Climate", "Weather", "Season", "Ecosystem"],
+    "correctAnswer": "Climate"
+  },
+  {
+    "id": "CE-034",
+    "question": "Which ocean phenomenon can lead to heavy rainfall in South America and drought in Australia?",
+    "options": ["El Niño", "La Niña", "Monsoon", "Cyclone"],
+    "correctAnswer": "El Niño"
+  },
+  {
+    "id": "CE-035",
+    "question": "Which human activity is the largest contributor to anthropogenic climate change?",
+    "options": ["Burning fossil fuels", "Planting trees", "Rainwater harvesting", "Solar energy use"],
+    "correctAnswer": "Burning fossil fuels"
+  },
+  {
+    "id": "CE-036",
+    "question": "Which type of renewable energy is generated by the movement of water?",
+    "options": ["Hydropower", "Wind", "Solar", "Geothermal"],
+    "correctAnswer": "Hydropower"
+  },
+  {
+    "id": "CE-037",
+    "question": "Which greenhouse gas has the highest global warming potential per molecule?",
+    "options": ["Nitrous Oxide", "Carbon Dioxide", "Methane", "Oxygen"],
+    "correctAnswer": "Nitrous Oxide"
+  },
+  {
+    "id": "CE-038",
+    "question": "Which desert is located in northern China and southern Mongolia?",
+    "options": ["Gobi", "Sahara", "Kalahari", "Arabian"],
+    "correctAnswer": "Gobi"
+  },
+  {
+    "id": "CE-039",
+    "question": "Which environmental effect results from the release of chlorofluorocarbons (CFCs)?",
+    "options": ["Ozone depletion", "Global warming", "Acid rain", "Eutrophication"],
+    "correctAnswer": "Ozone depletion"
+  },
+  {
+    "id": "CE-040",
+    "question": "Which forest type is found in regions with cold climates and coniferous trees?",
+    "options": ["Boreal Forest", "Tropical Rainforest", "Deciduous Forest", "Mangrove"],
+    "correctAnswer": "Boreal Forest"
+  },
+  {
+    "id": "CE-041",
+    "question": "Which process converts atmospheric nitrogen into forms usable by plants?",
+    "options": ["Nitrogen fixation", "Photosynthesis", "Evaporation", "Respiration"],
+    "correctAnswer": "Nitrogen fixation"
+  },
+  {
+    "id": "CE-042",
+    "question": "Which type of extreme weather event is measured using the Saffir-Simpson scale?",
+    "options": ["Hurricane", "Tornado", "Heatwave", "Flood"],
+    "correctAnswer": "Hurricane"
+  },
+  {
+    "id": "CE-043",
+    "question": "Which phenomenon causes urban areas to be warmer than surrounding rural areas?",
+    "options": ["Urban Heat Island", "El Niño", "Global Warming", "Deforestation"],
+    "correctAnswer": "Urban Heat Island"
+  },
+  {
+    "id": "CE-044",
+    "question": "Which type of climate is characterized by hot, dry summers and mild, wet winters?",
+    "options": ["Mediterranean", "Tropical Rainforest", "Savanna", "Tundra"],
+    "correctAnswer": "Mediterranean"
+  },
+  {
+    "id": "CE-045",
+    "question": "Which natural process contributes most to the release of carbon dioxide into the atmosphere?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Evaporation"],
+    "correctAnswer": "Respiration"
+  },
+  {
+    "id": "CE-046",
+    "question": "Which soil degradation process occurs due to wind erosion in arid regions?",
+    "options": ["Deflation", "Salinization", "Leaching", "Compaction"],
+    "correctAnswer": "Deflation"
+  },
+  {
+    "id": "CE-047",
+    "question": "Which ocean current warms the eastern coast of North America and northwestern Europe?",
+    "options": ["Gulf Stream", "California Current", "Benguela Current", "Labrador Current"],
+    "correctAnswer": "Gulf Stream"
+  },
+  {
+    "id": "CE-048",
+    "question": "Which phenomenon occurs when melting ice reduces the reflectivity of Earth's surface?",
+    "options": ["Ice-albedo effect", "Deforestation", "Monsoon", "Ocean acidification"],
+    "correctAnswer": "Ice-albedo effect"
+  },
+  {
+    "id": "CE-049",
+    "question": "Which type of pollution is caused by excessive nutrients in water bodies leading to algal blooms?",
+    "options": ["Eutrophication", "Smog", "Acid rain", "Ozone depletion"],
+    "correctAnswer": "Eutrophication"
+  },
+  {
+    "id": "CE-050",
+    "question": "Which gas contributes both to ozone depletion and is a potent greenhouse gas?",
+    "options": ["CFCs", "CO2", "Methane", "Nitrogen"],
+    "correctAnswer": "CFCs"
+  },
+  {
+    "id": "CE-051",
+    "question": "Which layer of permafrost contains permanently frozen soil and ice?",
+    "options": ["Active layer", "Cryosphere", "Troposphere", "Lithosphere"],
+    "correctAnswer": "Cryosphere"
+  },
+  {
+    "id": "CE-052",
+    "question": "Which climate-related term describes the movement of species toward higher altitudes or latitudes?",
+    "options": ["Range shift", "Migration", "Extinction", "Adaptation"],
+    "correctAnswer": "Range shift"
+  },
+  {
+    "id": "CE-053",
+    "question": "Which human practice increases the albedo effect locally by replacing vegetation with reflective surfaces?",
+    "options": ["Urbanization", "Deforestation", "Afforestation", "Overgrazing"],
+    "correctAnswer": "Urbanization"
+  },
+  {
+    "id": "CE-054",
+    "question": "Which international treaty regulates emissions of ozone-depleting substances?",
+    "options": ["Montreal Protocol", "Kyoto Protocol", "Paris Agreement", "Rio Declaration"],
+    "correctAnswer": "Montreal Protocol"
+  },
+  {
+    "id": "CE-055",
+    "question": "Which extreme climate event is characterized by prolonged periods of unusually high temperatures?",
+    "options": ["Heatwave", "Cyclone", "Flood", "Tornado"],
+    "correctAnswer": "Heatwave"
+  },
+  {
+    "id": "CE-056",
+    "question": "Which process in oceans is reduced when surface waters become warmer and less oxygenated?",
+    "options": ["Upwelling", "Evaporation", "Condensation", "Precipitation"],
+    "correctAnswer": "Upwelling"
+  },
+  {
+    "id": "CE-057",
+    "question": "Which renewable energy source can be generated using tidal movements?",
+    "options": ["Tidal energy", "Solar energy", "Geothermal energy", "Wind energy"],
+    "correctAnswer": "Tidal energy"
+  },
+  {
+    "id": "CE-058",
+    "question": "Which layer of Earth's atmosphere is closest to the surface and where weather occurs?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": "Troposphere"
+  },
+  {
+    "id": "CE-059",
+    "question": "Which factor amplifies warming in polar regions due to ice melting and reduced reflectivity?",
+    "options": ["Positive feedback", "Negative feedback", "Neutral feedback", "Biogeochemical feedback"],
+    "correctAnswer": "Positive feedback"
+  },
+  {
+    "id": "CE-060",
+    "question": "Which gas, though less abundant, has a global warming potential over 20 times higher than CO2 over a century?",
+    "options": ["Methane", "Oxygen", "Nitrogen", "Argon"],
+    "correctAnswer": "Methane"
   }
 ]
