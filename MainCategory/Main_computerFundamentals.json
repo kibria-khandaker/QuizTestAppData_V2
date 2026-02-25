@@ -1,42 +1,42 @@
 [
   {
-    "key": "cricket",
-    "title": "Cricket",
+    "key": "ComputerAbbreviations",
+    "title": "Computer Abbreviations",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/ComputerAbbreviations.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
   {
-    "key": "football",
-    "title": "Football",
+    "key": "CyberSecurityBasics",
+    "title": "Cyber Security Basics",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/CyberSecurityBasics.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
-    "key": "worldCups",
-    "title": "WorldCups",
+    "key": "HardwareSoftware",
+    "title": "HardwareSoftware",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/HardwareSoftware.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
-    "key": "cricket",
-    "title": "Cricket",
+    "key": "InternetNetworking",
+    "title": "Internet Networking",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/InternetNetworking.json",
     "perExam": 10,
     "finalExamQuestions": 25
   },
   {
-    "key": "football",
-    "title": "Football",
+    "key": "MS_Office",
+    "title": "MS Office",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/MS_Office.json",
     "perExam": 15,
     "finalExamQuestions": 30
   },
   {
-    "key": "worldCups",
-    "title": "WorldCups",
+    "key": "OperatingSystems",
+    "title": "Operating Systems",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/ComputerFundamentals/OperatingSystems.json",
     "perExam": 15,
     "finalExamQuestions": 30
