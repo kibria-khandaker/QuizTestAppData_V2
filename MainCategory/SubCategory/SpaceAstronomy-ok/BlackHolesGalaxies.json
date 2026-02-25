@@ -1,0 +1,992 @@
+[
+  {
+    "id": "BH-001",
+    "question": "What is a black hole?",
+    "options": [
+      "A region of space where gravity is so strong that nothing can escape",
+      "A dead star emitting cold light",
+      "A large asteroid cluster",
+      "A type of nebula"
+    ],
+    "correctAnswer": "A region of space where gravity is so strong that nothing can escape"
+  },
+  {
+    "id": "BH-002",
+    "question": "What is the boundary around a black hole beyond which nothing can escape called?",
+    "options": [
+      "Photon Sphere",
+      "Event Horizon",
+      "Accretion Disk",
+      "Singularity Shell"
+    ],
+    "correctAnswer": "Event Horizon"
+  },
+  {
+    "id": "BH-003",
+    "question": "Which galaxy contains our Solar System?",
+    "options": [
+      "Andromeda Galaxy",
+      "Triangulum Galaxy",
+      "Milky Way Galaxy",
+      "Whirlpool Galaxy"
+    ],
+    "correctAnswer": "Milky Way Galaxy"
+  },
+  {
+    "id": "BH-004",
+    "question": "What lies at the center of most large galaxies?",
+    "options": [
+      "A neutron star",
+      "A supermassive black hole",
+      "A giant nebula",
+      "A white dwarf"
+    ],
+    "correctAnswer": "A supermassive black hole"
+  },
+  {
+    "id": "BH-005",
+    "question": "What is the name of the supermassive black hole at the center of the Milky Way?",
+    "options": [
+      "Cygnus X-1",
+      "Sagittarius A*",
+      "V404 Cygni",
+      "Betelgeuse Core"
+    ],
+    "correctAnswer": "Sagittarius A*"
+  },
+  {
+    "id": "BH-006",
+    "question": "Which type of galaxy has well-defined spiral arms?",
+    "options": [
+      "Elliptical Galaxy",
+      "Irregular Galaxy",
+      "Spiral Galaxy",
+      "Dwarf Galaxy"
+    ],
+    "correctAnswer": "Spiral Galaxy"
+  },
+  {
+    "id": "BH-007",
+    "question": "What forms an accretion disk around a black hole?",
+    "options": [
+      "Dark energy",
+      "Orbiting planets",
+      "Gas and dust spiraling inward",
+      "Frozen comets"
+    ],
+    "correctAnswer": "Gas and dust spiraling inward"
+  },
+  {
+    "id": "BH-008",
+    "question": "Which galaxy is on a collision course with the Milky Way?",
+    "options": [
+      "Sombrero Galaxy",
+      "Whirlpool Galaxy",
+      "Andromeda Galaxy",
+      "Cartwheel Galaxy"
+    ],
+    "correctAnswer": "Andromeda Galaxy"
+  },
+  {
+    "id": "BH-009",
+    "question": "What is the singularity inside a black hole?",
+    "options": [
+      "A region of infinite density",
+      "A bright ring of light",
+      "A frozen star core",
+      "A cloud of antimatter"
+    ],
+    "correctAnswer": "A region of infinite density"
+  },
+  {
+    "id": "BH-010",
+    "question": "Which scientist proposed that black holes can emit radiation?",
+    "options": [
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Edwin Hubble"
+    ],
+    "correctAnswer": "Stephen Hawking"
+  },
+  {
+    "id": "BH-011",
+    "question": "What is Hawking radiation?",
+    "options": [
+      "Radiation from supernova explosions",
+      "Light from neutron stars",
+      "Theoretical radiation emitted by black holes",
+      "Gamma rays from galaxies"
+    ],
+    "correctAnswer": "Theoretical radiation emitted by black holes"
+  },
+  {
+    "id": "BH-012",
+    "question": "Which galaxy type has a smooth, featureless appearance?",
+    "options": [
+      "Spiral Galaxy",
+      "Irregular Galaxy",
+      "Barred Spiral Galaxy",
+      "Elliptical Galaxy"
+    ],
+    "correctAnswer": "Elliptical Galaxy"
+  },
+  {
+    "id": "BH-013",
+    "question": "What primarily determines the size of a black hole’s event horizon?",
+    "options": [
+      "Its temperature",
+      "Its mass",
+      "Its color",
+      "Its distance from Earth"
+    ],
+    "correctAnswer": "Its mass"
+  },
+  {
+    "id": "BH-014",
+    "question": "What causes gravitational lensing near a black hole?",
+    "options": [
+      "Magnetic storms",
+      "High temperature plasma",
+      "Warping of spacetime by gravity",
+      "Dark matter winds"
+    ],
+    "correctAnswer": "Warping of spacetime by gravity"
+  },
+  {
+    "id": "BH-015",
+    "question": "What is a quasar?",
+    "options": [
+      "A dying star",
+      "A highly luminous active galactic nucleus",
+      "A small asteroid belt",
+      "A type of comet"
+    ],
+    "correctAnswer": "A highly luminous active galactic nucleus"
+  },
+  {
+    "id": "BH-016",
+    "question": "What type of black hole forms from the collapse of a massive star?",
+    "options": [
+      "Primordial black hole",
+      "Supermassive black hole",
+      "Stellar-mass black hole",
+      "Intermediate black hole"
+    ],
+    "correctAnswer": "Stellar-mass black hole"
+  },
+  {
+    "id": "BH-017",
+    "question": "Which law describes the relationship between a galaxy’s recessional velocity and its distance?",
+    "options": [
+      "Kepler’s Third Law",
+      "Hubble’s Law",
+      "Newton’s First Law",
+      "Ohm’s Law"
+    ],
+    "correctAnswer": "Hubble’s Law"
+  },
+  {
+    "id": "BH-018",
+    "question": "What is dark matter primarily used to explain in galaxies?",
+    "options": [
+      "The brightness of stars",
+      "Galaxy rotation curves",
+      "The color of nebulae",
+      "Solar flares"
+    ],
+    "correctAnswer": "Galaxy rotation curves"
+  },
+  {
+    "id": "BH-019",
+    "question": "What happens to time near a black hole according to general relativity?",
+    "options": [
+      "It speeds up",
+      "It stops everywhere",
+      "It reverses direction",
+      "It slows down"
+    ],
+    "correctAnswer": "It slows down"
+  },
+  {
+    "id": "BH-020",
+    "question": "What is the Schwarzschild radius?",
+    "options": [
+      "The distance between two galaxies",
+      "The radius of a neutron star",
+      "The radius defining the event horizon of a non-rotating black hole",
+      "The orbit of a comet"
+    ],
+    "correctAnswer": "The radius defining the event horizon of a non-rotating black hole"
+  },
+  {
+    "id": "BH-021",
+    "question": "Which telescope first captured an image of a black hole’s shadow in 2019?",
+    "options": [
+      "Hubble Space Telescope",
+      "James Webb Space Telescope",
+      "Event Horizon Telescope",
+      "Chandra X-ray Observatory"
+    ],
+    "correctAnswer": "Event Horizon Telescope"
+  },
+  {
+    "id": "BH-022",
+    "question": "What is an active galactic nucleus (AGN)?",
+    "options": [
+      "A newly formed star cluster",
+      "A bright central region powered by a supermassive black hole",
+      "A cold dust cloud",
+      "A planetary system"
+    ],
+    "correctAnswer": "A bright central region powered by a supermassive black hole"
+  },
+  {
+    "id": "BH-023",
+    "question": "Which galaxy classification system was developed by Edwin Hubble?",
+    "options": [
+      "Hertzsprung-Russell Diagram",
+      "Tully-Fisher Relation",
+      "Hubble Sequence",
+      "Bode’s Law"
+    ],
+    "correctAnswer": "Hubble Sequence"
+  },
+  {
+    "id": "BH-024",
+    "question": "What is a barred spiral galaxy?",
+    "options": [
+      "A galaxy without stars",
+      "A spiral galaxy with a central bar-shaped structure",
+      "An irregular galaxy with no arms",
+      "A dwarf elliptical galaxy"
+    ],
+    "correctAnswer": "A spiral galaxy with a central bar-shaped structure"
+  },
+  {
+    "id": "BH-025",
+    "question": "What is believed to power relativistic jets in some galaxies?",
+    "options": [
+      "Colliding asteroids",
+      "Rapid rotation and accretion onto a supermassive black hole",
+      "Supernova remnants",
+      "Dark energy fluctuations"
+    ],
+    "correctAnswer": "Rapid rotation and accretion onto a supermassive black hole"
+  },
+  {
+    "id": "BH-026",
+    "question": "What would happen to an object falling into a black hole due to tidal forces?",
+    "options": [
+      "It would freeze instantly",
+      "It would turn into light",
+      "It would be stretched in a process called spaghettification",
+      "It would explode outward"
+    ],
+    "correctAnswer": "It would be stretched in a process called spaghettification"
+  },
+  {
+    "id": "BH-027",
+    "question": "Which galaxy is classified as an irregular galaxy?",
+    "options": [
+      "Large Magellanic Cloud",
+      "Andromeda Galaxy",
+      "Sombrero Galaxy",
+      "Pinwheel Galaxy"
+    ],
+    "correctAnswer": "Large Magellanic Cloud"
+  },
+  {
+    "id": "BH-028",
+    "question": "What is the approximate shape of the Milky Way Galaxy?",
+    "options": [
+      "Perfect sphere",
+      "Barred spiral",
+      "Ring-shaped only",
+      "Completely irregular"
+    ],
+    "correctAnswer": "Barred spiral"
+  },
+  {
+    "id": "BH-029",
+    "question": "What is the theoretical information paradox related to black holes?",
+    "options": [
+      "Loss of mass in stars",
+      "The disappearance of galaxies",
+      "Conflict between quantum mechanics and information loss in black holes",
+      "Expansion of the universe"
+    ],
+    "correctAnswer": "Conflict between quantum mechanics and information loss in black holes"
+  },
+  {
+    "id": "BH-030",
+    "question": "What is the name of the black hole imaged in the galaxy M87?",
+    "options": [
+      "Sagittarius A*",
+      "M87*",
+      "Cygnus X-1",
+      "TON 618"
+    ],
+    "correctAnswer": "M87*"
+  },
+  {
+    "id": "BH-031",
+    "question": "What is the term for the point of closest approach in an object’s orbit around a black hole?",
+    "options": [
+      "Perihelion",
+      "Aphelion",
+      "Periapsis",
+      "Zenith"
+    ],
+    "correctAnswer": "Periapsis"
+  },
+  {
+    "id": "BH-032",
+    "question": "Which process can lead to the formation of a supermassive black hole in the early universe?",
+    "options": [
+      "Gradual cooling of white dwarfs",
+      "Direct collapse of massive gas clouds",
+      "Collision of comets",
+      "Solar wind accumulation"
+    ],
+    "correctAnswer": "Direct collapse of massive gas clouds"
+  },
+  {
+    "id": "BH-033",
+    "question": "What is the primary source of energy emitted by quasars?",
+    "options": [
+      "Nuclear fusion in giant stars",
+      "Matter falling into a supermassive black hole",
+      "Dark matter annihilation",
+      "Cosmic microwave background radiation"
+    ],
+    "correctAnswer": "Matter falling into a supermassive black hole"
+  },
+  {
+    "id": "BH-034",
+    "question": "Which galaxy is known as a starburst galaxy due to its high rate of star formation?",
+    "options": [
+      "Messier 82",
+      "Andromeda Galaxy",
+      "Sombrero Galaxy",
+      "Whirlpool Galaxy"
+    ],
+    "correctAnswer": "Messier 82"
+  },
+  {
+    "id": "BH-035",
+    "question": "What is the ergosphere of a rotating black hole?",
+    "options": [
+      "The outermost galaxy cluster",
+      "A region outside the event horizon where spacetime is dragged",
+      "The core of a neutron star",
+      "A ring of frozen gas"
+    ],
+    "correctAnswer": "A region outside the event horizon where spacetime is dragged"
+  },
+  {
+    "id": "BH-036",
+    "question": "Which theory predicts the existence of gravitational waves from merging black holes?",
+    "options": [
+      "Quantum Field Theory",
+      "String Theory",
+      "General Relativity",
+      "Classical Mechanics"
+    ],
+    "correctAnswer": "General Relativity"
+  },
+  {
+    "id": "BH-037",
+    "question": "What is the approximate diameter of the Milky Way Galaxy?",
+    "options": [
+      "About 100,000 light-years",
+      "About 1 million light-years",
+      "About 10,000 light-years",
+      "About 500 light-years"
+    ],
+    "correctAnswer": "About 100,000 light-years"
+  },
+  {
+    "id": "BH-038",
+    "question": "Which instrument detects X-rays emitted from material near black holes?",
+    "options": [
+      "Radio telescope",
+      "Optical microscope",
+      "X-ray observatory",
+      "Seismograph"
+    ],
+    "correctAnswer": "X-ray observatory"
+  },
+  {
+    "id": "BH-039",
+    "question": "What is a dwarf galaxy?",
+    "options": [
+      "A galaxy with very few stars compared to large galaxies",
+      "A galaxy made only of planets",
+      "A collapsed black hole",
+      "A galaxy without dark matter"
+    ],
+    "correctAnswer": "A galaxy with very few stars compared to large galaxies"
+  },
+  {
+    "id": "BH-040",
+    "question": "What does the term 'redshift' indicate when observing distant galaxies?",
+    "options": [
+      "They are cooling down",
+      "They are rotating faster",
+      "They are moving away from us",
+      "They are collapsing inward"
+    ],
+    "correctAnswer": "They are moving away from us"
+  },
+  {
+    "id": "BH-041",
+    "question": "What type of black hole is hypothesized to have formed shortly after the Big Bang?",
+    "options": [
+      "Primordial black hole",
+      "Stellar black hole",
+      "Binary black hole",
+      "Magnetic black hole"
+    ],
+    "correctAnswer": "Primordial black hole"
+  },
+  {
+    "id": "BH-042",
+    "question": "Which galaxy is famous for its prominent dust lane and bright nucleus?",
+    "options": [
+      "Pinwheel Galaxy",
+      "Sombrero Galaxy",
+      "Triangulum Galaxy",
+      "Cartwheel Galaxy"
+    ],
+    "correctAnswer": "Sombrero Galaxy"
+  },
+  {
+    "id": "BH-043",
+    "question": "What is the Chandrasekhar limit related to?",
+    "options": [
+      "Maximum mass of a stable white dwarf",
+      "Speed of light near a black hole",
+      "Size of the event horizon",
+      "Distance between galaxies"
+    ],
+    "correctAnswer": "Maximum mass of a stable white dwarf"
+  },
+  {
+    "id": "BH-044",
+    "question": "Which galaxy is the closest large spiral galaxy to the Milky Way?",
+    "options": [
+      "Whirlpool Galaxy",
+      "Triangulum Galaxy",
+      "Andromeda Galaxy",
+      "Centaurus A"
+    ],
+    "correctAnswer": "Andromeda Galaxy"
+  },
+  {
+    "id": "BH-045",
+    "question": "What is a binary black hole system?",
+    "options": [
+      "A black hole orbiting a planet",
+      "Two black holes orbiting each other",
+      "A black hole inside a nebula",
+      "A black hole and a white dwarf combined"
+    ],
+    "correctAnswer": "Two black holes orbiting each other"
+  },
+  {
+    "id": "BH-046",
+    "question": "Which property of a rotating black hole allows energy extraction via the Penrose process?",
+    "options": [
+      "Its magnetic poles",
+      "Its event horizon size",
+      "Its ergosphere",
+      "Its temperature"
+    ],
+    "correctAnswer": "Its ergosphere"
+  },
+  {
+    "id": "BH-047",
+    "question": "What is the Local Group?",
+    "options": [
+      "A nearby star cluster",
+      "A collection of galaxies including the Milky Way",
+      "A type of black hole",
+      "A region of dark matter only"
+    ],
+    "correctAnswer": "A collection of galaxies including the Milky Way"
+  },
+  {
+    "id": "BH-048",
+    "question": "What observational evidence suggests the presence of dark matter in galaxies?",
+    "options": [
+      "Solar eclipses",
+      "Supernova brightness",
+      "Flat galaxy rotation curves",
+      "Comet tails"
+    ],
+    "correctAnswer": "Flat galaxy rotation curves"
+  },
+  {
+    "id": "BH-049",
+    "question": "Which galaxy hosts the black hole known as M87*?",
+    "options": [
+      "Messier 87",
+      "Andromeda Galaxy",
+      "Milky Way Galaxy",
+      "Large Magellanic Cloud"
+    ],
+    "correctAnswer": "Messier 87"
+  },
+  {
+    "id": "BH-050",
+    "question": "What happens to light escaping a strong gravitational field?",
+    "options": [
+      "It blueshifts",
+      "It disappears instantly",
+      "It redshifts",
+      "It splits into particles"
+    ],
+    "correctAnswer": "It redshifts"
+  },
+  {
+    "id": "BH-051",
+    "question": "What is an intermediate-mass black hole?",
+    "options": [
+      "A black hole with mass between stellar and supermassive types",
+      "A black hole smaller than an atom",
+      "A black hole formed from planets",
+      "A black hole inside a comet"
+    ],
+    "correctAnswer": "A black hole with mass between stellar and supermassive types"
+  },
+  {
+    "id": "BH-052",
+    "question": "Which space mission studies X-ray emissions from galaxy clusters and black holes?",
+    "options": [
+      "Apollo 11",
+      "Voyager 1",
+      "Chandra X-ray Observatory",
+      "Galileo Orbiter"
+    ],
+    "correctAnswer": "Chandra X-ray Observatory"
+  },
+  {
+    "id": "BH-053",
+    "question": "What is the Tully-Fisher relation used to estimate?",
+    "options": [
+      "Black hole temperature",
+      "Galaxy distance based on rotation speed",
+      "Star age",
+      "Dark energy density"
+    ],
+    "correctAnswer": "Galaxy distance based on rotation speed"
+  },
+  {
+    "id": "BH-054",
+    "question": "What is the main component of an elliptical galaxy?",
+    "options": [
+      "Young blue stars",
+      "Old red stars",
+      "Gas clouds only",
+      "Black holes only"
+    ],
+    "correctAnswer": "Old red stars"
+  },
+  {
+    "id": "BH-055",
+    "question": "Which phenomenon confirms the merger of two black holes detected in 2015?",
+    "options": [
+      "Gamma-ray burst",
+      "Neutrino emission",
+      "Gravitational waves",
+      "Solar flare"
+    ],
+    "correctAnswer": "Gravitational waves"
+  },
+  {
+    "id": "BH-056",
+    "question": "What is a galactic halo?",
+    "options": [
+      "The bright spiral arms",
+      "The central bulge only",
+      "A spherical region of stars and dark matter surrounding a galaxy",
+      "A ring of planets"
+    ],
+    "correctAnswer": "A spherical region of stars and dark matter surrounding a galaxy"
+  },
+  {
+    "id": "BH-057",
+    "question": "What is the escape velocity at the event horizon of a black hole?",
+    "options": [
+      "Half the speed of light",
+      "The speed of sound",
+      "Greater than the speed of light",
+      "Exactly the speed of light"
+    ],
+    "correctAnswer": "Exactly the speed of light"
+  },
+  {
+    "id": "BH-058",
+    "question": "Which galaxy interaction can trigger intense star formation?",
+    "options": [
+      "Galactic collision or merger",
+      "Solar eclipse",
+      "Asteroid impact on Earth",
+      "Comet evaporation"
+    ],
+    "correctAnswer": "Galactic collision or merger"
+  },
+  {
+    "id": "BH-059",
+    "question": "What is the primary fuel for star formation in galaxies?",
+    "options": [
+      "Liquid methane",
+      "Dark energy",
+      "Hydrogen gas",
+      "Iron dust"
+    ],
+    "correctAnswer": "Hydrogen gas"
+  },
+  {
+    "id": "BH-060",
+    "question": "What distinguishes a rotating (Kerr) black hole from a non-rotating one?",
+    "options": [
+      "It lacks gravity",
+      "It has no event horizon",
+      "It possesses angular momentum",
+      "It emits constant visible light"
+    ],
+    "correctAnswer": "It possesses angular momentum"
+  },
+  {
+    "id": "BH-061",
+    "question": "What is the name of the theoretical boundary around a rotating black hole where no object can remain stationary?",
+    "options": [
+      "Photon Belt",
+      "Ergosphere",
+      "Accretion Limit",
+      "Gravity Shell"
+    ],
+    "correctAnswer": "Ergosphere"
+  },
+  {
+    "id": "BH-062",
+    "question": "Which type of galaxy often results from the merger of two spiral galaxies?",
+    "options": [
+      "Ring galaxy",
+      "Dwarf irregular galaxy",
+      "Elliptical galaxy",
+      "Barred dwarf galaxy"
+    ],
+    "correctAnswer": "Elliptical galaxy"
+  },
+  {
+    "id": "BH-063",
+    "question": "What is the primary method used to detect black holes in binary systems?",
+    "options": [
+      "Observing gravitational effects on a companion star",
+      "Direct visual imaging in visible light",
+      "Measuring asteroid collisions",
+      "Detecting planetary transits"
+    ],
+    "correctAnswer": "Observing gravitational effects on a companion star"
+  },
+  {
+    "id": "BH-064",
+    "question": "What does AGN stand for in galactic astronomy?",
+    "options": [
+      "Active Galactic Nucleus",
+      "Astronomical Gravity Node",
+      "Advanced Galaxy Network",
+      "Absolute Gamma Nova"
+    ],
+    "correctAnswer": "Active Galactic Nucleus"
+  },
+  {
+    "id": "BH-065",
+    "question": "Which galaxy is an example of a ring galaxy formed by a collision?",
+    "options": [
+      "Cartwheel Galaxy",
+      "Sombrero Galaxy",
+      "Triangulum Galaxy",
+      "Centaurus A"
+    ],
+    "correctAnswer": "Cartwheel Galaxy"
+  },
+  {
+    "id": "BH-066",
+    "question": "What is the Innermost Stable Circular Orbit (ISCO) related to?",
+    "options": [
+      "The farthest orbit in a galaxy",
+      "The smallest stable orbit around a black hole",
+      "The orbit of Pluto",
+      "The center of a nebula"
+    ],
+    "correctAnswer": "The smallest stable orbit around a black hole"
+  },
+  {
+    "id": "BH-067",
+    "question": "Which effect causes the precession of orbits near a massive black hole?",
+    "options": [
+      "Doppler Effect",
+      "Tidal Friction",
+      "Relativistic frame dragging",
+      "Magnetic resonance"
+    ],
+    "correctAnswer": "Relativistic frame dragging"
+  },
+  {
+    "id": "BH-068",
+    "question": "What is the primary composition of the interstellar medium in galaxies?",
+    "options": [
+      "Helium crystals",
+      "Hydrogen and helium gas",
+      "Liquid nitrogen",
+      "Pure oxygen"
+    ],
+    "correctAnswer": "Hydrogen and helium gas"
+  },
+  {
+    "id": "BH-069",
+    "question": "Which galaxy contains the radio source Sagittarius A*?",
+    "options": [
+      "Andromeda Galaxy",
+      "Whirlpool Galaxy",
+      "Milky Way Galaxy",
+      "Messier 81"
+    ],
+    "correctAnswer": "Milky Way Galaxy"
+  },
+  {
+    "id": "BH-070",
+    "question": "What phenomenon occurs when two galaxies pass close enough to distort each other gravitationally?",
+    "options": [
+      "Galactic tidal interaction",
+      "Solar flare expansion",
+      "Magnetic collapse",
+      "Stellar evaporation"
+    ],
+    "correctAnswer": "Galactic tidal interaction"
+  },
+  {
+    "id": "BH-071",
+    "question": "Which law relates the luminosity of a spiral galaxy to its rotational velocity?",
+    "options": [
+      "Hubble’s Law",
+      "Kepler’s Law",
+      "Tully-Fisher Relation",
+      "Planck’s Law"
+    ],
+    "correctAnswer": "Tully-Fisher Relation"
+  },
+  {
+    "id": "BH-072",
+    "question": "What is the name of the process by which black holes gradually lose mass over time?",
+    "options": [
+      "Quantum decay",
+      "Hawking radiation",
+      "Stellar fusion",
+      "Mass evaporation by solar wind"
+    ],
+    "correctAnswer": "Hawking radiation"
+  },
+  {
+    "id": "BH-073",
+    "question": "Which galaxy is classified as a barred spiral galaxy besides the Milky Way?",
+    "options": [
+      "NGC 1300",
+      "Messier 87",
+      "Large Magellanic Cloud",
+      "Centaurus A"
+    ],
+    "correctAnswer": "NGC 1300"
+  },
+  {
+    "id": "BH-074",
+    "question": "What is the maximum theoretical spin rate of a Kerr black hole expressed as?",
+    "options": [
+      "Zero angular momentum",
+      "Spin parameter equal to 1",
+      "Twice the speed of light",
+      "Negative gravity index"
+    ],
+    "correctAnswer": "Spin parameter equal to 1"
+  },
+  {
+    "id": "BH-075",
+    "question": "What observational signature indicates matter heating up in an accretion disk?",
+    "options": [
+      "Infrared silence",
+      "Strong X-ray emission",
+      "Decrease in redshift",
+      "Complete darkness"
+    ],
+    "correctAnswer": "Strong X-ray emission"
+  },
+  {
+    "id": "BH-076",
+    "question": "Which structure in a spiral galaxy contains most of its older stars?",
+    "options": [
+      "Spiral arms",
+      "Galactic halo",
+      "Central bulge",
+      "Outer gas ring"
+    ],
+    "correctAnswer": "Central bulge"
+  },
+  {
+    "id": "BH-077",
+    "question": "What is the escape velocity formula based on?",
+    "options": [
+      "Thermodynamics",
+      "Newtonian gravity",
+      "Electromagnetic force",
+      "Quantum entanglement"
+    ],
+    "correctAnswer": "Newtonian gravity"
+  },
+  {
+    "id": "BH-078",
+    "question": "Which event produces the strongest known gravitational wave signals?",
+    "options": [
+      "Planetary alignment",
+      "Supernova explosions only",
+      "Merging black holes",
+      "Asteroid impacts"
+    ],
+    "correctAnswer": "Merging black holes"
+  },
+  {
+    "id": "BH-079",
+    "question": "What is the term for a galaxy emitting powerful radio waves from its core?",
+    "options": [
+      "Radio galaxy",
+      "Silent galaxy",
+      "Dwarf nebula",
+      "Cold cluster"
+    ],
+    "correctAnswer": "Radio galaxy"
+  },
+  {
+    "id": "BH-080",
+    "question": "Which galaxy is known for its prominent dust lane and is also called M104?",
+    "options": [
+      "Sombrero Galaxy",
+      "Pinwheel Galaxy",
+      "Cartwheel Galaxy",
+      "Triangulum Galaxy"
+    ],
+    "correctAnswer": "Sombrero Galaxy"
+  },
+  {
+    "id": "BH-081",
+    "question": "What is the gravitational radius another term for?",
+    "options": [
+      "Orbital radius of Earth",
+      "Radius of a neutron star",
+      "Schwarzschild radius",
+      "Galaxy cluster diameter"
+    ],
+    "correctAnswer": "Schwarzschild radius"
+  },
+  {
+    "id": "BH-082",
+    "question": "Which galaxy type lacks a distinct shape and structure?",
+    "options": [
+      "Spiral galaxy",
+      "Elliptical galaxy",
+      "Irregular galaxy",
+      "Barred spiral galaxy"
+    ],
+    "correctAnswer": "Irregular galaxy"
+  },
+  {
+    "id": "BH-083",
+    "question": "What happens to the wavelength of light as it escapes a black hole’s gravity well?",
+    "options": [
+      "It shortens dramatically",
+      "It remains unchanged",
+      "It lengthens due to gravitational redshift",
+      "It splits into two beams"
+    ],
+    "correctAnswer": "It lengthens due to gravitational redshift"
+  },
+  {
+    "id": "BH-084",
+    "question": "Which phenomenon explains jets aligned perpendicular to accretion disks?",
+    "options": [
+      "Magnetic field collimation",
+      "Solar wind reflection",
+      "Asteroid scattering",
+      "Dark energy pulses"
+    ],
+    "correctAnswer": "Magnetic field collimation"
+  },
+  {
+    "id": "BH-085",
+    "question": "What is the name of the galaxy cluster that includes the Local Group?",
+    "options": [
+      "Virgo Supercluster",
+      "Perseus Cluster",
+      "Coma Cluster",
+      "Hydra Cluster"
+    ],
+    "correctAnswer": "Virgo Supercluster"
+  },
+  {
+    "id": "BH-086",
+    "question": "Which measurement helps estimate a supermassive black hole’s mass at a galaxy’s center?",
+    "options": [
+      "Star orbital velocities near the core",
+      "Planetary eclipse timing",
+      "Comet tail length",
+      "Solar wind pressure"
+    ],
+    "correctAnswer": "Star orbital velocities near the core"
+  },
+  {
+    "id": "BH-087",
+    "question": "What is the cosmic microwave background primarily evidence of?",
+    "options": [
+      "Black hole evaporation",
+      "The Big Bang",
+      "Galaxy collisions",
+      "Dark matter decay"
+    ],
+    "correctAnswer": "The Big Bang"
+  },
+  {
+    "id": "BH-088",
+    "question": "Which galaxy interaction can create long tidal tails of stars and gas?",
+    "options": [
+      "Supernova collapse",
+      "Planetary transit",
+      "Galaxy merger",
+      "Solar flare eruption"
+    ],
+    "correctAnswer": "Galaxy merger"
+  },
+  {
+    "id": "BH-089",
+    "question": "What determines whether a collapsing star becomes a neutron star or black hole?",
+    "options": [
+      "Its distance from Earth",
+      "Its mass after core collapse",
+      "Its surface temperature",
+      "Its magnetic color"
+    ],
+    "correctAnswer": "Its mass after core collapse"
+  },
+  {
+    "id": "BH-090",
+    "question": "What is the name of the most massive known black hole candidates found in distant quasars?",
+    "options": [
+      "Cygnus X-1",
+      "TON 618",
+      "Sagittarius A*",
+      "M87*"
+    ],
+    "correctAnswer": "TON 618"
+  }
+]

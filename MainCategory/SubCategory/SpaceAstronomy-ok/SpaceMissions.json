@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SM-001",
+    "question": "Which mission was the first to land humans on the Moon?",
+    "options": ["Apollo 13", "Apollo 11", "Apollo 8", "Apollo 17"],
+    "correctAnswer": "Apollo 11"
+  },
+  {
+    "id": "SM-002",
+    "question": "Which country launched the first artificial satellite, Sputnik 1?",
+    "options": ["United States", "China", "Soviet Union", "France"],
+    "correctAnswer": "Soviet Union"
+  },
+  {
+    "id": "SM-003",
+    "question": "Which rover landed on Mars in 2021 as part of NASA’s Mars 2020 mission?",
+    "options": ["Curiosity", "Spirit", "Opportunity", "Perseverance"],
+    "correctAnswer": "Perseverance"
+  },
+  {
+    "id": "SM-004",
+    "question": "What was the primary objective of the Voyager 1 mission at launch?",
+    "options": ["Study the Sun", "Explore Jupiter and Saturn", "Land on Mars", "Map the Moon"],
+    "correctAnswer": "Explore Jupiter and Saturn"
+  },
+  {
+    "id": "SM-005",
+    "question": "Which space telescope was launched in 2021 to succeed Hubble?",
+    "options": ["Kepler Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
+    "correctAnswer": "James Webb Space Telescope"
+  },
+  {
+    "id": "SM-006",
+    "question": "Which mission was the first to successfully land a rover on Mars?",
+    "options": ["Viking 1", "Sojourner (Mars Pathfinder)", "Spirit", "Phoenix"],
+    "correctAnswer": "Sojourner (Mars Pathfinder)"
+  },
+  {
+    "id": "SM-007",
+    "question": "Which country successfully performed the first soft landing on the far side of the Moon?",
+    "options": ["India", "Russia", "China", "United States"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "SM-008",
+    "question": "What was the name of the first private spacecraft to carry astronauts to the ISS?",
+    "options": ["Crew Dragon", "Starliner", "Soyuz MS-10", "Shenzhou 12"],
+    "correctAnswer": "Crew Dragon"
+  },
+  {
+    "id": "SM-009",
+    "question": "Which mission confirmed the presence of water ice on the Moon in 2009?",
+    "options": ["Chandrayaan-1", "Luna 24", "Apollo 15", "Artemis I"],
+    "correctAnswer": "Chandrayaan-1"
+  },
+  {
+    "id": "SM-010",
+    "question": "Which spacecraft was the first to reach interstellar space?",
+    "options": ["Voyager 2", "New Horizons", "Voyager 1", "Pioneer 10"],
+    "correctAnswer": "Voyager 1"
+  },
+  {
+    "id": "SM-011",
+    "question": "What was the main goal of the Rosetta mission?",
+    "options": ["Study Mars atmosphere", "Land on Venus", "Orbit Jupiter", "Study and land on a comet"],
+    "correctAnswer": "Study and land on a comet"
+  },
+  {
+    "id": "SM-012",
+    "question": "Which mission performed the first successful asteroid sample return?",
+    "options": ["OSIRIS-REx", "Hayabusa", "Dawn", "Lucy"],
+    "correctAnswer": "Hayabusa"
+  },
+  {
+    "id": "SM-013",
+    "question": "Which NASA program aims to return humans to the Moon in the 21st century?",
+    "options": ["Gemini", "Artemis", "Mercury", "Skylab"],
+    "correctAnswer": "Artemis"
+  },
+  {
+    "id": "SM-014",
+    "question": "Which mission conducted the first flyby of Pluto in 2015?",
+    "options": ["Cassini", "Voyager 2", "New Horizons", "Galileo"],
+    "correctAnswer": "New Horizons"
+  },
+  {
+    "id": "SM-015",
+    "question": "Which country launched the Tianwen-1 mission to Mars?",
+    "options": ["Japan", "China", "India", "South Korea"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "SM-016",
+    "question": "Which Apollo mission experienced an oxygen tank explosion in space?",
+    "options": ["Apollo 10", "Apollo 13", "Apollo 12", "Apollo 9"],
+    "correctAnswer": "Apollo 13"
+  },
+  {
+    "id": "SM-017",
+    "question": "What was the first reusable spacecraft developed by NASA?",
+    "options": ["Apollo Command Module", "Space Shuttle", "Skylab", "Gemini Capsule"],
+    "correctAnswer": "Space Shuttle"
+  },
+  {
+    "id": "SM-018",
+    "question": "Which mission discovered active geysers on Saturn’s moon Enceladus?",
+    "options": ["Galileo", "Juno", "Cassini", "Magellan"],
+    "correctAnswer": "Cassini"
+  },
+  {
+    "id": "SM-019",
+    "question": "Which Indian mission successfully landed near the Moon’s south pole in 2023?",
+    "options": ["Chandrayaan-2", "Chandrayaan-3", "Mangalyaan", "Aditya-L1"],
+    "correctAnswer": "Chandrayaan-3"
+  },
+  {
+    "id": "SM-020",
+    "question": "Which mission was the first to orbit Mercury?",
+    "options": ["Mariner 10", "MESSENGER", "BepiColombo", "Pioneer 11"],
+    "correctAnswer": "MESSENGER"
+  },
+  {
+    "id": "SM-021",
+    "question": "Which mission tested a successful planetary defense technique by impacting an asteroid in 2022?",
+    "options": ["Lucy", "DART", "OSIRIS-REx", "Hayabusa2"],
+    "correctAnswer": "DART"
+  },
+  {
+    "id": "SM-022",
+    "question": "Which was the first space station launched into orbit?",
+    "options": ["ISS", "Mir", "Skylab", "Salyut 1"],
+    "correctAnswer": "Salyut 1"
+  },
+  {
+    "id": "SM-023",
+    "question": "Which mission studied Jupiter in detail and ended by diving into its atmosphere in 2003?",
+    "options": ["Juno", "Voyager 1", "Galileo", "Cassini"],
+    "correctAnswer": "Galileo"
+  },
+  {
+    "id": "SM-024",
+    "question": "Which European mission is aimed at studying Jupiter’s icy moons (launched in 2023)?",
+    "options": ["Rosetta", "JUICE", "Hera", "Mars Express"],
+    "correctAnswer": "JUICE"
+  },
+  {
+    "id": "SM-025",
+    "question": "Which mission provided the first close-up images of Neptune?",
+    "options": ["Voyager 2", "Pioneer 10", "New Horizons", "Cassini"],
+    "correctAnswer": "Voyager 2"
+  },
+  {
+    "id": "SM-026",
+    "question": "Which mission marked the first successful Mars orbiter mission by India?",
+    "options": ["Chandrayaan-1", "Mangalyaan", "RISAT-1", "Astrosat"],
+    "correctAnswer": "Mangalyaan"
+  },
+  {
+    "id": "SM-027",
+    "question": "Which mission was designed to measure gravitational waves from space (planned ESA mission)?",
+    "options": ["Euclid", "LISA", "Planck", "Gaia"],
+    "correctAnswer": "LISA"
+  },
+  {
+    "id": "SM-028",
+    "question": "Which mission intentionally crashed into Mercury after completing its objectives in 2015?",
+    "options": ["Mariner 10", "BepiColombo", "MESSENGER", "Dawn"],
+    "correctAnswer": "MESSENGER"
+  },
+  {
+    "id": "SM-029",
+    "question": "Which mission deployed the first helicopter (Ingenuity) on Mars?",
+    "options": ["Spirit", "Perseverance", "Curiosity", "Phoenix"],
+    "correctAnswer": "Perseverance"
+  },
+  {
+    "id": "SM-030",
+    "question": "Which mission aims to send humans to Mars in the future under NASA’s long-term exploration goals?",
+    "options": ["Artemis", "Gemini", "Apollo", "Viking"],
+    "correctAnswer": "Artemis"
+  },
+  {
+    "id": "SM-031",
+    "question": "Which mission was the first to perform a controlled landing on the Moon in 1966?",
+    "options": ["Surveyor 1", "Luna 9", "Apollo 8", "Ranger 7"],
+    "correctAnswer": "Luna 9"
+  },
+  {
+    "id": "SM-032",
+    "question": "Which NASA mission is specifically designed to study the Sun’s outer corona by flying closer than any previous spacecraft?",
+    "options": ["Solar Orbiter", "Parker Solar Probe", "SOHO", "Helios 2"],
+    "correctAnswer": "Parker Solar Probe"
+  },
+  {
+    "id": "SM-033",
+    "question": "Which mission successfully returned samples from asteroid Bennu to Earth in 2023?",
+    "options": ["Hayabusa2", "OSIRIS-REx", "Lucy", "DART"],
+    "correctAnswer": "OSIRIS-REx"
+  },
+  {
+    "id": "SM-034",
+    "question": "Which was the first U.S. human spaceflight program?",
+    "options": ["Gemini", "Apollo", "Mercury", "Skylab"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "SM-035",
+    "question": "Which mission placed the Huygens probe on Saturn’s moon Titan?",
+    "options": ["Cassini-Huygens", "Galileo", "Juno", "Voyager 1"],
+    "correctAnswer": "Cassini-Huygens"
+  },
+  {
+    "id": "SM-036",
+    "question": "Which mission was the first to orbit an asteroid (433 Eros)?",
+    "options": ["Dawn", "NEAR Shoemaker", "Hayabusa", "Rosetta"],
+    "correctAnswer": "NEAR Shoemaker"
+  },
+  {
+    "id": "SM-037",
+    "question": "Which mission studied the dwarf planet Ceres in detail?",
+    "options": ["New Horizons", "Dawn", "Voyager 2", "Galileo"],
+    "correctAnswer": "Dawn"
+  },
+  {
+    "id": "SM-038",
+    "question": "Which Soviet mission was the first to send a human, Yuri Gagarin, into space?",
+    "options": ["Vostok 1", "Soyuz 1", "Sputnik 2", "Luna 3"],
+    "correctAnswer": "Vostok 1"
+  },
+  {
+    "id": "SM-039",
+    "question": "Which mission tested an inflatable heat shield technology in low Earth orbit in 2022?",
+    "options": ["Artemis I", "LOFTID", "Starliner OFT-2", "Dragon CRS-25"],
+    "correctAnswer": "LOFTID"
+  },
+  {
+    "id": "SM-040",
+    "question": "Which mission discovered thousands of exoplanets using the transit method?",
+    "options": ["TESS", "Kepler", "Gaia", "Spitzer"],
+    "correctAnswer": "Kepler"
+  },
+  {
+    "id": "SM-041",
+    "question": "Which Chinese lunar mission returned samples from the Moon in 2020?",
+    "options": ["Chang’e 4", "Chang’e 3", "Chang’e 5", "Chang’e 6"],
+    "correctAnswer": "Chang’e 5"
+  },
+  {
+    "id": "SM-042",
+    "question": "Which mission was the first to successfully dock two crewed spacecraft in orbit?",
+    "options": ["Gemini 8", "Apollo-Soyuz Test Project", "Soyuz 4", "Shenzhou 7"],
+    "correctAnswer": "Gemini 8"
+  },
+  {
+    "id": "SM-043",
+    "question": "Which mission is designed to explore Jupiter’s moon Europa for signs of habitability?",
+    "options": ["Europa Clipper", "JUICE", "Juno", "Galileo"],
+    "correctAnswer": "Europa Clipper"
+  },
+  {
+    "id": "SM-044",
+    "question": "Which mission conducted the first flyby of Mercury?",
+    "options": ["MESSENGER", "BepiColombo", "Mariner 10", "Pioneer 11"],
+    "correctAnswer": "Mariner 10"
+  },
+  {
+    "id": "SM-045",
+    "question": "Which mission successfully demonstrated the first powered flight on another planet?",
+    "options": ["Perseverance", "Curiosity", "Ingenuity", "Spirit"],
+    "correctAnswer": "Ingenuity"
+  },
+  {
+    "id": "SM-046",
+    "question": "Which mission studied Saturn before ending in a controlled atmospheric entry in 2017?",
+    "options": ["Juno", "Voyager 2", "Cassini", "Galileo"],
+    "correctAnswer": "Cassini"
+  },
+  {
+    "id": "SM-047",
+    "question": "Which mission was the first to land a spacecraft on Venus?",
+    "options": ["Venera 7", "Magellan", "Pioneer Venus", "Vega 1"],
+    "correctAnswer": "Venera 7"
+  },
+  {
+    "id": "SM-048",
+    "question": "Which NASA mission is focused on studying dark energy and dark matter (launched in 2023)?",
+    "options": ["Roman Space Telescope", "Euclid", "James Webb Space Telescope", "Chandra"],
+    "correctAnswer": "Euclid"
+  },
+  {
+    "id": "SM-049",
+    "question": "Which mission was the first to successfully return lunar samples to Earth?",
+    "options": ["Luna 16", "Apollo 11", "Luna 24", "Surveyor 3"],
+    "correctAnswer": "Luna 16"
+  },
+  {
+    "id": "SM-050",
+    "question": "Which mission conducted the Double Asteroid Redirection Test in 2022?",
+    "options": ["DART", "Lucy", "OSIRIS-REx", "Hayabusa2"],
+    "correctAnswer": "DART"
+  },
+  {
+    "id": "SM-051",
+    "question": "Which mission was NASA’s first attempt to land on Mars in 1976?",
+    "options": ["Viking 1", "Mariner 9", "Pathfinder", "Phoenix"],
+    "correctAnswer": "Viking 1"
+  },
+  {
+    "id": "SM-052",
+    "question": "Which mission studied Jupiter’s magnetic field and polar regions beginning in 2016?",
+    "options": ["Galileo", "Juno", "Voyager 1", "JUICE"],
+    "correctAnswer": "Juno"
+  },
+  {
+    "id": "SM-053",
+    "question": "Which mission was the first to successfully soft-land on Mars?",
+    "options": ["Mars 3", "Viking 1", "Pathfinder", "Spirit"],
+    "correctAnswer": "Viking 1"
+  },
+  {
+    "id": "SM-054",
+    "question": "Which mission is intended to build and maintain the Lunar Gateway space station?",
+    "options": ["Apollo", "Artemis", "Gemini", "Skylab"],
+    "correctAnswer": "Artemis"
+  },
+  {
+    "id": "SM-055",
+    "question": "Which Japanese mission returned samples from asteroid Ryugu?",
+    "options": ["Hayabusa2", "Akatsuki", "SLIM", "Kaguya"],
+    "correctAnswer": "Hayabusa2"
+  },
+  {
+    "id": "SM-056",
+    "question": "Which mission was the first to orbit another planet (Mars)?",
+    "options": ["Mariner 9", "Viking 2", "Mars Express", "Phobos 2"],
+    "correctAnswer": "Mariner 9"
+  },
+  {
+    "id": "SM-057",
+    "question": "Which mission is designed to observe Earth’s climate and environmental changes from space (launched 2024)?",
+    "options": ["PACE", "ICESat-2", "Terra", "Aura"],
+    "correctAnswer": "PACE"
+  },
+  {
+    "id": "SM-058",
+    "question": "Which mission conducted the first successful crewed lunar orbit without landing?",
+    "options": ["Apollo 10", "Apollo 8", "Apollo 9", "Apollo 7"],
+    "correctAnswer": "Apollo 8"
+  },
+  {
+    "id": "SM-059",
+    "question": "Which mission provided the first images of the far side of the Moon?",
+    "options": ["Luna 3", "Ranger 9", "Surveyor 5", "Apollo 8"],
+    "correctAnswer": "Luna 3"
+  },
+  {
+    "id": "SM-060",
+    "question": "Which mission is planned to return samples from Mars to Earth through international collaboration?",
+    "options": ["Mars Sample Return", "ExoMars", "Tianwen-2", "Artemis II"],
+    "correctAnswer": "Mars Sample Return"
+  },
+  {
+    "id": "SM-061",
+    "question": "Which mission carried the first Arab astronaut to the International Space Station in 2019?",
+    "options": ["Soyuz MS-15", "Shenzhou 11", "Crew-1", "Tiangong-2"],
+    "correctAnswer": "Soyuz MS-15"
+  },
+  {
+    "id": "SM-062",
+    "question": "Which mission was the first to successfully land a spacecraft on an asteroid?",
+    "options": ["NEAR Shoemaker", "Hayabusa", "OSIRIS-REx", "Dawn"],
+    "correctAnswer": "NEAR Shoemaker"
+  },
+  {
+    "id": "SM-063",
+    "question": "Which mission marked the first successful flight of NASA’s Space Launch System (SLS)?",
+    "options": ["Artemis I", "Artemis II", "Apollo 18", "Orion EFT-1"],
+    "correctAnswer": "Artemis I"
+  },
+  {
+    "id": "SM-064",
+    "question": "Which mission was the first to deploy a space telescope dedicated to X-ray astronomy?",
+    "options": ["Chandra X-ray Observatory", "Hubble Space Telescope", "Spitzer Space Telescope", "WISE"],
+    "correctAnswer": "Chandra X-ray Observatory"
+  },
+  {
+    "id": "SM-065",
+    "question": "Which mission was the first private company mission to dock with the ISS?",
+    "options": ["Crew Dragon Demo-2", "SpaceX CRS-1", "Cygnus NG-1", "Starliner OFT-1"],
+    "correctAnswer": "SpaceX CRS-1"
+  },
+  {
+    "id": "SM-066",
+    "question": "Which mission was the first to send a probe beyond the heliosphere?",
+    "options": ["Pioneer 10", "Voyager 2", "Voyager 1", "New Horizons"],
+    "correctAnswer": "Voyager 1"
+  },
+  {
+    "id": "SM-067",
+    "question": "Which mission was the first to use aerobraking at Mars to adjust its orbit?",
+    "options": ["Mars Global Surveyor", "Viking 2", "Mars Odyssey", "Phobos 1"],
+    "correctAnswer": "Mars Global Surveyor"
+  },
+  {
+    "id": "SM-068",
+    "question": "Which mission studied Venus using radar mapping in the early 1990s?",
+    "options": ["Magellan", "Venera 9", "Akatsuki", "Pioneer Venus"],
+    "correctAnswer": "Magellan"
+  },
+  {
+    "id": "SM-069",
+    "question": "Which mission successfully tested the Orion spacecraft before Artemis missions?",
+    "options": ["Gemini 12", "Apollo 7", "Orion EFT-1", "Skylab 2"],
+    "correctAnswer": "Orion EFT-1"
+  },
+  {
+    "id": "SM-070",
+    "question": "Which mission was the first to orbit Saturn?",
+    "options": ["Voyager 1", "Cassini", "Pioneer 11", "Juno"],
+    "correctAnswer": "Cassini"
+  },
+  {
+    "id": "SM-071",
+    "question": "Which mission carried out the first successful rendezvous with a comet nucleus?",
+    "options": ["Rosetta", "Deep Impact", "Stardust", "Giotto"],
+    "correctAnswer": "Rosetta"
+  },
+  {
+    "id": "SM-072",
+    "question": "Which mission was NASA’s first dedicated asteroid discovery space telescope?",
+    "options": ["WISE (NEOWISE)", "Kepler", "TESS", "Gaia"],
+    "correctAnswer": "WISE (NEOWISE)"
+  },
+  {
+    "id": "SM-073",
+    "question": "Which mission deployed the first space-based gamma-ray observatory in 1991?",
+    "options": ["Fermi Gamma-ray Space Telescope", "Compton Gamma Ray Observatory", "Swift", "INTEGRAL"],
+    "correctAnswer": "Compton Gamma Ray Observatory"
+  },
+  {
+    "id": "SM-074",
+    "question": "Which mission was the first to achieve a successful flyby of Uranus?",
+    "options": ["Voyager 2", "Voyager 1", "Cassini", "New Horizons"],
+    "correctAnswer": "Voyager 2"
+  },
+  {
+    "id": "SM-075",
+    "question": "Which mission marked the first successful reusable orbital rocket landing?",
+    "options": ["Falcon 9 Flight 20", "Delta IV Heavy Demo", "Atlas V N22", "Electron Test Flight"],
+    "correctAnswer": "Falcon 9 Flight 20"
+  },
+  {
+    "id": "SM-076",
+    "question": "Which mission delivered the first module of the International Space Station (Zarya)?",
+    "options": ["Soyuz TM-31", "STS-88", "Proton-K Zarya launch", "Skylab 1"],
+    "correctAnswer": "Proton-K Zarya launch"
+  },
+  {
+    "id": "SM-077",
+    "question": "Which mission was the first to send a spacecraft into orbit around the Sun (heliocentric orbit)?",
+    "options": ["Mariner 2", "Venera 1", "Pioneer 5", "Luna 1"],
+    "correctAnswer": "Luna 1"
+  },
+  {
+    "id": "SM-078",
+    "question": "Which mission was the first to demonstrate in-space servicing of a satellite?",
+    "options": ["STS-41C (Solar Max Repair)", "Apollo 9", "Gemini 11", "Skylab 4"],
+    "correctAnswer": "STS-41C (Solar Max Repair)"
+  },
+  {
+    "id": "SM-079",
+    "question": "Which mission was India’s first solar observation mission?",
+    "options": ["Chandrayaan-2", "Aditya-L1", "AstroSat", "RISAT-2"],
+    "correctAnswer": "Aditya-L1"
+  },
+  {
+    "id": "SM-080",
+    "question": "Which mission achieved the first soft landing on Mars by China?",
+    "options": ["Tianwen-1 (Zhurong rover)", "Chang’e 4", "Shenzhou 13", "Yutu 2"],
+    "correctAnswer": "Tianwen-1 (Zhurong rover)"
+  },
+  {
+    "id": "SM-081",
+    "question": "Which mission was the first to intentionally impact a comet nucleus?",
+    "options": ["Deep Impact", "Rosetta", "Stardust", "Giotto"],
+    "correctAnswer": "Deep Impact"
+  },
+  {
+    "id": "SM-082",
+    "question": "Which mission was the first to test a planetary gravity assist maneuver?",
+    "options": ["Mariner 10", "Voyager 1", "Pioneer 11", "Galileo"],
+    "correctAnswer": "Mariner 10"
+  },
+  {
+    "id": "SM-083",
+    "question": "Which mission launched the first long-duration U.S. space station?",
+    "options": ["Skylab", "ISS Expedition 1", "Apollo 7", "Gemini 4"],
+    "correctAnswer": "Skylab"
+  },
+  {
+    "id": "SM-084",
+    "question": "Which mission was the first to orbit Venus?",
+    "options": ["Venera 9", "Magellan", "Pioneer Venus Orbiter", "Akatsuki"],
+    "correctAnswer": "Pioneer Venus Orbiter"
+  },
+  {
+    "id": "SM-085",
+    "question": "Which mission marked the first all-private astronaut mission to the ISS?",
+    "options": ["Axiom Mission 1", "Crew-2", "Soyuz MS-10", "Shenzhou 14"],
+    "correctAnswer": "Axiom Mission 1"
+  },
+  {
+    "id": "SM-086",
+    "question": "Which mission was the first to conduct a sample return from a comet?",
+    "options": ["Rosetta", "Deep Impact", "Stardust", "Hayabusa"],
+    "correctAnswer": "Stardust"
+  },
+  {
+    "id": "SM-087",
+    "question": "Which mission was the first to use ion propulsion extensively for deep-space travel?",
+    "options": ["Dawn", "Voyager 2", "New Horizons", "Cassini"],
+    "correctAnswer": "Dawn"
+  },
+  {
+    "id": "SM-088",
+    "question": "Which mission was the first to detect gravitational waves from space using pathfinder technology?",
+    "options": ["LISA Pathfinder", "Euclid", "Planck", "Gaia"],
+    "correctAnswer": "LISA Pathfinder"
+  },
+  {
+    "id": "SM-089",
+    "question": "Which mission was NASA’s first successful robotic mission to Venus?",
+    "options": ["Magellan", "Pioneer Venus Multiprobe", "Mariner 2", "Venera 4"],
+    "correctAnswer": "Mariner 2"
+  },
+  {
+    "id": "SM-090",
+    "question": "Which mission is designed to study near-Earth asteroids known as Trojan asteroids of Jupiter?",
+    "options": ["Lucy", "DART", "OSIRIS-REx", "JUICE"],
+    "correctAnswer": "Lucy"
+  }
+]

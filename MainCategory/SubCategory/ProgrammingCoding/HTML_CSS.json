@@ -1,30 +1,542 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "HC-001",
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": ["<link>", "<a>", "<href>", "<hyper>"],
+    "correctAnswer": "<a>"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "HC-002",
+    "question": "Which CSS property is used to change the text color?",
+    "options": ["font-color", "color", "text-style", "foreground"],
+    "correctAnswer": "color"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "HC-003",
+    "question": "Which HTML element is used to define the largest heading?",
+    "options": ["<heading>", "<h6>", "<h1>", "<head>"],
+    "correctAnswer": "<h1>"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "HC-004",
+    "question": "Which CSS property controls the space inside an element, between content and border?",
+    "options": ["margin", "spacing", "padding", "border-spacing"],
+    "correctAnswer": "padding"
+  },
+  {
+    "id": "HC-005",
+    "question": "Which attribute is required in the <img> tag?",
+    "options": ["src", "href", "alt", "title"],
+    "correctAnswer": "src"
+  },
+  {
+    "id": "HC-006",
+    "question": "Which CSS selector selects elements with a specific class?",
+    "options": [".classname", "#classname", "*classname", "classname"],
+    "correctAnswer": ".classname"
+  },
+  {
+    "id": "HC-007",
+    "question": "Which HTML5 element is semantic?",
+    "options": ["<div>", "<span>", "<section>", "<b>"],
+    "correctAnswer": "<section>"
+  },
+  {
+    "id": "HC-008",
+    "question": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Computer Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "id": "HC-009",
+    "question": "Which CSS property is used to make text bold?",
+    "options": ["text-weight", "font-weight", "font-style", "text-bold"],
+    "correctAnswer": "font-weight"
+  },
+  {
+    "id": "HC-010",
+    "question": "Which HTML input type is used for email validation?",
+    "options": ["text", "mail", "email", "validate-email"],
+    "correctAnswer": "email"
+  },
+  {
+    "id": "HC-011",
+    "question": "Which CSS property is used to create space outside an element?",
+    "options": ["padding", "margin", "border", "outline"],
+    "correctAnswer": "margin"
+  },
+  {
+    "id": "HC-012",
+    "question": "Which HTML tag is used to define a table row?",
+    "options": ["<td>", "<th>", "<tr>", "<table-row>"],
+    "correctAnswer": "<tr>"
+  },
+  {
+    "id": "HC-013",
+    "question": "Which CSS position value removes an element from normal document flow?",
+    "options": ["relative", "static", "sticky", "absolute"],
+    "correctAnswer": "absolute"
+  },
+  {
+    "id": "HC-014",
+    "question": "Which property is used to apply Flexbox in CSS?",
+    "options": ["display: flex", "flex: enable", "position: flex", "layout: flex"],
+    "correctAnswer": "display: flex"
+  },
+  {
+    "id": "HC-015",
+    "question": "Which HTML tag is used to embed a video?",
+    "options": ["<media>", "<movie>", "<video>", "<embed-video>"],
+    "correctAnswer": "<video>"
+  },
+  {
+    "id": "HC-016",
+    "question": "Which CSS unit is relative to the root element's font size?",
+    "options": ["em", "px", "rem", "%"],
+    "correctAnswer": "rem"
+  },
+  {
+    "id": "HC-017",
+    "question": "Which CSS property controls the stacking order of positioned elements?",
+    "options": ["order", "z-index", "stack", "layer"],
+    "correctAnswer": "z-index"
+  },
+  {
+    "id": "HC-018",
+    "question": "Which HTML tag defines metadata about an HTML document?",
+    "options": ["<body>", "<meta>", "<info>", "<data>"],
+    "correctAnswer": "<meta>"
+  },
+  {
+    "id": "HC-019",
+    "question": "Which CSS pseudo-class selects an element when the user hovers over it?",
+    "options": [":hover", ":focus", ":active", ":visited"],
+    "correctAnswer": ":hover"
+  },
+  {
+    "id": "HC-020",
+    "question": "Which HTML element is used for creating a drop-down list?",
+    "options": ["<input>", "<select>", "<dropdown>", "<list>"],
+    "correctAnswer": "<select>"
+  },
+  {
+    "id": "HC-021",
+    "question": "Which CSS property is used to create grid layout?",
+    "options": ["display: grid", "layout: grid", "grid: enable", "position: grid"],
+    "correctAnswer": "display: grid"
+  },
+  {
+    "id": "HC-022",
+    "question": "Which HTML attribute is used to provide alternative text for images?",
+    "options": ["title", "alt", "description", "caption"],
+    "correctAnswer": "alt"
+  },
+  {
+    "id": "HC-023",
+    "question": "Which CSS function is used to apply a linear gradient?",
+    "options": ["linear-gradient()", "gradient-linear()", "color-gradient()", "bg-linear()"],
+    "correctAnswer": "linear-gradient()"
+  },
+  {
+    "id": "HC-024",
+    "question": "Which HTML element is used to define navigation links?",
+    "options": ["<navigate>", "<nav>", "<links>", "<menu>"],
+    "correctAnswer": "<nav>"
+  },
+  {
+    "id": "HC-025",
+    "question": "Which CSS property is used to make a website responsive?",
+    "options": ["@responsive", "@media", "@screen", "@query"],
+    "correctAnswer": "@media"
+  },
+  {
+    "id": "HC-026",
+    "question": "Which HTML5 API is used for drawing graphics via scripting?",
+    "options": ["SVG", "<graphics>", "<canvas>", "<draw>"],
+    "correctAnswer": "<canvas>"
+  },
+  {
+    "id": "HC-027",
+    "question": "Which CSS property allows smooth transitions between property changes?",
+    "options": ["transform", "transition", "animation", "effect"],
+    "correctAnswer": "transition"
+  },
+  {
+    "id": "HC-028",
+    "question": "Which HTML element is used to group block-level elements for styling?",
+    "options": ["<span>", "<div>", "<group>", "<sectioning>"],
+    "correctAnswer": "<div>"
+  },
+  {
+    "id": "HC-029",
+    "question": "Which CSS property is used to control how overflowed content is handled?",
+    "options": ["clip", "scroll", "overflow", "display"],
+    "correctAnswer": "overflow"
+  },
+  {
+    "id": "HC-030",
+    "question": "Which CSS property is used to rotate an element?",
+    "options": ["rotate", "transform", "spin", "animation"],
+    "correctAnswer": "transform"
+  },
+  {
+    "id": "HC-031",
+    "question": "Which HTML tag is used to create an ordered list?",
+    "options": ["<ul>", "<list>", "<ol>", "<dl>"],
+    "correctAnswer": "<ol>"
+  },
+  {
+    "id": "HC-032",
+    "question": "Which CSS property is used to set the background color of an element?",
+    "options": ["color", "bgcolor", "background-color", "background-style"],
+    "correctAnswer": "background-color"
+  },
+  {
+    "id": "HC-033",
+    "question": "Which HTML tag is used to define a definition list?",
+    "options": ["<dl>", "<ul>", "<ol>", "<list>"],
+    "correctAnswer": "<dl>"
+  },
+  {
+    "id": "HC-034",
+    "question": "Which CSS property is used to control the transparency of an element?",
+    "options": ["visibility", "opacity", "alpha", "transparent"],
+    "correctAnswer": "opacity"
+  },
+  {
+    "id": "HC-035",
+    "question": "Which HTML attribute is used to open a link in a new tab?",
+    "options": ["rel=\"new\"", "open=\"_blank\"", "target=\"_blank\"", "window=\"new\""],
+    "correctAnswer": "target=\"_blank\""
+  },
+  {
+    "id": "HC-036",
+    "question": "Which CSS value makes an element invisible but still take up space?",
+    "options": ["display: none", "opacity: 0", "visibility: hidden", "hidden: true"],
+    "correctAnswer": "visibility: hidden"
+  },
+  {
+    "id": "HC-037",
+    "question": "Which HTML tag is used to define emphasized text?",
+    "options": ["<italic>", "<i>", "<em>", "<strong>"],
+    "correctAnswer": "<em>"
+  },
+  {
+    "id": "HC-038",
+    "question": "Which CSS property is used to control the font size?",
+    "options": ["text-size", "font-size", "size", "font-style"],
+    "correctAnswer": "font-size"
+  },
+  {
+    "id": "HC-039",
+    "question": "Which HTML element is used to group inline elements?",
+    "options": ["<span>", "<div>", "<group>", "<inline>"],
+    "correctAnswer": "<span>"
+  },
+  {
+    "id": "HC-040",
+    "question": "Which CSS property is used to change the cursor style?",
+    "options": ["mouse", "pointer-style", "cursor", "hover-style"],
+    "correctAnswer": "cursor"
+  },
+  {
+    "id": "HC-041",
+    "question": "Which HTML tag is used to define a form?",
+    "options": ["<input>", "<form>", "<fieldset>", "<label>"],
+    "correctAnswer": "<form>"
+  },
+  {
+    "id": "HC-042",
+    "question": "Which CSS property is used to specify the type of positioning method?",
+    "options": ["position", "layout", "display", "float"],
+    "correctAnswer": "position"
+  },
+  {
+    "id": "HC-043",
+    "question": "Which HTML tag is used to create a checkbox?",
+    "options": ["<input type=\"checkbox\">", "<checkbox>", "<check>", "<input checkbox>"],
+    "correctAnswer": "<input type=\"checkbox\">"
+  },
+  {
+    "id": "HC-044",
+    "question": "Which CSS property is used to control the space between lines of text?",
+    "options": ["letter-spacing", "line-height", "text-spacing", "word-spacing"],
+    "correctAnswer": "line-height"
+  },
+  {
+    "id": "HC-045",
+    "question": "Which HTML element is used to define a footer for a document or section?",
+    "options": ["<bottom>", "<footer>", "<section-footer>", "<end>"],
+    "correctAnswer": "<footer>"
+  },
+  {
+    "id": "HC-046",
+    "question": "Which CSS property is used to create rounded corners?",
+    "options": ["corner-radius", "border-style", "border-radius", "round-corner"],
+    "correctAnswer": "border-radius"
+  },
+  {
+    "id": "HC-047",
+    "question": "Which HTML tag is used to define a caption for a table?",
+    "options": ["<caption>", "<title>", "<table-caption>", "<thead>"],
+    "correctAnswer": "<caption>"
+  },
+  {
+    "id": "HC-048",
+    "question": "Which CSS property is used to specify the maximum width of an element?",
+    "options": ["width-limit", "max-width", "limit-width", "maximum"],
+    "correctAnswer": "max-width"
+  },
+  {
+    "id": "HC-049",
+    "question": "Which HTML element is used to mark up a progress bar?",
+    "options": ["<meter>", "<progress>", "<range>", "<status>"],
+    "correctAnswer": "<progress>"
+  },
+  {
+    "id": "HC-050",
+    "question": "Which CSS property is used to align text horizontally?",
+    "options": ["text-align", "align-text", "horizontal-align", "font-align"],
+    "correctAnswer": "text-align"
+  },
+  {
+    "id": "HC-051",
+    "question": "Which HTML tag is used to define a figure caption?",
+    "options": ["<figcaption>", "<caption>", "<figure-text>", "<figtext>"],
+    "correctAnswer": "<figcaption>"
+  },
+  {
+    "id": "HC-052",
+    "question": "Which CSS property is used to apply a shadow to text?",
+    "options": ["box-shadow", "font-shadow", "shadow-text", "text-shadow"],
+    "correctAnswer": "text-shadow"
+  },
+  {
+    "id": "HC-053",
+    "question": "Which HTML element is used to specify a header for a document or section?",
+    "options": ["<heading>", "<header>", "<top>", "<head>"],
+    "correctAnswer": "<header>"
+  },
+  {
+    "id": "HC-054",
+    "question": "Which CSS property is used to control the style of list markers?",
+    "options": ["list-marker", "list-type", "list-style-type", "marker-style"],
+    "correctAnswer": "list-style-type"
+  },
+  {
+    "id": "HC-055",
+    "question": "Which HTML tag is used to define a time or date?",
+    "options": ["<datetime>", "<time>", "<date>", "<calendar>"],
+    "correctAnswer": "<time>"
+  },
+  {
+    "id": "HC-056",
+    "question": "Which CSS property is used to prevent text from wrapping?",
+    "options": ["text-wrap", "white-space", "no-wrap", "overflow-wrap"],
+    "correctAnswer": "white-space"
+  },
+  {
+    "id": "HC-057",
+    "question": "Which HTML attribute is used to specify that an input field must be filled out?",
+    "options": ["mandatory", "validate", "required", "mustfill"],
+    "correctAnswer": "required"
+  },
+  {
+    "id": "HC-058",
+    "question": "Which CSS property is used to set the image as a background?",
+    "options": ["background-image", "image-bg", "bg-image", "background-src"],
+    "correctAnswer": "background-image"
+  },
+  {
+    "id": "HC-059",
+    "question": "Which HTML element is used to define a scalable vector graphic container?",
+    "options": ["<canvas>", "<vector>", "<svg>", "<graphic>"],
+    "correctAnswer": "<svg>"
+  },
+  {
+    "id": "HC-060",
+    "question": "Which CSS property is used to define the duration of an animation?",
+    "options": ["animation-duration", "transition-time", "animation-time", "animate-speed"],
+    "correctAnswer": "animation-duration"
+  },
+  {
+    "id": "HC-061",
+    "question": "Which HTML tag is used to create an unordered list?",
+    "options": ["<ol>", "<ul>", "<list>", "<dl>"],
+    "correctAnswer": "<ul>"
+  },
+  {
+    "id": "HC-062",
+    "question": "Which CSS property is used to control the width of an element?",
+    "options": ["size", "element-width", "width", "max-size"],
+    "correctAnswer": "width"
+  },
+  {
+    "id": "HC-063",
+    "question": "Which HTML tag is used to define a table header cell?",
+    "options": ["<td>", "<th>", "<thead>", "<header>"],
+    "correctAnswer": "<th>"
+  },
+  {
+    "id": "HC-064",
+    "question": "Which CSS property is used to float an element to the left or right?",
+    "options": ["align", "position", "float", "display"],
+    "correctAnswer": "float"
+  },
+  {
+    "id": "HC-065",
+    "question": "Which HTML tag is used to define a line break?",
+    "options": ["<break>", "<br>", "<lb>", "<hr>"],
+    "correctAnswer": "<br>"
+  },
+  {
+    "id": "HC-066",
+    "question": "Which CSS property is used to control the visibility of an element?",
+    "options": ["display", "opacity", "visibility", "hidden"],
+    "correctAnswer": "visibility"
+  },
+  {
+    "id": "HC-067",
+    "question": "Which HTML element is used to embed external content like a webpage?",
+    "options": ["<iframe>", "<embed>", "<object>", "<external>"],
+    "correctAnswer": "<iframe>"
+  },
+  {
+    "id": "HC-068",
+    "question": "Which CSS property is used to control the spacing between letters?",
+    "options": ["word-spacing", "letter-spacing", "text-spacing", "font-gap"],
+    "correctAnswer": "letter-spacing"
+  },
+  {
+    "id": "HC-069",
+    "question": "Which HTML tag is used to create a horizontal rule?",
+    "options": ["<line>", "<hr>", "<rule>", "<br>"],
+    "correctAnswer": "<hr>"
+  },
+  {
+    "id": "HC-070",
+    "question": "Which CSS property is used to transform text to uppercase?",
+    "options": ["font-transform", "case", "text-transform", "uppercase"],
+    "correctAnswer": "text-transform"
+  },
+  {
+    "id": "HC-071",
+    "question": "Which HTML element is used to associate a label with a form control?",
+    "options": ["<formlabel>", "<caption>", "<label>", "<legend>"],
+    "correctAnswer": "<label>"
+  },
+  {
+    "id": "HC-072",
+    "question": "Which CSS property defines how flex items wrap onto multiple lines?",
+    "options": ["flex-direction", "flex-flow", "flex-wrap", "flex-line"],
+    "correctAnswer": "flex-wrap"
+  },
+  {
+    "id": "HC-073",
+    "question": "Which HTML attribute is used to uniquely identify an element?",
+    "options": ["class", "name", "id", "key"],
+    "correctAnswer": "id"
+  },
+  {
+    "id": "HC-074",
+    "question": "Which CSS property is used to set the height of an element?",
+    "options": ["height", "element-height", "size-height", "max-height"],
+    "correctAnswer": "height"
+  },
+  {
+    "id": "HC-075",
+    "question": "Which HTML tag is used to define a fieldset in a form?",
+    "options": ["<group>", "<fieldset>", "<formgroup>", "<section>"],
+    "correctAnswer": "<fieldset>"
+  },
+  {
+    "id": "HC-076",
+    "question": "Which CSS property is used to control the order of flex items?",
+    "options": ["flex-order", "order", "position-order", "item-order"],
+    "correctAnswer": "order"
+  },
+  {
+    "id": "HC-077",
+    "question": "Which HTML element is used to define important text?",
+    "options": ["<strong>", "<important>", "<b>", "<mark>"],
+    "correctAnswer": "<strong>"
+  },
+  {
+    "id": "HC-078",
+    "question": "Which CSS property is used to specify the font family?",
+    "options": ["font-name", "text-font", "font-family", "family"],
+    "correctAnswer": "font-family"
+  },
+  {
+    "id": "HC-079",
+    "question": "Which HTML tag is used to define a summary for a <details> element?",
+    "options": ["<info>", "<summary>", "<caption>", "<head>"],
+    "correctAnswer": "<summary>"
+  },
+  {
+    "id": "HC-080",
+    "question": "Which CSS property is used to create a shadow around an element's box?",
+    "options": ["text-shadow", "shadow-box", "box-shadow", "element-shadow"],
+    "correctAnswer": "box-shadow"
+  },
+  {
+    "id": "HC-081",
+    "question": "Which HTML element is used to highlight text?",
+    "options": ["<highlight>", "<mark>", "<em>", "<strong>"],
+    "correctAnswer": "<mark>"
+  },
+  {
+    "id": "HC-082",
+    "question": "Which CSS property specifies the alignment along the cross axis in Flexbox?",
+    "options": ["justify-content", "align-items", "align-content", "flex-align"],
+    "correctAnswer": "align-items"
+  },
+  {
+    "id": "HC-083",
+    "question": "Which HTML tag is used to define a data list for input suggestions?",
+    "options": ["<list>", "<datalist>", "<select>", "<optionlist>"],
+    "correctAnswer": "<datalist>"
+  },
+  {
+    "id": "HC-084",
+    "question": "Which CSS property is used to control how an element is displayed (block, inline, flex)?",
+    "options": ["display", "visibility", "position", "layout"],
+    "correctAnswer": "display"
+  },
+  {
+    "id": "HC-085",
+    "question": "Which HTML tag is used to define a meter or scalar measurement?",
+    "options": ["<progress>", "<gauge>", "<meter>", "<range>"],
+    "correctAnswer": "<meter>"
+  },
+  {
+    "id": "HC-086",
+    "question": "Which CSS property is used to define the gap between grid rows and columns?",
+    "options": ["grid-gap", "gap", "grid-spacing", "cell-gap"],
+    "correctAnswer": "gap"
+  },
+  {
+    "id": "HC-087",
+    "question": "Which HTML attribute is used to disable an input field?",
+    "options": ["readonly", "inactive", "disabled", "off"],
+    "correctAnswer": "disabled"
+  },
+  {
+    "id": "HC-088",
+    "question": "Which CSS property is used to scale an element?",
+    "options": ["scale", "transform", "resize", "zoom"],
+    "correctAnswer": "transform"
+  },
+  {
+    "id": "HC-089",
+    "question": "Which HTML element is used to define a template for client-side content?",
+    "options": ["<script>", "<template>", "<pattern>", "<model>"],
+    "correctAnswer": "<template>"
+  },
+  {
+    "id": "HC-090",
+    "question": "Which CSS property is used to control the aspect ratio of an element?",
+    "options": ["ratio", "aspect", "aspect-ratio", "element-ratio"],
+    "correctAnswer": "aspect-ratio"
   }
 ]

@@ -1,30 +1,362 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
+    "id": "OBQ-001",
+    "question": "What is the output of the following Python code?\n\nx = 5\nprint(x * 2 + 3)",
+    "options": ["13", "16", "10", "7"],
+    "correctAnswer": "13"
+  },
+  {
+    "id": "OBQ-002",
+    "question": "What is the output of the following C code?\n\n#include<stdio.h>\nint main(){\n   int a = 10;\n   printf(\"%d\", a++);\n   return 0;\n}",
+    "options": ["11", "10", "9", "Compilation Error"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "OBQ-003",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log(typeof null);",
+    "options": ["object", "null", "undefined", "number"],
+    "correctAnswer": "object"
+  },
+  {
+    "id": "OBQ-004",
+    "question": "What is the output of the following Python code?\n\nprint(bool(\"False\"))",
+    "options": ["False", "Error", "0", "True"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "OBQ-005",
+    "question": "What is the output of the following C++ code?\n\n#include<iostream>\nusing namespace std;\nint main(){\n   int x = 3;\n   cout << x++ + ++x;\n   return 0;\n}",
+    "options": ["8", "7", "6", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "OBQ-006",
+    "question": "What is the output of the following Python code?\n\nfor i in range(3):\n    print(i, end=\" \")",
+    "options": ["1 2 3", "0 1 2", "0 1 2 3", "1 2"],
+    "correctAnswer": "0 1 2"
+  },
+  {
+    "id": "OBQ-007",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    int x = 4;\n    System.out.print(x << 1);\n  }\n}",
+    "options": ["4", "2", "8", "16"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "OBQ-008",
+    "question": "What is the output of the following Python code?\n\na = [1,2,3]\nb = a\nb.append(4)\nprint(len(a))",
+    "options": ["3", "Error", "5", "4"],
+    "correctAnswer": "4"
+  },
+  {
+    "id": "OBQ-009",
+    "question": "What is the output of the following JavaScript code?\n\nlet x = 0;\nif(x) console.log(\"Yes\");\nelse console.log(\"No\");",
+    "options": ["undefined", "Error", "No", "Yes"],
+    "correctAnswer": "No"
+  },
+  {
+    "id": "OBQ-010",
+    "question": "What is the output of the following Python code?\n\nprint(2 ** 3 ** 2)",
+    "options": ["512", "64", "256", "Error"],
+    "correctAnswer": "512"
+  },
+  {
+    "id": "OBQ-011",
+    "question": "What is the output of the following C code?\n\n#include<stdio.h>\nint main(){\n   int x = 5;\n   printf(\"%d\", x-- - --x);\n   return 0;\n}",
+    "options": ["0", "1", "-1", "2"],
     "correctAnswer": "1"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "OBQ-012",
+    "question": "What is the output of the following Python code?\n\nprint(list(range(1,5,2)))",
+    "options": ["[1,2,3,4]", "[1,3]", "[1,3,5]", "[2,4]"],
+    "correctAnswer": "[1,3]"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
+    "id": "OBQ-013",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log(0 == false);",
+    "options": ["false", "undefined", "Error", "true"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "OBQ-014",
+    "question": "What is the output of the following Python code?\n\ndef func(x, y=5):\n    return x + y\nprint(func(3))",
+    "options": ["5", "8", "3", "Error"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "OBQ-015",
+    "question": "What is the output of the following C++ code?\n\n#include<iostream>\nusing namespace std;\nint main(){\n   int a = 2;\n   int b = 3;\n   cout << a * b + b;\n   return 0;\n}",
+    "options": ["9", "12", "6", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": "OBQ-016",
+    "question": "What is the output of the following Python code?\n\nprint(\"Hello\"[::-1])",
+    "options": ["olleH", "Hello", "Error", "hELLO"],
+    "correctAnswer": "olleH"
+  },
+  {
+    "id": "OBQ-017",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.print(10 / 3);\n  }\n}",
+    "options": ["3", "3.33", "3.0", "4"],
     "correctAnswer": "3"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "OBQ-018",
+    "question": "What is the output of the following Python code?\n\na = (1,2,3)\nprint(a[1])",
+    "options": ["3", "2", "1", "Error"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "OBQ-019",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log(\"5\" - 2);",
+    "options": ["52", "NaN", "3", "Error"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "OBQ-020",
+    "question": "What is the output of the following Python code?\n\nprint(len({1,2,2,3}))",
+    "options": ["4", "2", "3", "Error"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "OBQ-021",
+    "question": "What is the output of the following C code?\n\n#include<stdio.h>\nint main(){\n   int a = 1;\n   if(a = 0)\n      printf(\"Yes\");\n   else\n      printf(\"No\");\n   return 0;\n}",
+    "options": ["Yes", "Compilation Error", "No", "0"],
+    "correctAnswer": "No"
+  },
+  {
+    "id": "OBQ-022",
+    "question": "What is the output of the following Python code?\n\nprint(\"abc\" * 2)",
+    "options": ["abcabc", "Error", "abc2", "2abc"],
+    "correctAnswer": "abcabc"
+  },
+  {
+    "id": "OBQ-023",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    int x = 5;\n    System.out.print(++x);\n  }\n}",
+    "options": ["6", "5", "4", "Error"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "OBQ-024",
+    "question": "What is the output of the following Python code?\n\nprint([i*i for i in range(3)])",
+    "options": ["[0,1,4]", "[1,4,9]", "[0,1,2]", "[1,2,3]"],
+    "correctAnswer": "[0,1,4]"
+  },
+  {
+    "id": "OBQ-025",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log([] == false);",
+    "options": ["true", "false", "Error", "undefined"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "OBQ-026",
+    "question": "What is the output of the following Python code?\n\nx = [1,2,3]\nprint(x[-1])",
+    "options": ["1", "2", "Error", "3"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "OBQ-027",
+    "question": "What is the output of the following C++ code?\n\n#include<iostream>\nusing namespace std;\nint main(){\n   cout << (5 > 3 && 2 < 1);\n   return 0;\n}",
+    "options": ["true", "1", "false", "0"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": "OBQ-028",
+    "question": "What is the output of the following Python code?\n\nprint(type([]) == list)",
+    "options": ["False", "Error", "True", "list"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "OBQ-029",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.print(\"A\" + 1 + 2);\n  }\n}",
+    "options": ["A3", "12A", "3A", "A12"],
+    "correctAnswer": "A12"
+  },
+  {
+    "id": "OBQ-030",
+    "question": "What is the output of the following Python code?\n\nprint({1,2} & {2,3})",
+    "options": ["{1,2,3}", "{1}", "{2}", "Error"],
+    "correctAnswer": "{2}"
+  },
+  {
+    "id": "OBQ-031",
+    "question": "What is the output of the following Python code?\n\nx = [1, 2, 3]\ny = x[:]\ny.append(4)\nprint(len(x))",
+    "options": ["3", "4", "Error", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "OBQ-032",
+    "question": "What is the output of the following C code?\n\n#include<stdio.h>\nint main(){\n   int x = 5;\n   printf(\"%d\", x & 3);\n   return 0;\n}",
+    "options": ["1", "5", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "OBQ-033",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log([] + []);",
+    "options": ["[]", "''", "0", "undefined"],
+    "correctAnswer": "''"
+  },
+  {
+    "id": "OBQ-034",
+    "question": "What is the output of the following Python code?\n\nprint('Python'[-1::-2])",
+    "options": ["nhyP", "Pnht", "nPto", "Error"],
+    "correctAnswer": "nhyP"
+  },
+  {
+    "id": "OBQ-035",
+    "question": "What is the output of the following C++ code?\n\n#include<iostream>\nusing namespace std;\nint main(){\n   int x = 10;\n   int y = 3;\n   cout << x % y;\n   return 0;\n}",
+    "options": ["1", "3", "0", "10"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "OBQ-036",
+    "question": "What is the output of the following Python code?\n\nprint(5 // 2)",
+    "options": ["2", "2.5", "3", "Error"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "OBQ-037",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.print(5 + 2 * 3);\n  }\n}",
+    "options": ["11", "21", "15", "16"],
+    "correctAnswer": "11"
+  },
+  {
+    "id": "OBQ-038",
+    "question": "What is the output of the following Python code?\n\ndef f(x=[]):\n    x.append(1)\n    return x\nprint(f())\nprint(f())",
+    "options": ["[1], [1]", "[1], [1,1]", "[1,1], [1,1]", "Error"],
+    "correctAnswer": "[1], [1,1]"
+  },
+  {
+    "id": "OBQ-039",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log(typeof NaN);",
+    "options": ["number", "NaN", "undefined", "object"],
+    "correctAnswer": "number"
+  },
+  {
+    "id": "OBQ-040",
+    "question": "What is the output of the following Python code?\n\nprint(bool([]) == False)",
+    "options": ["True", "False", "Error", "0"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "OBQ-041",
+    "question": "What is the output of the following C code?\n\n#include<stdio.h>\nint main(){\n   int a = 2;\n   int b = 3;\n   printf(\"%d\", a*b++);\n   return 0;\n}",
+    "options": ["6", "5", "7", "Error"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "OBQ-042",
+    "question": "What is the output of the following Python code?\n\nx = {1:'a', 2:'b'}\nprint(x.get(3, 'c'))",
+    "options": ["Error", "None", "c", "3"],
+    "correctAnswer": "c"
+  },
+  {
+    "id": "OBQ-043",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log(1 + '2' + 3);",
+    "options": ["123", "6", "33", "15"],
+    "correctAnswer": "123"
+  },
+  {
+    "id": "OBQ-044",
+    "question": "What is the output of the following Python code?\n\nprint(list(map(lambda x:x*2, [1,2,3])))",
+    "options": ["[2,4,6]", "[1,2,3]", "[1,4,9]", "Error"],
+    "correctAnswer": "[2,4,6]"
+  },
+  {
+    "id": "OBQ-045",
+    "question": "What is the output of the following C++ code?\n\n#include<iostream>\nusing namespace std;\nint main(){\n   int a = 5;\n   int b = 2;\n   cout << a / b;\n   return 0;\n}",
+    "options": ["2", "2.5", "3", "Error"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "OBQ-046",
+    "question": "What is the output of the following Python code?\n\nx = 'abc'\nprint(x*3)",
+    "options": ["abcabcabc", "abc3", "abc", "Error"],
+    "correctAnswer": "abcabcabc"
+  },
+  {
+    "id": "OBQ-047",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.print('A' + 1);\n  }\n}",
+    "options": ["66", "A1", "Error", "65"],
+    "correctAnswer": "66"
+  },
+  {
+    "id": "OBQ-048",
+    "question": "What is the output of the following Python code?\n\nprint({1,2,3} - {2,3,4})",
+    "options": ["{1}", "{4}", "{1,4}", "Error"],
+    "correctAnswer": "{1}"
+  },
+  {
+    "id": "OBQ-049",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log(5 > 3 && 2 > 1);",
+    "options": ["false", "true", "0", "Error"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "OBQ-050",
+    "question": "What is the output of the following Python code?\n\nx = [1,2,3]\nprint(x[::-1])",
+    "options": ["[3,2,1]", "[1,2,3]", "Error", "[1,3,2]"],
+    "correctAnswer": "[3,2,1]"
+  },
+  {
+    "id": "OBQ-051",
+    "question": "What is the output of the following C code?\n\n#include<stdio.h>\nint main(){\n   int x = 3;\n   printf(\"%d\", ++x + x++);\n   return 0;\n}",
+    "options": ["8", "7", "6", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "OBQ-052",
+    "question": "What is the output of the following Python code?\n\nprint(10 % 3)",
+    "options": ["1", "3", "0", "Error"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "OBQ-053",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log('5' * '2');",
+    "options": ["10", "52", "NaN", "Error"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "OBQ-054",
+    "question": "What is the output of the following Python code?\n\nprint(2 < 3 < 4)",
+    "options": ["True", "False", "Error", "0"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "OBQ-055",
+    "question": "What is the output of the following C++ code?\n\n#include<iostream>\nusing namespace std;\nint main(){\n   cout << (5 && 0);\n   return 0;\n}",
+    "options": ["0", "1", "true", "false"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": "OBQ-056",
+    "question": "What is the output of the following Python code?\n\nx = [0,1,2,3]\nprint(x[1:3])",
+    "options": ["[1,2]", "[0,1,2]", "[2,3]", "Error"],
+    "correctAnswer": "[1,2]"
+  },
+  {
+    "id": "OBQ-057",
+    "question": "What is the output of the following Java code?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.print(10 % 4);\n  }\n}",
+    "options": ["2", "4", "6", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "OBQ-058",
+    "question": "What is the output of the following Python code?\n\nprint(all([True, False, True]))",
+    "options": ["True", "False", "Error", "0"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": "OBQ-059",
+    "question": "What is the output of the following JavaScript code?\n\nconsole.log('abc'.charAt(1));",
+    "options": ["b", "a", "c", "Error"],
+    "correctAnswer": "b"
+  },
+  {
+    "id": "OBQ-060",
+    "question": "What is the output of the following Python code?\n\nx = [1,2,3]\nprint(sum(x))",
+    "options": ["6", "5", "7", "Error"],
+    "correctAnswer": "6"
   }
 ]

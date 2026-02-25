@@ -1,30 +1,362 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
+    "id": "PL-001",
+    "question": "What is the primary purpose of an algorithm?",
+    "options": ["To decorate code", "To define step-by-step solution", "To increase memory usage", "To replace variables"],
+    "correctAnswer": "To define step-by-step solution"
+  },
+  {
+    "id": "PL-002",
+    "question": "Which symbol is commonly used for decision making in a flowchart?",
+    "options": ["Rectangle", "Circle", "Diamond", "Arrow"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": "PL-003",
+    "question": "What will be the output? x = 5; y = 2; print(x % y)",
+    "options": ["2", "1", "0", "2.5"],
     "correctAnswer": "1"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "PL-004",
+    "question": "Which logical operator returns true only if both conditions are true?",
+    "options": ["OR", "NOT", "AND", "XOR"],
+    "correctAnswer": "AND"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
+    "id": "PL-005",
+    "question": "How many times will this loop execute? for(i = 1; i <= 5; i++)",
+    "options": ["4", "5", "6", "Infinite"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "PL-006",
+    "question": "What will be the output? a = 10; if(a > 5) print('Yes') else print('No')",
+    "options": ["No", "Yes", "Error", "Nothing"],
+    "correctAnswer": "Yes"
+  },
+  {
+    "id": "PL-007",
+    "question": "Which data structure works on FIFO principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "id": "PL-008",
+    "question": "What is the output? x = 3; x = x * x; print(x)",
+    "options": ["6", "9", "3", "12"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": "PL-009",
+    "question": "If a function calls itself, what is it called?",
+    "options": ["Iteration", "Looping", "Recursion", "Branching"],
+    "correctAnswer": "Recursion"
+  },
+  {
+    "id": "PL-010",
+    "question": "What will be the output? for(i=1;i<=3;i++) print(i)",
+    "options": ["1 2 3", "1 2", "0 1 2 3", "2 3"],
+    "correctAnswer": "1 2 3"
+  },
+  {
+    "id": "PL-011",
+    "question": "Which condition will always be true?",
+    "options": ["5 < 3", "10 != 10", "7 >= 7", "4 == 5"],
+    "correctAnswer": "7 >= 7"
+  },
+  {
+    "id": "PL-012",
+    "question": "What is the output? x = 4; if(x%2==0) print('Even') else print('Odd')",
+    "options": ["Odd", "Error", "Even", "None"],
+    "correctAnswer": "Even"
+  },
+  {
+    "id": "PL-013",
+    "question": "Which loop is guaranteed to execute at least once?",
+    "options": ["for loop", "while loop", "do-while loop", "foreach loop"],
+    "correctAnswer": "do-while loop"
+  },
+  {
+    "id": "PL-014",
+    "question": "What will be the output? x=1; while(x<4){ print(x); x++; }",
+    "options": ["1 2 3", "1 2 3 4", "0 1 2 3", "Infinite"],
+    "correctAnswer": "1 2 3"
+  },
+  {
+    "id": "PL-015",
+    "question": "Which operator is used for equality comparison?",
+    "options": ["=", "==", "!=", "<>"],
+    "correctAnswer": "=="
+  },
+  {
+    "id": "PL-016",
+    "question": "If an algorithm has nested loops each running n times, what is its time complexity?",
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+    "correctAnswer": "O(n^2)"
+  },
+  {
+    "id": "PL-017",
+    "question": "What will be the output? x=5; y=++x; print(y)",
+    "options": ["5", "6", "Error", "4"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "PL-018",
+    "question": "Which search algorithm works best on sorted data?",
+    "options": ["Linear Search", "Binary Search", "Depth First Search", "Breadth First Search"],
+    "correctAnswer": "Binary Search"
+  },
+  {
+    "id": "PL-019",
+    "question": "What is the output? x=2; y=3; print(x**y)",
+    "options": ["6", "8", "9", "5"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "PL-020",
+    "question": "Which sorting algorithm repeatedly swaps adjacent elements?",
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Heap Sort"],
+    "correctAnswer": "Bubble Sort"
+  },
+  {
+    "id": "PL-021",
+    "question": "What will be the output? x=0; for(i=0;i<3;i++) x+=i; print(x)",
+    "options": ["6", "3", "2", "1"],
     "correctAnswer": "3"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "PL-022",
+    "question": "What is the base condition in recursion?",
+    "options": ["Stopping condition", "Loop condition", "Initialization", "Increment"],
+    "correctAnswer": "Stopping condition"
+  },
+  {
+    "id": "PL-023",
+    "question": "Which traversal method uses a queue?",
+    "options": ["DFS", "Inorder", "Postorder", "BFS"],
+    "correctAnswer": "BFS"
+  },
+  {
+    "id": "PL-024",
+    "question": "What is the output? if(false || true) print('A')",
+    "options": ["B", "Error", "Nothing", "A"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "PL-025",
+    "question": "If an algorithm divides the problem into two equal halves repeatedly, what is its time complexity?",
+    "options": ["O(n)", "O(n^2)", "O(log n)", "O(2^n)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "id": "PL-026",
+    "question": "What will be the output? x=5; if(x>2 && x<10) print('Valid')",
+    "options": ["Invalid", "Error", "Valid", "None"],
+    "correctAnswer": "Valid"
+  },
+  {
+    "id": "PL-027",
+    "question": "Which case leads to infinite recursion?",
+    "options": ["Proper base case", "Missing base case", "Small input", "Correct decrement"],
+    "correctAnswer": "Missing base case"
+  },
+  {
+    "id": "PL-028",
+    "question": "What is the output? for(i=3;i>0;i--) print(i)",
+    "options": ["1 2 3", "3 2 1", "0 1 2 3", "3 2"],
+    "correctAnswer": "3 2 1"
+  },
+  {
+    "id": "PL-029",
+    "question": "Which algorithm technique uses overlapping subproblems?",
+    "options": ["Greedy", "Dynamic Programming", "Backtracking", "Brute Force"],
+    "correctAnswer": "Dynamic Programming"
+  },
+  {
+    "id": "PL-030",
+    "question": "What will be the output? x=1; x = x + (x++); print(x)",
+    "options": ["2", "3", "Undefined behavior", "1"],
+    "correctAnswer": "Undefined behavior"
+  },
+  {
+    "id": "PL-031",
+    "question": "Which of the following is NOT a characteristic of a good algorithm?",
+    "options": ["Correctness", "Finiteness", "Unambiguity", "Complexity beyond necessity"],
+    "correctAnswer": "Complexity beyond necessity"
+  },
+  {
+    "id": "PL-032",
+    "question": "What will be the output? x=7; print(x//2)",
+    "options": ["3", "3.5", "4", "Error"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "PL-033",
+    "question": "Which type of loop is best when the number of iterations is known beforehand?",
+    "options": ["While loop", "For loop", "Do-while loop", "Recursive call"],
+    "correctAnswer": "For loop"
+  },
+  {
+    "id": "PL-034",
+    "question": "What will be the output? x=1; y=2; z=3; print(x<y<z)",
+    "options": ["True", "False", "Error", "0"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "PL-035",
+    "question": "Which of these is a conditional statement?",
+    "options": ["if-else", "for", "while", "print"],
+    "correctAnswer": "if-else"
+  },
+  {
+    "id": "PL-036",
+    "question": "What is the result of 5 & 3 in bitwise AND operation?",
+    "options": ["7", "1", "0", "8"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "PL-037",
+    "question": "Which of the following best describes a stack?",
+    "options": ["FIFO", "LIFO", "Random Access", "Sorted"],
+    "correctAnswer": "LIFO"
+  },
+  {
+    "id": "PL-038",
+    "question": "What will be the output? x=2; y=3; print(x**y % 3)",
+    "options": ["2", "1", "0", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "PL-039",
+    "question": "What type of problem-solving technique is used in backtracking?",
+    "options": ["Greedy", "Divide and Conquer", "Trial and Error", "Dynamic Programming"],
+    "correctAnswer": "Trial and Error"
+  },
+  {
+    "id": "PL-040",
+    "question": "What will be printed? for i in range(0,5,2): print(i)",
+    "options": ["0 2 4", "0 1 2 3 4", "1 3 5", "2 4 6"],
+    "correctAnswer": "0 2 4"
+  },
+  {
+    "id": "PL-041",
+    "question": "Which operator is used to check inequality in most programming languages?",
+    "options": ["==", "=", "!=", "<="],
+    "correctAnswer": "!="
+  },
+  {
+    "id": "PL-042",
+    "question": "If a recursive function has no base case, what will happen?",
+    "options": ["Normal execution", "Infinite recursion", "Error handled automatically", "Function skipped"],
+    "correctAnswer": "Infinite recursion"
+  },
+  {
+    "id": "PL-043",
+    "question": "What will be the output? x=4; y=2; print(x>>y)",
+    "options": ["1", "2", "4", "8"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "PL-044",
+    "question": "Which search algorithm does not require sorted data?",
+    "options": ["Binary Search", "Linear Search", "Jump Search", "Interpolation Search"],
+    "correctAnswer": "Linear Search"
+  },
+  {
+    "id": "PL-045",
+    "question": "What is the output? x = [1,2,3]; print(len(x))",
+    "options": ["3", "2", "1", "Error"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "PL-046",
+    "question": "Which flowchart symbol represents a start or end?",
+    "options": ["Rectangle", "Oval", "Diamond", "Parallelogram"],
+    "correctAnswer": "Oval"
+  },
+  {
+    "id": "PL-047",
+    "question": "What will be the output? x=10; print(x>5 and x<15)",
+    "options": ["False", "True", "Error", "0"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "PL-048",
+    "question": "Which algorithm design technique uses memoization?",
+    "options": ["Greedy", "Dynamic Programming", "Brute Force", "Divide and Conquer"],
+    "correctAnswer": "Dynamic Programming"
+  },
+  {
+    "id": "PL-049",
+    "question": "What is the output? x = 5; y = x--; print(y)",
+    "options": ["5", "4", "6", "Error"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "PL-050",
+    "question": "Which traversal method uses recursion predominantly?",
+    "options": ["BFS", "DFS", "Queue traversal", "Linear search"],
+    "correctAnswer": "DFS"
+  },
+  {
+    "id": "PL-051",
+    "question": "What will be printed? i=0; while i<3: print(i); i+=1",
+    "options": ["0 1 2", "0 1 2 3", "1 2 3", "Infinite loop"],
+    "correctAnswer": "0 1 2"
+  },
+  {
+    "id": "PL-052",
+    "question": "Which of the following is a characteristic of greedy algorithms?",
+    "options": ["Global optimization", "Step-by-step local optimization", "Backtracking", "Recursive division"],
+    "correctAnswer": "Step-by-step local optimization"
+  },
+  {
+    "id": "PL-053",
+    "question": "What will be the output? x=15; print(x & 7)",
+    "options": ["7", "15", "8", "0"],
+    "correctAnswer": "7"
+  },
+  {
+    "id": "PL-054",
+    "question": "Which of these is NOT a primitive data type?",
+    "options": ["Integer", "String", "Boolean", "Array"],
+    "correctAnswer": "Array"
+  },
+  {
+    "id": "PL-055",
+    "question": "What is the output? x = [1,2,3]; y = x; y.append(4); print(x)",
+    "options": ["[1,2,3]", "[1,2,3,4]", "[4]", "Error"],
+    "correctAnswer": "[1,2,3,4]"
+  },
+  {
+    "id": "PL-056",
+    "question": "Which of these problems is best solved by divide and conquer?",
+    "options": ["Fibonacci recursively", "Merge Sort", "Linear Search", "Greedy Coin Change"],
+    "correctAnswer": "Merge Sort"
+  },
+  {
+    "id": "PL-057",
+    "question": "What will be the output? x=10; print(not(x>5))",
+    "options": ["True", "False", "0", "Error"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": "PL-058",
+    "question": "What is the time complexity of inserting an element at the end of a dynamic array?",
+    "options": ["O(1) amortized", "O(n)", "O(log n)", "O(n^2)"],
+    "correctAnswer": "O(1) amortized"
+  },
+  {
+    "id": "PL-059",
+    "question": "Which of these is true for a perfect binary tree?",
+    "options": ["All leaves at same level", "Root has no children", "Nodes have at most 3 children", "It is always empty"],
+    "correctAnswer": "All leaves at same level"
+  },
+  {
+    "id": "PL-060",
+    "question": "What will be the output? x = 5; y = x<<1; print(y)",
+    "options": ["10", "2", "5", "1"],
+    "correctAnswer": "10"
   }
 ]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SS-001",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "SS-002",
+    "question": "What is the largest planet in the Solar System?",
+    "options": ["Saturn", "Earth", "Jupiter", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-003",
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "SS-004",
+    "question": "Which planet is famous for its prominent ring system?",
+    "options": ["Uranus", "Saturn", "Jupiter", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "SS-005",
+    "question": "What is the name of Earth's natural satellite?",
+    "options": ["Europa", "Moon", "Titan", "Phobos"],
+    "correctAnswer": "Moon"
+  },
+  {
+    "id": "SS-006",
+    "question": "Which planet rotates on its side with an axial tilt of about 98 degrees?",
+    "options": ["Neptune", "Uranus", "Mars", "Saturn"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "SS-007",
+    "question": "Which dwarf planet is located in the Kuiper Belt and was reclassified in 2006?",
+    "options": ["Eris", "Ceres", "Pluto", "Haumea"],
+    "correctAnswer": "Pluto"
+  },
+  {
+    "id": "SS-008",
+    "question": "What is the main component of the Sun?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "id": "SS-009",
+    "question": "Which planet has the shortest orbital period around the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "SS-010",
+    "question": "Which planet is known for having the Great Red Spot?",
+    "options": ["Saturn", "Neptune", "Jupiter", "Mars"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-011",
+    "question": "What is the region between Mars and Jupiter where many asteroids are found called?",
+    "options": ["Kuiper Belt", "Oort Cloud", "Asteroid Belt", "Van Allen Belt"],
+    "correctAnswer": "Asteroid Belt"
+  },
+  {
+    "id": "SS-012",
+    "question": "Which planet has the longest day (rotation period) in the Solar System?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-013",
+    "question": "Which moon of Saturn is known for its thick nitrogen-rich atmosphere?",
+    "options": ["Europa", "Ganymede", "Titan", "Callisto"],
+    "correctAnswer": "Titan"
+  },
+  {
+    "id": "SS-014",
+    "question": "Which planet has the strongest surface gravity?",
+    "options": ["Earth", "Neptune", "Saturn", "Jupiter"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-015",
+    "question": "What protects Earth from harmful solar wind particles?",
+    "options": ["Ozone Layer", "Magnetic Field", "Troposphere", "Stratosphere"],
+    "correctAnswer": "Magnetic Field"
+  },
+  {
+    "id": "SS-016",
+    "question": "Which planet is known as Earth's twin due to its similar size and composition?",
+    "options": ["Mars", "Venus", "Mercury", "Uranus"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-017",
+    "question": "What is the approximate age of the Solar System?",
+    "options": ["13.8 billion years", "4.6 billion years", "10 billion years", "1 billion years"],
+    "correctAnswer": "4.6 billion years"
+  },
+  {
+    "id": "SS-018",
+    "question": "Which spacecraft was the first to land on the Moon?",
+    "options": ["Apollo 11", "Voyager 1", "Sputnik 1", "Luna 2"],
+    "correctAnswer": "Apollo 11"
+  },
+  {
+    "id": "SS-019",
+    "question": "Which planet has the fastest rotation period?",
+    "options": ["Saturn", "Jupiter", "Earth", "Mars"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-020",
+    "question": "Which object marks the boundary of the Solar System according to heliopause measurements?",
+    "options": ["Kuiper Belt", "Heliosphere", "Asteroid Belt", "Heliopause"],
+    "correctAnswer": "Heliopause"
+  },
+  {
+    "id": "SS-021",
+    "question": "Which planet has a retrograde rotation opposite to most planets?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-022",
+    "question": "What is the name of Jupiter’s largest moon?",
+    "options": ["Europa", "Ganymede", "Io", "Callisto"],
+    "correctAnswer": "Ganymede"
+  },
+  {
+    "id": "SS-023",
+    "question": "Which region is believed to be the source of long-period comets?",
+    "options": ["Asteroid Belt", "Kuiper Belt", "Oort Cloud", "Heliosphere"],
+    "correctAnswer": "Oort Cloud"
+  },
+  {
+    "id": "SS-024",
+    "question": "Which planet has the highest average surface temperature?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-025",
+    "question": "Which planet was discovered through mathematical prediction before direct observation?",
+    "options": ["Uranus", "Neptune", "Pluto", "Saturn"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "SS-026",
+    "question": "What phenomenon occurs when the Moon passes directly between Earth and the Sun?",
+    "options": ["Lunar Eclipse", "Solar Eclipse", "Transit", "Occultation"],
+    "correctAnswer": "Solar Eclipse"
+  },
+  {
+    "id": "SS-027",
+    "question": "Which planet has the most extensive ring system in terms of size and complexity?",
+    "options": ["Saturn", "Uranus", "Jupiter", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "SS-028",
+    "question": "What type of celestial body is Ceres classified as?",
+    "options": ["Asteroid", "Dwarf Planet", "Comet", "Terrestrial Planet"],
+    "correctAnswer": "Dwarf Planet"
+  },
+  {
+    "id": "SS-029",
+    "question": "Which law describes the relationship between a planet's orbital period and its distance from the Sun?",
+    "options": ["Newton’s First Law", "Kepler’s Third Law", "Hubble’s Law", "Ohm’s Law"],
+    "correctAnswer": "Kepler’s Third Law"
+  },
+  {
+    "id": "SS-030",
+    "question": "What is the escape velocity from Earth approximately?",
+    "options": ["7.9 km/s", "11.2 km/s", "9.8 km/s", "15 km/s"],
+    "correctAnswer": "11.2 km/s"
+  },
+  {
+    "id": "SS-031",
+    "question": "Which planet is known for its blue color due to methane in its atmosphere?",
+    "options": ["Mars", "Neptune", "Venus", "Mercury"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "SS-032",
+    "question": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+    "options": ["Event Horizon", "Heliopause", "Photon Sphere", "Singularity"],
+    "correctAnswer": "Event Horizon"
+  },
+  {
+    "id": "SS-033",
+    "question": "Which planet has the most moons discovered so far?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "SS-034",
+    "question": "What is the name of the largest volcano in the Solar System?",
+    "options": ["Mauna Kea", "Olympus Mons", "Vesuvius", "Mount Sharp"],
+    "correctAnswer": "Olympus Mons"
+  },
+  {
+    "id": "SS-035",
+    "question": "Which spacecraft was the first to leave the Solar System and enter interstellar space?",
+    "options": ["Voyager 1", "Voyager 2", "Pioneer 10", "New Horizons"],
+    "correctAnswer": "Voyager 1"
+  },
+  {
+    "id": "SS-036",
+    "question": "Which planet has a day longer than its year?",
+    "options": ["Mercury", "Venus", "Mars", "Earth"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-037",
+    "question": "What is the name of Mars’ largest moon?",
+    "options": ["Deimos", "Phobos", "Europa", "Titan"],
+    "correctAnswer": "Phobos"
+  },
+  {
+    "id": "SS-038",
+    "question": "Which region lies beyond Neptune and contains many icy bodies?",
+    "options": ["Asteroid Belt", "Van Allen Belt", "Kuiper Belt", "Oort Cloud"],
+    "correctAnswer": "Kuiper Belt"
+  },
+  {
+    "id": "SS-039",
+    "question": "What element gives Saturn’s moon Titan its thick orange haze?",
+    "options": ["Oxygen", "Nitrogen", "Methane", "Carbon Dioxide"],
+    "correctAnswer": "Methane"
+  },
+  {
+    "id": "SS-040",
+    "question": "Which planet has the lowest average density?",
+    "options": ["Uranus", "Saturn", "Neptune", "Jupiter"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "SS-041",
+    "question": "What is the term for a small rocky body that burns up upon entering Earth's atmosphere?",
+    "options": ["Asteroid", "Meteor", "Comet", "Planetesimal"],
+    "correctAnswer": "Meteor"
+  },
+  {
+    "id": "SS-042",
+    "question": "Which planet experiences the most extreme temperature variations between day and night?",
+    "options": ["Mercury", "Mars", "Venus", "Earth"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "SS-043",
+    "question": "Which moon is known for its subsurface ocean and potential for life?",
+    "options": ["Io", "Europa", "Callisto", "Triton"],
+    "correctAnswer": "Europa"
+  },
+  {
+    "id": "SS-044",
+    "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+    "options": ["Magnetism", "Nuclear Force", "Gravity", "Radiation Pressure"],
+    "correctAnswer": "Gravity"
+  },
+  {
+    "id": "SS-045",
+    "question": "Which planet has supersonic winds reaching over 2,000 km/h?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "SS-046",
+    "question": "What is the primary source of the Sun’s energy?",
+    "options": ["Chemical Combustion", "Nuclear Fission", "Gravitational Collapse", "Nuclear Fusion"],
+    "correctAnswer": "Nuclear Fusion"
+  },
+  {
+    "id": "SS-047",
+    "question": "Which dwarf planet has a highly elliptical orbit that sometimes brings it closer to the Sun than Pluto?",
+    "options": ["Haumea", "Makemake", "Ceres", "Eris"],
+    "correctAnswer": "Eris"
+  },
+  {
+    "id": "SS-048",
+    "question": "Which mission provided detailed images of Pluto in 2015?",
+    "options": ["Cassini", "Galileo", "New Horizons", "Juno"],
+    "correctAnswer": "New Horizons"
+  },
+  {
+    "id": "SS-049",
+    "question": "What is the name of the region dominated by the Sun’s solar wind?",
+    "options": ["Magnetosphere", "Heliosphere", "Stratosphere", "Exosphere"],
+    "correctAnswer": "Heliosphere"
+  },
+  {
+    "id": "SS-050",
+    "question": "Which planet is classified as an ice giant?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Mars"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "SS-051",
+    "question": "Which phenomenon causes the apparent backward motion of planets in the sky?",
+    "options": ["Parallax", "Retrograde Motion", "Precession", "Occultation"],
+    "correctAnswer": "Retrograde Motion"
+  },
+  {
+    "id": "SS-052",
+    "question": "Which moon is the most volcanically active body in the Solar System?",
+    "options": ["Europa", "Io", "Enceladus", "Titan"],
+    "correctAnswer": "Io"
+  },
+  {
+    "id": "SS-053",
+    "question": "What is the approximate surface temperature of the Sun?",
+    "options": ["3,000°C", "10,000°C", "5,500°C", "1,000°C"],
+    "correctAnswer": "5,500°C"
+  },
+  {
+    "id": "SS-054",
+    "question": "Which planet has a hexagonal storm at its north pole?",
+    "options": ["Neptune", "Jupiter", "Saturn", "Uranus"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "SS-055",
+    "question": "What is the name of the largest known object in the Asteroid Belt?",
+    "options": ["Vesta", "Pallas", "Ceres", "Hygiea"],
+    "correctAnswer": "Ceres"
+  },
+  {
+    "id": "SS-056",
+    "question": "Which planet’s moon Triton orbits in a retrograde direction?",
+    "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "SS-057",
+    "question": "What type of galaxy is the Solar System located in?",
+    "options": ["Elliptical Galaxy", "Spiral Galaxy", "Irregular Galaxy", "Ring Galaxy"],
+    "correctAnswer": "Spiral Galaxy"
+  },
+  {
+    "id": "SS-058",
+    "question": "Which spacecraft studied Saturn and its rings extensively until 2017?",
+    "options": ["Juno", "Voyager 2", "Cassini", "Pioneer 11"],
+    "correctAnswer": "Cassini"
+  },
+  {
+    "id": "SS-059",
+    "question": "What is the name of the theoretical cloud of icy bodies far beyond the Kuiper Belt?",
+    "options": ["Asteroid Belt", "Heliopause", "Oort Cloud", "Solar Corona"],
+    "correctAnswer": "Oort Cloud"
+  },
+  {
+    "id": "SS-060",
+    "question": "Which planet has the strongest magnetic field among the planets?",
+    "options": ["Earth", "Jupiter", "Neptune", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-061",
+    "question": "Which planet has the highest orbital speed around the Sun?",
+    "options": ["Earth", "Mercury", "Mars", "Venus"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "SS-062",
+    "question": "What is the name of the bright tail of a comet formed by ionized gases?",
+    "options": ["Dust Tail", "Ion Tail", "Coma", "Nucleus"],
+    "correctAnswer": "Ion Tail"
+  },
+  {
+    "id": "SS-063",
+    "question": "Which planet has a surface pressure about 92 times that of Earth?",
+    "options": ["Mars", "Venus", "Neptune", "Saturn"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-064",
+    "question": "Which moon of Jupiter is the largest in the entire Solar System?",
+    "options": ["Callisto", "Europa", "Ganymede", "Io"],
+    "correctAnswer": "Ganymede"
+  },
+  {
+    "id": "SS-065",
+    "question": "What is the name of the layer of the Sun visible during a total solar eclipse?",
+    "options": ["Photosphere", "Chromosphere", "Corona", "Core"],
+    "correctAnswer": "Corona"
+  },
+  {
+    "id": "SS-066",
+    "question": "Which planet has the most circular orbit (lowest eccentricity)?",
+    "options": ["Venus", "Earth", "Neptune", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-067",
+    "question": "Which spacecraft was the first to orbit Jupiter?",
+    "options": ["Juno", "Voyager 1", "Galileo", "Pioneer 11"],
+    "correctAnswer": "Galileo"
+  },
+  {
+    "id": "SS-068",
+    "question": "What is the Roche limit related to?",
+    "options": ["Escape velocity", "Tidal forces", "Orbital resonance", "Solar radiation"],
+    "correctAnswer": "Tidal forces"
+  },
+  {
+    "id": "SS-069",
+    "question": "Which planet has the highest axial tilt after Uranus?",
+    "options": ["Mars", "Saturn", "Neptune", "Venus"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "SS-070",
+    "question": "What is the approximate time taken by light to travel from the Sun to Earth?",
+    "options": ["8 minutes", "1 second", "1 hour", "24 minutes"],
+    "correctAnswer": "8 minutes"
+  },
+  {
+    "id": "SS-071",
+    "question": "Which moon of Saturn is known for its geysers ejecting water vapor?",
+    "options": ["Titan", "Enceladus", "Rhea", "Iapetus"],
+    "correctAnswer": "Enceladus"
+  },
+  {
+    "id": "SS-072",
+    "question": "Which planet has the smallest mass in the Solar System?",
+    "options": ["Mars", "Mercury", "Venus", "Pluto"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "SS-073",
+    "question": "What is the name of the Sun’s visible surface?",
+    "options": ["Corona", "Photosphere", "Chromosphere", "Radiative Zone"],
+    "correctAnswer": "Photosphere"
+  },
+  {
+    "id": "SS-074",
+    "question": "Which planet has rings that are tilted about 27 degrees relative to its orbit?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "SS-075",
+    "question": "What is orbital resonance?",
+    "options": ["Collision of planets", "Gravitational interaction causing synchronized orbits", "Rotation of a planet", "Expansion of the universe"],
+    "correctAnswer": "Gravitational interaction causing synchronized orbits"
+  },
+  {
+    "id": "SS-076",
+    "question": "Which planet has the longest year in terms of Earth days?",
+    "options": ["Uranus", "Saturn", "Neptune", "Jupiter"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "SS-077",
+    "question": "Which object is considered a transitional object between asteroids and comets?",
+    "options": ["Meteoroid", "Centaur", "Dwarf Planet", "Quasar"],
+    "correctAnswer": "Centaur"
+  },
+  {
+    "id": "SS-078",
+    "question": "Which planet’s magnetosphere is the largest structure in the Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-079",
+    "question": "What is the primary gas in Jupiter’s atmosphere?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "id": "SS-080",
+    "question": "Which dwarf planet is located in the Asteroid Belt?",
+    "options": ["Pluto", "Haumea", "Ceres", "Makemake"],
+    "correctAnswer": "Ceres"
+  },
+  {
+    "id": "SS-081",
+    "question": "Which mission was the first to land successfully on Mars?",
+    "options": ["Viking 1", "Curiosity", "Pathfinder", "Opportunity"],
+    "correctAnswer": "Viking 1"
+  },
+  {
+    "id": "SS-082",
+    "question": "What is the name of the point in space where the gravitational forces of two large bodies balance?",
+    "options": ["Zenith", "Perihelion", "Lagrange Point", "Aphelion"],
+    "correctAnswer": "Lagrange Point"
+  },
+  {
+    "id": "SS-083",
+    "question": "Which planet has the highest escape velocity?",
+    "options": ["Neptune", "Earth", "Jupiter", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "SS-084",
+    "question": "Which small body produces a meteor shower when Earth passes through its debris?",
+    "options": ["Asteroid", "Comet", "Moon", "Planet"],
+    "correctAnswer": "Comet"
+  },
+  {
+    "id": "SS-085",
+    "question": "What is the name of the Sun-centered model of the Solar System?",
+    "options": ["Geocentric Model", "Heliocentric Model", "Tychonic Model", "Binary Model"],
+    "correctAnswer": "Heliocentric Model"
+  },
+  {
+    "id": "SS-086",
+    "question": "Which planet has a day approximately equal to 24.6 Earth hours?",
+    "options": ["Mars", "Venus", "Earth", "Mercury"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "SS-087",
+    "question": "Which planet has the most extreme axial tilt leading to extreme seasons?",
+    "options": ["Earth", "Mars", "Uranus", "Jupiter"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "SS-088",
+    "question": "What is the name of the dense core at the center of the Sun where fusion occurs?",
+    "options": ["Chromosphere", "Radiative Zone", "Core", "Convective Zone"],
+    "correctAnswer": "Core"
+  },
+  {
+    "id": "SS-089",
+    "question": "Which planet is known for its dark storm called the Great Dark Spot?",
+    "options": ["Saturn", "Neptune", "Jupiter", "Mars"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "SS-090",
+    "question": "What is the term for the closest point of a planet’s orbit to the Sun?",
+    "options": ["Aphelion", "Perihelion", "Equinox", "Solstice"],
+    "correctAnswer": "Perihelion"
+  }
+]

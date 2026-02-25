@@ -1,30 +1,542 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "JS-001",
+    "question": "Which keyword is used to declare a block-scoped variable in JavaScript?",
+    "options": ["var", "let", "define", "int"],
+    "correctAnswer": "let"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "2"
+    "id": "JS-002",
+    "question": "What will typeof null return?",
+    "options": ["null", "undefined", "object", "number"],
+    "correctAnswer": "object"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
+    "id": "JS-003",
+    "question": "Which operator is used for strict equality comparison?",
+    "options": ["==", "=", "===", "!="],
+    "correctAnswer": "==="
+  },
+  {
+    "id": "JS-004",
+    "question": "What is the default value of an uninitialized variable declared with let?",
+    "options": ["null", "undefined", "0", "NaN"],
+    "correctAnswer": "undefined"
+  },
+  {
+    "id": "JS-005",
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.convert()", "JSON.toObject()"],
+    "correctAnswer": "JSON.parse()"
+  },
+  {
+    "id": "JS-006",
+    "question": "What will be the output of: console.log(2 + '2'); ?",
+    "options": ["4", "22", "NaN", "undefined"],
+    "correctAnswer": "22"
+  },
+  {
+    "id": "JS-007",
+    "question": "Which statement is used to stop a loop immediately?",
+    "options": ["exit", "continue", "break", "stop"],
+    "correctAnswer": "break"
+  },
+  {
+    "id": "JS-008",
+    "question": "Which array method adds an element to the end of an array?",
+    "options": ["shift()", "unshift()", "push()", "pop()"],
+    "correctAnswer": "push()"
+  },
+  {
+    "id": "JS-009",
+    "question": "What will Boolean('') return?",
+    "options": ["true", "false", "undefined", "NaN"],
+    "correctAnswer": "false"
+  },
+  {
+    "id": "JS-010",
+    "question": "Which function is used to execute code after a specified delay?",
+    "options": ["setInterval()", "delay()", "setTimeout()", "wait()"],
+    "correctAnswer": "setTimeout()"
+  },
+  {
+    "id": "JS-011",
+    "question": "What is the result of: typeof NaN?",
+    "options": ["number", "NaN", "undefined", "object"],
+    "correctAnswer": "number"
+  },
+  {
+    "id": "JS-012",
+    "question": "Which keyword is used to define a class in ES6?",
+    "options": ["function", "class", "object", "constructor"],
+    "correctAnswer": "class"
+  },
+  {
+    "id": "JS-013",
+    "question": "What will [1,2,3].length return?",
+    "options": ["2", "3", "undefined", "1"],
     "correctAnswer": "3"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "JS-014",
+    "question": "Which symbol is used for single-line comments in JavaScript?",
+    "options": ["<!-- -->", "//", "/* */", "#"],
+    "correctAnswer": "//"
+  },
+  {
+    "id": "JS-015",
+    "question": "What is the output of: 0 == false?",
+    "options": ["false", "true", "undefined", "TypeError"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-016",
+    "question": "Which method removes the last element from an array?",
+    "options": ["pop()", "shift()", "splice()", "slice()"],
+    "correctAnswer": "pop()"
+  },
+  {
+    "id": "JS-017",
+    "question": "What does the 'this' keyword refer to in a regular function (non-strict mode, global context)?",
+    "options": ["The function itself", "The global object", "undefined", "The parent object"],
+    "correctAnswer": "The global object"
+  },
+  {
+    "id": "JS-018",
+    "question": "Which method is used to join all elements of an array into a string?",
+    "options": ["concat()", "combine()", "join()", "merge()"],
+    "correctAnswer": "join()"
+  },
+  {
+    "id": "JS-019",
+    "question": "What will be the output of: typeof []?",
+    "options": ["array", "object", "list", "undefined"],
+    "correctAnswer": "object"
+  },
+  {
+    "id": "JS-020",
+    "question": "Which keyword prevents reassignment of a variable?",
+    "options": ["let", "var", "static", "const"],
+    "correctAnswer": "const"
+  },
+  {
+    "id": "JS-021",
+    "question": "What is the output of: '5' - 2?",
+    "options": ["52", "3", "NaN", "undefined"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "JS-022",
+    "question": "Which method creates a new array with elements that pass a test?",
+    "options": ["map()", "filter()", "reduce()", "forEach()"],
+    "correctAnswer": "filter()"
+  },
+  {
+    "id": "JS-023",
+    "question": "What will be the output of: console.log(undefined == null); ?",
+    "options": ["false", "TypeError", "true", "undefined"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-024",
+    "question": "Which loop is guaranteed to execute at least once?",
+    "options": ["for", "while", "forEach", "do...while"],
+    "correctAnswer": "do...while"
+  },
+  {
+    "id": "JS-025",
+    "question": "What does Array.isArray([]) return?",
+    "options": ["false", "undefined", "true", "object"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-026",
+    "question": "Which ES6 feature allows unpacking values from arrays or objects?",
+    "options": ["Destructuring", "Hoisting", "Currying", "Closure"],
+    "correctAnswer": "Destructuring"
+  },
+  {
+    "id": "JS-027",
+    "question": "What is the output of: !!'Hello'?",
+    "options": ["false", "NaN", "true", "undefined"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-028",
+    "question": "Which method is used to convert a JavaScript object into a JSON string?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.toString()", "JSON.encode()"],
+    "correctAnswer": "JSON.stringify()"
+  },
+  {
+    "id": "JS-029",
+    "question": "What will be the result of: [1,2,3] + [4,5]? ",
+    "options": ["[1,2,3,4,5]", "Error", "12345", "1,2,34,5"],
+    "correctAnswer": "1,2,34,5"
+  },
+  {
+    "id": "JS-030",
+    "question": "Which concept allows a function to access variables from its outer scope even after the outer function has returned?",
+    "options": ["Callback", "Prototype", "Closure", "Promise"],
+    "correctAnswer": "Closure"
+  },
+  {
+    "id": "JS-031",
+    "question": "What will be the output of: console.log(typeof function(){}); ?",
+    "options": ["object", "function", "undefined", "array"],
+    "correctAnswer": "function"
+  },
+  {
+    "id": "JS-032",
+    "question": "Which method executes a provided function once for each array element?",
+    "options": ["map()", "filter()", "forEach()", "reduce()"],
+    "correctAnswer": "forEach()"
+  },
+  {
+    "id": "JS-033",
+    "question": "What is the result of: 3 > 2 > 1?",
+    "options": ["true", "false", "undefined", "Error"],
+    "correctAnswer": "false"
+  },
+  {
+    "id": "JS-034",
+    "question": "Which keyword is used to handle errors in JavaScript?",
+    "options": ["catch", "try", "throw", "try...catch"],
+    "correctAnswer": "try...catch"
+  },
+  {
+    "id": "JS-035",
+    "question": "What will be the output of: console.log(+'10'); ?",
+    "options": ["'10'", "NaN", "10", "undefined"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "JS-036",
+    "question": "Which method returns the first element that satisfies a condition?",
+    "options": ["find()", "some()", "every()", "includes()"],
+    "correctAnswer": "find()"
+  },
+  {
+    "id": "JS-037",
+    "question": "What is the result of: typeof (1n)?",
+    "options": ["number", "bigint", "object", "undefined"],
+    "correctAnswer": "bigint"
+  },
+  {
+    "id": "JS-038",
+    "question": "Which statement is used to create a Promise?",
+    "options": ["new Promise()", "create Promise()", "Promise()", "make Promise()"],
+    "correctAnswer": "new Promise()"
+  },
+  {
+    "id": "JS-039",
+    "question": "What will be the output of: console.log(0 || 'Hello'); ?",
+    "options": ["0", "false", "Hello", "undefined"],
+    "correctAnswer": "Hello"
+  },
+  {
+    "id": "JS-040",
+    "question": "Which method checks if at least one element passes a test?",
+    "options": ["every()", "some()", "filter()", "map()"],
+    "correctAnswer": "some()"
+  },
+  {
+    "id": "JS-041",
+    "question": "What does the spread operator (...) do in arrays?",
+    "options": ["Combines arrays", "Clones or expands elements", "Sorts elements", "Removes duplicates"],
+    "correctAnswer": "Clones or expands elements"
+  },
+  {
+    "id": "JS-042",
+    "question": "What will be the output of: console.log('5' * 2); ?",
+    "options": ["10", "52", "NaN", "undefined"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "JS-043",
+    "question": "Which method is used to remove whitespace from both ends of a string?",
+    "options": ["strip()", "trim()", "clean()", "remove()"],
+    "correctAnswer": "trim()"
+  },
+  {
+    "id": "JS-044",
+    "question": "What is the result of: null ?? 'default'?",
+    "options": ["null", "undefined", "default", "Error"],
+    "correctAnswer": "default"
+  },
+  {
+    "id": "JS-045",
+    "question": "Which loop is best suited for iterating over object properties?",
+    "options": ["for", "for...in", "for...of", "while"],
+    "correctAnswer": "for...in"
+  },
+  {
+    "id": "JS-046",
+    "question": "What will be the output of: console.log([].length); ?",
+    "options": ["0", "1", "undefined", "null"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": "JS-047",
+    "question": "Which method merges two or more arrays?",
+    "options": ["push()", "concat()", "join()", "slice()"],
+    "correctAnswer": "concat()"
+  },
+  {
+    "id": "JS-048",
+    "question": "What is the output of: typeof Infinity?",
+    "options": ["number", "infinity", "object", "undefined"],
+    "correctAnswer": "number"
+  },
+  {
+    "id": "JS-049",
+    "question": "Which keyword is used to export a module in ES6?",
+    "options": ["export", "require", "include", "module"],
+    "correctAnswer": "export"
+  },
+  {
+    "id": "JS-050",
+    "question": "What will be the result of: [1,2,3].includes(2); ?",
+    "options": ["false", "true", "undefined", "Error"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-051",
+    "question": "Which method converts a string to lowercase?",
+    "options": ["toLowerCase()", "lower()", "convertLower()", "smallCase()"],
+    "correctAnswer": "toLowerCase()"
+  },
+  {
+    "id": "JS-052",
+    "question": "What will be the output of: console.log(1 && 0); ?",
+    "options": ["1", "true", "0", "false"],
+    "correctAnswer": "0"
+  },
+  {
+    "id": "JS-053",
+    "question": "Which method removes the first element of an array?",
+    "options": ["shift()", "pop()", "splice()", "slice()"],
+    "correctAnswer": "shift()"
+  },
+  {
+    "id": "JS-054",
+    "question": "What is the result of: typeof Symbol(); ?",
+    "options": ["symbol", "object", "string", "undefined"],
+    "correctAnswer": "symbol"
+  },
+  {
+    "id": "JS-055",
+    "question": "Which method transforms each array element and returns a new array?",
+    "options": ["forEach()", "map()", "filter()", "reduce()"],
+    "correctAnswer": "map()"
+  },
+  {
+    "id": "JS-056",
+    "question": "What will be the output of: console.log(false || 0 || 'JS'); ?",
+    "options": ["false", "0", "JS", "undefined"],
+    "correctAnswer": "JS"
+  },
+  {
+    "id": "JS-057",
+    "question": "Which operator is used for optional chaining?",
+    "options": ["?.", "??", "=>", "::"],
+    "correctAnswer": "?."
+  },
+  {
+    "id": "JS-058",
+    "question": "What will be the output of: console.log([] == false); ?",
+    "options": ["true", "false", "undefined", "Error"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-059",
+    "question": "Which method is used to sort array elements?",
+    "options": ["order()", "arrange()", "sort()", "filter()"],
+    "correctAnswer": "sort()"
+  },
+  {
+    "id": "JS-060",
+    "question": "What does the reduce() method return?",
+    "options": ["A single accumulated value", "A new array", "A boolean value", "An object only"],
+    "correctAnswer": "A single accumulated value"
+  },
+  {
+    "id": "JS-061",
+    "question": "What will be the output of: console.log(typeof undefined); ?",
+    "options": ["null", "undefined", "object", "string"],
+    "correctAnswer": "undefined"
+  },
+  {
+    "id": "JS-062",
+    "question": "Which method converts a string into an array based on a separator?",
+    "options": ["slice()", "split()", "substring()", "concat()"],
+    "correctAnswer": "split()"
+  },
+  {
+    "id": "JS-063",
+    "question": "What is the result of: NaN === NaN?",
+    "options": ["true", "false", "undefined", "TypeError"],
+    "correctAnswer": "false"
+  },
+  {
+    "id": "JS-064",
+    "question": "Which function converts a string to an integer?",
+    "options": ["Number()", "parseInt()", "parseFloat()", "toFixed()"],
+    "correctAnswer": "parseInt()"
+  },
+  {
+    "id": "JS-065",
+    "question": "What will be the output of: console.log(1 + true); ?",
+    "options": ["2", "true1", "NaN", "undefined"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "JS-066",
+    "question": "Which method extracts a portion of an array without modifying it?",
+    "options": ["splice()", "slice()", "shift()", "pop()"],
+    "correctAnswer": "slice()"
+  },
+  {
+    "id": "JS-067",
+    "question": "What is the result of: typeof {}; ?",
+    "options": ["array", "object", "null", "undefined"],
+    "correctAnswer": "object"
+  },
+  {
+    "id": "JS-068",
+    "question": "Which keyword is used to define an asynchronous function?",
+    "options": ["await", "promise", "async", "defer"],
+    "correctAnswer": "async"
+  },
+  {
+    "id": "JS-069",
+    "question": "What will be the output of: console.log(!!0); ?",
+    "options": ["true", "false", "undefined", "NaN"],
+    "correctAnswer": "false"
+  },
+  {
+    "id": "JS-070",
+    "question": "Which method returns the index of the first matching element?",
+    "options": ["find()", "indexOf()", "includes()", "search()"],
+    "correctAnswer": "indexOf()"
+  },
+  {
+    "id": "JS-071",
+    "question": "What is the result of: 5 + null?",
+    "options": ["5null", "NaN", "5", "undefined"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "JS-072",
+    "question": "Which object represents the current webpage in the browser?",
+    "options": ["window", "document", "screen", "navigator"],
+    "correctAnswer": "document"
+  },
+  {
+    "id": "JS-073",
+    "question": "What will be the output of: console.log('10' / '2'); ?",
+    "options": ["5", "102", "NaN", "undefined"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "JS-074",
+    "question": "Which method checks whether all elements pass a test?",
+    "options": ["some()", "every()", "filter()", "map()"],
+    "correctAnswer": "every()"
+  },
+  {
+    "id": "JS-075",
+    "question": "What is the result of: typeof function test(){};",
+    "options": ["object", "method", "function", "undefined"],
+    "correctAnswer": "function"
+  },
+  {
+    "id": "JS-076",
+    "question": "Which operator is used to assign a default value if null or undefined?",
+    "options": ["||", "&&", "??", "?: "],
+    "correctAnswer": "??"
+  },
+  {
+    "id": "JS-077",
+    "question": "What will be the output of: console.log(3 ** 2); ?",
+    "options": ["6", "9", "8", "Error"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": "JS-078",
+    "question": "Which method is used to reverse the elements of an array?",
+    "options": ["sort()", "reverse()", "flip()", "arrange()"],
+    "correctAnswer": "reverse()"
+  },
+  {
+    "id": "JS-079",
+    "question": "What is the result of: Boolean(null);",
+    "options": ["true", "false", "null", "undefined"],
+    "correctAnswer": "false"
+  },
+  {
+    "id": "JS-080",
+    "question": "Which property returns the number of characters in a string?",
+    "options": ["size", "count", "length", "index"],
+    "correctAnswer": "length"
+  },
+  {
+    "id": "JS-081",
+    "question": "What will be the output of: console.log(typeof [] === 'array'); ?",
+    "options": ["true", "false", "undefined", "Error"],
+    "correctAnswer": "false"
+  },
+  {
+    "id": "JS-082",
+    "question": "Which statement is used to manually throw an error?",
+    "options": ["throw", "catch", "error", "try"],
+    "correctAnswer": "throw"
+  },
+  {
+    "id": "JS-083",
+    "question": "What is the result of: '5' + + '5';",
+    "options": ["10", "55", "NaN", "undefined"],
+    "correctAnswer": "55"
+  },
+  {
+    "id": "JS-084",
+    "question": "Which method converts a number to a string?",
+    "options": ["toString()", "parseInt()", "valueOf()", "Number()"],
+    "correctAnswer": "toString()"
+  },
+  {
+    "id": "JS-085",
+    "question": "What will be the output of: console.log(1 < 2 < 3); ?",
+    "options": ["true", "false", "undefined", "NaN"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": "JS-086",
+    "question": "Which method adds one or more elements to the beginning of an array?",
+    "options": ["push()", "unshift()", "shift()", "concat()"],
+    "correctAnswer": "unshift()"
+  },
+  {
+    "id": "JS-087",
+    "question": "What is the result of: typeof class MyClass {};",
+    "options": ["class", "object", "function", "undefined"],
+    "correctAnswer": "function"
+  },
+  {
+    "id": "JS-088",
+    "question": "Which method is used to replace part of a string?",
+    "options": ["replace()", "change()", "modify()", "swap()"],
+    "correctAnswer": "replace()"
+  },
+  {
+    "id": "JS-089",
+    "question": "What will be the output of: console.log([].toString()); ?",
+    "options": ["[]", "", "undefined", "null"],
+    "correctAnswer": ""
+  },
+  {
+    "id": "JS-090",
+    "question": "Which concept describes variables declared with var being moved to the top of their scope?",
+    "options": ["Closure", "Hoisting", "Currying", "Binding"],
+    "correctAnswer": "Hoisting"
   }
 ]

@@ -1,0 +1,692 @@
+[
+  {
+    "id": "NASAISRO-001",
+    "question": "What does NASA stand for?",
+    "options": [
+      "National Aeronautics and Space Administration",
+      "North American Space Agency",
+      "National Aerospace Science Association",
+      "New Aeronautics and Satellite Authority"
+    ],
+    "correctAnswer": "National Aeronautics and Space Administration"
+  },
+  {
+    "id": "NASAISRO-002",
+    "question": "ISRO is the national space agency of which country?",
+    "options": [
+      "China",
+      "India",
+      "Japan",
+      "United States"
+    ],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "NASAISRO-003",
+    "question": "Which NASA mission first landed humans on the Moon?",
+    "options": [
+      "Apollo 13",
+      "Artemis I",
+      "Apollo 11",
+      "Gemini 4"
+    ],
+    "correctAnswer": "Apollo 11"
+  },
+  {
+    "id": "NASAISRO-004",
+    "question": "Which ISRO mission successfully landed near the Moon’s south pole in 2023?",
+    "options": [
+      "Chandrayaan-1",
+      "Chandrayaan-3",
+      "Mangalyaan",
+      "Aditya-L1"
+    ],
+    "correctAnswer": "Chandrayaan-3"
+  },
+  {
+    "id": "NASAISRO-005",
+    "question": "Where is NASA’s Kennedy Space Center located?",
+    "options": [
+      "Texas",
+      "Florida",
+      "California",
+      "Nevada"
+    ],
+    "correctAnswer": "Florida"
+  },
+  {
+    "id": "NASAISRO-006",
+    "question": "What is the name of ISRO’s Mars Orbiter Mission?",
+    "options": [
+      "Chandrayaan-2",
+      "Gaganyaan",
+      "Mangalyaan",
+      "RISAT-1"
+    ],
+    "correctAnswer": "Mangalyaan"
+  },
+  {
+    "id": "NASAISRO-007",
+    "question": "Which NASA space telescope was launched in 2021 to succeed Hubble?",
+    "options": [
+      "Spitzer Space Telescope",
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Chandra X-ray Observatory"
+    ],
+    "correctAnswer": "James Webb Space Telescope"
+  },
+  {
+    "id": "NASAISRO-008",
+    "question": "What does PSLV stand for in ISRO missions?",
+    "options": [
+      "Polar Satellite Launch Vehicle",
+      "Primary Space Launch Vessel",
+      "Public Satellite Lift Vehicle",
+      "Planetary System Launch Vehicle"
+    ],
+    "correctAnswer": "Polar Satellite Launch Vehicle"
+  },
+  {
+    "id": "NASAISRO-009",
+    "question": "Which NASA rover successfully landed on Mars in 2021?",
+    "options": [
+      "Spirit",
+      "Opportunity",
+      "Perseverance",
+      "Curiosity"
+    ],
+    "correctAnswer": "Perseverance"
+  },
+  {
+    "id": "NASAISRO-010",
+    "question": "Where is ISRO’s main launch site Satish Dhawan Space Centre located?",
+    "options": [
+      "Sriharikota",
+      "Bengaluru",
+      "Hyderabad",
+      "Ahmedabad"
+    ],
+    "correctAnswer": "Sriharikota"
+  },
+  {
+    "id": "NASAISRO-011",
+    "question": "Which NASA program aims to return humans to the Moon?",
+    "options": [
+      "Gemini",
+      "Apollo",
+      "Artemis",
+      "Mercury"
+    ],
+    "correctAnswer": "Artemis"
+  },
+  {
+    "id": "NASAISRO-012",
+    "question": "What was the primary objective of Chandrayaan-1?",
+    "options": [
+      "Landing humans on the Moon",
+      "Studying lunar atmosphere",
+      "Orbiting Mars",
+      "Mapping the Moon and detecting water"
+    ],
+    "correctAnswer": "Mapping the Moon and detecting water"
+  },
+  {
+    "id": "NASAISRO-013",
+    "question": "Which NASA mission was the first to orbit Mars successfully?",
+    "options": [
+      "Mariner 9",
+      "Viking 1",
+      "Pathfinder",
+      "Mars Express"
+    ],
+    "correctAnswer": "Mariner 9"
+  },
+  {
+    "id": "NASAISRO-014",
+    "question": "What is the name of ISRO’s planned human spaceflight mission?",
+    "options": [
+      "Aditya-L1",
+      "Gaganyaan",
+      "Astrosat",
+      "NavIC"
+    ],
+    "correctAnswer": "Gaganyaan"
+  },
+  {
+    "id": "NASAISRO-015",
+    "question": "Which NASA mission studied Pluto in 2015?",
+    "options": [
+      "Voyager 2",
+      "New Horizons",
+      "Galileo",
+      "Cassini"
+    ],
+    "correctAnswer": "New Horizons"
+  },
+  {
+    "id": "NASAISRO-016",
+    "question": "Which ISRO rocket is known as LVM3?",
+    "options": [
+      "GSLV Mk III",
+      "PSLV-XL",
+      "SLV-3",
+      "ASLV"
+    ],
+    "correctAnswer": "GSLV Mk III"
+  },
+  {
+    "id": "NASAISRO-017",
+    "question": "Which NASA astronaut was the first woman to command a Space Shuttle mission?",
+    "options": [
+      "Sally Ride",
+      "Eileen Collins",
+      "Mae Jemison",
+      "Peggy Whitson"
+    ],
+    "correctAnswer": "Eileen Collins"
+  },
+  {
+    "id": "NASAISRO-018",
+    "question": "Which ISRO mission is dedicated to studying the Sun?",
+    "options": [
+      "Chandrayaan-3",
+      "Mangalyaan",
+      "Aditya-L1",
+      "RISAT-2"
+    ],
+    "correctAnswer": "Aditya-L1"
+  },
+  {
+    "id": "NASAISRO-019",
+    "question": "What was the name of NASA’s first space station?",
+    "options": [
+      "Skylab",
+      "Mir",
+      "ISS",
+      "Freedom"
+    ],
+    "correctAnswer": "Skylab"
+  },
+  {
+    "id": "NASAISRO-020",
+    "question": "Which navigation system was developed by ISRO for India?",
+    "options": [
+      "GLONASS",
+      "Galileo",
+      "NavIC",
+      "Beidou"
+    ],
+    "correctAnswer": "NavIC"
+  },
+  {
+    "id": "NASAISRO-021",
+    "question": "Which NASA mission first detected gravitational waves in collaboration with LIGO?",
+    "options": [
+      "Kepler",
+      "LIGO Scientific Collaboration",
+      "Chandra",
+      "TESS"
+    ],
+    "correctAnswer": "LIGO Scientific Collaboration"
+  },
+  {
+    "id": "NASAISRO-022",
+    "question": "Which ISRO satellite series is primarily used for Earth observation?",
+    "options": [
+      "INSAT",
+      "GSAT",
+      "RISAT",
+      "Cartosat"
+    ],
+    "correctAnswer": "Cartosat"
+  },
+  {
+    "id": "NASAISRO-023",
+    "question": "Which NASA mission aims to study Jupiter’s icy moon Europa?",
+    "options": [
+      "Juno",
+      "Europa Clipper",
+      "Cassini",
+      "Voyager 1"
+    ],
+    "correctAnswer": "Europa Clipper"
+  },
+  {
+    "id": "NASAISRO-024",
+    "question": "Who was the founder of ISRO?",
+    "options": [
+      "Homi J. Bhabha",
+      "A. P. J. Abdul Kalam",
+      "Vikram Sarabhai",
+      "Satish Dhawan"
+    ],
+    "correctAnswer": "Vikram Sarabhai"
+  },
+  {
+    "id": "NASAISRO-025",
+    "question": "Which NASA probe is currently traveling in interstellar space?",
+    "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Voyager 2"
+    ],
+    "correctAnswer": "Voyager 1"
+  },
+  {
+    "id": "NASAISRO-026",
+    "question": "Which ISRO mission carried the Pragyan rover?",
+    "options": [
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Aditya-L1",
+      "Astrosat"
+    ],
+    "correctAnswer": "Chandrayaan-3"
+  },
+  {
+    "id": "NASAISRO-027",
+    "question": "What is the name of NASA’s program to develop commercial crew transport to ISS?",
+    "options": [
+      "Orion",
+      "Space Launch System",
+      "Commercial Crew Program",
+      "Starliner Initiative"
+    ],
+    "correctAnswer": "Commercial Crew Program"
+  },
+  {
+    "id": "NASAISRO-028",
+    "question": "Which ISRO observatory is India’s first dedicated multi-wavelength space telescope?",
+    "options": [
+      "Astrosat",
+      "INSAT-3D",
+      "GSAT-6",
+      "RISAT-1"
+    ],
+    "correctAnswer": "Astrosat"
+  },
+  {
+    "id": "NASAISRO-029",
+    "question": "Which NASA mission returned samples from the asteroid Bennu?",
+    "options": [
+      "Hayabusa2",
+      "OSIRIS-REx",
+      "Dawn",
+      "NEAR Shoemaker"
+    ],
+    "correctAnswer": "OSIRIS-REx"
+  },
+  {
+    "id": "NASAISRO-030",
+    "question": "Which ISRO rocket was originally developed to deploy heavier communication satellites into geostationary orbit?",
+    "options": [
+      "SLV-3",
+      "ASLV",
+      "PSLV",
+      "GSLV"
+    ],
+    "correctAnswer": "GSLV"
+  },
+  {
+    "id": "NASAISRO-031",
+    "question": "In which year was NASA established?",
+    "options": ["1961", "1958", "1945", "1969"],
+    "correctAnswer": "1958"
+  },
+  {
+    "id": "NASAISRO-032",
+    "question": "In which year was ISRO founded?",
+    "options": ["1972", "1958", "1969", "1984"],
+    "correctAnswer": "1969"
+  },
+  {
+    "id": "NASAISRO-033",
+    "question": "Which NASA program preceded the Apollo missions?",
+    "options": ["Artemis", "Gemini", "Skylab", "Voyager"],
+    "correctAnswer": "Gemini"
+  },
+  {
+    "id": "NASAISRO-034",
+    "question": "Which ISRO mission attempted a soft landing on the Moon in 2019 but lost communication during descent?",
+    "options": ["Chandrayaan-1", "Chandrayaan-3", "Aditya-L1", "Chandrayaan-2"],
+    "correctAnswer": "Chandrayaan-2"
+  },
+  {
+    "id": "NASAISRO-035",
+    "question": "What is the name of NASA’s heavy-lift rocket used for Artemis missions?",
+    "options": ["Falcon Heavy", "Delta IV", "Space Launch System", "Saturn V"],
+    "correctAnswer": "Space Launch System"
+  },
+  {
+    "id": "NASAISRO-036",
+    "question": "Which ISRO center is primarily responsible for satellite development?",
+    "options": ["Satish Dhawan Space Centre", "Vikram Sarabhai Space Centre", "U R Rao Satellite Centre", "Liquid Propulsion Systems Centre"],
+    "correctAnswer": "U R Rao Satellite Centre"
+  },
+  {
+    "id": "NASAISRO-037",
+    "question": "Which NASA mission deployed the Ingenuity helicopter on Mars?",
+    "options": ["Perseverance", "Curiosity", "Spirit", "Opportunity"],
+    "correctAnswer": "Perseverance"
+  },
+  {
+    "id": "NASAISRO-038",
+    "question": "Which ISRO launch vehicle was India’s first experimental satellite launch vehicle?",
+    "options": ["ASLV", "PSLV", "SLV-3", "GSLV"],
+    "correctAnswer": "SLV-3"
+  },
+  {
+    "id": "NASAISRO-039",
+    "question": "Which NASA mission studied Saturn and its rings extensively until 2017?",
+    "options": ["Galileo", "Cassini", "Juno", "New Horizons"],
+    "correctAnswer": "Cassini"
+  },
+  {
+    "id": "NASAISRO-040",
+    "question": "What is the primary objective of ISRO’s Gaganyaan mission?",
+    "options": ["Deploy a lunar rover", "Send humans into space", "Study solar flares", "Launch a navigation satellite"],
+    "correctAnswer": "Send humans into space"
+  },
+  {
+    "id": "NASAISRO-041",
+    "question": "Which NASA telescope was specifically designed to search for exoplanets using the transit method?",
+    "options": ["Hubble Space Telescope", "TESS", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
+    "correctAnswer": "TESS"
+  },
+  {
+    "id": "NASAISRO-042",
+    "question": "Which ISRO satellite series provides communication services across India?",
+    "options": ["Cartosat", "RISAT", "INSAT", "Astrosat"],
+    "correctAnswer": "INSAT"
+  },
+  {
+    "id": "NASAISRO-043",
+    "question": "Which NASA astronaut was the first American woman in space?",
+    "options": ["Sally Ride", "Kalpana Chawla", "Judith Resnik", "Christa McAuliffe"],
+    "correctAnswer": "Sally Ride"
+  },
+  {
+    "id": "NASAISRO-044",
+    "question": "Which ISRO mission made India the first Asian country to reach Mars orbit?",
+    "options": ["Chandrayaan-2", "Aditya-L1", "Mangalyaan", "Astrosat"],
+    "correctAnswer": "Mangalyaan"
+  },
+  {
+    "id": "NASAISRO-045",
+    "question": "Which NASA program developed the reusable Space Shuttle?",
+    "options": ["Mercury Program", "Apollo Program", "Space Shuttle Program", "Artemis Program"],
+    "correctAnswer": "Space Shuttle Program"
+  },
+  {
+    "id": "NASAISRO-046",
+    "question": "Which ISRO rocket variant is optimized for launching satellites into sun-synchronous orbit?",
+    "options": ["PSLV", "GSLV", "LVM3", "SLV-3"],
+    "correctAnswer": "PSLV"
+  },
+  {
+    "id": "NASAISRO-047",
+    "question": "Which NASA mission is designed to bring Martian soil samples back to Earth in collaboration with ESA?",
+    "options": ["Mars Sample Return", "InSight", "Pathfinder", "Viking 2"],
+    "correctAnswer": "Mars Sample Return"
+  },
+  {
+    "id": "NASAISRO-048",
+    "question": "Which ISRO mission placed a spacecraft at the Sun-Earth L1 point?",
+    "options": ["Chandrayaan-3", "Aditya-L1", "Mangalyaan", "NavIC"],
+    "correctAnswer": "Aditya-L1"
+  },
+  {
+    "id": "NASAISRO-049",
+    "question": "Which NASA mission first performed a powered flight on another planet?",
+    "options": ["Curiosity", "Perseverance", "Spirit", "Ingenuity"],
+    "correctAnswer": "Ingenuity"
+  },
+  {
+    "id": "NASAISRO-050",
+    "question": "Which ISRO mission discovered evidence of water molecules on the Moon?",
+    "options": ["Chandrayaan-1", "Chandrayaan-3", "RISAT-1", "GSAT-6"],
+    "correctAnswer": "Chandrayaan-1"
+  },
+  {
+    "id": "NASAISRO-051",
+    "question": "Which NASA spacecraft studied Mercury in the 2000s before crashing into its surface?",
+    "options": ["Messenger", "Magellan", "Mariner 10", "Juno"],
+    "correctAnswer": "Messenger"
+  },
+  {
+    "id": "NASAISRO-052",
+    "question": "Which ISRO vehicle uses cryogenic upper stage technology?",
+    "options": ["SLV-3", "PSLV", "GSLV", "ASLV"],
+    "correctAnswer": "GSLV"
+  },
+  {
+    "id": "NASAISRO-053",
+    "question": "Which NASA mission conducted the first successful landing on Mars in 1976?",
+    "options": ["Pathfinder", "Viking 1", "Spirit", "Phoenix"],
+    "correctAnswer": "Viking 1"
+  },
+  {
+    "id": "NASAISRO-054",
+    "question": "Which ISRO mission focuses on space-based astronomy across multiple wavelengths?",
+    "options": ["Astrosat", "INSAT-4A", "Cartosat-2", "RISAT-2B"],
+    "correctAnswer": "Astrosat"
+  },
+  {
+    "id": "NASAISRO-055",
+    "question": "Which NASA spacecraft provided the first close-up images of Jupiter?",
+    "options": ["Voyager 1", "Juno", "Galileo", "Pioneer 11"],
+    "correctAnswer": "Pioneer 11"
+  },
+  {
+    "id": "NASAISRO-056",
+    "question": "Which ISRO center is responsible for launch vehicle development?",
+    "options": ["Vikram Sarabhai Space Centre", "U R Rao Satellite Centre", "ISRO Telemetry Centre", "National Remote Sensing Centre"],
+    "correctAnswer": "Vikram Sarabhai Space Centre"
+  },
+  {
+    "id": "NASAISRO-057",
+    "question": "Which NASA mission studied the interior of Mars using a lander equipped with a seismometer?",
+    "options": ["InSight", "Curiosity", "Perseverance", "Pathfinder"],
+    "correctAnswer": "InSight"
+  },
+  {
+    "id": "NASAISRO-058",
+    "question": "Which ISRO satellite system supports disaster management and resource monitoring?",
+    "options": ["NavIC", "GSAT", "IRS", "INSAT"],
+    "correctAnswer": "IRS"
+  },
+  {
+    "id": "NASAISRO-059",
+    "question": "Which NASA rocket launched the first crewed Moon landing mission?",
+    "options": ["Space Launch System", "Falcon 9", "Saturn V", "Delta II"],
+    "correctAnswer": "Saturn V"
+  },
+  {
+    "id": "NASAISRO-060",
+    "question": "Which ISRO mission aims to explore Venus in the near future?",
+    "options": ["Shukrayaan-1", "Gaganyaan", "Aditya-L1", "Chandrayaan-4"],
+    "correctAnswer": "Shukrayaan-1"
+  },
+  {
+    "id": "NASAISRO-061",
+    "question": "Which NASA mission conducted the first successful soft landing on Mars in 1997?",
+    "options": ["Mars Pathfinder", "Viking 2", "InSight", "Phoenix"],
+    "correctAnswer": "Mars Pathfinder"
+  },
+  {
+    "id": "NASAISRO-062",
+    "question": "Which ISRO mission deployed the Vikram lander?",
+    "options": ["Chandrayaan-3", "Chandrayaan-1", "Mangalyaan", "Astrosat"],
+    "correctAnswer": "Chandrayaan-3"
+  },
+  {
+    "id": "NASAISRO-063",
+    "question": "Which NASA space telescope focuses primarily on X-ray astronomy?",
+    "options": ["Hubble Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+    "correctAnswer": "Chandra X-ray Observatory"
+  },
+  {
+    "id": "NASAISRO-064",
+    "question": "Which ISRO launch vehicle has the highest payload capacity among operational Indian rockets?",
+    "options": ["PSLV", "GSLV Mk II", "SLV-3", "LVM3"],
+    "correctAnswer": "LVM3"
+  },
+  {
+    "id": "NASAISRO-065",
+    "question": "Which NASA mission was the first to land a rover on Mars?",
+    "options": ["Spirit", "Sojourner (Mars Pathfinder mission)", "Curiosity", "Perseverance"],
+    "correctAnswer": "Sojourner (Mars Pathfinder mission)"
+  },
+  {
+    "id": "NASAISRO-066",
+    "question": "Which ISRO satellite system provides regional navigation services?",
+    "options": ["INSAT", "NavIC", "Cartosat", "RISAT"],
+    "correctAnswer": "NavIC"
+  },
+  {
+    "id": "NASAISRO-067",
+    "question": "Which NASA mission was the first to orbit Earth with an American astronaut aboard?",
+    "options": ["Apollo 7", "Gemini 3", "Mercury-Atlas 6", "Skylab 2"],
+    "correctAnswer": "Mercury-Atlas 6"
+  },
+  {
+    "id": "NASAISRO-068",
+    "question": "Which ISRO mission is planned to study Venus?",
+    "options": ["Aditya-L2", "Shukrayaan-1", "Chandrayaan-4", "Gaganyaan-2"],
+    "correctAnswer": "Shukrayaan-1"
+  },
+  {
+    "id": "NASAISRO-069",
+    "question": "Which NASA probe provided detailed studies of Jupiter’s atmosphere starting in 2016?",
+    "options": ["Galileo", "Juno", "Voyager 2", "Cassini"],
+    "correctAnswer": "Juno"
+  },
+  {
+    "id": "NASAISRO-070",
+    "question": "Which ISRO center manages mission operations and satellite control?",
+    "options": ["ISRO Telemetry, Tracking and Command Network (ISTRAC)", "Vikram Sarabhai Space Centre", "Liquid Propulsion Systems Centre", "Satish Dhawan Space Centre"],
+    "correctAnswer": "ISRO Telemetry, Tracking and Command Network (ISTRAC)"
+  },
+  {
+    "id": "NASAISRO-071",
+    "question": "Which NASA mission conducted a flyby of the Kuiper Belt object Arrokoth in 2019?",
+    "options": ["New Horizons", "Voyager 1", "Dawn", "Pioneer 10"],
+    "correctAnswer": "New Horizons"
+  },
+  {
+    "id": "NASAISRO-072",
+    "question": "Which ISRO satellite series is used for radar imaging of Earth’s surface?",
+    "options": ["Cartosat", "INSAT", "RISAT", "GSAT"],
+    "correctAnswer": "RISAT"
+  },
+  {
+    "id": "NASAISRO-073",
+    "question": "Which NASA astronaut spent the longest continuous time in space for the United States (as of 2023)?",
+    "options": ["Scott Kelly", "Christina Koch", "Peggy Whitson", "Mark Vande Hei"],
+    "correctAnswer": "Mark Vande Hei"
+  },
+  {
+    "id": "NASAISRO-074",
+    "question": "Which ISRO mission marked India’s first lunar probe?",
+    "options": ["Chandrayaan-2", "Chandrayaan-1", "Mangalyaan", "Aditya-L1"],
+    "correctAnswer": "Chandrayaan-1"
+  },
+  {
+    "id": "NASAISRO-075",
+    "question": "Which NASA spacecraft studied the dwarf planet Ceres?",
+    "options": ["Dawn", "New Horizons", "Galileo", "Messenger"],
+    "correctAnswer": "Dawn"
+  },
+  {
+    "id": "NASAISRO-076",
+    "question": "Which ISRO vehicle first successfully placed a satellite into orbit in 1980?",
+    "options": ["ASLV", "PSLV", "SLV-3", "GSLV"],
+    "correctAnswer": "SLV-3"
+  },
+  {
+    "id": "NASAISRO-077",
+    "question": "Which NASA program focused on developing the Orion spacecraft?",
+    "options": ["Artemis Program", "Gemini Program", "Mercury Program", "Skylab Program"],
+    "correctAnswer": "Artemis Program"
+  },
+  {
+    "id": "NASAISRO-078",
+    "question": "Which ISRO mission successfully tested a crew escape system for human spaceflight?",
+    "options": ["Gaganyaan Pad Abort Test", "Chandrayaan-3", "NavIC Demo", "RISAT-Launch Test"],
+    "correctAnswer": "Gaganyaan Pad Abort Test"
+  },
+  {
+    "id": "NASAISRO-079",
+    "question": "Which NASA mission discovered thousands of exoplanets using the transit method before being retired in 2018?",
+    "options": ["TESS", "Kepler", "Hubble", "Spitzer"],
+    "correctAnswer": "Kepler"
+  },
+  {
+    "id": "NASAISRO-080",
+    "question": "Which ISRO satellite supports ocean and atmospheric studies?",
+    "options": ["Oceansat", "GSAT-7", "INSAT-3DR", "Cartosat-1"],
+    "correctAnswer": "Oceansat"
+  },
+  {
+    "id": "NASAISRO-081",
+    "question": "Which NASA spacecraft was the first to enter Saturn’s orbit?",
+    "options": ["Voyager 1", "Cassini", "Pioneer 11", "Galileo"],
+    "correctAnswer": "Cassini"
+  },
+  {
+    "id": "NASAISRO-082",
+    "question": "Which ISRO center specializes in liquid propulsion systems?",
+    "options": ["Liquid Propulsion Systems Centre", "National Remote Sensing Centre", "U R Rao Satellite Centre", "Satish Dhawan Space Centre"],
+    "correctAnswer": "Liquid Propulsion Systems Centre"
+  },
+  {
+    "id": "NASAISRO-083",
+    "question": "Which NASA mission deployed the first space-based infrared telescope?",
+    "options": ["IRAS (Infrared Astronomical Satellite)", "Spitzer Space Telescope", "WISE", "Hubble Space Telescope"],
+    "correctAnswer": "IRAS (Infrared Astronomical Satellite)"
+  },
+  {
+    "id": "NASAISRO-084",
+    "question": "Which ISRO satellite system is primarily used for high-resolution cartographic mapping?",
+    "options": ["Cartosat", "NavIC", "INSAT", "GSAT"],
+    "correctAnswer": "Cartosat"
+  },
+  {
+    "id": "NASAISRO-085",
+    "question": "Which NASA mission was designed to study Earth’s climate and radiation budget?",
+    "options": ["CERES", "Juno", "Voyager 2", "New Horizons"],
+    "correctAnswer": "CERES"
+  },
+  {
+    "id": "NASAISRO-086",
+    "question": "Which ISRO mission aimed to demonstrate reusable launch vehicle technology?",
+    "options": ["RLV-TD", "PSLV-C37", "GSLV Mk I", "SLV-Experimental"],
+    "correctAnswer": "RLV-TD"
+  },
+  {
+    "id": "NASAISRO-087",
+    "question": "Which NASA mission provided the first detailed images of Neptune?",
+    "options": ["Voyager 2", "Voyager 1", "Pioneer 11", "Galileo"],
+    "correctAnswer": "Voyager 2"
+  },
+  {
+    "id": "NASAISRO-088",
+    "question": "Which ISRO satellite assists in meteorological observations?",
+    "options": ["INSAT-3D", "Cartosat-3", "RISAT-1A", "NavIC-1G"],
+    "correctAnswer": "INSAT-3D"
+  },
+  {
+    "id": "NASAISRO-089",
+    "question": "Which NASA mission conducted the first successful sample return from a comet?",
+    "options": ["Stardust", "Deep Impact", "Rosetta", "Genesis"],
+    "correctAnswer": "Stardust"
+  },
+  {
+    "id": "NASAISRO-090",
+    "question": "Which ISRO mission is designed to observe X-ray polarization of cosmic sources?",
+    "options": ["XPoSat", "Astrosat-2", "RISAT-X", "Aditya-Polar"],
+    "correctAnswer": "XPoSat"
+  }
+]

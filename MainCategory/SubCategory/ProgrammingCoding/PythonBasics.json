@@ -1,30 +1,362 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "PB-001",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "correctAnswer": "def"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
+    "id": "PB-002",
+    "question": "What will be the output of: print(type(10))?",
+    "options": ["<class 'int'>", "<int>", "int", "<type int>"],
+    "correctAnswer": "<class 'int'>"
+  },
+  {
+    "id": "PB-003",
+    "question": "Which of the following is a mutable data type in Python?",
+    "options": ["tuple", "string", "list", "int"],
+    "correctAnswer": "list"
+  },
+  {
+    "id": "PB-004",
+    "question": "What is the result of: 5 // 2 ?",
+    "options": ["2", "2.5", "3", "2.0"],
     "correctAnswer": "2"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
+    "id": "PB-005",
+    "question": "Which symbol is used for single-line comments in Python?",
+    "options": ["//", "#", "/*", "--"],
+    "correctAnswer": "#"
+  },
+  {
+    "id": "PB-006",
+    "question": "What will be the output of: bool(0)?",
+    "options": ["True", "None", "0", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": "PB-007",
+    "question": "Which method is used to add an item to the end of a list?",
+    "options": ["append()", "add()", "insertEnd()", "push()"],
+    "correctAnswer": "append()"
+  },
+  {
+    "id": "PB-008",
+    "question": "What will be the output of: print(2 ** 3)?",
+    "options": ["6", "9", "8", "5"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "PB-009",
+    "question": "Which of the following creates an empty dictionary?",
+    "options": ["[]", "()", "{}", "set()"],
+    "correctAnswer": "{}"
+  },
+  {
+    "id": "PB-010",
+    "question": "What will be the output of: print('Hello'[1])?",
+    "options": ["H", "e", "l", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "id": "PB-011",
+    "question": "Which keyword is used to handle exceptions?",
+    "options": ["catch", "handle", "try", "error"],
+    "correctAnswer": "try"
+  },
+  {
+    "id": "PB-012",
+    "question": "What will be the output of: print(len([1, 2, 3, 4]))?",
+    "options": ["3", "4", "5", "Error"],
+    "correctAnswer": "4"
+  },
+  {
+    "id": "PB-013",
+    "question": "Which of the following is used to take user input in Python 3?",
+    "options": ["scanf()", "gets()", "input()", "read()"],
+    "correctAnswer": "input()"
+  },
+  {
+    "id": "PB-014",
+    "question": "What will be the output of: print(type(3.14))?",
+    "options": ["<class 'int'>", "<class 'float'>", "float", "<float>"],
+    "correctAnswer": "<class 'float'>"
+  },
+  {
+    "id": "PB-015",
+    "question": "Which operator is used for logical AND in Python?",
+    "options": ["&&", "&", "and", "AND"],
+    "correctAnswer": "and"
+  },
+  {
+    "id": "PB-016",
+    "question": "What will be the output of: print([1,2,3] + [4,5])?",
+    "options": ["[1,2,3,4,5]", "[5,7,3]", "Error", "[1,2,3][4,5]"],
+    "correctAnswer": "[1,2,3,4,5]"
+  },
+  {
+    "id": "PB-017",
+    "question": "Which function converts a string to an integer?",
+    "options": ["str()", "int()", "float()", "chr()"],
+    "correctAnswer": "int()"
+  },
+  {
+    "id": "PB-018",
+    "question": "What will be the output of: print(10 % 3)?",
+    "options": ["3", "1", "0", "3.3"],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "PB-019",
+    "question": "Which of the following is NOT a valid Python data type?",
+    "options": ["set", "array", "dict", "tuple"],
+    "correctAnswer": "array"
+  },
+  {
+    "id": "PB-020",
+    "question": "What will be the output of: print('5' + '5')?",
+    "options": ["10", "55", "Error", "5 5"],
+    "correctAnswer": "55"
+  },
+  {
+    "id": "PB-021",
+    "question": "Which statement is used to exit a loop prematurely?",
+    "options": ["stop", "exit", "break", "return"],
+    "correctAnswer": "break"
+  },
+  {
+    "id": "PB-022",
+    "question": "What will be the output of: print(list(range(3)))?",
+    "options": ["[0, 1, 2]", "[1, 2, 3]", "[0, 1, 2, 3]", "[3]"],
+    "correctAnswer": "[0, 1, 2]"
+  },
+  {
+    "id": "PB-023",
+    "question": "Which keyword is used to define a class in Python?",
+    "options": ["object", "class", "struct", "define"],
+    "correctAnswer": "class"
+  },
+  {
+    "id": "PB-024",
+    "question": "What will be the output of: print(bool(''))?",
+    "options": ["True", "None", "False", "Error"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": "PB-025",
+    "question": "Which method removes the last element from a list?",
+    "options": ["remove()", "delete()", "pop()", "discard()"],
+    "correctAnswer": "pop()"
+  },
+  {
+    "id": "PB-026",
+    "question": "What will be the output of: print(3 * 'Hi')?",
+    "options": ["HiHiHi", "3Hi", "Error", "Hi3"],
+    "correctAnswer": "HiHiHi"
+  },
+  {
+    "id": "PB-027",
+    "question": "Which of the following creates a tuple?",
+    "options": ["{1,2,3}", "[1,2,3]", "(1,2,3)", "<1,2,3>"],
+    "correctAnswer": "(1,2,3)"
+  },
+  {
+    "id": "PB-028",
+    "question": "What will be the output of: print(5 == 5.0)?",
+    "options": ["False", "Error", "0", "True"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "PB-029",
+    "question": "Which built-in function returns the maximum value from a list?",
+    "options": ["maximum()", "max()", "high()", "top()"],
+    "correctAnswer": "max()"
+  },
+  {
+    "id": "PB-030",
+    "question": "What will be the output of: print(type(None))?",
+    "options": ["None", "<class 'None'>", "<class 'NoneType'>", "NoneType"],
+    "correctAnswer": "<class 'NoneType'>"
+  },
+  {
+    "id": "PB-031",
+    "question": "Which of the following is the correct syntax to create a set in Python?",
+    "options": ["{1, 2, 3}", "[1, 2, 3]", "(1, 2, 3)", "set[1,2,3]"],
+    "correctAnswer": "{1, 2, 3}"
+  },
+  {
+    "id": "PB-032",
+    "question": "What is the output of: print(bool([ ]))?",
+    "options": ["False", "None", "True", "0"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": "PB-033",
+    "question": "Which method converts all characters in a string to uppercase?",
+    "options": ["upper()", "capitalize()", "toupper()", "upcase()"],
+    "correctAnswer": "upper()"
+  },
+  {
+    "id": "PB-034",
+    "question": "What is the output of: print(7 // 3)?",
+    "options": ["2", "2.33", "3", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "PB-035",
+    "question": "Which keyword is used to define an anonymous function in Python?",
+    "options": ["lambda", "def", "func", "anon"],
+    "correctAnswer": "lambda"
+  },
+  {
+    "id": "PB-036",
+    "question": "What will be the output of: print('Python'[-1])?",
+    "options": ["n", "P", "o", "N"],
+    "correctAnswer": "n"
+  },
+  {
+    "id": "PB-037",
+    "question": "Which of the following statements creates an empty list?",
+    "options": ["[]", "{}", "()", "list{}"],
+    "correctAnswer": "[]"
+  },
+  {
+    "id": "PB-038",
+    "question": "What is the output of: print(2 + 3 * 4)?",
+    "options": ["20", "14", "24", "12"],
+    "correctAnswer": "14"
+  },
+  {
+    "id": "PB-039",
+    "question": "Which operator is used to check equality in Python?",
+    "options": ["=", "==", "===", "!="],
+    "correctAnswer": "=="
+  },
+  {
+    "id": "PB-040",
+    "question": "Which of the following is used to terminate a function and return a value?",
+    "options": ["exit", "break", "return", "stop"],
+    "correctAnswer": "return"
+  },
+  {
+    "id": "PB-041",
+    "question": "What will be the output of: print(bool('False'))?",
+    "options": ["False", "Error", "True", "0"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "PB-042",
+    "question": "Which built-in function returns the length of an object?",
+    "options": ["count()", "size()", "length()", "len()"],
+    "correctAnswer": "len()"
+  },
+  {
+    "id": "PB-043",
+    "question": "What is the output of: print(4 * 3 ** 2)?",
+    "options": ["36", "144", "18", "24"],
+    "correctAnswer": "36"
+  },
+  {
+    "id": "PB-044",
+    "question": "Which of the following data types is immutable?",
+    "options": ["list", "set", "tuple", "dict"],
+    "correctAnswer": "tuple"
+  },
+  {
+    "id": "PB-045",
+    "question": "Which keyword is used to check multiple conditions in Python?",
+    "options": ["else if", "elif", "elseif", "ifelse"],
+    "correctAnswer": "elif"
+  },
+  {
+    "id": "PB-046",
+    "question": "What will be the output of: print(type({1,2,3}))?",
+    "options": ["<class 'list'>", "<class 'set'>", "<set>", "set"],
+    "correctAnswer": "<class 'set'>"
+  },
+  {
+    "id": "PB-047",
+    "question": "Which method removes a specific element from a list?",
+    "options": ["delete()", "pop()", "remove()", "discard()"],
+    "correctAnswer": "remove()"
+  },
+  {
+    "id": "PB-048",
+    "question": "What is the output of: print(10 > 5 and 5 > 2)?",
+    "options": ["True", "False", "Error", "0"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "PB-049",
+    "question": "Which function returns a sequence of numbers in Python?",
+    "options": ["range()", "seq()", "numbers()", "list()"],
+    "correctAnswer": "range()"
+  },
+  {
+    "id": "PB-050",
+    "question": "What will be the output of: print('abc' * 3)?",
+    "options": ["abcabcabc", "abc3", "Error", "abc abc abc"],
+    "correctAnswer": "abcabcabc"
+  },
+  {
+    "id": "PB-051",
+    "question": "Which method adds elements from another list to the end of a list?",
+    "options": ["extend()", "append()", "add()", "insert()"],
+    "correctAnswer": "extend()"
+  },
+  {
+    "id": "PB-052",
+    "question": "Which of the following is used to check membership in a collection?",
+    "options": ["in", "has", "contains", "exists"],
+    "correctAnswer": "in"
+  },
+  {
+    "id": "PB-053",
+    "question": "What is the output of: print(not (5 > 2))?",
+    "options": ["False", "True", "Error", "0"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": "PB-054",
+    "question": "Which built-in function converts a number to a string?",
+    "options": ["str()", "int()", "float()", "string()"],
+    "correctAnswer": "str()"
+  },
+  {
+    "id": "PB-055",
+    "question": "What will be the output of: print(3 == 3.0)?",
+    "options": ["False", "True", "0", "Error"],
+    "correctAnswer": "True"
+  },
+  {
+    "id": "PB-056",
+    "question": "Which of the following can be used to iterate over a dictionary’s keys?",
+    "options": ["dict.items()", "dict.keys()", "dict.values()", "dict.all()"],
+    "correctAnswer": "dict.keys()"
+  },
+  {
+    "id": "PB-057",
+    "question": "What is the output of: print(7 % 4)?",
+    "options": ["1", "2", "3", "0"],
     "correctAnswer": "3"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "PB-058",
+    "question": "Which function returns a random floating-point number between 0 and 1?",
+    "options": ["rand()", "random()", "uniform()", "choice()"],
+    "correctAnswer": "random()"
+  },
+  {
+    "id": "PB-059",
+    "question": "Which exception is raised when a variable is referenced before assignment?",
+    "options": ["NameError", "ValueError", "TypeError", "ReferenceError"],
+    "correctAnswer": "NameError"
+  },
+  {
+    "id": "PB-060",
+    "question": "What will be the output of: print(list('Python'))?",
+    "options": ["['P', 'y', 't', 'h', 'o', 'n']", "['Python']", "['Pyt', 'hon']", "['P','y','thon']"],
+    "correctAnswer": "['P', 'y', 't', 'h', 'o', 'n']"
   }
 ]

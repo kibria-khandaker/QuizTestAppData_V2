@@ -1,0 +1,542 @@
+[
+  {
+    "id": "PM-001",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "PM-002",
+    "question": "Which planet is the largest in our Solar System?",
+    "options": ["Saturn", "Earth", "Jupiter", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-003",
+    "question": "Which natural satellite orbits the Earth?",
+    "options": ["Europa", "Moon", "Titan", "Phobos"],
+    "correctAnswer": "Moon"
+  },
+  {
+    "id": "PM-004",
+    "question": "Which planet has the most prominent ring system?",
+    "options": ["Saturn", "Uranus", "Jupiter", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "PM-005",
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "PM-006",
+    "question": "Which moon is the largest in the Solar System?",
+    "options": ["Ganymede", "Titan", "Callisto", "Io"],
+    "correctAnswer": "Ganymede"
+  },
+  {
+    "id": "PM-007",
+    "question": "Which planet is known for its extreme greenhouse effect?",
+    "options": ["Mars", "Venus", "Mercury", "Saturn"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-008",
+    "question": "Phobos and Deimos are moons of which planet?",
+    "options": ["Jupiter", "Mars", "Saturn", "Neptune"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "PM-009",
+    "question": "Which planet has the shortest day (fastest rotation)?",
+    "options": ["Jupiter", "Earth", "Mars", "Venus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-010",
+    "question": "Which moon is known for its thick nitrogen-rich atmosphere?",
+    "options": ["Europa", "Titan", "Triton", "Enceladus"],
+    "correctAnswer": "Titan"
+  },
+  {
+    "id": "PM-011",
+    "question": "Which planet rotates on its side with an axial tilt of about 98 degrees?",
+    "options": ["Neptune", "Uranus", "Saturn", "Mars"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "PM-012",
+    "question": "Which planet is often called Earth's twin due to its similar size?",
+    "options": ["Mars", "Venus", "Mercury", "Neptune"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-013",
+    "question": "Which moon shows strong evidence of a subsurface ocean beneath its icy crust?",
+    "options": ["Io", "Europa", "Phobos", "Mimas"],
+    "correctAnswer": "Europa"
+  },
+  {
+    "id": "PM-014",
+    "question": "Which planet has the strongest magnetic field in the Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-015",
+    "question": "Which dwarf planet was reclassified from a full planet in 2006?",
+    "options": ["Eris", "Ceres", "Pluto", "Haumea"],
+    "correctAnswer": "Pluto"
+  },
+  {
+    "id": "PM-016",
+    "question": "Which moon is known for its intense volcanic activity?",
+    "options": ["Io", "Europa", "Titan", "Callisto"],
+    "correctAnswer": "Io"
+  },
+  {
+    "id": "PM-017",
+    "question": "Which planet has the longest orbital period around the Sun?",
+    "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "PM-018",
+    "question": "Which moon of Saturn ejects water-ice geysers from its दक्षिण pole region?",
+    "options": ["Titan", "Enceladus", "Rhea", "Iapetus"],
+    "correctAnswer": "Enceladus"
+  },
+  {
+    "id": "PM-019",
+    "question": "Which planet has the hottest average surface temperature?",
+    "options": ["Mercury", "Mars", "Venus", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-020",
+    "question": "Which moon orbits Neptune in a retrograde direction?",
+    "options": ["Triton", "Charon", "Deimos", "Oberon"],
+    "correctAnswer": "Triton"
+  },
+  {
+    "id": "PM-021",
+    "question": "Which planet's Great Red Spot is a विशाल storm observed for centuries?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Mars"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-022",
+    "question": "Which moon is tidally locked to Earth, always showing the same face?",
+    "options": ["Moon", "Titan", "Europa", "Ganymede"],
+    "correctAnswer": "Moon"
+  },
+  {
+    "id": "PM-023",
+    "question": "Which planet has a day longer than its year?",
+    "options": ["Venus", "Mercury", "Mars", "Neptune"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-024",
+    "question": "Which moon of Pluto is the largest?",
+    "options": ["Nix", "Hydra", "Charon", "Kerberos"],
+    "correctAnswer": "Charon"
+  },
+  {
+    "id": "PM-025",
+    "question": "Which planet is classified as an ice giant?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Earth"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "PM-026",
+    "question": "Which moon is believed to have a global ocean beneath its icy shell and orbits Jupiter?",
+    "options": ["Callisto", "Europa", "Io", "Ganymede"],
+    "correctAnswer": "Europa"
+  },
+  {
+    "id": "PM-027",
+    "question": "Which planet experiences supersonic winds exceeding 2,000 km/h?",
+    "options": ["Mars", "Neptune", "Saturn", "Earth"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "PM-028",
+    "question": "Which moon has a distinctive two-tone coloration, one hemisphere much darker than the other?",
+    "options": ["Iapetus", "Enceladus", "Europa", "Triton"],
+    "correctAnswer": "Iapetus"
+  },
+  {
+    "id": "PM-029",
+    "question": "Which planet has the highest number of confirmed moons as of recent discoveries?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "PM-030",
+    "question": "Which moon was the first discovered orbiting another planet (discovered by Galileo in 1610)?",
+    "options": ["Europa", "Ganymede", "Io", "Titan"],
+    "correctAnswer": "Io"
+  },
+  {
+    "id": "PM-031",
+    "question": "Which planet has the highest surface gravity among the eight planets?",
+    "options": ["Saturn", "Neptune", "Earth", "Jupiter"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-032",
+    "question": "Which moon of Jupiter is the most geologically inactive and heavily cratered?",
+    "options": ["Io", "Europa", "Callisto", "Ganymede"],
+    "correctAnswer": "Callisto"
+  },
+  {
+    "id": "PM-033",
+    "question": "Which planet is known for having a hexagonal storm at its north pole?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "PM-034",
+    "question": "Which planet has the most eccentric orbit among the eight major planets?",
+    "options": ["Mars", "Mercury", "Saturn", "Neptune"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "PM-035",
+    "question": "Which moon of Uranus was discovered by William Herschel in 1787?",
+    "options": ["Titania", "Miranda", "Ariel", "Umbriel"],
+    "correctAnswer": "Titania"
+  },
+  {
+    "id": "PM-036",
+    "question": "Which planet’s atmosphere is primarily composed of carbon dioxide?",
+    "options": ["Venus", "Earth", "Jupiter", "Saturn"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-037",
+    "question": "Which moon is famous for its chaotic terrain and potential subsurface ocean beneath Europa?",
+    "options": ["Enceladus", "Europa", "Triton", "Io"],
+    "correctAnswer": "Europa"
+  },
+  {
+    "id": "PM-038",
+    "question": "Which planet has the longest day in terms of rotation period?",
+    "options": ["Mercury", "Venus", "Mars", "Earth"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-039",
+    "question": "Which moon of Saturn has a massive equatorial ridge giving it a walnut-like shape?",
+    "options": ["Rhea", "Mimas", "Iapetus", "Dione"],
+    "correctAnswer": "Iapetus"
+  },
+  {
+    "id": "PM-040",
+    "question": "Which planet is sometimes referred to as the \"Morning Star\" or \"Evening Star\"?",
+    "options": ["Mars", "Mercury", "Venus", "Saturn"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-041",
+    "question": "Which moon of Neptune is thought to be a captured Kuiper Belt object?",
+    "options": ["Triton", "Proteus", "Nereid", "Larissa"],
+    "correctAnswer": "Triton"
+  },
+  {
+    "id": "PM-042",
+    "question": "Which planet has a prominent system of faint rings discovered in 1977?",
+    "options": ["Jupiter", "Uranus", "Neptune", "Saturn"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "PM-043",
+    "question": "Which moon of Jupiter is the only one known to generate its own magnetic field?",
+    "options": ["Io", "Callisto", "Europa", "Ganymede"],
+    "correctAnswer": "Ganymede"
+  },
+  {
+    "id": "PM-044",
+    "question": "Which planet has the highest average density?",
+    "options": ["Earth", "Mercury", "Venus", "Mars"],
+    "correctAnswer": "Earth"
+  },
+  {
+    "id": "PM-045",
+    "question": "Which moon of Saturn resembles the \"Death Star\" due to a large impact crater?",
+    "options": ["Rhea", "Enceladus", "Mimas", "Titan"],
+    "correctAnswer": "Mimas"
+  },
+  {
+    "id": "PM-046",
+    "question": "Which planet has a year that lasts about 29.5 Earth years?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "PM-047",
+    "question": "Which moon is the second-largest in the Solar System?",
+    "options": ["Titan", "Callisto", "Io", "Europa"],
+    "correctAnswer": "Titan"
+  },
+  {
+    "id": "PM-048",
+    "question": "Which planet's atmosphere contains the Great Dark Spot observed by Voyager 2?",
+    "options": ["Uranus", "Neptune", "Jupiter", "Saturn"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "PM-049",
+    "question": "Which moon of Mars is gradually spiraling inward and may eventually crash into the planet?",
+    "options": ["Deimos", "Phobos", "Io", "Charon"],
+    "correctAnswer": "Phobos"
+  },
+  {
+    "id": "PM-050",
+    "question": "Which planet has the smallest radius among the eight planets?",
+    "options": ["Mercury", "Mars", "Venus", "Earth"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "PM-051",
+    "question": "Which moon of Uranus has the most extreme variations in surface features?",
+    "options": ["Ariel", "Miranda", "Titania", "Umbriel"],
+    "correctAnswer": "Miranda"
+  },
+  {
+    "id": "PM-052",
+    "question": "Which planet has a thick atmosphere composed mainly of hydrogen and helium?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-053",
+    "question": "Which moon of Saturn has large methane and ethane lakes on its surface?",
+    "options": ["Enceladus", "Titan", "Rhea", "Dione"],
+    "correctAnswer": "Titan"
+  },
+  {
+    "id": "PM-054",
+    "question": "Which planet has the weakest surface gravity among the eight planets?",
+    "options": ["Mars", "Mercury", "Venus", "Uranus"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "PM-055",
+    "question": "Which moon of Jupiter is closest to the planet?",
+    "options": ["Io", "Europa", "Ganymede", "Callisto"],
+    "correctAnswer": "Io"
+  },
+  {
+    "id": "PM-056",
+    "question": "Which planet has an axial tilt of about 25 degrees, similar to Earth?",
+    "options": ["Mars", "Mercury", "Neptune", "Venus"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "PM-057",
+    "question": "Which moon of Saturn is known for its bright icy surface and high reflectivity?",
+    "options": ["Titan", "Enceladus", "Iapetus", "Hyperion"],
+    "correctAnswer": "Enceladus"
+  },
+  {
+    "id": "PM-058",
+    "question": "Which planet has the slowest orbital speed around the Sun?",
+    "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "PM-059",
+    "question": "Which moon of Pluto was discovered in 1978 and is tidally locked with Pluto?",
+    "options": ["Hydra", "Nix", "Charon", "Styx"],
+    "correctAnswer": "Charon"
+  },
+  {
+    "id": "PM-060",
+    "question": "Which planet is known for having the most flattened shape due to its rapid rotation?",
+    "options": ["Earth", "Jupiter", "Mars", "Venus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-061",
+    "question": "Which planet has the brightest apparent magnitude when viewed from Earth?",
+    "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-062",
+    "question": "Which moon of Jupiter is known for its massive Valhalla impact basin?",
+    "options": ["Europa", "Io", "Callisto", "Ganymede"],
+    "correctAnswer": "Callisto"
+  },
+  {
+    "id": "PM-063",
+    "question": "Which planet has a retrograde rotation, spinning opposite to most planets?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-064",
+    "question": "Which moon of Saturn has a sponge-like appearance due to its low density and porous structure?",
+    "options": ["Mimas", "Hyperion", "Rhea", "Dione"],
+    "correctAnswer": "Hyperion"
+  },
+  {
+    "id": "PM-065",
+    "question": "Which planet has the most extreme seasonal changes due to its axial tilt?",
+    "options": ["Earth", "Mars", "Uranus", "Neptune"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "PM-066",
+    "question": "Which moon of Jupiter was discovered by Galileo Galilei in 1610 along with three others?",
+    "options": ["Titan", "Io", "Triton", "Titania"],
+    "correctAnswer": "Io"
+  },
+  {
+    "id": "PM-067",
+    "question": "Which planet has the lowest average density, so low that it could float in water hypothetically?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "PM-068",
+    "question": "Which moon of Neptune has a highly inclined and eccentric orbit?",
+    "options": ["Proteus", "Larissa", "Nereid", "Triton"],
+    "correctAnswer": "Nereid"
+  },
+  {
+    "id": "PM-069",
+    "question": "Which planet’s atmosphere shows prominent bands caused by strong zonal winds?",
+    "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-070",
+    "question": "Which moon of Saturn is the second-largest after Titan?",
+    "options": ["Iapetus", "Rhea", "Enceladus", "Dione"],
+    "correctAnswer": "Rhea"
+  },
+  {
+    "id": "PM-071",
+    "question": "Which planet has a sidereal day shorter than 11 hours?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-072",
+    "question": "Which moon of Uranus has large canyons and signs of past tectonic activity?",
+    "options": ["Umbriel", "Ariel", "Oberon", "Titania"],
+    "correctAnswer": "Ariel"
+  },
+  {
+    "id": "PM-073",
+    "question": "Which planet has the most circular orbit (lowest orbital eccentricity)?",
+    "options": ["Neptune", "Venus", "Mars", "Mercury"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "PM-074",
+    "question": "Which moon of Jupiter is farthest from the planet among the four Galilean moons?",
+    "options": ["Io", "Europa", "Callisto", "Ganymede"],
+    "correctAnswer": "Callisto"
+  },
+  {
+    "id": "PM-075",
+    "question": "Which planet has a prominent feature known as Olympus Mons?",
+    "options": ["Mars", "Earth", "Venus", "Mercury"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "PM-076",
+    "question": "Which moon of Saturn has a heavily cratered surface and is composed mostly of ice?",
+    "options": ["Rhea", "Titan", "Enceladus", "Hyperion"],
+    "correctAnswer": "Rhea"
+  },
+  {
+    "id": "PM-077",
+    "question": "Which planet is known for its bluish color due to methane in its atmosphere?",
+    "options": ["Uranus", "Mars", "Saturn", "Mercury"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "PM-078",
+    "question": "Which moon of Mars is smaller and farther from the planet?",
+    "options": ["Phobos", "Deimos", "Io", "Europa"],
+    "correctAnswer": "Deimos"
+  },
+  {
+    "id": "PM-079",
+    "question": "Which planet has the strongest surface winds recorded in the Solar System?",
+    "options": ["Saturn", "Earth", "Neptune", "Jupiter"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "PM-080",
+    "question": "Which moon of Saturn is known for its large Herschel crater?",
+    "options": ["Mimas", "Rhea", "Dione", "Iapetus"],
+    "correctAnswer": "Mimas"
+  },
+  {
+    "id": "PM-081",
+    "question": "Which planet has a magnetic field that is significantly tilted relative to its rotation axis?",
+    "options": ["Earth", "Uranus", "Mars", "Venus"],
+    "correctAnswer": "Uranus"
+  },
+  {
+    "id": "PM-082",
+    "question": "Which moon of Jupiter is known for its relatively smooth icy plains and lineae features?",
+    "options": ["Europa", "Io", "Callisto", "Amalthea"],
+    "correctAnswer": "Europa"
+  },
+  {
+    "id": "PM-083",
+    "question": "Which planet has the highest escape velocity?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "PM-084",
+    "question": "Which moon of Saturn has an orbit that lies within Saturn’s E-ring?",
+    "options": ["Titan", "Enceladus", "Rhea", "Iapetus"],
+    "correctAnswer": "Enceladus"
+  },
+  {
+    "id": "PM-085",
+    "question": "Which planet has a surface temperature that can vary drastically between day and night due to lack of atmosphere?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "PM-086",
+    "question": "Which moon of Uranus is the largest?",
+    "options": ["Oberon", "Miranda", "Titania", "Ariel"],
+    "correctAnswer": "Titania"
+  },
+  {
+    "id": "PM-087",
+    "question": "Which planet’s orbit defines the inner boundary of the asteroid belt?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "PM-088",
+    "question": "Which moon of Jupiter has the most intense radiation environment due to its proximity to Jupiter?",
+    "options": ["Callisto", "Io", "Europa", "Ganymede"],
+    "correctAnswer": "Io"
+  },
+  {
+    "id": "PM-089",
+    "question": "Which planet has the longest year in terms of Earth days?",
+    "options": ["Neptune", "Saturn", "Uranus", "Jupiter"],
+    "correctAnswer": "Neptune"
+  },
+  {
+    "id": "PM-090",
+    "question": "Which moon of Saturn rotates synchronously and always shows the same face to Saturn?",
+    "options": ["Titan", "Rhea", "Enceladus", "All of the above"],
+    "correctAnswer": "All of the above"
+  }
+]

@@ -1,30 +1,362 @@
 [
   {
-    "id": "Test-001",
-    "examStageType": "easy",
-    "question": "This is the test Question 1?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "1"
+    "id": "CC-001",
+    "question": "Who developed the C programming language?",
+    "options": ["Bjarne Stroustrup", "James Gosling", "Dennis Ritchie", "Ken Thompson"],
+    "correctAnswer": "Dennis Ritchie"
   },
   {
-    "id": "Test-002",
-    "examStageType": "easy",
-    "question": "This is the test Question 2?",
-    "options": ["1", "3", "4", "2"],
+    "id": "CC-002",
+    "question": "Which symbol is used to end a statement in C?",
+    "options": [":", ";", ".", ","],
+    "correctAnswer": ";"
+  },
+  {
+    "id": "CC-003",
+    "question": "Which of the following is a valid C data type?",
+    "options": ["integer", "real", "float", "decimal"],
+    "correctAnswer": "float"
+  },
+  {
+    "id": "CC-004",
+    "question": "What is the correct format specifier for an integer in C?",
+    "options": ["%f", "%c", "%d", "%s"],
+    "correctAnswer": "%d"
+  },
+  {
+    "id": "CC-005",
+    "question": "Which header file is required for printf() function?",
+    "options": ["stdlib.h", "conio.h", "math.h", "stdio.h"],
+    "correctAnswer": "stdio.h"
+  },
+  {
+    "id": "CC-006",
+    "question": "Which operator is used for address-of in C?",
+    "options": ["*", "&", "%", "#"],
+    "correctAnswer": "&"
+  },
+  {
+    "id": "CC-007",
+    "question": "Which loop is guaranteed to execute at least once?",
+    "options": ["for loop", "while loop", "do-while loop", "nested loop"],
+    "correctAnswer": "do-while loop"
+  },
+  {
+    "id": "CC-008",
+    "question": "What is the size of char data type in C?",
+    "options": ["1 byte", "2 bytes", "4 bytes", "Depends on compiler"],
+    "correctAnswer": "1 byte"
+  },
+  {
+    "id": "CC-009",
+    "question": "Which concept is primarily supported by C++ but not by C?",
+    "options": ["Pointers", "Structures", "Object-Oriented Programming", "Preprocessor"],
+    "correctAnswer": "Object-Oriented Programming"
+  },
+  {
+    "id": "CC-010",
+    "question": "What will sizeof(int) typically return on a 32-bit system?",
+    "options": ["2", "4", "8", "Depends on compiler"],
+    "correctAnswer": "4"
+  },
+  {
+    "id": "CC-011",
+    "question": "Which keyword is used to define a constant variable in C?",
+    "options": ["final", "const", "static", "define"],
+    "correctAnswer": "const"
+  },
+  {
+    "id": "CC-012",
+    "question": "Which of the following correctly declares a pointer to int?",
+    "options": ["int ptr;", "int &ptr;", "int *ptr;", "pointer int ptr;"],
+    "correctAnswer": "int *ptr;"
+  },
+  {
+    "id": "CC-013",
+    "question": "Which storage class retains its value between function calls?",
+    "options": ["auto", "register", "static", "extern"],
+    "correctAnswer": "static"
+  },
+  {
+    "id": "CC-014",
+    "question": "Which feature allows the same function name with different parameters in C++?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Function Overloading"],
+    "correctAnswer": "Function Overloading"
+  },
+  {
+    "id": "CC-015",
+    "question": "What is the default return type of main() in C?",
+    "options": ["void", "float", "int", "char"],
+    "correctAnswer": "int"
+  },
+  {
+    "id": "CC-016",
+    "question": "Which operator is used to access members of a structure through a pointer?",
+    "options": [".", "::", "->", ":"],
+    "correctAnswer": "->"
+  },
+  {
+    "id": "CC-017",
+    "question": "Which of the following is not a valid C++ access specifier?",
+    "options": ["private", "protected", "internal", "public"],
+    "correctAnswer": "internal"
+  },
+  {
+    "id": "CC-018",
+    "question": "What will be the output of: printf(\"%d\", 5/2); in C?",
+    "options": ["2.5", "3", "2", "Error"],
     "correctAnswer": "2"
   },
   {
-    "id": "Test-003",
-    "examStageType": "easy",
-    "question": "This is the test Question 3?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "3"
+    "id": "CC-019",
+    "question": "Which keyword is used to prevent inheritance in C++?",
+    "options": ["sealed", "final", "static", "const"],
+    "correctAnswer": "final"
   },
   {
-    "id": "Test-004",
-    "examStageType": "easy",
-    "question": "This is the test Question 4?",
-    "options": ["1", "3", "4", "2"],
-    "correctAnswer": "4"
+    "id": "CC-020",
+    "question": "Which memory allocation function is used in C?",
+    "options": ["new", "malloc()", "create()", "alloc()"],
+    "correctAnswer": "malloc()"
+  },
+  {
+    "id": "CC-021",
+    "question": "Which concept binds data and functions together in C++?",
+    "options": ["Encapsulation", "Abstraction", "Inheritance", "Overloading"],
+    "correctAnswer": "Encapsulation"
+  },
+  {
+    "id": "CC-022",
+    "question": "What is a dangling pointer?",
+    "options": ["A pointer pointing to NULL", "A pointer pointing to freed memory", "A pointer with no type", "A pointer to pointer"],
+    "correctAnswer": "A pointer pointing to freed memory"
+  },
+  {
+    "id": "CC-023",
+    "question": "Which function is used to deallocate memory allocated by malloc()?",
+    "options": ["delete", "remove()", "free()", "clear()"],
+    "correctAnswer": "free()"
+  },
+  {
+    "id": "CC-024",
+    "question": "Which operator cannot be overloaded in C++?",
+    "options": ["+", "==", "::", "*"],
+    "correctAnswer": "::"
+  },
+  {
+    "id": "CC-025",
+    "question": "What is the output of: int x=10; printf(\"%d\", x++);",
+    "options": ["11", "10", "Error", "Undefined"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "CC-026",
+    "question": "Which keyword is used to create a class in C++?",
+    "options": ["struct", "object", "class", "define"],
+    "correctAnswer": "class"
+  },
+  {
+    "id": "CC-027",
+    "question": "Which of the following supports dynamic binding in C++?",
+    "options": ["Static function", "Inline function", "Virtual function", "Friend function"],
+    "correctAnswer": "Virtual function"
+  },
+  {
+    "id": "CC-028",
+    "question": "Which preprocessor directive is used to include a header file?",
+    "options": ["#include", "#define", "#ifdef", "#pragma"],
+    "correctAnswer": "#include"
+  },
+  {
+    "id": "CC-029",
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "id": "CC-030",
+    "question": "Which C++ feature allows one class to acquire properties of another?",
+    "options": ["Polymorphism", "Encapsulation", "Abstraction", "Inheritance"],
+    "correctAnswer": "Inheritance"
+  },
+  {
+    "id": "CC-031",
+    "question": "Which of the following is used to define a macro in C?",
+    "options": ["#macro", "#define", "#include", "#const"],
+    "correctAnswer": "#define"
+  },
+  {
+    "id": "CC-032",
+    "question": "Which of these is a valid way to declare an array in C?",
+    "options": ["int arr[];", "int arr;", "array int arr[5];", "int arr(5);"],
+    "correctAnswer": "int arr[];"
+  },
+  {
+    "id": "CC-033",
+    "question": "What is the scope of a variable declared inside a function?",
+    "options": ["Global", "Local", "Static", "External"],
+    "correctAnswer": "Local"
+  },
+  {
+    "id": "CC-034",
+    "question": "Which of the following is true about the 'register' storage class?",
+    "options": ["Stored in memory", "Stored in CPU register", "Persistent between calls", "Used for constants"],
+    "correctAnswer": "Stored in CPU register"
+  },
+  {
+    "id": "CC-035",
+    "question": "What does the 'sizeof' operator return?",
+    "options": ["Value of variable", "Size in bytes", "Memory address", "Type of variable"],
+    "correctAnswer": "Size in bytes"
+  },
+  {
+    "id": "CC-036",
+    "question": "Which of the following is not a valid loop in C?",
+    "options": ["for", "while", "do-while", "repeat-until"],
+    "correctAnswer": "repeat-until"
+  },
+  {
+    "id": "CC-037",
+    "question": "What is the output of: printf(\"%c\", 'A'+1);",
+    "options": ["A", "B", "1", "C"],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "CC-038",
+    "question": "Which operator is used to access the value at the address stored by a pointer?",
+    "options": ["&", "*", "->", "."],
+    "correctAnswer": "*"
+  },
+  {
+    "id": "CC-039",
+    "question": "Which of the following is the correct way to declare a function pointer?",
+    "options": ["int (*ptr)();", "int *ptr();", "ptr int*();", "function ptr int();"],
+    "correctAnswer": "int (*ptr)();"
+  },
+  {
+    "id": "CC-040",
+    "question": "Which of these keywords is used to inherit a class in C++?",
+    "options": ["extends", "inherit", ":", "baseof"],
+    "correctAnswer": ":"
+  },
+  {
+    "id": "CC-041",
+    "question": "Which operator is used for bitwise AND in C?",
+    "options": ["&", "&&", "|", "^"],
+    "correctAnswer": "&"
+  },
+  {
+    "id": "CC-042",
+    "question": "What is the difference between '++i' and 'i++' in C?",
+    "options": ["Both same", "'i++' increments after use, '++i' before use", "'++i' increments after use, 'i++' before use", "Depends on compiler"],
+    "correctAnswer": "'i++' increments after use, '++i' before use"
+  },
+  {
+    "id": "CC-043",
+    "question": "Which of the following is used for single-line comments in C++?",
+    "options": ["/* comment */", "// comment", "# comment", "<!-- comment -->"],
+    "correctAnswer": "// comment"
+  },
+  {
+    "id": "CC-044",
+    "question": "Which C++ feature allows hiding implementation details from the user?",
+    "options": ["Encapsulation", "Polymorphism", "Abstraction", "Inheritance"],
+    "correctAnswer": "Abstraction"
+  },
+  {
+    "id": "CC-045",
+    "question": "What will be the value of 'x' after: int x=5; x+=3*2;",
+    "options": ["11", "16", "10", "13"],
+    "correctAnswer": "11"
+  },
+  {
+    "id": "CC-046",
+    "question": "Which of the following is true about a 'const' pointer?",
+    "options": ["Pointer value cannot change", "Pointed value cannot change", "Both pointer and pointed value cannot change", "None"],
+    "correctAnswer": "Pointed value cannot change"
+  },
+  {
+    "id": "CC-047",
+    "question": "Which C++ keyword allows a function to access private members of a class?",
+    "options": ["private", "friend", "protected", "inline"],
+    "correctAnswer": "friend"
+  },
+  {
+    "id": "CC-048",
+    "question": "Which function is used to compare two strings in C?",
+    "options": ["strcmp()", "strcpy()", "strlen()", "strcat()"],
+    "correctAnswer": "strcmp()"
+  },
+  {
+    "id": "CC-049",
+    "question": "Which of the following is true about virtual functions in C++?",
+    "options": ["Resolved at compile time", "Resolved at runtime", "Cannot be inherited", "Cannot be overridden"],
+    "correctAnswer": "Resolved at runtime"
+  },
+  {
+    "id": "CC-050",
+    "question": "What is the value of 'i' after: int i=0; for(i=0;i<5;i++);",
+    "options": ["0", "4", "5", "Undefined"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "CC-051",
+    "question": "Which operator is used for scope resolution in C++?",
+    "options": ["->", "::", ".", "scope"],
+    "correctAnswer": "::"
+  },
+  {
+    "id": "CC-052",
+    "question": "Which is the correct way to allocate memory for 10 integers dynamically in C?",
+    "options": ["int *arr = malloc(10);", "int *arr = malloc(10*sizeof(int));", "int arr[10];", "int *arr = new int[10];"],
+    "correctAnswer": "int *arr = malloc(10*sizeof(int));"
+  },
+  {
+    "id": "CC-053",
+    "question": "Which exception handling keywords are used in C++?",
+    "options": ["try, catch, throw", "try, handle, throw", "catch, finally, raise", "begin, except, end"],
+    "correctAnswer": "try, catch, throw"
+  },
+  {
+    "id": "CC-054",
+    "question": "Which of the following can be used to stop a loop immediately in C?",
+    "options": ["exit", "break", "continue", "return"],
+    "correctAnswer": "break"
+  },
+  {
+    "id": "CC-055",
+    "question": "Which of these is true about 'inline' functions in C++?",
+    "options": ["Always executed in new memory", "Code is expanded at compile time", "Cannot have parameters", "Cannot return values"],
+    "correctAnswer": "Code is expanded at compile time"
+  },
+  {
+    "id": "CC-056",
+    "question": "Which of the following is not a valid C++ cast operator?",
+    "options": ["static_cast", "dynamic_cast", "const_cast", "memory_cast"],
+    "correctAnswer": "memory_cast"
+  },
+  {
+    "id": "CC-057",
+    "question": "Which of the following is true about a 'pure virtual function'?",
+    "options": ["Must have a definition", "Declares an abstract function", "Cannot be overridden", "Cannot be in a base class"],
+    "correctAnswer": "Declares an abstract function"
+  },
+  {
+    "id": "CC-058",
+    "question": "Which operator is used to combine two boolean expressions in C++?",
+    "options": ["&", "|", "&&", "^"],
+    "correctAnswer": "&&"
+  },
+  {
+    "id": "CC-059",
+    "question": "What is the default access specifier for members of a class in C++?",
+    "options": ["private", "protected", "public", "internal"],
+    "correctAnswer": "private"
+  },
+  {
+    "id": "CC-060",
+    "question": "Which of the following is the correct syntax for a constructor in C++?",
+    "options": ["ClassName() {}", "~ClassName() {}", "void ClassName() {}", "ClassName:void() {}"],
+    "correctAnswer": "ClassName() {}"
   }
 ]
