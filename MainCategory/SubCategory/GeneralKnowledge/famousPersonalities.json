@@ -1,0 +1,362 @@
+[
+  {
+    "id": "FP-001",
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": "FP-002",
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+    "correctAnswer": "George Washington"
+  },
+  {
+    "id": "FP-003",
+    "question": "Which scientist discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Gregor Mendel"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "id": "FP-004",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Wordsworth", "William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": "FP-005",
+    "question": "Who was known as the 'Iron Lady'?",
+    "options": ["Angela Merkel", "Margaret Thatcher", "Indira Gandhi", "Golda Meir"],
+    "correctAnswer": "Margaret Thatcher"
+  },
+  {
+    "id": "FP-006",
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Leonardo da Vinci", "Raphael", "Donatello", "Michelangelo"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "id": "FP-007",
+    "question": "Which leader delivered the famous 'I Have a Dream' speech?",
+    "options": ["Nelson Mandela", "Malcolm X", "Martin Luther King Jr.", "Barack Obama"],
+    "correctAnswer": "Martin Luther King Jr."
+  },
+  {
+    "id": "FP-008",
+    "question": "Who is the founder of Microsoft?",
+    "options": ["Steve Jobs", "Elon Musk", "Bill Gates", "Mark Zuckerberg"],
+    "correctAnswer": "Bill Gates"
+  },
+  {
+    "id": "FP-009",
+    "question": "Which explorer first circumnavigated the globe?",
+    "options": ["Christopher Columbus", "Vasco da Gama", "James Cook", "Ferdinand Magellan"],
+    "correctAnswer": "Ferdinand Magellan"
+  },
+  {
+    "id": "FP-010",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Rosalind Franklin", "Jane Goodall", "Marie Curie", "Mother Teresa"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "id": "FP-011",
+    "question": "Who formulated the laws of motion?",
+    "options": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Niels Bohr"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "FP-012",
+    "question": "Who was the longest-reigning British monarch before 2022?",
+    "options": ["Queen Elizabeth I", "Queen Victoria", "King George III", "Queen Elizabeth II"],
+    "correctAnswer": "Queen Elizabeth II"
+  },
+  {
+    "id": "FP-013",
+    "question": "Which Indian leader is known as the 'Father of the Nation'?",
+    "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "B. R. Ambedkar"],
+    "correctAnswer": "Mahatma Gandhi"
+  },
+  {
+    "id": "FP-014",
+    "question": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "id": "FP-015",
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong", "Michael Collins"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "id": "FP-016",
+    "question": "Which philosopher wrote 'The Republic'?",
+    "options": ["Aristotle", "Socrates", "Plato", "Confucius"],
+    "correctAnswer": "Plato"
+  },
+  {
+    "id": "FP-017",
+    "question": "Who is known as the founder of Facebook?",
+    "options": ["Larry Page", "Jeff Bezos", "Mark Zuckerberg", "Sergey Brin"],
+    "correctAnswer": "Mark Zuckerberg"
+  },
+  {
+    "id": "FP-018",
+    "question": "Which scientist proposed the heliocentric theory?",
+    "options": ["Johannes Kepler", "Nicolaus Copernicus", "Tycho Brahe", "Edwin Hubble"],
+    "correctAnswer": "Nicolaus Copernicus"
+  },
+  {
+    "id": "FP-019",
+    "question": "Who was the first Emperor of Rome?",
+    "options": ["Nero", "Julius Caesar", "Augustus", "Caligula"],
+    "correctAnswer": "Augustus"
+  },
+  {
+    "id": "FP-020",
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Emily Brontë", "Jane Austen", "Virginia Woolf", "Charlotte Brontë"],
+    "correctAnswer": "Jane Austen"
+  },
+  {
+    "id": "FP-021",
+    "question": "Which leader was imprisoned for 27 years in South Africa?",
+    "options": ["Desmond Tutu", "Thabo Mbeki", "Nelson Mandela", "Jacob Zuma"],
+    "correctAnswer": "Nelson Mandela"
+  },
+  {
+    "id": "FP-022",
+    "question": "Who discovered gravity after observing a falling apple?",
+    "options": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Archimedes"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "FP-023",
+    "question": "Which artist painted the Mona Lisa?",
+    "options": ["Pablo Picasso", "Leonardo da Vinci", "Claude Monet", "Vincent van Gogh"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "id": "FP-024",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": ["Theresa May", "Margaret Thatcher", "Liz Truss", "Harriet Harman"],
+    "correctAnswer": "Margaret Thatcher"
+  },
+  {
+    "id": "FP-025",
+    "question": "Which scientist is known for the uncertainty principle?",
+    "options": ["Werner Heisenberg", "Max Planck", "Erwin Schrödinger", "Richard Feynman"],
+    "correctAnswer": "Werner Heisenberg"
+  },
+  {
+    "id": "FP-026",
+    "question": "Who led the Soviet Union during World War II?",
+    "options": ["Vladimir Lenin", "Leon Trotsky", "Nikita Khrushchev", "Joseph Stalin"],
+    "correctAnswer": "Joseph Stalin"
+  },
+  {
+    "id": "FP-027",
+    "question": "Which explorer reached India by sea route in 1498?",
+    "options": ["Ferdinand Magellan", "Vasco da Gama", "Christopher Columbus", "Marco Polo"],
+    "correctAnswer": "Vasco da Gama"
+  },
+  {
+    "id": "FP-028",
+    "question": "Who developed the polio vaccine?",
+    "options": ["Louis Pasteur", "Edward Jenner", "Jonas Salk", "Robert Koch"],
+    "correctAnswer": "Jonas Salk"
+  },
+  {
+    "id": "FP-029",
+    "question": "Who was the founder of the Mongol Empire?",
+    "options": ["Kublai Khan", "Attila the Hun", "Tamerlane", "Genghis Khan"],
+    "correctAnswer": "Genghis Khan"
+  },
+  {
+    "id": "FP-030",
+    "question": "Which mathematician is known for the concept of zero in ancient India?",
+    "options": ["Aryabhata", "Brahmagupta", "Bhaskara II", "Srinivasa Ramanujan"],
+    "correctAnswer": "Brahmagupta"
+  },
+  {
+    "id": "FP-031",
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "correctAnswer": "Galileo Galilei"
+  },
+  {
+    "id": "FP-032",
+    "question": "Which American civil rights leader was awarded the Nobel Peace Prize in 1964?",
+    "options": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "Frederick Douglass"],
+    "correctAnswer": "Martin Luther King Jr."
+  },
+  {
+    "id": "FP-033",
+    "question": "Who created the first successful airplane?",
+    "options": ["Wilbur Wright", "Orville Wright", "Samuel Langley", "Alexander Graham Bell"],
+    "correctAnswer": "Orville Wright"
+  },
+  {
+    "id": "FP-034",
+    "question": "Which economist wrote 'The Wealth of Nations'?",
+    "options": ["John Maynard Keynes", "Adam Smith", "Karl Marx", "Milton Friedman"],
+    "correctAnswer": "Adam Smith"
+  },
+  {
+    "id": "FP-035",
+    "question": "Who was the first female Chancellor of Germany?",
+    "options": ["Angela Merkel", "Margaret Thatcher", "Ursula von der Leyen", "Golda Meir"],
+    "correctAnswer": "Angela Merkel"
+  },
+  {
+    "id": "FP-036",
+    "question": "Which Russian composer wrote the '1812 Overture'?",
+    "options": ["Pyotr Ilyich Tchaikovsky", "Dmitri Shostakovich", "Sergei Rachmaninoff", "Igor Stravinsky"],
+    "correctAnswer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": "FP-037",
+    "question": "Who was the Prime Minister of India during the 1971 Bangladesh Liberation War?",
+    "options": ["Jawaharlal Nehru", "Indira Gandhi", "Rajiv Gandhi", "Lal Bahadur Shastri"],
+    "correctAnswer": "Indira Gandhi"
+  },
+  {
+    "id": "FP-038",
+    "question": "Who was the famous Egyptian queen known for her beauty and political influence?",
+    "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Nefertari"],
+    "correctAnswer": "Cleopatra"
+  },
+  {
+    "id": "FP-039",
+    "question": "Which scientist is known as the father of modern chemistry?",
+    "options": ["Dmitri Mendeleev", "Antoine Lavoisier", "Robert Boyle", "John Dalton"],
+    "correctAnswer": "Antoine Lavoisier"
+  },
+  {
+    "id": "FP-040",
+    "question": "Who is considered the founder of modern nursing?",
+    "options": ["Clara Barton", "Florence Nightingale", "Mary Seacole", "Lillian Wald"],
+    "correctAnswer": "Florence Nightingale"
+  },
+  {
+    "id": "FP-041",
+    "question": "Which philosopher is known for the statement 'I think, therefore I am'?",
+    "options": ["Socrates", "René Descartes", "Immanuel Kant", "Plato"],
+    "correctAnswer": "René Descartes"
+  },
+  {
+    "id": "FP-042",
+    "question": "Who was the leader of the Cuban Revolution?",
+    "options": ["Fidel Castro", "Che Guevara", "Raúl Castro", "Hugo Chávez"],
+    "correctAnswer": "Fidel Castro"
+  },
+  {
+    "id": "FP-043",
+    "question": "Which famous artist is known for the painting style called Cubism?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí"],
+    "correctAnswer": "Pablo Picasso"
+  },
+  {
+    "id": "FP-044",
+    "question": "Who was the founder of the Mongol Empire?",
+    "options": ["Genghis Khan", "Kublai Khan", "Tamerlane", "Attila the Hun"],
+    "correctAnswer": "Genghis Khan"
+  },
+  {
+    "id": "FP-045",
+    "question": "Which scientist proposed the theory of evolution by natural selection?",
+    "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Jean-Baptiste Lamarck"],
+    "correctAnswer": "Charles Darwin"
+  },
+  {
+    "id": "FP-046",
+    "question": "Who is considered the father of psychoanalysis?",
+    "options": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Ivan Pavlov"],
+    "correctAnswer": "Sigmund Freud"
+  },
+  {
+    "id": "FP-047",
+    "question": "Which famous composer was deaf for most of his career?",
+    "options": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Frédéric Chopin"],
+    "correctAnswer": "Ludwig van Beethoven"
+  },
+  {
+    "id": "FP-048",
+    "question": "Who was the first female Prime Minister of Pakistan?",
+    "options": ["Benazir Bhutto", "Indira Gandhi", "Sheikh Hasina", "Margaret Thatcher"],
+    "correctAnswer": "Benazir Bhutto"
+  },
+  {
+    "id": "FP-049",
+    "question": "Which mathematician is famous for the 'Fermat's Last Theorem'?",
+    "options": ["Pierre de Fermat", "Leonhard Euler", "Carl Gauss", "Isaac Newton"],
+    "correctAnswer": "Pierre de Fermat"
+  },
+  {
+    "id": "FP-050",
+    "question": "Who was the Chinese philosopher known for his teachings on ethics and proper conduct?",
+    "options": ["Confucius", "Laozi", "Sun Tzu", "Mencius"],
+    "correctAnswer": "Confucius"
+  },
+  {
+    "id": "FP-051",
+    "question": "Which leader was known as the 'Mad Monk' in Russian history?",
+    "options": ["Ivan the Terrible", "Grigori Rasputin", "Peter the Great", "Nicholas II"],
+    "correctAnswer": "Grigori Rasputin"
+  },
+  {
+    "id": "FP-052",
+    "question": "Who invented the World Wide Web?",
+    "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Vint Cerf"],
+    "correctAnswer": "Tim Berners-Lee"
+  },
+  {
+    "id": "FP-053",
+    "question": "Which Indian mathematician is known for contributions to infinite series and number theory?",
+    "options": ["Brahmagupta", "Aryabhata", "Srinivasa Ramanujan", "Bhaskara II"],
+    "correctAnswer": "Srinivasa Ramanujan"
+  },
+  {
+    "id": "FP-054",
+    "question": "Who is the founder of modern Turkey?",
+    "options": ["Mustafa Kemal Atatürk", "Suleiman the Magnificent", "Mehmed II", "Recep Tayyip Erdoğan"],
+    "correctAnswer": "Mustafa Kemal Atatürk"
+  },
+  {
+    "id": "FP-055",
+    "question": "Which Egyptian pharaoh commissioned the Great Pyramid of Giza?",
+    "options": ["Khufu", "Ramses II", "Tutankhamun", "Akhenaten"],
+    "correctAnswer": "Khufu"
+  },
+  {
+    "id": "FP-056",
+    "question": "Who is the famous theoretical physicist known for black hole research and author of 'A Brief History of Time'?",
+    "options": ["Richard Feynman", "Stephen Hawking", "Carl Sagan", "Albert Einstein"],
+    "correctAnswer": "Stephen Hawking"
+  },
+  {
+    "id": "FP-057",
+    "question": "Who was the first African American Supreme Court Justice in the USA?",
+    "options": ["Clarence Thomas", "Thurgood Marshall", "Sonia Sotomayor", "John Roberts"],
+    "correctAnswer": "Thurgood Marshall"
+  },
+  {
+    "id": "FP-058",
+    "question": "Which famous composer wrote 'The Four Seasons'?",
+    "options": ["Antonio Vivaldi", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+    "correctAnswer": "Antonio Vivaldi"
+  },
+  {
+    "id": "FP-059",
+    "question": "Who founded the Mongol capital city of Karakorum?",
+    "options": ["Genghis Khan", "Kublai Khan", "Ogedei Khan", "Batu Khan"],
+    "correctAnswer": "Ogedei Khan"
+  },
+  {
+    "id": "FP-060",
+    "question": "Which astronomer confirmed the heliocentric model with his telescopic observations?",
+    "options": ["Tycho Brahe", "Galileo Galilei", "Johannes Kepler", "Nicolaus Copernicus"],
+    "correctAnswer": "Galileo Galilei"
+  }
+]

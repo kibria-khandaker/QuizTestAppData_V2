@@ -1,0 +1,362 @@
+[
+  {
+    "id": "IO-001",
+    "question": "In which year was the United Nations established?",
+    "options": ["1942", "1945", "1950", "1939"],
+    "correctAnswer": "1945"
+  },
+  {
+    "id": "IO-002",
+    "question": "Where is the headquarters of the World Health Organization (WHO) located?",
+    "options": ["Paris", "Geneva", "New York", "Vienna"],
+    "correctAnswer": "Geneva"
+  },
+  {
+    "id": "IO-003",
+    "question": "Which organization is responsible for regulating international trade?",
+    "options": ["IMF", "World Bank", "WTO", "UNESCO"],
+    "correctAnswer": "WTO"
+  },
+  {
+    "id": "IO-004",
+    "question": "How many permanent members are there in the UN Security Council?",
+    "options": ["10", "7", "5", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "IO-005",
+    "question": "Which organization provides financial assistance to countries facing balance of payments problems?",
+    "options": ["IMF", "WHO", "NATO", "OPEC"],
+    "correctAnswer": "IMF"
+  },
+  {
+    "id": "IO-006",
+    "question": "The European Union (EU) was formally established by which treaty?",
+    "options": ["Treaty of Lisbon", "Treaty of Rome", "Maastricht Treaty", "Treaty of Versailles"],
+    "correctAnswer": "Maastricht Treaty"
+  },
+  {
+    "id": "IO-007",
+    "question": "Which organization is primarily a military alliance?",
+    "options": ["ASEAN", "NATO", "SAARC", "OECD"],
+    "correctAnswer": "NATO"
+  },
+  {
+    "id": "IO-008",
+    "question": "What does OPEC mainly regulate?",
+    "options": ["Natural Gas Exports", "Gold Prices", "Oil Production", "Coal Mining"],
+    "correctAnswer": "Oil Production"
+  },
+  {
+    "id": "IO-009",
+    "question": "Which UN agency focuses on education, science, and culture?",
+    "options": ["UNICEF", "UNDP", "UNESCO", "FAO"],
+    "correctAnswer": "UNESCO"
+  },
+  {
+    "id": "IO-010",
+    "question": "Which regional organization includes countries from South Asia?",
+    "options": ["ASEAN", "SAARC", "AU", "EU"],
+    "correctAnswer": "SAARC"
+  },
+  {
+    "id": "IO-011",
+    "question": "The headquarters of NATO is located in which city?",
+    "options": ["Brussels", "Berlin", "Washington D.C.", "London"],
+    "correctAnswer": "Brussels"
+  },
+  {
+    "id": "IO-012",
+    "question": "Which organization was created to promote international monetary cooperation?",
+    "options": ["World Bank", "IMF", "ADB", "WTO"],
+    "correctAnswer": "IMF"
+  },
+  {
+    "id": "IO-013",
+    "question": "Which body elects the Secretary-General of the United Nations?",
+    "options": ["UN General Assembly alone", "International Court of Justice", "UN Security Council and General Assembly", "ECOSOC"],
+    "correctAnswer": "UN Security Council and General Assembly"
+  },
+  {
+    "id": "IO-014",
+    "question": "Which organization replaced GATT in 1995?",
+    "options": ["IMF", "OECD", "WTO", "World Bank"],
+    "correctAnswer": "WTO"
+  },
+  {
+    "id": "IO-015",
+    "question": "Which African regional organization aims to promote unity and cooperation among African states?",
+    "options": ["ECOWAS", "African Union", "SADC", "COMESA"],
+    "correctAnswer": "African Union"
+  },
+  {
+    "id": "IO-016",
+    "question": "Where is the headquarters of the International Court of Justice located?",
+    "options": ["The Hague", "Geneva", "Vienna", "Zurich"],
+    "correctAnswer": "The Hague"
+  },
+  {
+    "id": "IO-017",
+    "question": "Which organization publishes the World Economic Outlook report?",
+    "options": ["OECD", "WTO", "IMF", "World Bank"],
+    "correctAnswer": "IMF"
+  },
+  {
+    "id": "IO-018",
+    "question": "Which UN body is responsible for maintaining international peace and security?",
+    "options": ["General Assembly", "Security Council", "ECOSOC", "Trusteeship Council"],
+    "correctAnswer": "Security Council"
+  },
+  {
+    "id": "IO-019",
+    "question": "Which organization is headquartered in Jakarta and promotes cooperation in Southeast Asia?",
+    "options": ["ASEAN", "SAARC", "APEC", "OAS"],
+    "correctAnswer": "ASEAN"
+  },
+  {
+    "id": "IO-020",
+    "question": "Which organization manages the International Development Association (IDA)?",
+    "options": ["IMF", "World Bank", "ADB", "AIIB"],
+    "correctAnswer": "World Bank"
+  },
+  {
+    "id": "IO-021",
+    "question": "Which treaty established the North Atlantic Treaty Organization?",
+    "options": ["Washington Treaty", "Rome Treaty", "Lisbon Treaty", "Geneva Convention"],
+    "correctAnswer": "Washington Treaty"
+  },
+  {
+    "id": "IO-022",
+    "question": "Which organization provides humanitarian aid to children worldwide?",
+    "options": ["UNDP", "UNICEF", "WHO", "ILO"],
+    "correctAnswer": "UNICEF"
+  },
+  {
+    "id": "IO-023",
+    "question": "Which organization is known for setting international labor standards?",
+    "options": ["ILO", "WTO", "IMF", "OPEC"],
+    "correctAnswer": "ILO"
+  },
+  {
+    "id": "IO-024",
+    "question": "Which regional organization is primarily focused on economic cooperation in the Asia-Pacific region?",
+    "options": ["ASEAN", "APEC", "SAARC", "GCC"],
+    "correctAnswer": "APEC"
+  },
+  {
+    "id": "IO-025",
+    "question": "How many official languages does the United Nations have?",
+    "options": ["4", "6", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "IO-026",
+    "question": "Which organization was formed in 1960 to coordinate petroleum policies among member countries?",
+    "options": ["OPEC", "OECD", "IMF", "WTO"],
+    "correctAnswer": "OPEC"
+  },
+  {
+    "id": "IO-027",
+    "question": "Which organization operates the peacekeeping missions of the United Nations?",
+    "options": ["UN Security Council", "UN Department of Peace Operations", "NATO", "ICJ"],
+    "correctAnswer": "UN Department of Peace Operations"
+  },
+  {
+    "id": "IO-028",
+    "question": "Which organization is responsible for global civil aviation standards?",
+    "options": ["IMO", "ICAO", "IATA", "WMO"],
+    "correctAnswer": "ICAO"
+  },
+  {
+    "id": "IO-029",
+    "question": "Which organization is headquartered in Addis Ababa, Ethiopia?",
+    "options": ["ECOWAS", "African Union", "SADC", "OAS"],
+    "correctAnswer": "African Union"
+  },
+  {
+    "id": "IO-030",
+    "question": "Which organization was established to rebuild Europe after World War II and later evolved into a global development institution?",
+    "options": ["OECD", "World Bank", "IMF", "UNDP"],
+    "correctAnswer": "World Bank"
+  },
+  {
+    "id": "IO-031",
+    "question": "Which UN specialized agency is responsible for agriculture and food security?",
+    "options": ["FAO", "WHO", "UNICEF", "UNDP"],
+    "correctAnswer": "FAO"
+  },
+  {
+    "id": "IO-032",
+    "question": "Which international organization issues the World Happiness Report?",
+    "options": ["OECD", "UNDP", "WHO", "World Bank"],
+    "correctAnswer": "UNDP"
+  },
+  {
+    "id": "IO-033",
+    "question": "Which organization oversees the Law of the Sea?",
+    "options": ["IMO", "ITLOS", "ICJ", "UNESCO"],
+    "correctAnswer": "ITLOS"
+  },
+  {
+    "id": "IO-034",
+    "question": "Which organization’s main objective is to promote international postal cooperation?",
+    "options": ["UPU", "WTO", "UNESCO", "ICAO"],
+    "correctAnswer": "UPU"
+  },
+  {
+    "id": "IO-035",
+    "question": "The headquarters of the International Monetary Fund is located in which city?",
+    "options": ["Geneva", "London", "Washington D.C.", "Paris"],
+    "correctAnswer": "Washington D.C."
+  },
+  {
+    "id": "IO-036",
+    "question": "Which organization is responsible for international atomic energy cooperation?",
+    "options": ["IAEA", "WHO", "UNESCO", "WTO"],
+    "correctAnswer": "IAEA"
+  },
+  {
+    "id": "IO-037",
+    "question": "Which organization coordinates international civil aviation?",
+    "options": ["ICAO", "IMO", "IATA", "WMO"],
+    "correctAnswer": "ICAO"
+  },
+  {
+    "id": "IO-038",
+    "question": "Which organization manages the global system of meteorological observations?",
+    "options": ["WMO", "UNEP", "FAO", "WHO"],
+    "correctAnswer": "WMO"
+  },
+  {
+    "id": "IO-039",
+    "question": "Which international organization focuses on intellectual property rights?",
+    "options": ["WIPO", "UNESCO", "UNICEF", "ILO"],
+    "correctAnswer": "WIPO"
+  },
+  {
+    "id": "IO-040",
+    "question": "Which organization was established in 1948 to promote human rights worldwide?",
+    "options": ["UNHCR", "OHCHR", "WHO", "ICJ"],
+    "correctAnswer": "OHCHR"
+  },
+  {
+    "id": "IO-041",
+    "question": "Which organization provides international statistical data and analysis?",
+    "options": ["UNESCO", "UNSD", "IMF", "WTO"],
+    "correctAnswer": "UNSD"
+  },
+  {
+    "id": "IO-042",
+    "question": "Which UN body manages peacekeeping forces and missions?",
+    "options": ["UN Security Council", "UN DPO", "UNICEF", "ICJ"],
+    "correctAnswer": "UN DPO"
+  },
+  {
+    "id": "IO-043",
+    "question": "Which organization primarily deals with refugee protection worldwide?",
+    "options": ["UNHCR", "UNDP", "WHO", "ILO"],
+    "correctAnswer": "UNHCR"
+  },
+  {
+    "id": "IO-044",
+    "question": "Which international body promotes labor standards and rights at work?",
+    "options": ["ILO", "WTO", "UNDP", "UNESCO"],
+    "correctAnswer": "ILO"
+  },
+  {
+    "id": "IO-045",
+    "question": "Which organization publishes the World Economic Forum Global Competitiveness Report?",
+    "options": ["World Bank", "WEF", "IMF", "OECD"],
+    "correctAnswer": "WEF"
+  },
+  {
+    "id": "IO-046",
+    "question": "Which organization regulates maritime safety and shipping standards?",
+    "options": ["IMO", "ICAO", "WMO", "IATA"],
+    "correctAnswer": "IMO"
+  },
+  {
+    "id": "IO-047",
+    "question": "Which UN agency focuses on population and development issues?",
+    "options": ["UNFPA", "UNICEF", "UNDP", "WHO"],
+    "correctAnswer": "UNFPA"
+  },
+  {
+    "id": "IO-048",
+    "question": "Which organization coordinates global nuclear non-proliferation efforts?",
+    "options": ["IAEA", "UNESCO", "WTO", "WHO"],
+    "correctAnswer": "IAEA"
+  },
+  {
+    "id": "IO-049",
+    "question": "Which international organization focuses on industrial development and economic growth?",
+    "options": ["UNIDO", "UNDP", "IMF", "WTO"],
+    "correctAnswer": "UNIDO"
+  },
+  {
+    "id": "IO-050",
+    "question": "Which organization’s headquarters are in Vienna, Austria, and focuses on international law and crime prevention?",
+    "options": ["UNODC", "ICJ", "ILO", "UNICEF"],
+    "correctAnswer": "UNODC"
+  },
+  {
+    "id": "IO-051",
+    "question": "Which organization manages the international sugar trade regulations?",
+    "options": ["ISO", "ITC", "ISOCT", "ITU"],
+    "correctAnswer": "ISOCT"
+  },
+  {
+    "id": "IO-052",
+    "question": "Which organization publishes the Human Development Index annually?",
+    "options": ["UNDP", "WHO", "OECD", "World Bank"],
+    "correctAnswer": "UNDP"
+  },
+  {
+    "id": "IO-053",
+    "question": "Which regional economic organization includes countries like Saudi Arabia, UAE, and Qatar?",
+    "options": ["GCC", "SAARC", "ASEAN", "ECOWAS"],
+    "correctAnswer": "GCC"
+  },
+  {
+    "id": "IO-054",
+    "question": "Which organization oversees the global postal network?",
+    "options": ["UPU", "ICAO", "IMO", "IATA"],
+    "correctAnswer": "UPU"
+  },
+  {
+    "id": "IO-055",
+    "question": "Which organization provides insurance and assistance to farmers in developing countries?",
+    "options": ["IFAD", "FAO", "WFP", "UNDP"],
+    "correctAnswer": "IFAD"
+  },
+  {
+    "id": "IO-056",
+    "question": "Which organization manages the international meteorological satellites?",
+    "options": ["WMO", "UNEP", "ITU", "NASA"],
+    "correctAnswer": "WMO"
+  },
+  {
+    "id": "IO-057",
+    "question": "Which UN organization is responsible for disaster relief coordination?",
+    "options": ["OCHA", "UNDP", "UNICEF", "WHO"],
+    "correctAnswer": "OCHA"
+  },
+  {
+    "id": "IO-058",
+    "question": "Which organization’s mission is to eliminate hunger worldwide?",
+    "options": ["WFP", "FAO", "IFAD", "UNDP"],
+    "correctAnswer": "WFP"
+  },
+  {
+    "id": "IO-059",
+    "question": "Which organization focuses on the regulation and development of telecommunication standards worldwide?",
+    "options": ["ITU", "WIPO", "ISO", "UNESCO"],
+    "correctAnswer": "ITU"
+  },
+  {
+    "id": "IO-060",
+    "question": "Which organization is responsible for global chemical safety and environmental protection?",
+    "options": ["UNEP", "WHO", "UNDP", "FAO"],
+    "correctAnswer": "UNEP"
+  }
+]

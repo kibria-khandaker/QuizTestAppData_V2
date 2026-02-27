@@ -1,0 +1,362 @@
+[
+  {
+    "id": "PR-001",
+    "question": "What is 25% of 200?",
+    "options": ["40", "50", "60", "45"],
+    "correctAnswer": "50"
+  },
+  {
+    "id": "PR-002",
+    "question": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "options": ["15", "20", "25", "18"],
+    "correctAnswer": "20"
+  },
+  {
+    "id": "PR-003",
+    "question": "A number is increased by 20% and becomes 120. What was the original number?",
+    "options": ["90", "95", "100", "110"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "PR-004",
+    "question": "What is the ratio of 45 minutes to 1 hour?",
+    "options": ["3:5", "4:5", "3:4", "5:4"],
+    "correctAnswer": "3:4"
+  },
+  {
+    "id": "PR-005",
+    "question": "If 40% of a number is 80, what is the number?",
+    "options": ["200", "180", "160", "220"],
+    "correctAnswer": "200"
+  },
+  {
+    "id": "PR-006",
+    "question": "The ratio of two numbers is 7:9 and their sum is 64. What is the larger number?",
+    "options": ["28", "36", "40", "32"],
+    "correctAnswer": "36"
+  },
+  {
+    "id": "PR-007",
+    "question": "A price is decreased from $500 to $400. What is the percentage decrease?",
+    "options": ["25%", "20%", "15%", "30%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "id": "PR-008",
+    "question": "If A:B = 4:5 and B:C = 2:3, what is A:C?",
+    "options": ["4:3", "8:15", "5:6", "6:5"],
+    "correctAnswer": "8:15"
+  },
+  {
+    "id": "PR-009",
+    "question": "What is 12.5% expressed as a fraction?",
+    "options": ["1/6", "1/8", "1/5", "1/4"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "id": "PR-010",
+    "question": "If the ratio of milk to water is 5:3 in 40 liters mixture, how much water is there?",
+    "options": ["15 liters", "20 liters", "25 liters", "18 liters"],
+    "correctAnswer": "15 liters"
+  },
+  {
+    "id": "PR-011",
+    "question": "A salary increases from $800 to $1000. What is the percentage increase?",
+    "options": ["20%", "22%", "25%", "18%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "id": "PR-012",
+    "question": "If 60% of students passed and 240 students passed, how many students appeared?",
+    "options": ["300", "350", "400", "450"],
+    "correctAnswer": "400"
+  },
+  {
+    "id": "PR-013",
+    "question": "The ratio of three numbers is 2:3:5 and their sum is 200. What is the largest number?",
+    "options": ["80", "100", "120", "90"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "PR-014",
+    "question": "A number is decreased by 10% and becomes 90. What was the original number?",
+    "options": ["95", "100", "110", "105"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "PR-015",
+    "question": "If A:B = 3:4 and B:C = 5:6, what is A:B:C?",
+    "options": ["15:20:24", "3:4:6", "9:12:16", "10:12:18"],
+    "correctAnswer": "15:20:24"
+  },
+  {
+    "id": "PR-016",
+    "question": "What is the compound increase when a value increases by 10% twice?",
+    "options": ["21%", "20%", "19%", "22%"],
+    "correctAnswer": "21%"
+  },
+  {
+    "id": "PR-017",
+    "question": "If the ratio of x:y is 5:7 and x + y = 96, what is x?",
+    "options": ["35", "40", "45", "30"],
+    "correctAnswer": "40"
+  },
+  {
+    "id": "PR-018",
+    "question": "A shopkeeper marks goods 40% above cost price and gives a discount of 10%. What is the overall profit percentage?",
+    "options": ["30%", "26%", "28%", "32%"],
+    "correctAnswer": "26%"
+  },
+  {
+    "id": "PR-019",
+    "question": "If the ratio of two numbers is 11:13 and their difference is 12, what is the smaller number?",
+    "options": ["66", "72", "78", "60"],
+    "correctAnswer": "66"
+  },
+  {
+    "id": "PR-020",
+    "question": "Population increases by 5% annually. What is the approximate increase after 2 years?",
+    "options": ["10%", "10.25%", "9.5%", "11%"],
+    "correctAnswer": "10.25%"
+  },
+  {
+    "id": "PR-021",
+    "question": "If 75% of a number is added to 20, the result is 95. What is the number?",
+    "options": ["100", "80", "120", "60"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "PR-022",
+    "question": "The ratio of income to expenditure is 5:4. If savings are $200, what is the income?",
+    "options": ["800", "900", "1000", "1100"],
+    "correctAnswer": "1000"
+  },
+  {
+    "id": "PR-023",
+    "question": "A number is first increased by 25% and then decreased by 20%. What is the net percentage change?",
+    "options": ["0%", "5% increase", "5% decrease", "2% increase"],
+    "correctAnswer": "0%"
+  },
+  {
+    "id": "PR-024",
+    "question": "If A:B = 7:8 and B:C = 9:10, what is A:C?",
+    "options": ["63:80", "7:10", "56:90", "72:80"],
+    "correctAnswer": "63:80"
+  },
+  {
+    "id": "PR-025",
+    "question": "In a class, 30% are girls and the rest 140 are boys. How many students are there in total?",
+    "options": ["200", "180", "220", "190"],
+    "correctAnswer": "200"
+  },
+  {
+    "id": "PR-026",
+    "question": "If the price of sugar increases by 20%, by what percentage should consumption be reduced to keep expenditure constant?",
+    "options": ["16.67%", "20%", "18%", "15%"],
+    "correctAnswer": "16.67%"
+  },
+  {
+    "id": "PR-027",
+    "question": "The ratio of two numbers is 4:5. If 8 is added to both, the ratio becomes 6:7. What is the smaller number?",
+    "options": ["24", "16", "32", "20"],
+    "correctAnswer": "16"
+  },
+  {
+    "id": "PR-028",
+    "question": "A sum of money doubles itself in 5 years at simple interest. What is the rate of interest per annum?",
+    "options": ["25%", "20%", "15%", "18%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "id": "PR-029",
+    "question": "If A is 20% more than B and B is 25% less than C, then A is what percent of C?",
+    "options": ["90%", "100%", "95%", "80%"],
+    "correctAnswer": "90%"
+  },
+  {
+    "id": "PR-030",
+    "question": "The ratio of the ages of father and son is 7:3. After 10 years, the ratio becomes 9:5. What is the present age of the son?",
+    "options": ["15 years", "20 years", "25 years", "18 years"],
+    "correctAnswer": "15 years"
+  },
+  {
+    "id": "PR-031",
+    "question": "If 30% of a number is 45, what is the number?",
+    "options": ["120", "150", "135", "140"],
+    "correctAnswer": "150"
+  },
+  {
+    "id": "PR-032",
+    "question": "A and B share a profit in the ratio 3:2. If total profit is $500, how much does B get?",
+    "options": ["$200", "$300", "$250", "$180"],
+    "correctAnswer": "$200"
+  },
+  {
+    "id": "PR-033",
+    "question": "A quantity is increased by 15% and then decreased by 15%. What is the net change?",
+    "options": ["2.25% decrease", "0% change", "2% increase", "2% decrease"],
+    "correctAnswer": "2.25% decrease"
+  },
+  {
+    "id": "PR-034",
+    "question": "If the ratio of two numbers is 8:5 and their sum is 104, what is the larger number?",
+    "options": ["64", "60", "66", "68"],
+    "correctAnswer": "64"
+  },
+  {
+    "id": "PR-035",
+    "question": "A student scored 80% marks and got 320 marks. What is the total marks?",
+    "options": ["400", "380", "350", "360"],
+    "correctAnswer": "400"
+  },
+  {
+    "id": "PR-036",
+    "question": "The ratio of the length to the breadth of a rectangle is 5:3. If the perimeter is 64 cm, what is the length?",
+    "options": ["20 cm", "18 cm", "22 cm", "24 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "id": "PR-037",
+    "question": "A sum of money earns simple interest of $150 in 2 years at 5% per annum. What is the principal?",
+    "options": ["$1500", "$1400", "$1600", "$1700"],
+    "correctAnswer": "$1500"
+  },
+  {
+    "id": "PR-038",
+    "question": "If a number is divided into two parts in the ratio 7:3 and the smaller part is 30, what is the number?",
+    "options": ["100", "120", "110", "90"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "PR-039",
+    "question": "The price of an article increases by 25% and then decreases by 20%. What is the net change in price?",
+    "options": ["0%", "5% decrease", "2% increase", "5% increase"],
+    "correctAnswer": "0%"
+  },
+  {
+    "id": "PR-040",
+    "question": "The ratio of men to women in a company is 5:7. If there are 140 women, how many men are there?",
+    "options": ["100", "120", "110", "90"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "PR-041",
+    "question": "If the price of an item is $200 and it is sold at a discount of 15%, what is the selling price?",
+    "options": ["$170", "$180", "$165", "$175"],
+    "correctAnswer": "$170"
+  },
+  {
+    "id": "PR-042",
+    "question": "A number is 40% more than another number. If the smaller number is 50, what is the larger number?",
+    "options": ["70", "65", "75", "80"],
+    "correctAnswer": "70"
+  },
+  {
+    "id": "PR-043",
+    "question": "The ratio of 3 numbers is 2:3:4 and their sum is 180. What is the middle number?",
+    "options": ["60", "50", "70", "55"],
+    "correctAnswer": "60"
+  },
+  {
+    "id": "PR-044",
+    "question": "A population of a town increases by 10% every year. If current population is 50,000, what will it be after 1 year?",
+    "options": ["55,000", "52,000", "54,500", "56,000"],
+    "correctAnswer": "55,000"
+  },
+  {
+    "id": "PR-045",
+    "question": "If 80% of A is equal to 60% of B, what is the ratio of A to B?",
+    "options": ["3:2", "2:3", "4:3", "5:4"],
+    "correctAnswer": "3:2"
+  },
+  {
+    "id": "PR-046",
+    "question": "A bag contains apples and oranges in the ratio 7:3. If there are 70 apples, how many oranges are there?",
+    "options": ["30", "25", "35", "28"],
+    "correctAnswer": "30"
+  },
+  {
+    "id": "PR-047",
+    "question": "A man increases his speed by 20% and reaches his destination 1 hour earlier. If the original time was 5 hours, what is the new time?",
+    "options": ["4 hours", "4.2 hours", "4.5 hours", "3.8 hours"],
+    "correctAnswer": "4 hours"
+  },
+  {
+    "id": "PR-048",
+    "question": "The ratio of the areas of two squares is 9:16. What is the ratio of their sides?",
+    "options": ["3:4", "4:3", "2:3", "3:5"],
+    "correctAnswer": "3:4"
+  },
+  {
+    "id": "PR-049",
+    "question": "If a sum of money at simple interest becomes 1.5 times in 5 years, what is the rate of interest per annum?",
+    "options": ["10%", "12%", "15%", "8%"],
+    "correctAnswer": "10%"
+  },
+  {
+    "id": "PR-050",
+    "question": "A sum of money triples itself in 10 years at simple interest. What is the rate per annum?",
+    "options": ["20%", "25%", "30%", "15%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "id": "PR-051",
+    "question": "The price of a shirt is increased by 30% and then decreased by 10%. What is the net percentage change in price?",
+    "options": ["17% increase", "18% increase", "15% increase", "20% increase"],
+    "correctAnswer": "17% increase"
+  },
+  {
+    "id": "PR-052",
+    "question": "A student gets 120 marks, which is 80% of total marks. What are the total marks?",
+    "options": ["150", "140", "130", "160"],
+    "correctAnswer": "150"
+  },
+  {
+    "id": "PR-053",
+    "question": "If two numbers are in the ratio 9:11 and their sum is 200, what is the smaller number?",
+    "options": ["90", "85", "100", "95"],
+    "correctAnswer": "90"
+  },
+  {
+    "id": "PR-054",
+    "question": "A number is 25% less than another number. If the larger number is 160, what is the smaller number?",
+    "options": ["120", "130", "125", "115"],
+    "correctAnswer": "120"
+  },
+  {
+    "id": "PR-055",
+    "question": "A sum of money is divided among A, B, C in the ratio 2:3:5. If C gets $500, what is the total sum?",
+    "options": ["$1000", "$1200", "$1100", "$1050"],
+    "correctAnswer": "$1000"
+  },
+  {
+    "id": "PR-056",
+    "question": "If 10% of a number is 25, what is 15% of the same number?",
+    "options": ["37.5", "35", "40", "30"],
+    "correctAnswer": "37.5"
+  },
+  {
+    "id": "PR-057",
+    "question": "The ratio of the number of cats to dogs in a park is 4:7. If there are 28 dogs, how many cats are there?",
+    "options": ["16", "18", "15", "20"],
+    "correctAnswer": "16"
+  },
+  {
+    "id": "PR-058",
+    "question": "A product’s price is increased by 50% and then decreased by 20%. What is the net percentage change?",
+    "options": ["20% increase", "10% increase", "15% increase", "5% increase"],
+    "correctAnswer": "20% increase"
+  },
+  {
+    "id": "PR-059",
+    "question": "If 60% of A equals 75% of B, what is the ratio A:B?",
+    "options": ["5:4", "4:5", "3:2", "2:3"],
+    "correctAnswer": "5:4"
+  },
+  {
+    "id": "PR-060",
+    "question": "The ages of two friends are in the ratio 5:7. After 5 years, the ratio becomes 6:8. What is the present age of the younger friend?",
+    "options": ["25 years", "20 years", "22 years", "24 years"],
+    "correctAnswer": "25 years"
+  }
+]

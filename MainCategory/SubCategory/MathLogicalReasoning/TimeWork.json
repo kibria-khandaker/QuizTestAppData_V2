@@ -1,0 +1,362 @@
+[
+  {
+    "id": "TW-001",
+    "question": "A can complete a work in 10 days. How many days will A take to complete 50% of the work?",
+    "options": ["2 days", "5 days", "10 days", "7 days"],
+    "correctAnswer": "5 days"
+  },
+  {
+    "id": "TW-002",
+    "question": "B can finish a job in 15 days. What fraction of the work does B complete in one day?",
+    "options": ["1/10", "1/15", "1/12", "1/20"],
+    "correctAnswer": "1/15"
+  },
+  {
+    "id": "TW-003",
+    "question": "A and B together can complete a work in 6 days. If A alone can do it in 10 days, how many days will B alone take?",
+    "options": ["12 days", "15 days", "20 days", "18 days"],
+    "correctAnswer": "15 days"
+  },
+  {
+    "id": "TW-004",
+    "question": "C can do a piece of work in 8 days and D in 12 days. How long will they take together?",
+    "options": ["6 days", "4.8 days", "5 days", "7 days"],
+    "correctAnswer": "4.8 days"
+  },
+  {
+    "id": "TW-005",
+    "question": "If 5 workers can complete a task in 20 days, how many days will 10 workers take (same efficiency)?",
+    "options": ["10 days", "20 days", "5 days", "15 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "id": "TW-006",
+    "question": "A can complete a work in 12 days and B in 18 days. They work together for 4 days. What fraction of work is left?",
+    "options": ["5/9", "4/9", "2/3", "1/3"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "id": "TW-007",
+    "question": "If A is twice as efficient as B and B alone can complete the work in 24 days, how many days will A alone take?",
+    "options": ["12 days", "8 days", "6 days", "10 days"],
+    "correctAnswer": "12 days"
+  },
+  {
+    "id": "TW-008",
+    "question": "Three workers can complete a work in 9 days. How many workers are required to complete the same work in 3 days?",
+    "options": ["6", "3", "12", "9"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": "TW-009",
+    "question": "A can do a work in 20 days. After working 5 days, he leaves. What fraction of work remains?",
+    "options": ["3/4", "1/4", "4/5", "1/5"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "id": "TW-010",
+    "question": "A and B together can do a work in 8 days. If A alone takes 12 days, how many days does B alone take?",
+    "options": ["20 days", "18 days", "24 days", "16 days"],
+    "correctAnswer": "24 days"
+  },
+  {
+    "id": "TW-011",
+    "question": "A, B, and C together can complete a task in 6 days. If A alone takes 18 days and B alone 9 days, how many days will C alone take?",
+    "options": ["12 days", "9 days", "18 days", "15 days"],
+    "correctAnswer": "18 days"
+  },
+  {
+    "id": "TW-012",
+    "question": "If 8 men can complete a work in 15 days, how many men are needed to complete it in 10 days?",
+    "options": ["10", "12", "15", "20"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": "TW-013",
+    "question": "A can do 1/4 of a work in 5 days. How many days will he take to complete the whole work?",
+    "options": ["10 days", "15 days", "20 days", "25 days"],
+    "correctAnswer": "20 days"
+  },
+  {
+    "id": "TW-014",
+    "question": "Pipe A fills a tank in 6 hours and Pipe B in 8 hours. How long will they take together?",
+    "options": ["3 hours", "4 hours", "3.43 hours", "2.5 hours"],
+    "correctAnswer": "3.43 hours"
+  },
+  {
+    "id": "TW-015",
+    "question": "A can complete a job in 16 days. B is 25% more efficient than A. How many days will B take?",
+    "options": ["14 days", "12 days", "10 days", "13 days"],
+    "correctAnswer": "12 days"
+  },
+  {
+    "id": "TW-016",
+    "question": "If 12 workers can complete a task in 18 days, how many days will 9 workers take?",
+    "options": ["20 days", "22 days", "24 days", "18 days"],
+    "correctAnswer": "24 days"
+  },
+  {
+    "id": "TW-017",
+    "question": "A and B together can do a work in 5 days. If B alone takes 20 days, how many days will A alone take?",
+    "options": ["6.67 days", "10 days", "8 days", "5 days"],
+    "correctAnswer": "6.67 days"
+  },
+  {
+    "id": "TW-018",
+    "question": "Two pipes fill a tank in 4 hours and 12 hours respectively. If both are opened together, how long to fill the tank?",
+    "options": ["3 hours", "2 hours", "4 hours", "6 hours"],
+    "correctAnswer": "3 hours"
+  },
+  {
+    "id": "TW-019",
+    "question": "A can do a work in 30 days. B is 50% as efficient as A. How many days will B take?",
+    "options": ["45 days", "60 days", "30 days", "50 days"],
+    "correctAnswer": "60 days"
+  },
+  {
+    "id": "TW-020",
+    "question": "A and B together can complete a work in 7 days. After 3 days A leaves. B finishes remaining work in 8 days. How many days can B alone complete the whole work?",
+    "options": ["28 days", "21 days", "24 days", "18 days"],
+    "correctAnswer": "28 days"
+  },
+  {
+    "id": "TW-021",
+    "question": "If A is three times as efficient as B and together they complete a work in 12 days, how many days will A alone take?",
+    "options": ["15 days", "18 days", "12 days", "16 days"],
+    "correctAnswer": "16 days"
+  },
+  {
+    "id": "TW-022",
+    "question": "10 men and 5 women complete a task in 8 days. If 1 man = 2 women in efficiency, how many days will 20 women take?",
+    "options": ["8 days", "10 days", "12 days", "16 days"],
+    "correctAnswer": "8 days"
+  },
+  {
+    "id": "TW-023",
+    "question": "A can complete a work in 25 days. He works for 10 days and B finishes the rest in 9 days. How many days can B alone complete the whole work?",
+    "options": ["15 days", "20 days", "18 days", "22.5 days"],
+    "correctAnswer": "22.5 days"
+  },
+  {
+    "id": "TW-024",
+    "question": "If 6 workers can build a wall in 12 days working 8 hours daily, how many days will 6 workers take working 6 hours daily?",
+    "options": ["14 days", "16 days", "18 days", "12 days"],
+    "correctAnswer": "16 days"
+  },
+  {
+    "id": "TW-025",
+    "question": "A can do a work in 40 days. B can do it in 60 days. C is twice as efficient as B. How many days will A, B, and C together take?",
+    "options": ["15 days", "10 days", "12 days", "20 days"],
+    "correctAnswer": "15 days"
+  },
+  {
+    "id": "TW-026",
+    "question": "A fills a tank in 10 hours, B empties it in 15 hours. If both are opened together, how long to fill the tank?",
+    "options": ["20 hours", "30 hours", "25 hours", "18 hours"],
+    "correctAnswer": "30 hours"
+  },
+  {
+    "id": "TW-027",
+    "question": "If 4 men or 6 women can complete a work in 12 days, how many days will 2 men and 3 women take?",
+    "options": ["12 days", "6 days", "18 days", "24 days"],
+    "correctAnswer": "12 days"
+  },
+  {
+    "id": "TW-028",
+    "question": "A and B can complete a work in 9 days. B and C in 12 days. A and C in 18 days. How many days will A alone take?",
+    "options": ["18 days", "27 days", "24 days", "30 days"],
+    "correctAnswer": "27 days"
+  },
+  {
+    "id": "TW-029",
+    "question": "A can do a work in 14 days and B in 21 days. They work together but A leaves after 4 days. How many more days will B take to finish?",
+    "options": ["6 days", "5 days", "8 days", "7 days"],
+    "correctAnswer": "5 days"
+  },
+  {
+    "id": "TW-030",
+    "question": "A contractor planned to complete a project in 30 days with 20 workers. After 10 days, 5 workers left. How many total days will the project take (same efficiency)?",
+    "options": ["40 days", "35 days", "32 days", "45 days"],
+    "correctAnswer": "35 days"
+  },
+  {
+    "id": "TW-031",
+    "question": "A can complete a work in 18 days. B can complete it in 24 days. How many days will they take together?",
+    "options": ["12 days", "10 days", "9.6 days", "8 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "id": "TW-032",
+    "question": "If 15 workers can complete a task in 16 days, how many workers are required to complete it in 12 days?",
+    "options": ["18", "20", "24", "22"],
+    "correctAnswer": "20"
+  },
+  {
+    "id": "TW-033",
+    "question": "A can do a work in 45 days. He works for 15 days. What percentage of work is completed?",
+    "options": ["25%", "40%", "33.33%", "50%"],
+    "correctAnswer": "33.33%"
+  },
+  {
+    "id": "TW-034",
+    "question": "A and B together can do a job in 4 days. If A alone can do it in 12 days, how many days will B alone take?",
+    "options": ["5 days", "8 days", "6 days", "10 days"],
+    "correctAnswer": "6 days"
+  },
+  {
+    "id": "TW-035",
+    "question": "Pipe A fills a tank in 9 hours and Pipe B in 6 hours. How long will they take together?",
+    "options": ["3.6 hours", "4 hours", "2 hours", "5 hours"],
+    "correctAnswer": "3.6 hours"
+  },
+  {
+    "id": "TW-036",
+    "question": "If 8 men can complete a work in 20 days, how many days will 5 men take?",
+    "options": ["30 days", "25 days", "32 days", "28 days"],
+    "correctAnswer": "32 days"
+  },
+  {
+    "id": "TW-037",
+    "question": "A is 50% more efficient than B. If B takes 30 days to complete a work, how many days will A take?",
+    "options": ["25 days", "15 days", "18 days", "20 days"],
+    "correctAnswer": "20 days"
+  },
+  {
+    "id": "TW-038",
+    "question": "A and B together can complete a work in 15 days. After 5 days, A leaves and B completes the rest in 20 days. How many days can A alone complete the work?",
+    "options": ["30 days", "25 days", "20 days", "15 days"],
+    "correctAnswer": "30 days"
+  },
+  {
+    "id": "TW-039",
+    "question": "C can complete a work in 10 days. D is twice as efficient as C. How many days will D take?",
+    "options": ["4 days", "5 days", "6 days", "8 days"],
+    "correctAnswer": "5 days"
+  },
+  {
+    "id": "TW-040",
+    "question": "If 12 workers can build a wall in 18 days working 6 hours daily, how many days will they take working 9 hours daily?",
+    "options": ["10 days", "15 days", "12 days", "18 days"],
+    "correctAnswer": "12 days"
+  },
+  {
+    "id": "TW-041",
+    "question": "A can do a work in 21 days and B in 28 days. They work together for 7 days. What fraction of work remains?",
+    "options": ["1/4", "1/3", "2/3", "1/2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "id": "TW-042",
+    "question": "If 4 men and 6 boys can complete a work in 10 days and 1 man = 3 boys, how many days will 12 boys take?",
+    "options": ["12 days", "15 days", "10 days", "8 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "id": "TW-043",
+    "question": "A can complete 60% of a work in 9 days. How many days will he take to complete the whole work?",
+    "options": ["12 days", "14 days", "15 days", "18 days"],
+    "correctAnswer": "15 days"
+  },
+  {
+    "id": "TW-044",
+    "question": "Two pipes fill a tank in 5 hours and 20 hours respectively. If both are opened together, how long to fill the tank?",
+    "options": ["4 hours", "3 hours", "6 hours", "5 hours"],
+    "correctAnswer": "4 hours"
+  },
+  {
+    "id": "TW-045",
+    "question": "A can do a work in 32 days. B can do it in 48 days. How many days will they take together?",
+    "options": ["18 days", "20 days", "24 days", "16 days"],
+    "correctAnswer": "19.2 days"
+  },
+  {
+    "id": "TW-046",
+    "question": "If 20 workers can complete a project in 25 days, how many workers are needed to complete it in 10 days?",
+    "options": ["40", "45", "50", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "id": "TW-047",
+    "question": "A is twice as efficient as B and together they complete a work in 9 days. How many days will B alone take?",
+    "options": ["18 days", "24 days", "27 days", "30 days"],
+    "correctAnswer": "27 days"
+  },
+  {
+    "id": "TW-048",
+    "question": "A and B can complete a work in 6 days. B and C in 8 days. A and C in 12 days. How many days will B alone take?",
+    "options": ["16 days", "12 days", "24 days", "18 days"],
+    "correctAnswer": "24 days"
+  },
+  {
+    "id": "TW-049",
+    "question": "A fills a tank in 8 hours. A leak empties it in 24 hours. If both are open, how long to fill the tank?",
+    "options": ["10 hours", "12 hours", "6 hours", "8 hours"],
+    "correctAnswer": "12 hours"
+  },
+  {
+    "id": "TW-050",
+    "question": "If 5 men or 8 women can complete a work in 12 days, how many days will 2 men and 4 women take?",
+    "options": ["16 days", "24 days", "20 days", "12 days"],
+    "correctAnswer": "20 days"
+  },
+  {
+    "id": "TW-051",
+    "question": "A contractor planned 40 days with 25 workers. After 20 days, 5 more workers joined. How many total days will the project take?",
+    "options": ["36 days", "35 days", "30 days", "32 days"],
+    "correctAnswer": "36 days"
+  },
+  {
+    "id": "TW-052",
+    "question": "A can do a work in 14 days. B is 40% as efficient as A. How many days will B take?",
+    "options": ["28 days", "30 days", "35 days", "40 days"],
+    "correctAnswer": "35 days"
+  },
+  {
+    "id": "TW-053",
+    "question": "A and B together can complete a work in 10 days. A works twice as fast as B. How many days will A alone take?",
+    "options": ["15 days", "20 days", "30 days", "10 days"],
+    "correctAnswer": "15 days"
+  },
+  {
+    "id": "TW-054",
+    "question": "Pipe A fills a tank in 4 hours. Pipe B empties it in 8 hours. If both are opened together, how long to fill the tank?",
+    "options": ["6 hours", "4 hours", "8 hours", "12 hours"],
+    "correctAnswer": "8 hours"
+  },
+  {
+    "id": "TW-055",
+    "question": "If 9 workers complete a task in 14 days, how many days will 6 workers take?",
+    "options": ["18 days", "20 days", "21 days", "24 days"],
+    "correctAnswer": "21 days"
+  },
+  {
+    "id": "TW-056",
+    "question": "A can complete a work in 50 days. B can complete it in 75 days. They work together for 10 days. What fraction of work remains?",
+    "options": ["1/3", "2/3", "3/5", "1/2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "id": "TW-057",
+    "question": "A is 25% more efficient than B. If together they complete a work in 8 days, how many days will B alone take?",
+    "options": ["16 days", "18 days", "20 days", "24 days"],
+    "correctAnswer": "18 days"
+  },
+  {
+    "id": "TW-058",
+    "question": "If 3 men can do a work in 18 days, how many days will 9 men take?",
+    "options": ["6 days", "9 days", "3 days", "12 days"],
+    "correctAnswer": "6 days"
+  },
+  {
+    "id": "TW-059",
+    "question": "A can do a work in 24 days. After working 8 days, B joins and they finish in 8 more days. How many days can B alone complete the work?",
+    "options": ["16 days", "20 days", "24 days", "18 days"],
+    "correctAnswer": "24 days"
+  },
+  {
+    "id": "TW-060",
+    "question": "A, B, and C together can complete a work in 5 days. If A alone takes 15 days and B alone 10 days, how many days will C alone take?",
+    "options": ["20 days", "30 days", "15 days", "10 days"],
+    "correctAnswer": "30 days"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "LR-001",
+    "question": "If all roses are flowers and some flowers are red, which conclusion is definitely true?",
+    "options": ["All roses are red", "Some roses may be red", "No roses are red", "All red things are roses"],
+    "correctAnswer": "Some roses may be red"
+  },
+  {
+    "id": "LR-002",
+    "question": "Find the next number in the series: 2, 6, 12, 20, ?",
+    "options": ["30", "28", "26", "24"],
+    "correctAnswer": "30"
+  },
+  {
+    "id": "LR-003",
+    "question": "If A is taller than B and B is taller than C, who is the tallest?",
+    "options": ["C", "Cannot be determined", "B", "A"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": "LR-004",
+    "question": "Choose the odd one out.",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "correctAnswer": "Circle"
+  },
+  {
+    "id": "LR-005",
+    "question": "If CAT = 24, DOG = 26 (sum of letter positions), what is BAT?",
+    "options": ["21", "23", "19", "22"],
+    "correctAnswer": "23"
+  },
+  {
+    "id": "LR-006",
+    "question": "Pointing to a man, Sara said, 'He is the son of my grandfather's only son.' Who is the man?",
+    "options": ["Her brother", "Her father", "Her son", "Her cousin"],
+    "correctAnswer": "Her brother"
+  },
+  {
+    "id": "LR-007",
+    "question": "If it rains, the ground gets wet. The ground is wet. What can be concluded?",
+    "options": ["It definitely rained", "It may have rained", "It did not rain", "Rain is impossible"],
+    "correctAnswer": "It may have rained"
+  },
+  {
+    "id": "LR-008",
+    "question": "Find the missing term: A, C, F, J, ?",
+    "options": ["N", "O", "P", "M"],
+    "correctAnswer": "O"
+  },
+  {
+    "id": "LR-009",
+    "question": "If 5 machines make 5 products in 5 minutes, how many machines are needed to make 100 products in 100 minutes?",
+    "options": ["10", "100", "20", "5"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "LR-010",
+    "question": "Choose the word that is most similar to 'Transparent'.",
+    "options": ["Clear", "Dark", "Solid", "Hidden"],
+    "correctAnswer": "Clear"
+  },
+  {
+    "id": "LR-011",
+    "question": "In a certain code, TREE is written as UQFF. How is BOOK written?",
+    "options": ["CPPL", "CPQO", "CQQM", "CPPM"],
+    "correctAnswer": "CPPL"
+  },
+  {
+    "id": "LR-012",
+    "question": "If South-East becomes North, North-East becomes West, what does West become?",
+    "options": ["South-East", "North-East", "North-West", "South-West"],
+    "correctAnswer": "South-East"
+  },
+  {
+    "id": "LR-013",
+    "question": "All pens are pencils. Some pencils are erasers. Which is true?",
+    "options": ["Some pens may be erasers", "All pens are erasers", "No pen is an eraser", "All erasers are pens"],
+    "correctAnswer": "Some pens may be erasers"
+  },
+  {
+    "id": "LR-014",
+    "question": "If 3 cats catch 3 mice in 3 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+    "options": ["100", "3", "10", "30"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "LR-015",
+    "question": "Choose the pair that completes the analogy: Book : Author :: Song : ?",
+    "options": ["Singer", "Composer", "Listener", "Actor"],
+    "correctAnswer": "Composer"
+  },
+  {
+    "id": "LR-016",
+    "question": "Find the odd number out: 121, 144, 169, 196, 225, 250",
+    "options": ["196", "250", "169", "225"],
+    "correctAnswer": "250"
+  },
+  {
+    "id": "LR-017",
+    "question": "If LIGHT is coded as 24563 (L=2, I=4, G=5, H=6, T=3), how is HILL coded?",
+    "options": ["6422", "6452", "6642", "6542"],
+    "correctAnswer": "6422"
+  },
+  {
+    "id": "LR-018",
+    "question": "Which statement is logically valid? If all A are B and all B are C, then:",
+    "options": ["Some C are A", "All A are C", "No A are C", "Some A are not C"],
+    "correctAnswer": "All A are C"
+  },
+  {
+    "id": "LR-019",
+    "question": "If Monday is coded as 1 and Friday as 5, what is Wednesday?",
+    "options": ["4", "3", "2", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "LR-020",
+    "question": "Find the missing number: 1, 4, 9, 16, ?, 36",
+    "options": ["20", "24", "25", "30"],
+    "correctAnswer": "25"
+  },
+  {
+    "id": "LR-021",
+    "question": "Choose the odd word out.",
+    "options": ["Mercury", "Venus", "Earth", "Sun"],
+    "correctAnswer": "Sun"
+  },
+  {
+    "id": "LR-022",
+    "question": "If in a language, SKY is written as TLZ, how is SEA written?",
+    "options": ["TFB", "TDB", "TEB", "TFA"],
+    "correctAnswer": "TFB"
+  },
+  {
+    "id": "LR-023",
+    "question": "Five friends sit in a row. A is left of B, C is right of B. Who is in the middle?",
+    "options": ["A", "B", "Cannot be determined", "C"],
+    "correctAnswer": "B"
+  },
+  {
+    "id": "LR-024",
+    "question": "If 2 + 3 = 13 and 3 + 4 = 25 (pattern: a² + b²), what is 4 + 5?",
+    "options": ["41", "39", "30", "35"],
+    "correctAnswer": "41"
+  },
+  {
+    "id": "LR-025",
+    "question": "Choose the correct analogy: Eye : See :: Ear : ?",
+    "options": ["Speak", "Hear", "Smell", "Touch"],
+    "correctAnswer": "Hear"
+  },
+  {
+    "id": "LR-026",
+    "question": "If every even number is divisible by 2 and 18 is even, what follows?",
+    "options": ["18 may not be divisible by 2", "18 is divisible by 2", "18 is prime", "18 is odd"],
+    "correctAnswer": "18 is divisible by 2"
+  },
+  {
+    "id": "LR-027",
+    "question": "Find the next term: 3, 7, 15, 31, ?",
+    "options": ["63", "64", "60", "61"],
+    "correctAnswer": "63"
+  },
+  {
+    "id": "LR-028",
+    "question": "If P is the brother of Q and Q is the sister of R, how is P related to R?",
+    "options": ["Brother", "Sister", "Cannot be determined", "Father"],
+    "correctAnswer": "Brother"
+  },
+  {
+    "id": "LR-029",
+    "question": "Which number does not belong? 8, 27, 64, 100, 125",
+    "options": ["27", "64", "100", "125"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "LR-030",
+    "question": "If all squares are rectangles and some rectangles are circles, which is true?",
+    "options": ["Some squares may be circles", "All squares are circles", "No square is a circle", "All circles are squares"],
+    "correctAnswer": "Some squares may be circles"
+  },
+  {
+    "id": "LR-031",
+    "question": "If all laptops are electronic devices and some electronic devices are expensive, which conclusion is valid?",
+    "options": ["All laptops are expensive", "Some laptops may be expensive", "No laptops are expensive", "All expensive items are laptops"],
+    "correctAnswer": "Some laptops may be expensive"
+  },
+  {
+    "id": "LR-032",
+    "question": "Find the next term: 5, 11, 23, 47, ?",
+    "options": ["95", "96", "94", "93"],
+    "correctAnswer": "95"
+  },
+  {
+    "id": "LR-033",
+    "question": "Choose the odd one out.",
+    "options": ["Lion", "Tiger", "Leopard", "Wolf"],
+    "correctAnswer": "Wolf"
+  },
+  {
+    "id": "LR-034",
+    "question": "If TRAIN is coded as USBJO (each letter +1), how is PLANE coded?",
+    "options": ["QMBOD", "QMBOF", "QLBOD", "QMBNE"],
+    "correctAnswer": "QMBOF"
+  },
+  {
+    "id": "LR-035",
+    "question": "If 4 workers complete a task in 6 days, how many workers are needed to complete it in 3 days?",
+    "options": ["12", "6", "8", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "LR-036",
+    "question": "Find the missing number: 2, 5, 10, 17, 26, ?",
+    "options": ["35", "36", "37", "34"],
+    "correctAnswer": "37"
+  },
+  {
+    "id": "LR-037",
+    "question": "If A is the father of B and C is the daughter of B, how is A related to C?",
+    "options": ["Grandfather", "Uncle", "Father", "Brother"],
+    "correctAnswer": "Grandfather"
+  },
+  {
+    "id": "LR-038",
+    "question": "Which word is most opposite in meaning to 'Scarce'?",
+    "options": ["Rare", "Abundant", "Limited", "Few"],
+    "correctAnswer": "Abundant"
+  },
+  {
+    "id": "LR-039",
+    "question": "If all doctors are educated and some educated people are rich, what must be true?",
+    "options": ["Some doctors may be rich", "All doctors are rich", "No doctor is rich", "All rich people are doctors"],
+    "correctAnswer": "Some doctors may be rich"
+  },
+  {
+    "id": "LR-040",
+    "question": "Find the next number: 1, 3, 6, 10, 15, ?",
+    "options": ["21", "20", "18", "25"],
+    "correctAnswer": "21"
+  },
+  {
+    "id": "LR-041",
+    "question": "Choose the correct analogy: Bird : Nest :: Bee : ?",
+    "options": ["Honey", "Flower", "Hive", "Tree"],
+    "correctAnswer": "Hive"
+  },
+  {
+    "id": "LR-042",
+    "question": "If SOUTH is written as HTUOS, how is NORTH written?",
+    "options": ["HTRON", "NORTH", "HTORN", "HTNOR"],
+    "correctAnswer": "HTRON"
+  },
+  {
+    "id": "LR-043",
+    "question": "Which number does not belong? 16, 25, 36, 49, 60",
+    "options": ["36", "25", "60", "49"],
+    "correctAnswer": "60"
+  },
+  {
+    "id": "LR-044",
+    "question": "If 7 + 2 = 63 and 6 + 3 = 54 (pattern: a × b × (a + b)), what is 5 + 4?",
+    "options": ["180", "150", "200", "170"],
+    "correctAnswer": "180"
+  },
+  {
+    "id": "LR-045",
+    "question": "Five people A, B, C, D, E stand in a line. A is between B and C. D is next to C. Who is at one end?",
+    "options": ["B", "Cannot be determined", "A", "D"],
+    "correctAnswer": "Cannot be determined"
+  },
+  {
+    "id": "LR-046",
+    "question": "If all metals conduct electricity and copper is a metal, what follows?",
+    "options": ["Copper may conduct electricity", "Copper does not conduct electricity", "Copper conducts electricity", "Copper is not a metal"],
+    "correctAnswer": "Copper conducts electricity"
+  },
+  {
+    "id": "LR-047",
+    "question": "Find the next term: 2, 4, 12, 48, ?",
+    "options": ["192", "200", "180", "240"],
+    "correctAnswer": "240"
+  },
+  {
+    "id": "LR-048",
+    "question": "Choose the odd one out.",
+    "options": ["January", "March", "April", "June"],
+    "correctAnswer": "April"
+  },
+  {
+    "id": "LR-049",
+    "question": "If PEN = 35 (P=16, E=5, N=14 sum), what is CAR?",
+    "options": ["24", "22", "26", "28"],
+    "correctAnswer": "22"
+  },
+  {
+    "id": "LR-050",
+    "question": "If yesterday was Monday, what day will it be the day after tomorrow?",
+    "options": ["Thursday", "Wednesday", "Friday", "Tuesday"],
+    "correctAnswer": "Thursday"
+  },
+  {
+    "id": "LR-051",
+    "question": "Choose the pair that completes the analogy: Knife : Cut :: Pen : ?",
+    "options": ["Write", "Draw", "Ink", "Paper"],
+    "correctAnswer": "Write"
+  },
+  {
+    "id": "LR-052",
+    "question": "If some apples are fruits and all fruits are healthy, what can be concluded?",
+    "options": ["All apples are healthy", "Some apples are healthy", "No apples are healthy", "All healthy things are apples"],
+    "correctAnswer": "Some apples are healthy"
+  },
+  {
+    "id": "LR-053",
+    "question": "Find the missing number: 3, 8, 15, 24, 35, ?",
+    "options": ["46", "44", "45", "48"],
+    "correctAnswer": "48"
+  },
+  {
+    "id": "LR-054",
+    "question": "If A is sister of B and B is brother of C, how is A related to C?",
+    "options": ["Sister", "Mother", "Cannot be determined", "Aunt"],
+    "correctAnswer": "Cannot be determined"
+  },
+  {
+    "id": "LR-055",
+    "question": "Choose the word most similar to 'Brief'.",
+    "options": ["Short", "Long", "Detailed", "Clear"],
+    "correctAnswer": "Short"
+  },
+  {
+    "id": "LR-056",
+    "question": "If EAST becomes WEST and NORTH becomes SOUTH, what does SOUTH become?",
+    "options": ["North", "West", "East", "South"],
+    "correctAnswer": "North"
+  },
+  {
+    "id": "LR-057",
+    "question": "Which number does not belong? 2, 3, 5, 7, 9, 11",
+    "options": ["5", "9", "11", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": "LR-058",
+    "question": "If 9 workers build 9 walls in 9 days, how many workers are needed to build 18 walls in 9 days?",
+    "options": ["9", "18", "27", "12"],
+    "correctAnswer": "18"
+  },
+  {
+    "id": "LR-059",
+    "question": "Find the next term: 1, 1, 2, 3, 5, 8, ?",
+    "options": ["12", "21", "13", "11"],
+    "correctAnswer": "13"
+  },
+  {
+    "id": "LR-060",
+    "question": "If all triangles have three sides and figure X has three sides, what can be concluded?",
+    "options": ["Figure X is definitely a triangle", "Figure X may be a triangle", "Figure X is not a triangle", "Triangles do not have three sides"],
+    "correctAnswer": "Figure X may be a triangle"
+  }
+]

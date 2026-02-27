@@ -1,50 +1,62 @@
-[
+[  
   {
     "id": 1,
+    "key": "generalKnowledge",
+    "title": "General Knowledge",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_generalKnowledge.json"
+  },
+  {
+    "id": 2,
     "key": "generalScience",
     "title": "General Science",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_generalScience.json"
   },
   {
-    "id": 2,
-    "key": "sports",
-    "title": "Sports",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_sports.json"
-  },
-  {
     "id": 3,
-    "key": "countriesInformation",
-    "title": "Countries Information",
-    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_countriesInformation.json"
-  },
-  {
-    "id": 4,
     "key": "computerFundamentals",
     "title": "Computer Fundamentals",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_computerFundamentals.json"
   },
   {
+    "id": 4,
+    "key": "mathLogicalReasoning",
+    "title": "Math Logical Reasoning",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_mathLogicalReasoning.json"
+  },
+  {
     "id": 5,
+    "key": "countriesInformation",
+    "title": "Countries Information",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_countriesInformation.json"
+  },
+  {
+    "id": 6,
     "key": "geography",
     "title": "Geography",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_geography.json"
   },
   {
-    "id": 6,
+    "id": 7,
     "key": "programmingCoding",
     "title": "Programming & Coding",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_programmingCoding.json"
   },
   {
-    "id": 7,
+    "id": 8,
     "key": "religionCulture",
     "title": "Religion & Culture",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_religionCulture.json"
   },
   {
-    "id": 8,
+    "id": 9,
     "key": "spaceAstronomy",
     "title": "Space & Astronomy",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_spaceAstronomy.json"
+  },
+  {
+    "id": 10,
+    "key": "sports",
+    "title": "Sports",
+    "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/Main_sports.json"
   }
 ]

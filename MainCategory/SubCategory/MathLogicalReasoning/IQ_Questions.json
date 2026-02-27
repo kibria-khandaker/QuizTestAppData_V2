@@ -1,0 +1,362 @@
+[
+  {
+    "id": "IQ-001",
+    "question": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["40", "42", "44", "36"],
+    "correctAnswer": "42"
+  },
+  {
+    "id": "IQ-002",
+    "question": "If CAT = 24 and DOG = 26, what is BAT?",
+    "options": ["23", "21", "22", "24"],
+    "correctAnswer": "23"
+  },
+  {
+    "id": "IQ-003",
+    "question": "Which number does not belong: 3, 5, 11, 14, 17?",
+    "options": ["5", "11", "14", "17"],
+    "correctAnswer": "14"
+  },
+  {
+    "id": "IQ-004",
+    "question": "If all Roses are Flowers and some Flowers fade quickly, which statement is definitely true?",
+    "options": ["Some Roses fade quickly", "All Flowers are Roses", "All Roses are Flowers", "No Roses fade quickly"],
+    "correctAnswer": "All Roses are Flowers"
+  },
+  {
+    "id": "IQ-005",
+    "question": "Find the missing number: 1, 4, 9, 16, ?, 36",
+    "options": ["25", "20", "24", "30"],
+    "correctAnswer": "25"
+  },
+  {
+    "id": "IQ-006",
+    "question": "If 5 machines take 5 minutes to make 5 items, how long will 100 machines take to make 100 items?",
+    "options": ["5 minutes", "100 minutes", "20 minutes", "1 minute"],
+    "correctAnswer": "5 minutes"
+  },
+  {
+    "id": "IQ-007",
+    "question": "Which word is the odd one out?",
+    "options": ["Circle", "Square", "Triangle", "Rectangle"],
+    "correctAnswer": "Circle"
+  },
+  {
+    "id": "IQ-008",
+    "question": "If yesterday was Monday, what day will it be the day after tomorrow?",
+    "options": ["Wednesday", "Friday", "Thursday", "Tuesday"],
+    "correctAnswer": "Thursday"
+  },
+  {
+    "id": "IQ-009",
+    "question": "A man is 4 times as old as his son. In 20 years, he will be twice as old. How old is the son now?",
+    "options": ["10", "15", "20", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "IQ-010",
+    "question": "Find the missing letter: A, C, F, J, O, ?",
+    "options": ["U", "V", "T", "S"],
+    "correctAnswer": "U"
+  },
+  {
+    "id": "IQ-011",
+    "question": "Which number completes the pattern: 1, 1, 2, 3, 5, 8, ?",
+    "options": ["11", "21", "13", "12"],
+    "correctAnswer": "13"
+  },
+  {
+    "id": "IQ-012",
+    "question": "If RED is coded as 27, how is BLUE coded? (R=18, E=5, D=4 pattern)",
+    "options": ["40", "34", "38", "35"],
+    "correctAnswer": "40"
+  },
+  {
+    "id": "IQ-013",
+    "question": "Which shape has the most sides?",
+    "options": ["Hexagon", "Octagon", "Pentagon", "Heptagon"],
+    "correctAnswer": "Octagon"
+  },
+  {
+    "id": "IQ-014",
+    "question": "If 3 + 5 = 28 and 4 + 6 = 40, then 5 + 7 = ?",
+    "options": ["60", "70", "54", "84"],
+    "correctAnswer": "60"
+  },
+  {
+    "id": "IQ-015",
+    "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+    "options": ["7.5°", "0°", "15°", "22.5°"],
+    "correctAnswer": "7.5°"
+  },
+  {
+    "id": "IQ-016",
+    "question": "Find the missing number: 2, 3, 5, 9, 17, ?",
+    "options": ["31", "33", "25", "27"],
+    "correctAnswer": "33"
+  },
+  {
+    "id": "IQ-017",
+    "question": "Which is the odd pair?",
+    "options": ["Knife–Cut", "Pen–Write", "Book–Read", "Spoon–Eat"],
+    "correctAnswer": "Book–Read"
+  },
+  {
+    "id": "IQ-018",
+    "question": "If TRAIN is coded as 20-18-1-9-14, how is PLANE coded?",
+    "options": ["16-12-1-14-5", "15-12-1-14-5", "16-11-1-14-5", "16-12-2-14-5"],
+    "correctAnswer": "16-12-1-14-5"
+  },
+  {
+    "id": "IQ-019",
+    "question": "How many months have 28 days?",
+    "options": ["1", "2", "12", "6"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": "IQ-020",
+    "question": "Find the next number: 7, 14, 28, 56, ?",
+    "options": ["98", "84", "112", "64"],
+    "correctAnswer": "112"
+  },
+  {
+    "id": "IQ-021",
+    "question": "If all A are B and all B are C, which is true?",
+    "options": ["All C are A", "All A are C", "Some C are A", "None of the above"],
+    "correctAnswer": "All A are C"
+  },
+  {
+    "id": "IQ-022",
+    "question": "Which number is missing: 4, 9, 19, 39, ?",
+    "options": ["69", "59", "79", "49"],
+    "correctAnswer": "79"
+  },
+  {
+    "id": "IQ-023",
+    "question": "If 8 workers build 8 walls in 8 days, how many workers are needed to build 16 walls in 16 days?",
+    "options": ["16", "12", "8", "4"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "IQ-024",
+    "question": "Find the missing letter: Z, X, U, Q, ?, H",
+    "options": ["M", "N", "L", "K"],
+    "correctAnswer": "L"
+  },
+  {
+    "id": "IQ-025",
+    "question": "A train 200m long crosses a pole in 10 seconds. What is its speed?",
+    "options": ["20 m/s", "25 m/s", "15 m/s", "30 m/s"],
+    "correctAnswer": "20 m/s"
+  },
+  {
+    "id": "IQ-026",
+    "question": "Which number does not belong: 121, 144, 169, 196, 225, 250?",
+    "options": ["144", "225", "250", "196"],
+    "correctAnswer": "250"
+  },
+  {
+    "id": "IQ-027",
+    "question": "If 1=5, 2=25, 3=325, 4=4325, then 5=?",
+    "options": ["54325", "5325", "554325", "5435"],
+    "correctAnswer": "54325"
+  },
+  {
+    "id": "IQ-028",
+    "question": "What is the missing number: 3, 8, 15, 24, 35, ?",
+    "options": ["48", "46", "45", "44"],
+    "correctAnswer": "48"
+  },
+  {
+    "id": "IQ-029",
+    "question": "If South-East becomes North, North-East becomes West, what does South become?",
+    "options": ["East", "North-East", "South-West", "West"],
+    "correctAnswer": "East"
+  },
+  {
+    "id": "IQ-030",
+    "question": "Find the next term: AB, BC, CD, DE, ?",
+    "options": ["EF", "FG", "DF", "EG"],
+    "correctAnswer": "EF"
+  },
+  {
+    "id": "IQ-031",
+    "question": "Find the next number in the series: 5, 11, 23, 47, ?",
+    "options": ["94", "95", "96", "93"],
+    "correctAnswer": "95"
+  },
+  {
+    "id": "IQ-032",
+    "question": "If BOOK is coded as 26615 (B=2, O=15, K=11), what is LOOK coded as?",
+    "options": ["15151511", "12151511", "15151211", "15151115"],
+    "correctAnswer": "12151511"
+  },
+  {
+    "id": "IQ-033",
+    "question": "Which number is the odd one out: 2, 3, 5, 7, 9, 11?",
+    "options": ["5", "9", "7", "11"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": "IQ-034",
+    "question": "If 6 × 4 = 64 and 5 × 3 = 35, then 7 × 2 = ?",
+    "options": ["49", "94", "72", "27"],
+    "correctAnswer": "94"
+  },
+  {
+    "id": "IQ-035",
+    "question": "A father is 30 years older than his son. After 5 years, he will be 3 times as old as his son. How old is the son now?",
+    "options": ["10", "15", "20", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "IQ-036",
+    "question": "Find the missing number: 8, 27, 64, 125, ?",
+    "options": ["216", "225", "196", "243"],
+    "correctAnswer": "216"
+  },
+  {
+    "id": "IQ-037",
+    "question": "Which word does not belong: Apple, Banana, Carrot, Mango?",
+    "options": ["Apple", "Carrot", "Mango", "Banana"],
+    "correctAnswer": "Carrot"
+  },
+  {
+    "id": "IQ-038",
+    "question": "If today is Wednesday, what day will it be 100 days from now?",
+    "options": ["Friday", "Thursday", "Saturday", "Sunday"],
+    "correctAnswer": "Friday"
+  },
+  {
+    "id": "IQ-039",
+    "question": "Find the next letter in the pattern: D, G, K, P, ?",
+    "options": ["U", "V", "T", "W"],
+    "correctAnswer": "V"
+  },
+  {
+    "id": "IQ-040",
+    "question": "If all birds can fly and a penguin is a bird, which statement is logically correct?",
+    "options": ["Penguins cannot fly", "Penguins can fly", "Some birds cannot fly", "None of the above"],
+    "correctAnswer": "Penguins can fly"
+  },
+  {
+    "id": "IQ-041",
+    "question": "Find the missing number: 3, 7, 15, 31, ?",
+    "options": ["60", "63", "62", "61"],
+    "correctAnswer": "63"
+  },
+  {
+    "id": "IQ-042",
+    "question": "If 2^3 + 3^2 = ?, what is the result?",
+    "options": ["17", "13", "15", "19"],
+    "correctAnswer": "17"
+  },
+  {
+    "id": "IQ-043",
+    "question": "Which shape is different: Cube, Sphere, Cylinder, Cone?",
+    "options": ["Cylinder", "Cone", "Cube", "Sphere"],
+    "correctAnswer": "Cube"
+  },
+  {
+    "id": "IQ-044",
+    "question": "If 1, 4, 10, 22, 46, ?, what is the next number?",
+    "options": ["90", "92", "94", "88"],
+    "correctAnswer": "94"
+  },
+  {
+    "id": "IQ-045",
+    "question": "A clock shows 6:00. What is the angle between the hour and minute hands?",
+    "options": ["180°", "90°", "120°", "0°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "id": "IQ-046",
+    "question": "If CAR is coded as 31218, what is BAR coded as?",
+    "options": ["21218", "21318", "21217", "11218"],
+    "correctAnswer": "21218"
+  },
+  {
+    "id": "IQ-047",
+    "question": "Which number completes the pattern: 10, 20, 25, 35, 40, ?",
+    "options": ["45", "55", "50", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "id": "IQ-048",
+    "question": "If 9 workers complete a task in 12 days, how many days will 6 workers take?",
+    "options": ["18", "20", "16", "15"],
+    "correctAnswer": "18"
+  },
+  {
+    "id": "IQ-049",
+    "question": "Find the missing letter: B, E, I, N, ?, Y",
+    "options": ["S", "T", "R", "U"],
+    "correctAnswer": "T"
+  },
+  {
+    "id": "IQ-050",
+    "question": "Which number is not a perfect square: 49, 64, 81, 90?",
+    "options": ["49", "81", "90", "64"],
+    "correctAnswer": "90"
+  },
+  {
+    "id": "IQ-051",
+    "question": "If 4 + 3 = 25 and 5 + 2 = 21, then 6 + 1 = ?",
+    "options": ["35", "37", "42", "49"],
+    "correctAnswer": "49"
+  },
+  {
+    "id": "IQ-052",
+    "question": "A train 150m long crosses a bridge 350m long in 20 seconds. What is its speed?",
+    "options": ["20 m/s", "25 m/s", "30 m/s", "15 m/s"],
+    "correctAnswer": "25 m/s"
+  },
+  {
+    "id": "IQ-053",
+    "question": "Find the next term: 1, 2, 6, 24, 120, ?",
+    "options": ["720", "600", "840", "360"],
+    "correctAnswer": "720"
+  },
+  {
+    "id": "IQ-054",
+    "question": "If East becomes South, South becomes West, what does North become?",
+    "options": ["East", "West", "South", "North"],
+    "correctAnswer": "East"
+  },
+  {
+    "id": "IQ-055",
+    "question": "Which number is missing: 2, 6, 7, 21, 22, ?",
+    "options": ["44", "66", "23", "46"],
+    "correctAnswer": "66"
+  },
+  {
+    "id": "IQ-056",
+    "question": "If 12 people shake hands with each other once, how many handshakes occur?",
+    "options": ["66", "72", "60", "78"],
+    "correctAnswer": "66"
+  },
+  {
+    "id": "IQ-057",
+    "question": "Find the next number: 4, 9, 16, 25, 36, ?",
+    "options": ["49", "45", "48", "50"],
+    "correctAnswer": "49"
+  },
+  {
+    "id": "IQ-058",
+    "question": "If MANGO is coded as 13114157, what is GOAT coded as?",
+    "options": ["715120", "71520120", "7152019", "715201"],
+    "correctAnswer": "71520120"
+  },
+  {
+    "id": "IQ-059",
+    "question": "Which is the odd one out: 8, 27, 64, 100, 125?",
+    "options": ["27", "100", "64", "125"],
+    "correctAnswer": "100"
+  },
+  {
+    "id": "IQ-060",
+    "question": "Find the next term: XY, ZA, BC, DE, ?",
+    "options": ["FG", "GH", "EF", "HI"],
+    "correctAnswer": "FG"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "AH-001",
+    "question": "Which award is given annually for excellence in world cinema?",
+    "options": ["Grammy Awards", "Academy Awards", "Pulitzer Prize", "Man Booker Prize"],
+    "correctAnswer": "Academy Awards"
+  },
+  {
+    "id": "AH-002",
+    "question": "Which award is considered the highest civilian honor in India?",
+    "options": ["Padma Shri", "Bharat Ratna", "Padma Bhushan", "Rajiv Gandhi Khel Ratna"],
+    "correctAnswer": "Bharat Ratna"
+  },
+  {
+    "id": "AH-003",
+    "question": "The Nobel Peace Prize is awarded in which country?",
+    "options": ["Sweden", "Denmark", "Norway", "Switzerland"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "id": "AH-004",
+    "question": "Which award is presented for excellence in journalism in the United States?",
+    "options": ["Pulitzer Prize", "Golden Globe", "BAFTA", "Peabody Award"],
+    "correctAnswer": "Pulitzer Prize"
+  },
+  {
+    "id": "AH-005",
+    "question": "Which international award is given for outstanding achievements in football?",
+    "options": ["Ballon d'Or", "Laureus Award", "Golden Boot Award", "FIFA Fair Play Award"],
+    "correctAnswer": "Ballon d'Or"
+  },
+  {
+    "id": "AH-006",
+    "question": "Which award is given for excellence in British film and television?",
+    "options": ["BAFTA", "Oscar", "Emmy", "Cannes Palme d'Or"],
+    "correctAnswer": "BAFTA"
+  },
+  {
+    "id": "AH-007",
+    "question": "Which prize is awarded for outstanding contributions to literature in the English-speaking world?",
+    "options": ["Pulitzer Prize", "Booker Prize", "Nobel Prize in Physics", "Golden Pen Award"],
+    "correctAnswer": "Booker Prize"
+  },
+  {
+    "id": "AH-008",
+    "question": "Which award is presented annually for achievements in music?",
+    "options": ["Tony Awards", "Grammy Awards", "Emmy Awards", "Golden Globe Awards"],
+    "correctAnswer": "Grammy Awards"
+  },
+  {
+    "id": "AH-009",
+    "question": "Which award is regarded as the highest military decoration in the United States?",
+    "options": ["Silver Star", "Purple Heart", "Medal of Honor", "Bronze Star"],
+    "correctAnswer": "Medal of Honor"
+  },
+  {
+    "id": "AH-010",
+    "question": "Which award is given to the best player in a FIFA World Cup tournament?",
+    "options": ["Golden Boot", "Golden Ball", "FIFA Best Player Award", "Ballon d'Or"],
+    "correctAnswer": "Golden Ball"
+  },
+  {
+    "id": "AH-011",
+    "question": "The Ramon Magsaysay Award is primarily associated with which continent?",
+    "options": ["Africa", "Europe", "Asia", "South America"],
+    "correctAnswer": "Asia"
+  },
+  {
+    "id": "AH-012",
+    "question": "Which award is presented for excellence in American television programming?",
+    "options": ["Emmy Awards", "Tony Awards", "Grammy Awards", "Screen Actors Guild Award"],
+    "correctAnswer": "Emmy Awards"
+  },
+  {
+    "id": "AH-013",
+    "question": "Which award is known as the highest literary honor in France?",
+    "options": ["Prix Goncourt", "Booker Prize", "Pulitzer Prize", "Nehru Award"],
+    "correctAnswer": "Prix Goncourt"
+  },
+  {
+    "id": "AH-014",
+    "question": "Which prestigious international award is given for contributions to humanitarian work?",
+    "options": ["Nobel Peace Prize", "Fields Medal", "Turing Award", "Abel Prize"],
+    "correctAnswer": "Nobel Peace Prize"
+  },
+  {
+    "id": "AH-015",
+    "question": "Which award is given for outstanding achievement in Broadway theatre?",
+    "options": ["Tony Awards", "Olivier Awards", "Golden Globe", "BAFTA"],
+    "correctAnswer": "Tony Awards"
+  },
+  {
+    "id": "AH-016",
+    "question": "The Fields Medal is awarded in which field?",
+    "options": ["Physics", "Chemistry", "Mathematics", "Medicine"],
+    "correctAnswer": "Mathematics"
+  },
+  {
+    "id": "AH-017",
+    "question": "Which award is considered the Nobel Prize of Computer Science?",
+    "options": ["Abel Prize", "Turing Award", "Kyoto Prize", "Wolf Prize"],
+    "correctAnswer": "Turing Award"
+  },
+  {
+    "id": "AH-018",
+    "question": "Which award is the highest civilian award in the United States?",
+    "options": ["Congressional Gold Medal", "Presidential Medal of Freedom", "Medal of Honor", "Liberty Medal"],
+    "correctAnswer": "Presidential Medal of Freedom"
+  },
+  {
+    "id": "AH-019",
+    "question": "Which award is presented at the Cannes Film Festival to the best film?",
+    "options": ["Golden Lion", "Palme d'Or", "Golden Bear", "Silver Shell"],
+    "correctAnswer": "Palme d'Or"
+  },
+  {
+    "id": "AH-020",
+    "question": "Which award is given annually by FIFA to the best male footballer?",
+    "options": ["FIFA Best Men's Player", "Golden Boot", "Ballon d'Or", "Golden Ball"],
+    "correctAnswer": "FIFA Best Men's Player"
+  },
+  {
+    "id": "AH-021",
+    "question": "Which award is given for outstanding achievement in Spanish-language television?",
+    "options": ["Emmy Awards", "Platino Awards", "Golden Globe", "Goya Award"],
+    "correctAnswer": "Platino Awards"
+  },
+  {
+    "id": "AH-022",
+    "question": "Which award recognizes excellence in Australian cinema and television?",
+    "options": ["Logie Awards", "BAFTA", "Cesar Award", "Tony Awards"],
+    "correctAnswer": "Logie Awards"
+  },
+  {
+    "id": "AH-023",
+    "question": "Which award is awarded for lifetime achievement in science and culture in Japan?",
+    "options": ["Kyoto Prize", "Nobel Prize", "Ramon Magsaysay Award", "Templeton Prize"],
+    "correctAnswer": "Kyoto Prize"
+  },
+  {
+    "id": "AH-024",
+    "question": "Which award is known as Britain's highest civilian honor system?",
+    "options": ["Order of the British Empire", "Victoria Cross", "Knight Bachelor", "Order of Merit"],
+    "correctAnswer": "Order of the British Empire"
+  },
+  {
+    "id": "AH-025",
+    "question": "Which award is given for outstanding contributions to environmental activism globally?",
+    "options": ["Right Livelihood Award", "Pulitzer Prize", "Booker Prize", "Abel Prize"],
+    "correctAnswer": "Right Livelihood Award"
+  },
+  {
+    "id": "AH-026",
+    "question": "Which award is presented for excellence in Indian cinema?",
+    "options": ["Filmfare Awards", "National Film Awards", "IIFA Awards", "Dadasaheb Phalke Award"],
+    "correctAnswer": "National Film Awards"
+  },
+  {
+    "id": "AH-027",
+    "question": "Which award is the highest gallantry award in India?",
+    "options": ["Ashoka Chakra", "Param Vir Chakra", "Maha Vir Chakra", "Kirti Chakra"],
+    "correctAnswer": "Param Vir Chakra"
+  },
+  {
+    "id": "AH-028",
+    "question": "Which award is given for excellence in European cinema?",
+    "options": ["Cesar Award", "European Film Award", "BAFTA", "Golden Globe"],
+    "correctAnswer": "European Film Award"
+  },
+  {
+    "id": "AH-029",
+    "question": "Which award is presented for contributions to religious and spiritual progress?",
+    "options": ["Templeton Prize", "Nobel Peace Prize", "Ramon Magsaysay Award", "Wolf Prize"],
+    "correctAnswer": "Templeton Prize"
+  },
+  {
+    "id": "AH-030",
+    "question": "Which award is given annually for the best original song in film?",
+    "options": ["Grammy Award", "Academy Award for Best Original Song", "Golden Globe Award", "BAFTA Music Award"],
+    "correctAnswer": "Academy Award for Best Original Song"
+  },
+  {
+    "id": "AH-031",
+    "question": "Which international award honors the best achievements in mathematics every four years?",
+    "options": ["Abel Prize", "Fields Medal", "Turing Award", "Wolf Prize"],
+    "correctAnswer": "Fields Medal"
+  },
+  {
+    "id": "AH-032",
+    "question": "Who was the first woman to receive a Nobel Prize?",
+    "options": ["Marie Curie", "Dorothy Hodgkin", "Barbara McClintock", "Rosalind Franklin"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "id": "AH-033",
+    "question": "The Jnanpith Award is associated with which field?",
+    "options": ["Literature", "Science", "Sports", "Cinema"],
+    "correctAnswer": "Literature"
+  },
+  {
+    "id": "AH-034",
+    "question": "Which award recognizes outstanding achievements in global health?",
+    "options": ["Lasker Award", "Templeton Prize", "Pulitzer Prize", "Abel Prize"],
+    "correctAnswer": "Lasker Award"
+  },
+  {
+    "id": "AH-035",
+    "question": "Which international award is given for contributions to peace, literature, and science, but not specifically for economics?",
+    "options": ["Nobel Prize", "Pulitzer Prize", "Turing Award", "Fields Medal"],
+    "correctAnswer": "Nobel Prize"
+  },
+  {
+    "id": "AH-036",
+    "question": "Which award is India's highest sporting honor?",
+    "options": ["Arjuna Award", "Rajiv Gandhi Khel Ratna", "Dronacharya Award", "Padma Shri"],
+    "correctAnswer": "Rajiv Gandhi Khel Ratna"
+  },
+  {
+    "id": "AH-037",
+    "question": "Which award honors outstanding contributions in the field of chemistry?",
+    "options": ["Nobel Prize in Chemistry", "Abel Prize", "Fields Medal", "Pulitzer Prize"],
+    "correctAnswer": "Nobel Prize in Chemistry"
+  },
+  {
+    "id": "AH-038",
+    "question": "The Pritzker Architecture Prize is awarded for excellence in which field?",
+    "options": ["Architecture", "Literature", "Film", "Science"],
+    "correctAnswer": "Architecture"
+  },
+  {
+    "id": "AH-039",
+    "question": "Which award is presented for achievements in film at the Venice International Film Festival?",
+    "options": ["Golden Lion", "Palme d'Or", "Golden Bear", "Silver Bear"],
+    "correctAnswer": "Golden Lion"
+  },
+  {
+    "id": "AH-040",
+    "question": "Which award is given to the best player in the UEFA European Championship?",
+    "options": ["Golden Boot", "Golden Ball", "Ballon d'Or", "UEFA Player of the Tournament"],
+    "correctAnswer": "UEFA Player of the Tournament"
+  },
+  {
+    "id": "AH-041",
+    "question": "Which award is the highest civilian honor in Pakistan?",
+    "options": ["Nishan-e-Pakistan", "Sitara-e-Imtiaz", "Hilal-e-Jurat", "Tamgha-e-Quaid-e-Azam"],
+    "correctAnswer": "Nishan-e-Pakistan"
+  },
+  {
+    "id": "AH-042",
+    "question": "The Hugo Awards are associated with which field?",
+    "options": ["Science Fiction Literature", "Music", "Film", "Journalism"],
+    "correctAnswer": "Science Fiction Literature"
+  },
+  {
+    "id": "AH-043",
+    "question": "Which award is given to the best short film at the Academy Awards?",
+    "options": ["Oscar for Best Short Film", "BAFTA Best Short Film", "Golden Globe Best Short Film", "Cannes Short Film Award"],
+    "correctAnswer": "Oscar for Best Short Film"
+  },
+  {
+    "id": "AH-044",
+    "question": "Which award honors individuals for outstanding contributions to human rights worldwide?",
+    "options": ["Sakharov Prize", "Nobel Peace Prize", "Pulitzer Prize", "Templeton Prize"],
+    "correctAnswer": "Sakharov Prize"
+  },
+  {
+    "id": "AH-045",
+    "question": "Which award is given for excellence in Scandinavian cinema?",
+    "options": ["Nordic Council Film Prize", "Cannes Palme d'Or", "Golden Bear", "BAFTA"],
+    "correctAnswer": "Nordic Council Film Prize"
+  },
+  {
+    "id": "AH-046",
+    "question": "Which award recognizes excellence in African literature?",
+    "options": ["Caine Prize", "Booker Prize", "Pulitzer Prize", "Man Booker International"],
+    "correctAnswer": "Caine Prize"
+  },
+  {
+    "id": "AH-047",
+    "question": "The Templeton Prize is awarded for contributions to which area?",
+    "options": ["Spirituality and Religion", "Literature", "Science", "Peace"],
+    "correctAnswer": "Spirituality and Religion"
+  },
+  {
+    "id": "AH-048",
+    "question": "Which award is the highest civilian honor in France?",
+    "options": ["Legion of Honour", "Palmes Académiques", "Ordre des Arts et des Lettres", "Prix Goncourt"],
+    "correctAnswer": "Legion of Honour"
+  },
+  {
+    "id": "AH-049",
+    "question": "Which award recognizes outstanding achievements in Indian classical music?",
+    "options": ["Sangeet Natak Akademi Award", "Filmfare Award", "Padma Bhushan", "Grammy Award"],
+    "correctAnswer": "Sangeet Natak Akademi Award"
+  },
+  {
+    "id": "AH-050",
+    "question": "Which award is given to scientists under 40 for exceptional research in physics?",
+    "options": ["Breakthrough Prize", "Crafoord Prize", "Nobel Prize", "Wolf Prize"],
+    "correctAnswer": "Breakthrough Prize"
+  },
+  {
+    "id": "AH-051",
+    "question": "Which award is given to the best animated feature at the Academy Awards?",
+    "options": ["Oscar for Best Animated Feature", "BAFTA for Best Animated Film", "Annie Award", "Golden Globe for Animation"],
+    "correctAnswer": "Oscar for Best Animated Feature"
+  },
+  {
+    "id": "AH-052",
+    "question": "Which international award is presented for the promotion of democracy and human rights in Asia?",
+    "options": ["Ramon Magsaysay Award", "Nobel Peace Prize", "Sakharov Prize", "Right Livelihood Award"],
+    "correctAnswer": "Ramon Magsaysay Award"
+  },
+  {
+    "id": "AH-053",
+    "question": "Which award honors achievements in investigative journalism worldwide?",
+    "options": ["Pulitzer Prize", "Walkley Award", "Peabody Award", "George Polk Award"],
+    "correctAnswer": "George Polk Award"
+  },
+  {
+    "id": "AH-054",
+    "question": "The Wolf Prize is awarded in which fields?",
+    "options": ["Science and Art", "Literature Only", "Peace Only", "Sports Only"],
+    "correctAnswer": "Science and Art"
+  },
+  {
+    "id": "AH-055",
+    "question": "Which award is considered the highest literary honor in Spain?",
+    "options": ["Premio Cervantes", "Booker Prize", "Pulitzer Prize", "Prix Goncourt"],
+    "correctAnswer": "Premio Cervantes"
+  },
+  {
+    "id": "AH-056",
+    "question": "Which award is given for contributions to global economic research?",
+    "options": ["Nobel Memorial Prize in Economic Sciences", "Turing Award", "Abel Prize", "Fields Medal"],
+    "correctAnswer": "Nobel Memorial Prize in Economic Sciences"
+  },
+  {
+    "id": "AH-057",
+    "question": "Which award is presented for excellence in African cinema?",
+    "options": ["Africa Movie Academy Award", "Cannes Palme d'Or", "BAFTA", "Golden Lion"],
+    "correctAnswer": "Africa Movie Academy Award"
+  },
+  {
+    "id": "AH-058",
+    "question": "Which award is the highest civilian honor in Canada?",
+    "options": ["Order of Canada", "Governor General's Award", "Canada Medal of Honour", "Maple Leaf Award"],
+    "correctAnswer": "Order of Canada"
+  },
+  {
+    "id": "AH-059",
+    "question": "Which award recognizes excellence in contemporary Indian dance?",
+    "options": ["Sangeet Natak Akademi Award", "Padma Shri", "Filmfare Award", "Grammy Award"],
+    "correctAnswer": "Sangeet Natak Akademi Award"
+  },
+  {
+    "id": "AH-060",
+    "question": "Which award honors individuals for exceptional innovation and entrepreneurship globally?",
+    "options": ["Edison Awards", "Breakthrough Prize", "Right Livelihood Award", "Templeton Prize"],
+    "correctAnswer": "Edison Awards"
+  }
+]

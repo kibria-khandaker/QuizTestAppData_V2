@@ -1,0 +1,362 @@
+[
+  {
+    "id": "WR-001",
+    "question": "Which is the tallest mountain in the world above sea level?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "Mount Everest"
+  },
+  {
+    "id": "WR-002",
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": "WR-003",
+    "question": "Which country is the largest by land area?",
+    "options": ["Canada", "China", "United States", "Russia"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "WR-004",
+    "question": "Who has won the most Olympic gold medals in history?",
+    "options": ["Usain Bolt", "Larisa Latynina", "Michael Phelps", "Mark Spitz"],
+    "correctAnswer": "Michael Phelps"
+  },
+  {
+    "id": "WR-005",
+    "question": "What is the longest river in the world (commonly accepted)?",
+    "options": ["Amazon River", "Yangtze River", "Nile River", "Mississippi River"],
+    "correctAnswer": "Nile River"
+  },
+  {
+    "id": "WR-006",
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": ["Gobi Desert", "Arabian Desert", "Sahara Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "id": "WR-007",
+    "question": "Which building is currently recognized as the tallest in the world?",
+    "options": ["Shanghai Tower", "Burj Khalifa", "Abraj Al-Bait Clock Tower", "Merdeka 118"],
+    "correctAnswer": "Burj Khalifa"
+  },
+  {
+    "id": "WR-008",
+    "question": "Which animal is the largest living species on Earth?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "id": "WR-009",
+    "question": "Which country has the largest population in the world (as of recent records)?",
+    "options": ["India", "China", "United States", "Indonesia"],
+    "correctAnswer": "India"
+  },
+  {
+    "id": "WR-010",
+    "question": "What is the fastest land animal?",
+    "options": ["Lion", "Cheetah", "Pronghorn", "Leopard"],
+    "correctAnswer": "Cheetah"
+  },
+  {
+    "id": "WR-011",
+    "question": "Which is the deepest ocean trench in the world?",
+    "options": ["Java Trench", "Tonga Trench", "Mariana Trench", "Philippine Trench"],
+    "correctAnswer": "Mariana Trench"
+  },
+  {
+    "id": "WR-012",
+    "question": "Who holds the record for the fastest 100m sprint (men)?",
+    "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Justin Gatlin"],
+    "correctAnswer": "Usain Bolt"
+  },
+  {
+    "id": "WR-013",
+    "question": "Which is the largest island in the world?",
+    "options": ["Borneo", "Greenland", "Madagascar", "New Guinea"],
+    "correctAnswer": "Greenland"
+  },
+  {
+    "id": "WR-014",
+    "question": "Which is the highest waterfall in the world?",
+    "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+    "correctAnswer": "Angel Falls"
+  },
+  {
+    "id": "WR-015",
+    "question": "Which is the longest railway line in the world?",
+    "options": ["Trans-Siberian Railway", "Canadian National Railway", "Indian Railways Network", "Orient Express"],
+    "correctAnswer": "Trans-Siberian Railway"
+  },
+  {
+    "id": "WR-016",
+    "question": "Which country consumes the most chocolate per capita?",
+    "options": ["Germany", "Switzerland", "Belgium", "United States"],
+    "correctAnswer": "Switzerland"
+  },
+  {
+    "id": "WR-017",
+    "question": "Which is the largest coral reef system in the world?",
+    "options": ["Belize Barrier Reef", "Red Sea Coral Reef", "Great Barrier Reef", "Florida Reef"],
+    "correctAnswer": "Great Barrier Reef"
+  },
+  {
+    "id": "WR-018",
+    "question": "Which city is the most populous in the world (metropolitan area)?",
+    "options": ["Tokyo", "Delhi", "Shanghai", "São Paulo"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "id": "WR-019",
+    "question": "Which planet has the longest day (rotation period) in the Solar System?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "WR-020",
+    "question": "Which is the largest stadium in the world by seating capacity?",
+    "options": ["Camp Nou", "Michigan Stadium", "Rungrado 1st of May Stadium", "Melbourne Cricket Ground"],
+    "correctAnswer": "Rungrado 1st of May Stadium"
+  },
+  {
+    "id": "WR-021",
+    "question": "Who holds the record for the most goals in international football (men)?",
+    "options": ["Ali Daei", "Cristiano Ronaldo", "Lionel Messi", "Sunil Chhetri"],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "id": "WR-022",
+    "question": "Which is the coldest inhabited place on Earth?",
+    "options": ["Barrow", "Yakutsk", "Oymyakon", "Reykjavik"],
+    "correctAnswer": "Oymyakon"
+  },
+  {
+    "id": "WR-023",
+    "question": "Which is the largest lake by surface area in the world?",
+    "options": ["Lake Superior", "Lake Victoria", "Caspian Sea", "Lake Baikal"],
+    "correctAnswer": "Caspian Sea"
+  },
+  {
+    "id": "WR-024",
+    "question": "Which company is the most valuable publicly traded company by market capitalization (recent years)?",
+    "options": ["Microsoft", "Apple", "Saudi Aramco", "Alphabet"],
+    "correctAnswer": "Apple"
+  },
+  {
+    "id": "WR-025",
+    "question": "Which is the longest wall in the world?",
+    "options": ["Berlin Wall", "Hadrian’s Wall", "Great Wall of China", "Kumbhalgarh Wall"],
+    "correctAnswer": "Great Wall of China"
+  },
+  {
+    "id": "WR-026",
+    "question": "Which metal has the highest melting point?",
+    "options": ["Iron", "Tungsten", "Platinum", "Titanium"],
+    "correctAnswer": "Tungsten"
+  },
+  {
+    "id": "WR-027",
+    "question": "Which is the largest rainforest in the world?",
+    "options": ["Congo Rainforest", "Amazon Rainforest", "Daintree Rainforest", "Southeast Asian Rainforest"],
+    "correctAnswer": "Amazon Rainforest"
+  },
+  {
+    "id": "WR-028",
+    "question": "Which country has the longest coastline in the world?",
+    "options": ["Australia", "United States", "Indonesia", "Canada"],
+    "correctAnswer": "Canada"
+  },
+  {
+    "id": "WR-029",
+    "question": "Which human organ is the largest in the body?",
+    "options": ["Liver", "Brain", "Skin", "Lungs"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "id": "WR-030",
+    "question": "Which is the brightest star in the night sky?",
+    "options": ["Sirius", "Canopus", "Arcturus", "Vega"],
+    "correctAnswer": "Sirius"
+  },
+  {
+    "id": "WR-031",
+    "question": "Which is the deepest lake in the world?",
+    "options": ["Lake Tanganyika", "Lake Baikal", "Caspian Sea", "Lake Superior"],
+    "correctAnswer": "Lake Baikal"
+  },
+  {
+    "id": "WR-032",
+    "question": "Which is the largest volcano on Earth?",
+    "options": ["Mauna Kea", "Mount Fuji", "Mount Kilimanjaro", "Mauna Loa"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "id": "WR-033",
+    "question": "Which country has won the most Olympic medals overall?",
+    "options": ["China", "Russia", "United States", "Germany"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": "WR-034",
+    "question": "Who holds the record for the longest human lifespan verified?",
+    "options": ["Jiroemon Kimura", "Sarah Knauss", "Jeanne Calment", "Shigechiyo Izumi"],
+    "correctAnswer": "Jeanne Calment"
+  },
+  {
+    "id": "WR-035",
+    "question": "Which is the fastest bird in level flight?",
+    "options": ["Golden Eagle", "Peregrine Falcon", "Frigatebird", "Swift"],
+    "correctAnswer": "Peregrine Falcon"
+  },
+  {
+    "id": "WR-036",
+    "question": "Which is the largest amphibian in the world?",
+    "options": ["Giant Salamander", "Bullfrog", "Axolotl", "Cane Toad"],
+    "correctAnswer": "Giant Salamander"
+  },
+  {
+    "id": "WR-037",
+    "question": "Which is the longest bridge in the world by total length?",
+    "options": ["Akashi Kaikyō Bridge", "Danyang–Kunshan Grand Bridge", "Lake Pontchartrain Causeway", "Millau Viaduct"],
+    "correctAnswer": "Danyang–Kunshan Grand Bridge"
+  },
+  {
+    "id": "WR-038",
+    "question": "Which is the largest species of shark alive today?",
+    "options": ["Great White Shark", "Tiger Shark", "Whale Shark", "Basking Shark"],
+    "correctAnswer": "Whale Shark"
+  },
+  {
+    "id": "WR-039",
+    "question": "Which is the longest reigning monarch in history (verified)?",
+    "options": ["Queen Victoria", "Louis XIV", "King Bhumibol Adulyadej", "Elizabeth II"],
+    "correctAnswer": "Louis XIV"
+  },
+  {
+    "id": "WR-040",
+    "question": "Which is the most visited city in the world by international tourists?",
+    "options": ["Paris", "Bangkok", "London", "Dubai"],
+    "correctAnswer": "Bangkok"
+  },
+  {
+    "id": "WR-041",
+    "question": "Which is the largest species of cat in the world?",
+    "options": ["Lion", "Tiger", "Jaguar", "Leopard"],
+    "correctAnswer": "Tiger"
+  },
+  {
+    "id": "WR-042",
+    "question": "Which human achievement holds the record for the longest continuous space mission?",
+    "options": ["Skylab 4", "ISS Expedition 67", "Soyuz TMA-16", "Mir Mission 6"],
+    "correctAnswer": "ISS Expedition 67"
+  },
+  {
+    "id": "WR-043",
+    "question": "Which is the longest street in the world?",
+    "options": ["Yonge Street", "Broadway", "Route 66", "Via Appia"],
+    "correctAnswer": "Yonge Street"
+  },
+  {
+    "id": "WR-044",
+    "question": "Which is the tallest statue in the world?",
+    "options": ["Spring Temple Buddha", "Statue of Unity", "Statue of Liberty", "Leshan Giant Buddha"],
+    "correctAnswer": "Statue of Unity"
+  },
+  {
+    "id": "WR-045",
+    "question": "Which is the fastest marine mammal?",
+    "options": ["Orca", "Dolphin", "Sailfish", "Common Dolphin"],
+    "correctAnswer": "Common Dolphin"
+  },
+  {
+    "id": "WR-046",
+    "question": "Which is the largest bird by wingspan?",
+    "options": ["Albatross", "Condor", "Pelican", "Eagle"],
+    "correctAnswer": "Albatross"
+  },
+  {
+    "id": "WR-047",
+    "question": "Which is the most expensive painting ever sold at auction?",
+    "options": ["Salvator Mundi", "The Card Players", "Interchange", "Nafea Faa Ipoipo"],
+    "correctAnswer": "Salvator Mundi"
+  },
+  {
+    "id": "WR-048",
+    "question": "Which country produces the most coffee in the world?",
+    "options": ["Vietnam", "Brazil", "Colombia", "Ethiopia"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "WR-049",
+    "question": "Which is the deepest cave in the world?",
+    "options": ["Krubera Cave", "Son Doong Cave", "Mammoth Cave", "Lechuguilla Cave"],
+    "correctAnswer": "Krubera Cave"
+  },
+  {
+    "id": "WR-050",
+    "question": "Which is the largest flower in the world by size?",
+    "options": ["Rafflesia arnoldii", "Titan Arum", "Sunflower", "Corpse Flower"],
+    "correctAnswer": "Rafflesia arnoldii"
+  },
+  {
+    "id": "WR-051",
+    "question": "Which is the longest-running television show in history?",
+    "options": ["The Simpsons", "Guiding Light", "Doctor Who", "Coronation Street"],
+    "correctAnswer": "Guiding Light"
+  },
+  {
+    "id": "WR-052",
+    "question": "Which is the largest species of lizard in the world?",
+    "options": ["Komodo Dragon", "Green Iguana", "Monitor Lizard", "Bearded Dragon"],
+    "correctAnswer": "Komodo Dragon"
+  },
+  {
+    "id": "WR-053",
+    "question": "Which city holds the record for the highest recorded temperature on Earth?",
+    "options": ["Kuwait City", "Ahvaz", "Death Valley", "Timbuktu"],
+    "correctAnswer": "Death Valley"
+  },
+  {
+    "id": "WR-054",
+    "question": "Which is the fastest animal in water?",
+    "options": ["Sailfish", "Swordfish", "Marlin", "Dolphin"],
+    "correctAnswer": "Sailfish"
+  },
+  {
+    "id": "WR-055",
+    "question": "Which is the largest planet in the Solar System?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "WR-056",
+    "question": "Which is the longest continuously inhabited city in the world?",
+    "options": ["Jericho", "Damascus", "Varanasi", "Byblos"],
+    "correctAnswer": "Jericho"
+  },
+  {
+    "id": "WR-057",
+    "question": "Which is the largest freshwater fish in the world?",
+    "options": ["Mekong Giant Catfish", "Beluga Sturgeon", "Arapaima", "Pirarucu"],
+    "correctAnswer": "Beluga Sturgeon"
+  },
+  {
+    "id": "WR-058",
+    "question": "Which is the most powerful earthquake ever recorded?",
+    "options": ["Great Chilean Earthquake", "Tohoku Earthquake", "Alaska Earthquake", "Sumatra Earthquake"],
+    "correctAnswer": "Great Chilean Earthquake"
+  },
+  {
+    "id": "WR-059",
+    "question": "Which is the largest active volcano in the world?",
+    "options": ["Mount Etna", "Mauna Loa", "Mount Vesuvius", "Mount Fuji"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "id": "WR-060",
+    "question": "Which is the longest river entirely within one country?",
+    "options": ["Yangtze River", "Nile River", "Amazon River", "Mississippi River"],
+    "correctAnswer": "Yangtze River"
+  }
+]

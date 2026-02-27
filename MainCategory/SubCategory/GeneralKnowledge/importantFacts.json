@@ -1,0 +1,542 @@
+[
+  {
+    "id": "IF-001",
+    "question": "Which country is known as the 'Emerald Isle'?",
+    "options": ["Scotland", "Ireland", "Wales", "Iceland"],
+    "correctAnswer": "Ireland"
+  },
+  {
+    "id": "IF-002",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Quartz", "Topaz", "Ruby"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": "IF-003",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Dorothy Hodgkin", "Rosalind Franklin", "Barbara McClintock"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "id": "IF-004",
+    "question": "Which city hosted the 2000 Summer Olympics?",
+    "options": ["Athens", "Beijing", "Sydney", "Atlanta"],
+    "correctAnswer": "Sydney"
+  },
+  {
+    "id": "IF-005",
+    "question": "What is the main gas responsible for the greenhouse effect on Earth?",
+    "options": ["Methane", "Carbon Dioxide", "Oxygen", "Nitrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": "IF-006",
+    "question": "Who was the first person to step on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "id": "IF-007",
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": "IF-008",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "correctAnswer": "Au"
+  },
+  {
+    "id": "IF-009",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Mark Twain"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": "IF-010",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "IF-011",
+    "question": "The Great Wall of China was primarily built to protect against which group?",
+    "options": ["Mongols", "Huns", "Romans", "Persians"],
+    "correctAnswer": "Mongols"
+  },
+  {
+    "id": "IF-012",
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Heart"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "id": "IF-013",
+    "question": "Who discovered penicillin in 1928?",
+    "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Thomas Edison"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "id": "IF-014",
+    "question": "Which country hosted the first modern Olympic Games in 1896?",
+    "options": ["France", "Greece", "Italy", "Germany"],
+    "correctAnswer": "Greece"
+  },
+  {
+    "id": "IF-015",
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Antarctic Desert"],
+    "correctAnswer": "Antarctic Desert"
+  },
+  {
+    "id": "IF-016",
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "id": "IF-017",
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": "IF-018",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correctAnswer": "1989"
+  },
+  {
+    "id": "IF-019",
+    "question": "Which ocean is the largest by surface area?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": "IF-020",
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Vincent van Gogh"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "id": "IF-021",
+    "question": "Which country is famous for the invention of paper?",
+    "options": ["Egypt", "China", "India", "Greece"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "IF-022",
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "id": "IF-023",
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctAnswer": "Nile"
+  },
+  {
+    "id": "IF-024",
+    "question": "Who is known as the Father of Computer Science?",
+    "options": ["Charles Babbage", "Alan Turing", "Tim Berners-Lee", "John von Neumann"],
+    "correctAnswer": "Alan Turing"
+  },
+  {
+    "id": "IF-025",
+    "question": "Which country first gave women the right to vote in 1893?",
+    "options": ["United States", "New Zealand", "Australia", "United Kingdom"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "IF-026",
+    "question": "What is the smallest unit of life in biology?",
+    "options": ["Atom", "Molecule", "Cell", "Organ"],
+    "correctAnswer": "Cell"
+  },
+  {
+    "id": "IF-027",
+    "question": "Which famous landmark is located in Agra, India?",
+    "options": ["Red Fort", "Taj Mahal", "Qutub Minar", "India Gate"],
+    "correctAnswer": "Taj Mahal"
+  },
+  {
+    "id": "IF-028",
+    "question": "Who was the first female Prime Minister in the world?",
+    "options": ["Indira Gandhi", "Margaret Thatcher", "Sirimavo Bandaranaike", "Golda Meir"],
+    "correctAnswer": "Sirimavo Bandaranaike"
+  },
+  {
+    "id": "IF-029",
+    "question": "Which country has the largest population in the world?",
+    "options": ["India", "China", "USA", "Indonesia"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "IF-030",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Lead", "Tin", "Aluminum"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": "IF-031",
+    "question": "Which ancient civilization built the Machu Picchu?",
+    "options": ["Maya", "Aztec", "Inca", "Olmec"],
+    "correctAnswer": "Inca"
+  },
+  {
+    "id": "IF-032",
+    "question": "Which city is known as the City of Canals?",
+    "options": ["Venice", "Amsterdam", "Bangkok", "Bruges"],
+    "correctAnswer": "Venice"
+  },
+  {
+    "id": "IF-033",
+    "question": "Which Nobel Prize winner is famous for his work on radioactivity?",
+    "options": ["Marie Curie", "Albert Einstein", "Niels Bohr", "Isaac Newton"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "id": "IF-034",
+    "question": "Which country uses the currency called 'Ruble'?",
+    "options": ["Russia", "Poland", "Belarus", "Ukraine"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "IF-035",
+    "question": "Which vitamin is primarily obtained from sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "id": "IF-036",
+    "question": "Which country is known as the 'Emerald Isle'?",
+    "options": ["Scotland", "Ireland", "Wales", "Iceland"],
+    "correctAnswer": "Ireland"
+  },
+  {
+    "id": "IF-037",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Quartz", "Topaz", "Ruby"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": "IF-038",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Dorothy Hodgkin", "Rosalind Franklin", "Barbara McClintock"],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "id": "IF-039",
+    "question": "Which city hosted the 2000 Summer Olympics?",
+    "options": ["Athens", "Beijing", "Sydney", "Atlanta"],
+    "correctAnswer": "Sydney"
+  },
+  {
+    "id": "IF-040",
+    "question": "What is the main gas responsible for the greenhouse effect on Earth?",
+    "options": ["Methane", "Carbon Dioxide", "Oxygen", "Nitrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": "IF-041",
+    "question": "Which famous scientist formulated the laws of motion?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "IF-042",
+    "question": "Which planet has the most moons in the solar system?",
+    "options": ["Saturn", "Jupiter", "Mars", "Neptune"],
+    "correctAnswer": "Saturn"
+  },
+  {
+    "id": "IF-043",
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "id": "IF-044",
+    "question": "Who was the first person to circumnavigate the globe?",
+    "options": ["Ferdinand Magellan", "Christopher Columbus", "James Cook", "Vasco da Gama"],
+    "correctAnswer": "Ferdinand Magellan"
+  },
+  {
+    "id": "IF-045",
+    "question": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin A", "Vitamin K", "Vitamin D", "Vitamin C"],
+    "correctAnswer": "Vitamin K"
+  },
+  {
+    "id": "IF-046",
+    "question": "Which country invented the printing press?",
+    "options": ["China", "Germany", "Italy", "Egypt"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "id": "IF-047",
+    "question": "Which element is represented by the symbol 'Na'?",
+    "options": ["Nitrogen", "Sodium", "Nickel", "Neon"],
+    "correctAnswer": "Sodium"
+  },
+  {
+    "id": "IF-048",
+    "question": "Who was the first Chancellor of Germany after World War II?",
+    "options": ["Konrad Adenauer", "Otto von Bismarck", "Angela Merkel", "Helmut Kohl"],
+    "correctAnswer": "Konrad Adenauer"
+  },
+  {
+    "id": "IF-049",
+    "question": "Which famous battle took place in 1815?",
+    "options": ["Battle of Trafalgar", "Battle of Waterloo", "Battle of Gettysburg", "Battle of Hastings"],
+    "correctAnswer": "Battle of Waterloo"
+  },
+  {
+    "id": "IF-050",
+    "question": "Which city is known as the 'Pearl of the Orient'?",
+    "options": ["Hong Kong", "Manila", "Shanghai", "Singapore"],
+    "correctAnswer": "Hong Kong"
+  },
+  {
+    "id": "IF-051",
+    "question": "Which is the longest bone in the human body?",
+    "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+    "correctAnswer": "Femur"
+  },
+  {
+    "id": "IF-052",
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "options": ["Italy", "China", "India", "France"],
+    "correctAnswer": "Italy"
+  },
+  {
+    "id": "IF-053",
+    "question": "Who painted 'The Starry Night'?",
+    "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "id": "IF-054",
+    "question": "Which river is the longest in Asia?",
+    "options": ["Yangtze", "Ganges", "Mekong", "Yellow River"],
+    "correctAnswer": "Yangtze"
+  },
+  {
+    "id": "IF-055",
+    "question": "Which country hosted the first FIFA World Cup?",
+    "options": ["Brazil", "Uruguay", "Italy", "Germany"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "id": "IF-056",
+    "question": "Which scientist proposed the law of universal gravitation?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Johannes Kepler"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "IF-057",
+    "question": "Which mountain is the highest above sea level?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "correctAnswer": "Mount Everest"
+  },
+  {
+    "id": "IF-058",
+    "question": "Which country is the largest by land area?",
+    "options": ["Canada", "China", "USA", "Russia"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "IF-059",
+    "question": "Who was the first person to reach the South Pole?",
+    "options": ["Roald Amundsen", "Robert Falcon Scott", "Ernest Shackleton", "Edmund Hillary"],
+    "correctAnswer": "Roald Amundsen"
+  },
+  {
+    "id": "IF-060",
+    "question": "Which ancient wonder was located in Egypt?",
+    "options": ["Hanging Gardens", "Colossus of Rhodes", "Great Pyramid of Giza", "Temple of Artemis"],
+    "correctAnswer": "Great Pyramid of Giza"
+  },
+  {
+    "id": "IF-061",
+    "question": "Which country is called the Land of Fire and Ice due to its volcanoes and glaciers?",
+    "options": ["Iceland", "Norway", "Greenland", "Finland"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "id": "IF-062",
+    "question": "Who is considered the Father of Modern Physics?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": "IF-063",
+    "question": "Which sea is the saltiest in the world?",
+    "options": ["Red Sea", "Dead Sea", "Mediterranean Sea", "Caspian Sea"],
+    "correctAnswer": "Dead Sea"
+  },
+  {
+    "id": "IF-064",
+    "question": "Which ancient civilization built the city of Petra?",
+    "options": ["Nabateans", "Romans", "Greeks", "Egyptians"],
+    "correctAnswer": "Nabateans"
+  },
+  {
+    "id": "IF-065",
+    "question": "Which is the largest internal organ in the human body?",
+    "options": ["Liver", "Heart", "Lung", "Kidney"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "IF-066",
+    "question": "Which country first landed a human-made object on the far side of the Moon?",
+    "options": ["USA", "Russia", "China", "India"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": "IF-067",
+    "question": "Which famous mathematician is known for his Last Theorem?",
+    "options": ["Pierre de Fermat", "Leonhard Euler", "Isaac Newton", "Carl Gauss"],
+    "correctAnswer": "Pierre de Fermat"
+  },
+  {
+    "id": "IF-068",
+    "question": "Which country is called the 'Roof of the World'?",
+    "options": ["China", "Nepal", "Tajikistan", "Bhutan"],
+    "correctAnswer": "Tajikistan"
+  },
+  {
+    "id": "IF-069",
+    "question": "Which chemical element is liquid at room temperature besides Mercury?",
+    "options": ["Bromine", "Gallium", "Cesium", "Francium"],
+    "correctAnswer": "Bromine"
+  },
+  {
+    "id": "IF-070",
+    "question": "Who is known as the first emperor of a unified China?",
+    "options": ["Qin Shi Huang", "Sun Yat-sen", "Kangxi", "Emperor Wu"],
+    "correctAnswer": "Qin Shi Huang"
+  },
+  {
+    "id": "IF-071",
+    "question": "Which planet is famous for its Great Red Spot?",
+    "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "IF-072",
+    "question": "Which is the fastest land animal in the world?",
+    "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+    "correctAnswer": "Cheetah"
+  },
+  {
+    "id": "IF-073",
+    "question": "Which famous structure is located in Agra, India?",
+    "options": ["Red Fort", "Taj Mahal", "Qutub Minar", "India Gate"],
+    "correctAnswer": "Taj Mahal"
+  },
+  {
+    "id": "IF-074",
+    "question": "Who discovered the electron?",
+    "options": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "James Chadwick"],
+    "correctAnswer": "J.J. Thomson"
+  },
+  {
+    "id": "IF-075",
+    "question": "Which country is the origin of the Olympic Games?",
+    "options": ["Italy", "Greece", "Egypt", "China"],
+    "correctAnswer": "Greece"
+  },
+  {
+    "id": "IF-076",
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": "IF-077",
+    "question": "Which famous scientist explained the three laws of planetary motion?",
+    "options": ["Johannes Kepler", "Galileo Galilei", "Isaac Newton", "Albert Einstein"],
+    "correctAnswer": "Johannes Kepler"
+  },
+  {
+    "id": "IF-078",
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": ["Gobi", "Sahara", "Kalahari", "Arabian Desert"],
+    "correctAnswer": "Sahara"
+  },
+  {
+    "id": "IF-079",
+    "question": "Which country produces the most coffee in the world?",
+    "options": ["Vietnam", "Brazil", "Colombia", "Ethiopia"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "IF-080",
+    "question": "Which mountain range separates Europe and Asia?",
+    "options": ["Himalayas", "Alps", "Ural Mountains", "Caucasus"],
+    "correctAnswer": "Ural Mountains"
+  },
+  {
+    "id": "IF-081",
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
+    "correctAnswer": "B. R. Ambedkar"
+  },
+  {
+    "id": "IF-082",
+    "question": "Which country is called the Land of Thousand Lakes?",
+    "options": ["Norway", "Finland", "Sweden", "Canada"],
+    "correctAnswer": "Finland"
+  },
+  {
+    "id": "IF-083",
+    "question": "Which organ of the human body is primarily responsible for detoxification?",
+    "options": ["Kidney", "Liver", "Pancreas", "Spleen"],
+    "correctAnswer": "Liver"
+  },
+  {
+    "id": "IF-084",
+    "question": "Which city is known as the City of a Hundred Spires?",
+    "options": ["Vienna", "Prague", "Budapest", "Krakow"],
+    "correctAnswer": "Prague"
+  },
+  {
+    "id": "IF-085",
+    "question": "Who was the first African-American President of the United States?",
+    "options": ["Barack Obama", "Bill Clinton", "George Washington", "Abraham Lincoln"],
+    "correctAnswer": "Barack Obama"
+  },
+  {
+    "id": "IF-086",
+    "question": "Which famous scientist proposed the concept of natural selection?",
+    "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "James Watson"],
+    "correctAnswer": "Charles Darwin"
+  },
+  {
+    "id": "IF-087",
+    "question": "Which country is the largest producer of diamonds?",
+    "options": ["Russia", "South Africa", "Botswana", "Australia"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "id": "IF-088",
+    "question": "Which organ in the human body controls hormones and metabolism?",
+    "options": ["Thyroid", "Pancreas", "Adrenal Glands", "Pituitary Gland"],
+    "correctAnswer": "Thyroid"
+  },
+  {
+    "id": "IF-089",
+    "question": "Which island country is the smallest in Asia by land area?",
+    "options": ["Maldives", "Sri Lanka", "Singapore", "Brunei"],
+    "correctAnswer": "Maldives"
+  },
+  {
+    "id": "IF-090",
+    "question": "Which ancient civilization built the city of Machu Picchu?",
+    "options": ["Inca", "Maya", "Aztec", "Olmec"],
+    "correctAnswer": "Inca"
+  }
+]
