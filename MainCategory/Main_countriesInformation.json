@@ -3,21 +3,21 @@
     "key": "capitalOfCountries",
     "title": "Capital of all Countries",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/CountriesInformation/CountriesCapital.json",
-    "perExam": 15,
+    "perExam": 20,
     "finalExamQuestions": 30
   },
   {
     "key": "currencyOfCountries",
     "title": "Currency of all Countries",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/CountriesInformation/CountriesCurrency.json",
-    "perExam": 15,
+    "perExam": 20,
     "finalExamQuestions": 30
   },
   {
     "key": "CountriesLanguage",
     "title": "All Countries Language",
     "url": "https://raw.githubusercontent.com/kibria-khandaker/QuizTestAppData_V2/refs/heads/main/MainCategory/SubCategory/CountriesInformation/CountriesLanguage.json",
-    "perExam": 15,
+    "perExam": 20,
     "finalExamQuestions": 30
   }
 ]
